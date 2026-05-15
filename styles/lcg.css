@@ -1,0 +1,501 @@
+/* ============================================================
+   LCG VISUAL SYSTEM — Sistema visual institucional
+   Versión 1.0 · Mayo 2026
+   Aplica a: PDFs, presentaciones HTML, exports de los .md
+   ============================================================ */
+
+/* ---------- TOKENS ---------- */
+:root {
+  /* Paleta institucional */
+  --lcg-dark:    #085E54;                  /* Verde institucional oscuro */
+  --lcg-green:   #03B585;                  /* Verde LCG (acentos) */
+  --lcg-mint:    #8AF4E9;                  /* Mint (highlights sobre dark) */
+  --lcg-cream:   #F2EEE8;                  /* Crema cálida (fondo principal) */
+  --lcg-ink:     #1A1E1B;                  /* Texto primario */
+  --lcg-ink-60:  rgba(26, 30, 27, 0.62);   /* Texto secundario */
+  --lcg-line:    rgba(8, 94, 84, 0.18);    /* Líneas divisorias */
+
+  /* Familia tipográfica */
+  --font-serif:  'Fraunces', Georgia, serif;
+  --font-sans:   'Manrope', -apple-system, system-ui, sans-serif;
+
+  /* Escala tipográfica */
+  --size-h1:     148px;
+  --size-h2:     96px;
+  --size-h3:     64px;
+  --size-body:   28px;
+  --size-small:  22px;
+  --size-meta:   14px;
+  --size-meta-lg: 16px;
+
+  /* Pesos */
+  --w-fraunces-ultra: 200;
+  --w-fraunces-light: 300;
+  --w-fraunces-reg:   400;
+  --w-manrope-reg:    400;
+  --w-manrope-med:    500;
+  --w-manrope-semi:   600;
+  --w-manrope-bold:   700;
+
+  /* Espaciado / composición */
+  --frame-pad-y: 80px;
+  --frame-pad-x: 100px;
+  --grid-label-w: 440px;
+}
+
+/* ---------- IMPORTS WEB FONTS ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,200;9..144,300;9..144,400;9..144,400&family=Manrope:wght@400;500;600;700&display=swap');
+
+/* ---------- RESET / BASE ---------- */
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--lcg-cream);    /* Nunca blanco puro */
+  color: var(--lcg-ink);
+  font-family: var(--font-sans);
+  font-weight: var(--w-manrope-reg);
+  font-size: var(--size-body);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---------- TIPOGRAFÍA ---------- */
+
+/* Titulares — Fraunces, letter-spacing negativo, line-height comprimido */
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  letter-spacing: -0.03em;
+  line-height: 1.02;
+  color: var(--lcg-dark);
+  margin: 0 0 0.5em;
+  font-weight: var(--w-fraunces-light);
+}
+
+h1 {
+  font-size: clamp(72px, 12vw, 148px);     /* responsivo: 72px mobile → 148px desktop */
+  font-weight: var(--w-fraunces-ultra);
+  line-height: 0.98;
+}
+
+h2 {
+  font-size: clamp(48px, 7vw, 96px);
+  font-weight: var(--w-fraunces-light);
+  line-height: 1.0;
+}
+
+h3 {
+  font-size: clamp(36px, 4.5vw, 64px);
+  font-weight: var(--w-fraunces-reg);
+  line-height: 1.05;
+}
+
+/* Cursiva verde en titulares — el acento institucional */
+h1 em, h2 em, h3 em {
+  color: var(--lcg-green);
+  font-style: italic;
+  font-weight: inherit;
+}
+
+/* Cuerpo */
+p {
+  font-family: var(--font-sans);
+  font-size: var(--size-body);
+  line-height: 1.45;
+  color: var(--lcg-ink);
+  margin: 0 0 1em;
+  max-width: 38ch;       /* Pista visual: párrafos no muy largos en presentaciones */
+}
+
+.small, p.small {
+  font-size: var(--size-small);
+  line-height: 1.5;
+  color: var(--lcg-ink-60);
+}
+
+/* Meta — uppercase, letter-spacing positivo (lo opuesto a los titulares) */
+.meta, .eyebrow, .section-label {
+  font-family: var(--font-sans);
+  font-size: var(--size-meta);
+  font-weight: var(--w-manrope-med);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lcg-green);
+  margin: 0 0 0.5em;
+}
+
+.meta-lg {
+  font-size: var(--size-meta-lg);
+}
+
+/* Énfasis verde (no h*) */
+em.lcg-em {
+  color: var(--lcg-green);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: var(--w-fraunces-reg);
+}
+
+/* Números grandes display */
+.num-big {
+  font-family: var(--font-serif);
+  font-weight: var(--w-fraunces-ultra);
+  font-size: clamp(180px, 30vw, 500px);
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  color: var(--lcg-green);
+}
+
+.num-big.cream { color: var(--lcg-cream); }
+.num-big.dark  { color: var(--lcg-dark); }
+
+/* ---------- COMPOSICIÓN: FRAME Y CHROME ---------- */
+
+.frame {
+  position: relative;
+  padding: var(--frame-pad-y) var(--frame-pad-x);
+  min-height: 100vh;
+  background: var(--lcg-cream);
+  display: flex;
+  flex-direction: column;
+}
+
+.frame.dark {
+  background: var(--lcg-dark);
+  color: var(--lcg-cream);
+}
+
+.frame.dark h1,
+.frame.dark h2,
+.frame.dark h3 {
+  color: var(--lcg-cream);
+}
+
+.frame.dark h1 em,
+.frame.dark h2 em,
+.frame.dark h3 em {
+  color: var(--lcg-mint);
+}
+
+.frame.dark p,
+.frame.dark .small {
+  color: var(--lcg-cream);
+}
+
+.frame.dark .meta,
+.frame.dark .eyebrow {
+  color: var(--lcg-mint);
+}
+
+/* Chrome top — section label + emblema */
+.chrome-top {
+  position: absolute;
+  top: 30px;
+  left: var(--frame-pad-x);
+  right: var(--frame-pad-x);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chrome-top .section-label {
+  margin: 0;
+}
+
+.chrome-top .emblem {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--lcg-green);
+  display: inline-block;
+}
+
+.frame.dark .chrome-top .emblem {
+  background: var(--lcg-mint);
+}
+
+/* Chrome bottom — breadcrumb + número de slide */
+.chrome-bottom {
+  position: absolute;
+  bottom: 30px;
+  left: var(--frame-pad-x);
+  right: var(--frame-pad-x);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chrome-bottom .breadcrumb,
+.chrome-bottom .slide-num {
+  font-family: var(--font-sans);
+  font-size: var(--size-meta);
+  font-weight: var(--w-manrope-med);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lcg-ink-60);
+}
+
+.frame.dark .chrome-bottom .breadcrumb,
+.frame.dark .chrome-bottom .slide-num {
+  color: var(--lcg-cream);
+  opacity: 0.62;
+}
+
+/* ---------- GRID 12 COLUMNAS ---------- */
+.grid-12 {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 24px;
+  width: 100%;
+}
+
+/* Layout label + content (440px + 1fr) */
+.grid-label {
+  display: grid;
+  grid-template-columns: var(--grid-label-w) 1fr;
+  gap: 64px;
+  align-items: start;
+}
+
+/* Versión responsive */
+@media (max-width: 900px) {
+  .grid-label {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
+
+/* ---------- COMPONENTES ---------- */
+
+/* Pills */
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: var(--w-manrope-semi);
+  letter-spacing: 0.04em;
+  background: var(--lcg-green);
+  color: var(--lcg-cream);
+  border: none;
+}
+
+.pill.outline {
+  background: transparent;
+  border: 1px solid var(--lcg-green);
+  color: var(--lcg-dark);
+}
+
+.frame.dark .pill.outline {
+  border-color: var(--lcg-mint);
+  color: var(--lcg-mint);
+}
+
+/* Cards */
+.card {
+  background: var(--lcg-cream);
+  border: 1px solid var(--lcg-line);
+  border-radius: 4px;
+  padding: 32px;
+}
+
+.card.flat {
+  border-radius: 0;
+}
+
+.card .card-meta {
+  font-family: var(--font-sans);
+  font-size: var(--size-meta);
+  font-weight: var(--w-manrope-med);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lcg-green);
+  margin: 0 0 12px;
+}
+
+.card .card-title {
+  font-family: var(--font-serif);
+  font-size: 32px;
+  font-weight: var(--w-fraunces-reg);
+  color: var(--lcg-dark);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin: 0 0 12px;
+}
+
+.card .card-body {
+  font-size: var(--size-small);
+  color: var(--lcg-ink);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Tablas — border-bottom sutil, sin zebra, header uppercase */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+}
+
+th {
+  font-family: var(--font-sans);
+  font-size: var(--size-meta);
+  font-weight: var(--w-manrope-semi);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lcg-green);
+  text-align: left;
+  padding: 14px 16px;
+  border-bottom: 2px solid var(--lcg-line);
+}
+
+td {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--lcg-line);
+  color: var(--lcg-ink);
+  font-weight: var(--w-manrope-reg);
+}
+
+td:first-child {
+  font-weight: var(--w-manrope-med);
+}
+
+/* Section divider — banda dark con título serif */
+.section-divider {
+  background: var(--lcg-dark);
+  color: var(--lcg-cream);
+  padding: 96px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 320px;
+}
+
+.section-divider .section-eyebrow {
+  font-family: var(--font-sans);
+  font-size: var(--size-meta);
+  font-weight: var(--w-manrope-med);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--lcg-mint);
+  margin: 0 0 24px;
+}
+
+.section-divider .section-title {
+  font-family: var(--font-serif);
+  font-weight: var(--w-fraunces-light);
+  font-size: clamp(60px, 8vw, 120px);
+  letter-spacing: -0.03em;
+  line-height: 0.98;
+  color: var(--lcg-cream);
+  margin: 0;
+}
+
+.section-divider .section-title em {
+  color: var(--lcg-mint);
+  font-style: italic;
+  font-weight: var(--w-fraunces-light);
+}
+
+/* Cover green — fondo institucional para portadas */
+.cover-green {
+  background: var(--lcg-dark);
+  color: var(--lcg-cream);
+  min-height: 100vh;
+  padding: var(--frame-pad-y) var(--frame-pad-x);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cover-green h1 {
+  color: var(--lcg-cream);
+}
+
+.cover-green h1 em {
+  color: var(--lcg-mint);
+}
+
+/* Hr divisor sutil */
+hr.lcg-line {
+  border: 0;
+  border-top: 1px solid var(--lcg-line);
+  margin: 48px 0;
+}
+
+/* Cita / blockquote */
+blockquote {
+  font-family: var(--font-serif);
+  font-weight: var(--w-fraunces-light);
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--lcg-dark);
+  border-left: 2px solid var(--lcg-green);
+  padding-left: 32px;
+  margin: 32px 0;
+  font-style: italic;
+}
+
+/* Listas */
+ul, ol {
+  font-size: var(--size-small);
+  line-height: 1.6;
+  color: var(--lcg-ink);
+  padding-left: 1.5em;
+}
+
+ul li::marker {
+  color: var(--lcg-green);
+}
+
+/* Código (raro pero por si acaso) */
+code {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  background: rgba(8, 94, 84, 0.06);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.9em;
+  color: var(--lcg-dark);
+}
+
+/* ---------- UTILIDADES ---------- */
+.txt-green { color: var(--lcg-green); }
+.txt-mint  { color: var(--lcg-mint); }
+.txt-dark  { color: var(--lcg-dark); }
+.txt-ink60 { color: var(--lcg-ink-60); }
+
+.bg-cream  { background: var(--lcg-cream); }
+.bg-dark   { background: var(--lcg-dark); }
+
+.serif    { font-family: var(--font-serif); }
+.sans     { font-family: var(--font-sans); }
+
+.weight-200 { font-weight: 200; }
+.weight-300 { font-weight: 300; }
+.weight-400 { font-weight: 400; }
+.weight-500 { font-weight: 500; }
+.weight-600 { font-weight: 600; }
+.weight-700 { font-weight: 700; }
+
+/* ---------- PRINT (PDF export) ---------- */
+@media print {
+  body {
+    background: var(--lcg-cream);
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  .frame, .cover-green, .section-divider {
+    page-break-after: always;
+    min-height: auto;
+  }
+  .chrome-top, .chrome-bottom {
+    position: fixed;
+  }
+}

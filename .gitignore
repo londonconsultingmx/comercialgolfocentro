@@ -1,0 +1,17 @@
+# Datos sensibles del CRM — NO subir a repos públicos
+data/crm/hubspot_empresas_AAA_AA.csv
+data/crm/hubspot_contactos.csv
+data/crm/exclientes.csv
+data/crm/*.xlsx
+
+# Archivos de fuentes con posible copyright
+data/fuentes/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
