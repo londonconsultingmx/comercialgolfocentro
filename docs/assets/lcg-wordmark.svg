@@ -1,0 +1,19 @@
+<svg viewBox="0 0 880 160" xmlns="http://www.w3.org/2000/svg" aria-label="LONDON Consulting Group" role="img">
+    <!-- Approximación geométrica del wordmark LONDON. Reemplazar por el archivo oficial si está disponible. -->
+    <g fill="#03B585">
+        <!-- L: triángulo grande -->
+        <path d="M 0 0 L 130 0 L 0 160 Z"/>
+        <!-- O: dos semicírculos forman un círculo, con pequeño hueco -->
+        <circle cx="220" cy="80" r="80"/>
+        <!-- N: triángulo izquierdo + triángulo derecho (forma de "N" estilizada) -->
+        <path d="M 320 0 L 460 0 L 460 80 Z"/>
+        <path d="M 320 80 L 320 160 L 460 160 Z"/>
+        <!-- D: medio círculo + rectángulo pequeño -->
+        <path d="M 480 0 L 540 0 A 80 80 0 0 1 540 160 L 480 160 Z"/>
+        <!-- O: círculo -->
+        <circle cx="680" cy="80" r="80"/>
+        <!-- N: igual al primero -->
+        <path d="M 780 0 L 880 0 L 880 80 Z"/>
+        <path d="M 780 80 L 780 160 L 880 160 Z"/>
+    </g>
+</svg>
