@@ -1,0 +1,121 @@
+{
+  "state": "Oaxaca",
+  "pulso": "Oaxaca aparece de manera anecdótica en Whitepaper: 4 extractos en ~5 meses, ninguno sobre las familias PPT del CRM y ninguno sobre el boom mezcalero premium que define la narrativa nacional del estado. Los temas que sí aparecen son tangenciales (ADO renovando flota CDMX–Oaxaca, Casa Lumbre operando agave en la entidad, el Santuario del Gusano de Seda en San Pedro Cajonos) y un dato estructural duro: Oaxaca es el estado con MAYOR informalidad laboral del país (81.5%), lo que define el techo y el piso del mercado consultor. La inteligencia útil es escasa y debe complementarse fuertemente con fuentes primarias (Cámara Mezcalera, CRT del Mezcal, red YPO Luis Ortiz, alumni LCG). El cliente PPT en Oaxaca es por definición un nicho: 4 cuentas AAA/AA con 6 DMs en industrias muy específicas (mezcal premium + café Pluma Hidalgo). Whitepaper no es un buen sensor para este estado.",
+  "themes": [
+    {
+      "tema": "Mezcal — cadena de valor agrícola sustentable",
+      "evidencia": "Casa Lumbre opera Mezcales Artesanales Casa Lumbre, subsidiaria agrícola que cultiva agave en Oaxaca, Puebla y Jalisco desde hace 8 años para terceros; la industria mezcalera produce 12.3 millones de litros/año (WP 2025-07-29).",
+      "implicacion_lcg": "El cuello de botella del boom mezcalero no es marca sino agave: ciclos 6–8 años, escasez post-tequila, presión ESG por sobreexplotación. Casa Cortés Mezcal (PPT) enfrenta exactamente esta tensión. Hay tesis de consultoría en supply chain de agave, contratos plurianuales con productores comunitarios, trazabilidad DO Mezcal y certificación orgánica/biodinámica."
+    },
+    {
+      "tema": "Informalidad estructural — 81.5%, la más alta de México",
+      "evidencia": "Whitepaper 2025-07-25: Oaxaca encabeza el ranking nacional de informalidad (81.5%), seguido de Edomex (79.8%) y Guerrero (78.6%).",
+      "implicacion_lcg": "Define el TAM real: el universo de empresas formales medianas/grandes en Oaxaca es estrecho y concentrado en muy pocas familias. Para LCG implica (a) que el universo PPT es prácticamente inagotable en profundidad (penetrar 1 grupo familiar puede equivaler a 3-4 verticales), y (b) que cualquier proyecto de RRHH/nómina/compliance tiene complejidad extra por la convivencia formal–informal en la cadena de proveedores."
+    },
+    {
+      "tema": "Conectividad terrestre premium — eje CDMX–Oaxaca",
+      "evidencia": "ADO destinará $2,000 MDP a renovar flotas Platino y GL con 303 unidades nuevas; rutas México–Oaxaca y México–Villahermosa entre las priorizadas; reducción de asientos (27 → 23) indicando reposicionamiento premium (WP 2025-07-09).",
+      "implicacion_lcg": "Señal de que ADO ve crecimiento sostenido del turismo cultural/gastronómico en Oaxaca (no solo aéreo a Huatulco). Refuerza la tesis de turismo premium y boutique en el centro histórico/Valles Centrales como sector con head-room para PPT del segmento hotelero y restaurantero familiar."
+    },
+    {
+      "tema": "Artesanía/textiles con potencial denominación de origen",
+      "evidencia": "Santuario del Gusano de Seda en San Pedro Cajonos: único lugar en México que conserva la cadena completa de la seda (cría → tejido a mano) — WP 2025-11-07.",
+      "implicacion_lcg": "Recordatorio de que Oaxaca tiene 2–3 cadenas artesanales premium (seda Cajonos, lana Teotitlán, barro negro Coyotepec) susceptibles de escalar como Casa Cortés escaló mezcal. Tesis de portafolio: identificar al artesano-empresario que ya factura >$30 MDP y necesita profesionalización (gobierno corporativo, costeo, expansión D2C internacional)."
+    },
+    {
+      "tema": "AUSENCIA: boom mezcalero premium internacional",
+      "evidencia": "0 menciones en Whitepaper a marcas mezcaleras oaxaqueñas premium (Del Maguey, Mezcal Vago, El Silencio, Casamigos Mezcal, Ojo de Tigre, Bruxo, Amaras) ni a la Cámara Mezcalera, ni a Casa Cortés, en 4 meses de cobertura.",
+      "implicacion_lcg": "Brecha mediática importante. Whitepaper cubre Casa Lumbre (matriz Ojo de Tigre, parte de Bacardi) sólo desde el ángulo agrícola. El relato comercial del mezcal premium se está construyendo fuera del radar de Whitepaper — habrá que ir a fuentes especializadas (Punch, Imbibe, Difford's) y a la propia Cámara."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Casa Lumbre / Mezcales Artesanales Casa Lumbre",
+      "rol": "Conglomerado de spirits (Ojo de Tigre, Abasolo, Nixta) con brazo agrícola propio en Oaxaca",
+      "fuente": "WP 2025-07-29",
+      "lectura_lcg": "NO es PPT pero es el competidor/benchmark de Casa Cortés. Que tenga 8 años cultivando agave propio en Oaxaca, Puebla y Jalisco es la señal de que la integración vertical del agave es el nuevo estándar. Útil como caso de comparación al pitchar a Cortés."
+    },
+    {
+      "nombre": "ADO (Grupo ADO)",
+      "rol": "Operador de transporte terrestre premium con ruta clave CDMX–Oaxaca",
+      "fuente": "WP 2025-07-09",
+      "lectura_lcg": "Demanda derivada del turismo cultural y de negocios a Oaxaca. No es cliente potencial directo en Oaxaca (HQ CDMX), pero su capex confirma la tesis turística."
+    },
+    {
+      "nombre": "Santuario del Gusano de Seda — San Pedro Cajonos",
+      "rol": "Ecosistema artesanal/sericultura único en México",
+      "fuente": "WP 2025-11-07",
+      "lectura_lcg": "Curiosidad estratégica más que actor empresarial. Pero pone foco en las cadenas artesanales con potencial de premiumización."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Pitch a Casa Cortés Mezcal — integración vertical de agave y go-to-market premium",
+      "rationale": "El benchmark Casa Lumbre confirma que el productor premium serio cultiva su propio agave. Casa Cortés (PPT, AAA) probablemente enfrenta presiones simultáneas: (i) escasez/precio del agave espadín y silvestres, (ii) demanda internacional acelerada vs. capacidad limitada por DO, (iii) profesionalización familiar. Oferta: roadmap de integración vertical + S&OP de cosechas multianuales + planeación financiera con horizonte 8 años.",
+      "puente": "Cámara Nacional de la Industria del Mezcal (CNIM), CRT del Mezcal, eventos como Mezcalent / Tales of the Cocktail, red YPO Luis Ortiz."
+    },
+    {
+      "titulo": "Cluster Café Pluma Hidalgo + Sierra Sur — consolidación y exportación de especialidad",
+      "rationale": "Café Pluma Hidalgo tiene reconocimiento internacional como café de altura/especialidad. Oportunidad de armar tesis de consolidación de pequeñas torrefacciones familiares, certificación SCA, contratos directos con roasters de tercera ola en EUA/Europa, modelo cooperativo profesionalizado.",
+      "puente": "AMECAFE, eventos SCA Mexico, ferias en Pacific Coast (Specialty Coffee Expo)."
+    },
+    {
+      "titulo": "Instituto Sarmiento / Hospital San José — gobierno corporativo y expansión sureste",
+      "rationale": "Único cluster educativo/salud PPT en el estado. Tesis típica de empresa familiar de segunda/tercera generación: protocolo familiar, consejo, profesionalización del modelo educativo y/o sanitario, posible expansión a Tehuantepec o Tuxtepec.",
+      "puente": "Alumni London Consultores en el sureste, red de colegios y hospitales privados oaxaqueños."
+    },
+    {
+      "titulo": "Turismo cultural premium — Centro Histórico y Valles Centrales",
+      "rationale": "ADO confirma demanda terrestre creciente; Huatulco y Bahías por aire siguen vigentes. Cadenas hoteleras boutique familiares (Quinta Real, Hoteles Boutique de México, Casa Oaxaca) en momento de profesionalización post-pandemia. Yields altos, baja sofisticación operativa.",
+      "puente": "Secretaría de Turismo Oaxaca, AMHM, Hoteles Boutique de México."
+    },
+    {
+      "titulo": "Corredor Interoceánico Salina Cruz–Coatzacoalcos — palanca de mediano plazo",
+      "rationale": "Aunque Whitepaper no lo mencionó en este corte, el CIIT y los Polos de Desarrollo del Bienestar empiezan a generar demanda logística e industrial en el Istmo. Mediano plazo (2026-2028): oportunidad para empresas familiares de transporte, agroindustria y servicios industriales que LCG puede preparar para el shock de demanda.",
+      "puente": "SE federal, gobierno estatal, AMPIP (parques industriales), Cámara de Industria de Transformación Oaxaca."
+    }
+  ],
+  "alertas": [
+    {
+      "tipo": "Demanda derivada",
+      "detalle": "Casa Lumbre (propiedad de Bacardi) compite por contratos de cultivo de agave con productores que también surten a Casa Cortés. Riesgo de captura de oferta de espadín en Valles Centrales."
+    },
+    {
+      "tipo": "Riesgo regulatorio/ESG",
+      "detalle": "Boom mezcalero está atrayendo escrutinio por sobreexplotación de agaves silvestres (tobalá, tepeztate, madrecuixe). Cualquier marca premium oaxaqueña que no tenga plan de cultivo o aprovechamiento sustentable enfrenta riesgo reputacional 12–24 meses."
+    },
+    {
+      "tipo": "Riesgo estructural",
+      "detalle": "Informalidad de 81.5% reduce drásticamente el universo de empresas formales medianas/grandes. La cartera PPT (4 cuentas) ya es probablemente cercana al universo realista — la estrategia debe ser profundidad (varios proyectos por familia) más que amplitud."
+    },
+    {
+      "tipo": "Riesgo político/social",
+      "detalle": "Oaxaca tiene historial de conflictos magisteriales (CNTE), comunitarios (consultas indígenas en megaproyectos) y bloqueos. Cualquier proyecto de expansión física debe contemplar fricción social y plazos de licencia social mayores."
+    },
+    {
+      "tipo": "Cobertura mediática",
+      "detalle": "Whitepaper es una fuente débil para Oaxaca: 4 extractos en ~5 meses, ninguno sobre familias PPT. No usar como termómetro principal del estado."
+    }
+  ],
+  "gaps": [
+    "Cero menciones a Casa Cortés Mezcal — no hay señal sobre estrategia, expansión, exportación, ronda de capital o problemas operativos.",
+    "Cero menciones al cluster cafetero Pluma Hidalgo / Sierra Sur — no hay datos de cosecha 2024/25, precios FOB, certificaciones, ni movimientos consolidadores.",
+    "Cero menciones a Instituto Sarmiento u Hospital San José — silencio total sobre este grupo PPT.",
+    "Cero datos sobre el boom mezcalero internacional: Del Maguey, Mezcal Vago, El Silencio, Ojo de Tigre, Bruxo, Amaras, Yola, Madre, 400 Conejos — ninguna marca cubierta en este corte.",
+    "Cero información sobre la Cámara Nacional de la Industria del Mezcal (CNIM) ni del Consejo Regulador del Mezcal (CRT).",
+    "Cero datos sobre el Corredor Interoceánico del Istmo de Tehuantepec (CIIT) y los 10 Polos de Desarrollo del Bienestar (PODEBIs) Salina Cruz, Mixtequilla, San Juan Evangelista, etc.",
+    "Cero datos sobre el aeropuerto de Huatulco, su capex, conectividad internacional y operadores hoteleros (AMResorts, Posadas, Quinta Real, Las Brisas).",
+    "Cero datos sobre exportaciones de textiles indígenas (Teotitlán del Valle, San Antonino, Cajonos) ni sobre denominaciones de origen colectivas.",
+    "Cero información sobre agroindustria oaxaqueña no-mezcalera: limón persa Loma Bonita, mango ataulfo costa, papaya Tuxtepec, piña Loma Bonita.",
+    "Cero datos sobre el ecosistema retail oaxaqueño (Casa Ley vs. Soriana vs. Chedraui en la entidad, cadenas regionales).",
+    "Cero información sobre la banca local/regional y el flujo de crédito a familias empresariales oaxaqueñas.",
+    "Cero datos sobre empresas constructoras locales que estén capturando obra federal del CIIT o Tren Interoceánico.",
+    "Cero información sobre el ecosistema de restaurantes premium oaxaqueños (Casa Oaxaca, Origen, Pitiona, Los Danzantes) que son embajadores de marca-Oaxaca.",
+    "Cero datos sobre conflictividad sindical/comunitaria reciente que pueda afectar capex.",
+    "Falta diagnóstico de la 4ª–5ª familia PPT potencial que pudiera elevarse a AA/AAA (radar de upgrade)."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 4,
+    "evaluacion": "muy limitada — Whitepaper apenas cubre Oaxaca (4 extractos en ~5 meses, todos tangenciales) y CERO menciones a las 3 familias PPT del CRM. Para producir inteligencia accionable sobre Oaxaca es imprescindible complementar con (i) fuentes especializadas mezcal (CNIM, CRT, prensa de spirits internacional), (ii) red YPO Luis Ortiz y alumni LCG en el sureste, (iii) inteligencia primaria de campo (visitas a Valles Centrales, Pluma Hidalgo, Centro Histórico) y (iv) seguimiento al CIIT como palanca estructural 2026–2028. Este análisis tiene un componente importante de hipótesis basadas en conocimiento sectorial y el CRM, no en evidencia de Whitepaper."
+  }
+}

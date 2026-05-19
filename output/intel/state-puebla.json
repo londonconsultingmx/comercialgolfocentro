@@ -1,0 +1,404 @@
+{
+  "state": "Puebla",
+  "crm_context": {
+    "aaa_aa": 69,
+    "dm": 148,
+    "industries": "Automotriz · alimentos · retail"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "La Italiana (Cernicchiaro)",
+      "aliases": [
+        "La Italiana",
+        "Cernicchiaro"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "La Morena (Ayala)",
+      "aliases": [
+        "La Morena",
+        "Ayala"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 1,
+      "mention_dates": [
+        "2025-10-15"
+      ]
+    },
+    {
+      "label": "El Calvario / PATSA (Romero Bringas / Celis)",
+      "aliases": [
+        "El Calvario",
+        "PATSA",
+        "Romero Bringas",
+        "Celis"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 2,
+      "mention_dates": [
+        "2026-01-16",
+        "2025-06-05"
+      ]
+    }
+  ],
+  "stats": {
+    "total_excerpts": 35,
+    "ppt_families_hit": 2,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Alimentos y Bebidas",
+        6
+      ],
+      [
+        "Real Estate / Construcción",
+        4
+      ],
+      [
+        "Automotriz",
+        3
+      ],
+      [
+        "Tecnología / Telecom",
+        2
+      ],
+      [
+        "Logística / Transporte",
+        2
+      ],
+      [
+        "Manufactura / Nearshoring",
+        1
+      ],
+      [
+        "Agroindustria",
+        1
+      ],
+      [
+        "Salud / Farma",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        19
+      ],
+      [
+        "Resultados",
+        8
+      ],
+      [
+        "Expansión / Apertura",
+        4
+      ],
+      [
+        "M&A",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        13
+      ],
+      [
+        "Grupo Caliente",
+        2
+      ],
+      [
+        "Grupo Salinas",
+        2
+      ],
+      [
+        "Grupo Pachuca",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-04-22",
+      "post_date": "2026-04-22T12:19:04.156Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5ec",
+      "subtitle": "Cementos Chihuahua; el Atlas; acciones de MeLi; Fantasías Miguel; Dalus y Pulpo; faltan sastres en EUA...y allá también quieren autos de China; Amazon y GLP-1; AI en juicios; spotlight en Strathberry",
+      "text": "Comentario Whitepaper: Bejos lidera Mota Engil México y Grupo Prodi (y desde 2018 es dueño de los Pericos de Puebla, de la Liga Mexicana de Beisbol). El año pasado Innovatio Capital le compró a Grupo Caliente el equipo de Querétaro, en un deal que lo valuó en $120 millones de dólares, y el Atlante habría llegado a un acuerdo con Grupo Salinas para hacerse del Mazatlán FC por $65 millones de dólares. De concretarse estos movimientos, solo quedaría un grupo con más de un equipo en México: León y Pachuca, de Grupo Pachuca.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-13",
+      "post_date": "2026-04-13T12:20:22.009Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-19e",
+      "subtitle": "Thyssenkrupp y Aceroteca Trading; Laureate; Ginequito y Azura; las inversiones de Home Depot en México; movimientos clave; volatilidad; sin lavaplatos; bagels de $300M; Kodak; The Audacity",
+      "text": "Comentario Whitepaper: Thyssenkrupp es una empresa alemana con ingresos por más de €35,000 millones. Tiene presencia en México desde 1996 y plantas en Puebla, Guanajuato, Coahuila y San Luis Potosí.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-08",
+      "post_date": "2026-04-08T12:19:26.781Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-05f",
+      "subtitle": "Yazaki y SKF en NL; Bafar y Ciemsa Foodservice; Telefónica; La entrevista al CFO -Ana Yañez, de Actinver; Avocados from Mexico; Las Vegas; Satellites on Fire; Levi's; US Navy; spotlight en Bloom",
+      "text": "La sueca SKF cerrará su planta en Monterrey y consolidará su producción en otras instalaciones que opera en Nuevo León y Puebla. La decisión forma parte del proceso de separación de su negocio automotriz del industrial, además de una menor demanda de lo esperado en vehículos eléctricos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-08",
+      "post_date": "2026-04-08T12:19:26.781Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-05f",
+      "subtitle": "Yazaki y SKF en NL; Bafar y Ciemsa Foodservice; Telefónica; La entrevista al CFO -Ana Yañez, de Actinver; Avocados from Mexico; Las Vegas; Satellites on Fire; Levi's; US Navy; spotlight en Bloom",
+      "text": "Comentario Whitepaper: a inicios de 2023 invirtieron cerca de $70 millones de dólares para desarrollar esta planta. Ese mismo año, cerraron una planta en Busan, Corea, para trasladar su producción a Puebla.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-01",
+      "post_date": "2026-04-01T12:25:24.106Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2ac",
+      "subtitle": "Fibra Danhos; Churrerías Porfirio; resultados Cydsa; Park Life; los Burger King de GES; Trox en Puebla; turismo veterinario; ¿crédito de TikTok?; Geely y Volvo; spotlight en Blank Street Coffee",
+      "text": "Trox es una empresa alemana dedicada a la producción de sistemas de ventilación y aire acondicionado. Opera comercialmente en México desde 2010 y, en 2019, estableció una planta en Puebla; en ese momento habría invertido €4 millones.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-01",
+      "post_date": "2026-04-01T12:25:24.106Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2ac",
+      "subtitle": "Fibra Danhos; Churrerías Porfirio; resultados Cydsa; Park Life; los Burger King de GES; Trox en Puebla; turismo veterinario; ¿crédito de TikTok?; Geely y Volvo; spotlight en Blank Street Coffee",
+      "text": "Ahora, destinará $350 millones de pesos para abrir otra planta en ese estado, con lo que estaría triplicando su área de producción (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-31",
+      "post_date": "2026-03-31T12:24:12.228Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-10b",
+      "subtitle": "PepsiCo; e-commerce en México; El consejo de Lamosa; Flowserve; zapatos en México; Instagram; Whoop; McCormick y Unilever; Allbirds; influencers y creadores de contenido",
+      "text": "McCormick anunció la adquisición de Unilever Foods; la empresa combinada tendrá ingresos anuales de más de $20,000 millones de dólares y un portafolio en el que vivirán marcas como McCormick, French’s, Frank’s RedHot, Cholula, Stubb’s y ahora también Knorr y Hellmann’s (MarketScreener).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-31",
+      "post_date": "2026-03-31T12:24:12.228Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-10b",
+      "subtitle": "PepsiCo; e-commerce en México; El consejo de Lamosa; Flowserve; zapatos en México; Instagram; Whoop; McCormick y Unilever; Allbirds; influencers y creadores de contenido",
+      "text": "Comentario Whitepaper: es un deal en el que la ‘chica’ —McCormick— se queda con la ‘grande’. Esto implica que los actuales accionistas de Unilever terminarán con una mayor participación en la nueva empresa, pero desde una perspectiva de liderazgo, es el management de McCormick quien se queda a cargo. El mismo equipo, por cierto, ha demostrado ser particularmente activo en términos de M&A —son quienes compraron Cholula hace algunos años, y en 2025 aumentaron a 75% su participación en McCormick de México (Hérdez tiene el resto).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-12",
+      "post_date": "2026-03-12T12:24:25.072Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b51",
+      "subtitle": "Bajaj MotoDrive; Cemex en Colombia; inversión extranjera en la Liga MX; Klöckner; La Comer en Yucatán; Uber Elite; pérdidas de Honda; Cybercab; Global Entry; 'fashiontainment'",
+      "text": "Al menos cinco de los 18 clubes de la primera división cuentan con capital o gestión de fondos extranjeros, una cifra que podría escalar a ocho antes de que termine este año: equipos como Atlas, León y Puebla estarían en negociaciones abiertas con otros fondos de inversión extranjeros.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-20",
+      "post_date": "2026-02-20T12:21:01.955Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-4cd",
+      "subtitle": "Gruma; el destino de las exportaciones de EUA; PPG en México; Endeavor Catalyst; Conoce a Paloma Gutiérrez; Mula de 5’s; New Balance; Aston Martin; Live Nation; talento en family offices",
+      "text": "Mula de 5’s, fundada en 2017, es una de las primeras marcas 100% mexicanas de ginger beer. La empresa desarrolló una bebida carbonatada de jengibre natural, sin alcohol, enfocada tanto en coctelería como en consumo directo. Hoy produce desde Puebla cerca de 120,000 botellas al año, equivalentes a ventas aproximadas de $3 millones de pesos, con un margen cercano a 15%.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-30",
+      "post_date": "2026-01-30T12:24:28.373Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-24e",
+      "subtitle": "Munters; Market Cap de empresas de la BMV; Leracom AI; Conoce a: Edith Pavón; Aguas de Lourdes; PicPay; las empresas de Elon; Apple; Nu en EUA; Hoka; Waabi; el documental de Melania",
+      "text": "Comentario Whitepaper: en México, el mercado de agua mineral está dominado por marcas de multinacionales, como Topo Chico, que Coca-Cola adquirió en 2017, o Peñafiel, que forma parte de Keurig Dr Pepper. Aun así, hay marcas que siguen siendo completamente mexicanas, como Tehuacán Brillante, nacida en Puebla en 1983.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-23",
+      "post_date": "2026-01-23T12:17:13.194Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-362",
+      "subtitle": "Essity y Kimberly Clark; conoce a Estefanía Lotfe; McCormick; Polaris; licencias bancarias para Ford y GM; cerveza stout; TikTok USA; Waymo en Miami; la venta de Brex",
+      "text": "Comentario Whitepaper: por otro lado, su CEO dijo en la llamada con analistas que dentro de EUA, el mercado de “productos con sabores mexicanos” está volviéndose más y más competitivo, lo que los está impulsando a hacer mayores inversiones en marketing para marcas como Cholula.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-21",
+      "post_date": "2026-01-21T12:22:30.767Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a5d",
+      "subtitle": "Santacruz Silver; Esentia Energy; los ingresos de los colegios; Mattel; Pomelo; Tapatío Hot Sauce; la tiendota de Amazon; BYD en Europa; Warner Bros y sus banqueros; Davos; spotlight en Polène",
+      "text": "Comentario Whitepaper: como quedó clarísimo con el caso de Cholula, en EUA las marcas de salsas que tienen buena participación de mercado están resultando ser activos muy codiciados y por los cuales se están pagando múltiplos muy interesantes. No suelen ser empresas con ventas muy grandes —en el caso de Tapatío, por ejemplo, sus ventas quizás no superan los $70 millones de dólares— pero por otro lado, es común que tengan muy, muy buenos márgenes. Cholula se adquirió en más de 8 veces ventas y alrededor de 25x EBITDA (un múltiplo más parecido al de una empresa de software).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-16",
+      "post_date": "2026-01-16T12:23:38.413Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-58e",
+      "subtitle": "Pilgrim’s Pride; Trayecto; conoce a Alexandra Violante; en Guanajuato; Fibra Inn; Amazon vs Saks; retrocede Porsche; Keurig Dr Pepper; resultados Cartier; Keurig Dr Pepper; menos nieve en Vail",
+      "text": "Comentario Whitepaper: el CEO global de la empresa, Fabio Sandri, y Jesús Muñoz, presidente y director general para México, fueron a La Mañanera para hacer este anuncio junto con la presidenta. Pilgrim’s tiene casi 40 años de operar en México (y e*n su consejo está el ex CEO de Lala y de Bachoco, Arquímedes Celis).*",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-22",
+      "post_date": "2025-12-22T12:20:31.896Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-be8",
+      "subtitle": "Maersk en Manzanillo; Worthington Steel y Serviacero; el adeudo fiscal de Elektra; conoce a Carmen Gutiérrez; Residencias “de marca”; FAO Schwarz; Foxtail Coffee; de cacería; relojes suizos",
+      "text": "Comentario Whitepaper: durante su año fiscal de 2025, Serviacero Worthington superó los $500 millones de dólares en ventas. Según su sitio web, el joint venture opera seis centros de servicio en México: León, Monterrey, San Luis Potosí, Puebla, Guadalajara y Querétaro.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-18",
+      "post_date": "2025-11-18T12:20:58.812Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fa8",
+      "subtitle": "Tiendas Home Depot; empresas públicas; Boom AI; Logistic Properties of the Americas; Patagon AI; Shacman; SHPAC; Quince; la casa de Mark Wahlberg; inmigrando a España; revocaciones de Global Entry",
+      "text": "* Grupo Eran, que produce ventiladores de techo, purificadores y productos de iluminación, instalará una nueva planta en Coahuila, en la que invertirán $500 millones de pesos. La empresa tiene su sede en Boca Ratón, Florida (Redacción Whitepaper). * SHPAC, de Corea, comenzó la construcción de su planta en Guanajuato, donde fabricarán componentes para proyectos de infraestructura y construcción. La inversión será de $40 millones de dólares (Redacción Whitepaper). * También en Guanajuato, Markdom, una empresa canadiense especializada en moldeo por inyección de plástico, inauguró una nueva fábrica en la que invirtieron $25 millones de dólares. Tienen también otra planta en Nuevo León (Redacción Whitepaper). * Shacman, una empresa china dedicada a la producción de camiones, construirá el próximo año una planta en Puebla, con una inversión de $15 millones de dólares. Tendrá una capacidad inicial de 1,000 camiones al año (El Economista).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-18",
+      "post_date": "2025-11-18T12:20:58.812Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fa8",
+      "subtitle": "Tiendas Home Depot; empresas públicas; Boom AI; Logistic Properties of the Americas; Patagon AI; Shacman; SHPAC; Quince; la casa de Mark Wahlberg; inmigrando a España; revocaciones de Global Entry",
+      "text": "Comentario Whitepaper: tienen propiedades en Costa Rica, Colombia, Perú y ahora también en Mexico (en Puebla), y reportaron ingresos totales de $36.4 millones de dólares en los primeros nueve meses del año.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-29",
+      "post_date": "2025-10-29T12:24:19.053Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3ed",
+      "subtitle": "Femsa, Elektra y Grupo México; IKEA; AIFA y los vuelos a EUA; concursos mercantiles; Equinix; Pérez-Llorca; Onitsuka Tiger; la reestructura de OpenAI; Nvidia y su valuación; spotlight en Oofos",
+      "text": "Las ventas de IKEA en México habrían crecido 40% en comparación con las cifras de 2024, con la mitad de los ingresos generados por medio de su tienda online. Tienen además tres tiendas —CDMX, Puebla y Guadalajara— y ahora buscarían expandirse hacia el norte del país y también ampliar su presencia en la CDMX (El Economista).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-28",
+      "post_date": "2025-10-28T12:23:43.677Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a6d",
+      "subtitle": "Las inversiones de Arauco; resultados de Cemex; la ronda de Ginia; Vinte y Derex; españolas en México; Peñafiel y Clamato; KFC; Anduril; dónde rinde $1mdd; de más de 60 años y adictos a las pantallas",
+      "text": "Comentario Whitepaper: Arauco es parte de Empresas Copec, uno de los grupos empresariales más grandes de Chile (controlada por la familia Angelini). En México —donde sus ingresos superan $400 millones de dólares anuales y con estas ampliaciones aumentarán su capacidad de producción a cerca de un millón de metros cúbicos— tienen a José Manuel Hernández a la cabeza y son proveedores de todo tipo de tablones de madera (que sirven para fabricar desde muebles, cocinas y clósets, hasta recubrimientos de paredes y puertas). Están en nuestro país desde hace 25 años.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-15",
+      "post_date": "2025-10-15T12:25:04.651Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-370",
+      "subtitle": "Resultados de América Móvil; tiendas de Holcim; Deacero; dmX; Acapella; paquete económico vs PyMEs online; parques industriales; REI; Walmart y OpenAI; Netflix y Spotify; spotlight en Don Quijote",
+      "text": "Comentario Whitepaper: hoy menos de 10% de las tiendas de Disensa en América Latina están en México; su plan implicaría que ese porcentaje supere el 50%. En 2024 Holcim vendió cerca de $37,000 millones de pesos en nuestro país (alrededor de $610,000 millones a nivel global). Su CEO en México es Christian Dedeu; detrás de Disensa está Rafael Ayala.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "En total, habría ocho plantas armando vehículos eléctricos e híbridos en México: dos plantas de Ford (en Edomex y en Hermosillo), el complejo de General Motors en Ramos Arizpe, la planta de BMW en San Luis Potosí, la de Audi en Puebla, la de Giant Motors Latinoamérica en Hidalgo, la de Toyota en Guanajuato y la de Volkswagen, también en Puebla (Cluster Industrial).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-06",
+      "post_date": "2025-10-06T12:24:47.195Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8e2",
+      "subtitle": "Cemex vende en Panamá; Grupo México va tras Banamex; Insulet; Pitz; movimientos clave; conoce a Nancy García; emprendedores de +70; Reed Jobs; Long John Silver's; la casa de la Tigresa",
+      "text": "Logistic Properties of the Americas, con sede en Costa Rica, adquirió un par de naves industriales en Puebla y con ello está incursionando en el mercado mexicano (Freightwaves).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-24",
+      "post_date": "2025-09-24T12:23:27.385Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6ce",
+      "subtitle": "GMXT; el desempeño de la bolsa; Motherson en Saltillo; en memoria de Mauricio Fernández; Santander y Tesla; camisetas Gildan; leggins vs jeans; Tether; spotlight en Van Cleef & Arpels",
+      "text": "Motherson, una empresa de India, inauguró una nueva planta en Saltillo, donde fabricará tableros para equipos de transporte. La inversión fue de $280 millones de pesos. También tiene presencia en Chihuahua y en Puebla (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-15",
+      "post_date": "2025-09-15T12:18:23.060Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8e8",
+      "subtitle": "En San Miguel; transportes de carga; Steelform; conoce a Diana González; Cultiba; Morada Uno; Oasis; TikTok Shop; desayuno en tiendas de conveniencia; Black Rock Coffee Bar; Elizabeth Holmes",
+      "text": "Morada Uno, una proptech que ofrece un servicio de protección de renta, llegará ahora a Tijuana y Puebla. Ya operan en CDMX, Querétaro, Guadalajara y Monterrey, y desde su fundación en 2020 han participado en más de 40,000 operaciones. En su cap table están Cometa, Flourish Ventures, Clocktower Ventures y Picus Capital (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-05",
+      "post_date": "2025-09-05T12:24:25.047Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7c4",
+      "subtitle": "Klar y Banorte; Whirlpool en México; hoteles Wyndham; Fibra Macquarie; visas para inversionistas; más tiendas Lululemon; ¿$1 trillón para Elon?; otro concepto de gasolineras; Cousins Maine Lobster",
+      "text": "Volaris conecta a Guadalajara con nuevos destinos desde $29 MXN\\*. Vuela ya hacia Puebla, Durango, Villahermosa y Zihuatanejo hasta el 8 de septiembre de 2025.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-18",
+      "post_date": "2025-08-18T12:18:51.678Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b2a",
+      "subtitle": "Comprando casas en EUA; quemacocos; Globant; exportaciones; Churrería El Moro; conoce a Vanessa Rivas; en Aguascalientes; Six Flags; Soho House; biografías por encargo; la subasta",
+      "text": "Comentario Whitepaper: la empresa tiene además presencia en Puebla, Tamaulipas, Querétaro y CDMX. Entre sus clientes estarían Nissan, Ford, GM, CAT, John Deere y Toyota.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-30",
+      "post_date": "2025-07-30T12:22:20.682Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-86a",
+      "subtitle": "Nemak comprando y CIE vendiendo; aeropuerto de Aguascalientes; Altur; resultados de Fibra Inn; la central hidroeléctrica en Tibet; The Boring Company; CEOs de Gen-X; Toyota; spotlight en Surfside",
+      "text": "Los ingresos de Fibra Inn crecieron 14% en el trimestre, para alcanzar $697 millones de pesos. Su NOI fue de $219 millones —un aumento de 11%. Actualmente tienen 34 hoteles con 5,940 cuartos y ahora estarían asumiendo también la operación directa de dos de ellos: un Holiday Inn en Puebla y otro en Monterrey (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-29",
+      "post_date": "2025-07-29T12:24:47.417Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-169",
+      "subtitle": "Un trimestre de resultados mixtos; sobre Casa Lumbre; cruceros; Essilor Luxottica; Diablos Rojos; JP Morgan y Open Banking; ganadores con Figma; autos en China; todo mundo va a Japón",
+      "text": "Sin embargo, otra participación importante de la empresa en la industria es menos conocida: Casa Lumbre tiene una empresa agrícola subsidiaria, Mezcales Artesanales Casa Lumbre, que desde hace 8 años crece agave para otras empresas. Opera en Oaxaca, Puebla y Jalisco y desarrolla soluciones de siembra sustentable para el mezcal —una industria que produce 12.3 millones de litros al año (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-18",
+      "post_date": "2025-07-18T12:24:08.922Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5e2",
+      "subtitle": "Bimbo; En memoria: Don Roberto Servitje; créditos empresariales; Coca-Cola; Sarelly Sarelly; The Coffee; Substack; Tacos On The Street; Liquid Death; Juul; real estate en EUA; robotaxis de Uber",
+      "text": "En el marco de su 80 aniversario, Bimbo anunció una inversión de $2,000 millones de dólares en México hacia 2028. El plan incluye la modernización de más de 30 plantas y la expansión de su flota eléctrica. Las inversiones se concentrarán en siete estados: Baja California, Yucatán, CDMX, Nuevo León, Querétaro, Puebla y Estado de México. (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-17",
+      "post_date": "2025-07-17T12:24:17.422Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c4",
+      "subtitle": "Walmart y Bait; Fibra Mty; Capitanes; Mango; Loads; Reina Madre; Nemak; Founders Fund; Municipal; cines; Infosel y la fiebre de las punto com",
+      "text": "Reina Madre es una red de clínicas y un hospital enfocados en salud femenina: ginecología, obstetricia, pediatría y medicina estética, de bajo costo. Fundada en 2015, hoy opera 14 clínicas y un hospital en CDMX, Estado de México, Puebla y Pachuca. Su plan es abrir cinco nuevas clínicas al año para llegar a 70 sucursales en las principales ciudades del país. Aseguran atender más de 500,000 consultas al año y más de 6,000 nacimientos.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-14",
+      "post_date": "2025-07-14T12:24:11.700Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c61",
+      "subtitle": "Waldo's; futbol; aranceles; conoce a: Karen Goldberg; Fuchs; minería; autos eléctricos; Pérez-Llorca; MBS's online; Kraft Heinz; Netflix y YouTube; tiendas departamentales; precio de los foros",
+      "text": "Comentario Whitepaper: como contexto, las valuaciones de los equipos de fútbol de la MLS, la liga de EUA, van desde los $400 millones de dólares hasta algunos por encima de los $1,000 millones de dólares, como el Inter de Miami. Otros equipos mexicanos que podrían venderse pronto, por el tema de la multipropiedad, son el Atlas o Santos (Grupo Orlegi), León o Pachuca (Grupo Pachuca) y Mazatlán o Puebla (Grupo Salinas). Hasta antes del deal, Grupo Caliente era dueño de Querétaro y de los Xolos de Tijuana.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-10",
+      "post_date": "2025-07-10T12:24:14.917Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-380",
+      "subtitle": "En San Luis Potosí; The Cheesecake Factory; CAT de tarjetas de crédito; bancos; modernizando sistemas para restaurantes; criptomonedas; medicamentos; Ferrero y WK Kellogg; private equity; Dexit",
+      "text": "Como parte de un plan de inversión de $115 millones de pesos en Puebla, Alsea abrió la novena sucursal de The Cheesecake Factory en México. La marca tiene más de 10 años en el país y representa apenas 1% de los ingresos de Alsea (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-05",
+      "post_date": "2025-06-05T12:20:15.832Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7ba",
+      "subtitle": "El CEO de Heineken; huevos de El Calvario; Humanscale en Sonora; Tire Direct y Sailun; Prima; 'superfans'; cosméticos de Corea; Kimberly-Clark; Uber para adultos mayores; estudiantes extranjeros",
+      "text": "Con una inversión de $1,250 millones de pesos, El Calvario inauguró su nueva planta de producción de huevos en Tlaxcala. La empresa, fundada hace más de 70 años en Tehuacán, Puebla, proyecta que en la primera etapa producirá más de 2 millones de huevos al día (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-05",
+      "post_date": "2025-06-05T12:20:15.832Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7ba",
+      "subtitle": "El CEO de Heineken; huevos de El Calvario; Humanscale en Sonora; Tire Direct y Sailun; Prima; 'superfans'; cosméticos de Corea; Kimberly-Clark; Uber para adultos mayores; estudiantes extranjeros",
+      "text": "Comentario Whitepaper: de acuerdo con el ranking de la publicación especializada WATT Poultry, El Calvario cuenta con aproximadamente 10 millones de gallinas. En México, solo la superan PROAN, con 40 millones, y Bachoco, con 12.5 millones. ![](https://substackcdn.com/image/fetch/$s_!qdh-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd1b452-779b-43c3-bd1c-4819ed8a274e_1281x1452.png)",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-05-20",
+      "post_date": "2025-05-20T12:22:24.531Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-096",
+      "subtitle": "Acciones de Heineken; VC en LATAM; leche en Aguascalientes; Blooms; KPIs de la banca; JP Morgan en México; el 747 de Trump; CFO de Tesla; billonarios en Suecia; visitas a museos",
+      "text": "Con una inversión de más de $1,100 millones de pesos, MIYM, una empresa dedicada al envasado de productos lácteos, inició la construcción de su tercera planta. Ésta estará en Aguascalientes, y se suma a las que tienen en Puebla y en Tlaxcala (Redacción Whitepaper).",
+      "matched_by": "state"
+    }
+  ]
+}

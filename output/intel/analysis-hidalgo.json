@@ -1,0 +1,203 @@
+{
+  "state": "Hidalgo",
+  "pulso": "Hidalgo se ha consolidado en los últimos 12 meses como un destino de inversión industrial de segundo nivel pero con dinamismo notable: 16 de los 27 extractos relevantes corresponden a anuncios de Inversión / Capex, con flujo constante de capital extranjero (Canadá, UK, China, España, Alemania, Japón) y mexicano hacia plantas farmacéuticas, automotrices, eléctricas, cerámicas y de blindaje. El proyecto bandera es la planta de ingredientes farmacéuticos de Solar International Core por USD 2,000 millones anunciada en mayo 2026 — un proyecto que por sí solo redefine el tamaño del cluster farma estatal — pero la lectura es más rica al sumar Carnot Laboratorios (MXN 3,500M) y se construye una base farma-químico real que antes no existía.",
+  "themes": [
+    {
+      "titulo": "Cluster automotriz JAC/BYD y proveeduría de hierro fundido se acelera",
+      "explicacion": "Giant Motors Latinoamérica (planta JAC en Ciudad Sahagún) anunció en julio 2025 inversión de MXN 3,000M para duplicar capacidad a 60,000 unidades/año; ya es de las 8 plantas de EV/híbridos del país. En febrero 2026 Mat Foundry (UK) arrancó planta de fundición de piezas automotrices de hierro con MXN 1,200M de inversión inicial. Octubre 2025 confirma a Hidalgo en el mapa de armadoras de EV nacional.",
+      "sectores": ["Automotriz", "Manufactura / Nearshoring"],
+      "evidence_dates": ["2025-07-01", "2026-02-24", "2025-10-09"],
+      "implicacion_lcg": "Proveedores Tier-2 y Tier-3 hidalguenses (estampado, plásticos, arneses, fundición secundaria) van a tener que escalar calidad, capacidad y certificación IATF en 24-36 meses para no perder el contrato con Giant/JAC y Mat Foundry. Pretexto natural para entrar con diagnósticos de manufactura, MRP/ERP y profesionalización."
+    },
+    {
+      "titulo": "Hidalgo emerge como polo farma-químico nuevo",
+      "explicacion": "Tres anuncios en menos de 9 meses construyen un cluster que no existía a esa escala: Carnot Laboratorios (mexicana) destinará MXN 3,500M en cinco años para una planta nueva (agosto 2025); Solar International Core (Canadá) anuncia USD 2,000M para planta de APIs (mayo 2026); Pilgrim's Pride incluye a Hidalgo en su plan de USD 1,300M (enero 2026). Esto detona necesidades de logística refrigerada, compliance COFEPRIS/FDA, y proveeduría de empaque/excipientes.",
+      "sectores": ["Salud / Farma", "Alimentos y Bebidas"],
+      "evidence_dates": ["2025-08-08", "2026-05-11", "2026-01-16"],
+      "implicacion_lcg": "Carnot es candidato AAA mexicano para advisory financiero y de operaciones durante la construcción y arranque. Para Solar Core la oportunidad es ser puente local: due diligence operativa, búsqueda de talento, y acompañamiento regulatorio. Proveedores locales hidalguenses van a competir por contratos."
+    },
+    {
+      "titulo": "Manufactura especializada española y europea diversifica el mix industrial",
+      "explicacion": "Arteche (España) invirtió USD 15M en laboratorio de pruebas eléctricas (noviembre 2025); Grupo Indumil (mexicana) puso MXN 160M en planta de blindaje (marzo 2026); Time Ceramic (China) ya opera fábrica de revestimientos compitiendo contra Lamosa-Daltile-Interceramic (septiembre 2025). El estado está diversificando más allá de cemento-calzado tradicional.",
+      "sectores": ["Manufactura / Nearshoring", "Energía / Petroquímica", "Real Estate / Construcción"],
+      "evidence_dates": ["2025-11-07", "2026-03-13", "2025-09-23"],
+      "implicacion_lcg": "Empresas familiares hidalguenses de manufactura tradicional (calzado, cerámica artesanal, textil) están perdiendo cuota frente a inversión extranjera con costos y escala superiores. Caso TENPAC (familia Márquez Ramírez) y resto de Cámara del Calzado: oportunidad de M&A advisory defensivo, consolidación o pivote estratégico."
+    },
+    {
+      "titulo": "Retail y franquicias QSR expanden agresivamente en corredor CDMX-Pachuca",
+      "explicacion": "Wendy's firmó franquicia con AJ Group (CFO Galdino Palafox) para 50 tiendas en CDMX, Edomex, Hidalgo y Morelos (marzo 2026). Sede Café ya domina Miguel Hidalgo (CDMX) con cola desde 7:30 AM. Reina Madre opera clínicas en Pachuca con plan de 5 aperturas anuales (julio 2025). Grupo Caliente tiene casino en Pachuca (septiembre 2025).",
+      "sectores": ["Retail / Consumo", "Salud / Farma"],
+      "evidence_dates": ["2026-03-05", "2026-01-07", "2025-07-17"],
+      "implicacion_lcg": "AJ Group es operador AAA potencial: ya maneja Häagen-Dazs y Pizza Hut y suma Wendy's. Profesionalización del back-office multi-marca, supply chain y CFO Office son palancas claras para LCG."
+    },
+    {
+      "titulo": "Logística y centros de distribución consolidan a Hidalgo como hub Bajío-CDMX",
+      "explicacion": "Leona Health (referenciada en diciembre 2025) abrió en 2024 dos centros logísticos de 100,000 m2 — uno en Hidalgo, otro en Edomex. Essity y Kimberly-Clark mantienen plantas en el estado (enero y septiembre 2025). Alstom mantiene aquí su planta más grande de América y tercera mundial, con 80% del contenido de trenes mexicanos.",
+      "sectores": ["Real Estate / Construcción", "Manufactura / Nearshoring"],
+      "evidence_dates": ["2025-12-17", "2026-01-23", "2026-01-05"],
+      "implicacion_lcg": "Operadores logísticos locales y desarrolladores industriales hidalguenses están en el momento dulce para profesionalizar gobierno corporativo y captar capital institucional. Hay ventana para advisory de equity story / preparación para Fibras o private equity."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Grupo Autofin México (Hernández Venegas)",
+      "en_crm": true,
+      "movimiento": "Plan de inversión MXN 60M para expansión y nueva app; cartera de MXN 3,200M y récord histórico de 3,750 vehículos en 2025 (septiembre 2025). En paralelo, su brazo bancario Banco Autofin fue vendido a Kapital en 2023 por USD 50M.",
+      "que_revela": "La familia Hernández Venegas se replegó al core de financiamiento automotriz tras desinvertir el banco. Hoy tiene capital, está creciendo y necesita digitalización (app) y estructura para escalar.",
+      "approach_sugerido": "Pretexto directo: 'Vi el anuncio de los MXN 60M y la app — quiero compartir cómo hemos acompañado a operadores de crédito automotriz familiares en su transición a plataforma digital y gobierno corporativo'. Acceso vía YPO (Luis Ortiz) o boutique de banca privada que les preste."
+    },
+    {
+      "nombre": "Giant Motors Latinoamérica",
+      "en_crm": false,
+      "movimiento": "Inversión de MXN 3,000M para duplicar capacidad a 60,000 unidades anuales en su planta de Hidalgo (julio 2025); ensambla y distribuye JAC.",
+      "que_revela": "Es la única armadora 100% mexicana en activo (Elías Massri, familia accionista) escalando con socio chino. Duplicar capacidad implica reorganización completa de operaciones, supply chain, finanzas y talento.",
+      "approach_sugerido": "Acercamiento institucional vía cluster automotriz y proveedores compartidos. Pretexto: 'Duplicar capacidad típicamente trae 3 cuellos de botella — proveedores, talento de planta, y working capital. ¿Cómo lo están resolviendo?' Posible entrada por consultoría operacional o financiera."
+    },
+    {
+      "nombre": "Carnot Laboratorios",
+      "en_crm": false,
+      "movimiento": "MXN 3,500M en cinco años para construir nueva planta en Hidalgo (agosto 2025).",
+      "que_revela": "Farmacéutica mexicana en momento de escalamiento ambicioso. Construcción + arranque de planta nueva = ventana de 24-36 meses para acompañamiento integral.",
+      "approach_sugerido": "Pretexto: 'Hemos acompañado a 4 farmacéuticas mexicanas en arranques de planta de esta escala. Los puntos de fuga típicos son COFEPRIS timing, ERP de validación, y modelo S&OP'. Buscar puente via Canifarma o alumni London Consultores."
+    },
+    {
+      "nombre": "AJ Group",
+      "en_crm": false,
+      "movimiento": "Firmó franquicia maestra con Wendy's para 50 tiendas en CDMX, Edomex, Hidalgo y Morelos (marzo 2026); ya maneja Häagen-Dazs y Pizza Hut. CFO Galdino Palafox.",
+      "que_revela": "Operador multi-marca con escala creciente y CFO identificado. 50 nuevas unidades es un proyecto de 3-5 años que reta su back-office, sistemas y supply chain.",
+      "approach_sugerido": "Pretexto a Galdino Palafox: 'Felicidades por el deal de Wendy's. Quiero compartirte cómo otros operadores multi-marca han escalado de 3 a 4 marcas sin que el back-office se desborde'. Vía LinkedIn directo o referido común en mundo franquicias."
+    },
+    {
+      "nombre": "Grupo Indumil",
+      "en_crm": false,
+      "movimiento": "MXN 160M en planta nueva en Hidalgo de vidrios blindados y blindaje corporal (marzo 2026); 30 años operando; presidente José Eduardo Llanos.",
+      "que_revela": "Empresa familiar mexicana con presidente identificado, en mercado en crecimiento (seguridad privada y pública). Apertura de planta = momento orgánico de profesionalización.",
+      "approach_sugerido": "Approach directo al presidente. Pretexto: 'Vi el anuncio de la planta de Hidalgo. En negocios de seguridad familiar de 30 años hemos encontrado que los hitos de expansión son el mejor momento para revisar gobierno y sucesión'. Tema sucesión es probable."
+    },
+    {
+      "nombre": "Solar International Core",
+      "en_crm": false,
+      "movimiento": "USD 2,000M para construir planta de ingredientes farmacéuticos en Hidalgo, anuncio en misión comercial México-Canadá (mayo 2026); USD 70M solo para terreno.",
+      "que_revela": "Inversión extranjera mega-grande. La operación local requerirá socio o asesor mexicano con conocimiento del ecosistema regulatorio, laboral y de gobierno estatal.",
+      "approach_sugerido": "Approach institucional vía Embajada de Canadá / cámaras binacionales. Pretexto: 'LCG ha acompañado a 6 multinacionales en su aterrizaje operativo en México con enfoque en compliance regulatorio y construcción de equipo local'. Urgente — la decisión de socio asesor se toma en los primeros 6 meses."
+    },
+    {
+      "nombre": "Mat Foundry",
+      "en_crm": false,
+      "movimiento": "Inicia operaciones de planta de fundición de piezas automotrices de hierro en Hidalgo; inversión inicial MXN 1,200M (febrero 2026); ya tiene planta en Edomex.",
+      "que_revela": "Operador británico consolidando huella mexicana. Segundo planta = entran a fase de optimización y consolidación operacional.",
+      "approach_sugerido": "Pretexto: 'Vimos el arranque de la planta en Hidalgo. Cuando un operador opera dos plantas en México, las sinergias de compras, mantenimiento y planeación pueden valer 5-8% de EBITDA'. Vía cluster automotriz."
+    },
+    {
+      "nombre": "Time Ceramic",
+      "en_crm": false,
+      "movimiento": "Fábrica nueva en Hidalgo operando desde 2024; competidor chino contra Lamosa, Daltile e Interceramic (septiembre 2025).",
+      "que_revela": "Más que oportunidad para Time, es alerta para los incumbentes mexicanos. Lamosa puede necesitar respuesta estratégica.",
+      "approach_sugerido": "Acercamiento indirecto: usar el caso Time Ceramic como pretexto para hablar con Lamosa (AAA conocido) sobre estrategia defensiva en el segmento Hidalgo-CDMX."
+    },
+    {
+      "nombre": "Arteche México",
+      "en_crm": false,
+      "movimiento": "USD 15M para ampliar operaciones en México, incluyendo laboratorio nuevo en Hidalgo para pruebas de equipos eléctricos (noviembre 2025).",
+      "que_revela": "Filial mexicana de empresa española en industria eléctrica creciendo. Sector beneficiado por nearshoring y modernización de red eléctrica.",
+      "approach_sugerido": "Approach via Cámara España-México. Pretexto: 'Trabajamos con filiales mexicanas de empresas familiares españolas en gobierno corporativo dual y eficiencia operacional cross-border'."
+    },
+    {
+      "nombre": "Corporativo UNNE (familia Paredes)",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper en el período. Silencio mediático.",
+      "que_revela": "El silencio no es necesariamente malo, pero amerita un check-in. UNNE opera en industria del calzado-piel y comercio que enfrenta competencia china creciente.",
+      "approach_sugerido": "Acercamiento de relacionamiento via alumni London Consultores Pachuca o Cámara del Calzado. Sin pretexto noticioso fuerte, conviene canal social/club."
+    },
+    {
+      "nombre": "TENPAC (familia Márquez Ramírez)",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper en el período.",
+      "que_revela": "Calzado industrial enfrenta presión de importaciones chinas y competencia regional (León). Probable necesidad de profesionalización y/o pivote.",
+      "approach_sugerido": "Vía Cámara del Calzado Hidalgo. Pretexto: 'Hemos acompañado a 3 fabricantes de calzado familiar en pivotes hacia mercados B2B / EPP industrial frente a la presión china'."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Acompañamiento integral Carnot Laboratorios (arranque planta MXN 3,500M)",
+      "tipo": "consultoría operacional + financiera",
+      "que_dice_el_extracto": "Carnot Laboratorios destinará MXN 3,500M en cinco años para construir una planta en Hidalgo (8 agosto 2025).",
+      "como_acercarse": "Buscar referido vía Canifarma o farmacéuticas que ya hayamos atendido. Reunión inicial enfocada en lecciones aprendidas de otras farmas en arranque de planta nueva.",
+      "pretexto": "Construcción de planta nueva = típicamente 18-24 meses con 4 puntos de fuga claros (CAPEX overrun, validación COFEPRIS, talento técnico, S&OP de arranque). Compartir benchmarks.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Defensa estratégica Lamosa frente a Time Ceramic (China)",
+      "tipo": "consultoría estratégica",
+      "que_dice_el_extracto": "Time Ceramic, empresa de China, instaló fábrica en Hidalgo y aunque su producto quizás no es de calidad sobresaliente, sí puede competirle a las grandes por su nivel de precio (23 septiembre 2025).",
+      "como_acercarse": "Lamosa es AAA conocido. Plantear el tema directamente al equipo directivo o vía cadena de valor compartida.",
+      "pretexto": "El mercado de revestimientos en el corredor central acaba de tener un cambio estructural — vale la pena revisar la respuesta estratégica antes de que el Q4-2026 muestre erosión de margen.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Scale-up de Giant Motors Latinoamérica (planta dobla capacidad)",
+      "tipo": "consultoría operacional + supply chain",
+      "que_dice_el_extracto": "Giant Motors duplicará la capacidad de la planta en Hidalgo invirtiendo cerca de MXN 3,000M para producir 60,000 unidades/año (1 julio 2025).",
+      "como_acercarse": "Vía Cluster Automotriz Hidalgo o contactos compartidos con familia Massri.",
+      "pretexto": "Duplicar capacidad en una armadora con socio chino tiene retos específicos: alineamiento JV, supply chain con calendario de China, y curva de talento. Compartir framework.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Aterrizaje operativo Solar International Core (USD 2,000M)",
+      "tipo": "advisory aterrizaje multinacional",
+      "que_dice_el_extracto": "Solar International Core, de Canadá, construirá en Hidalgo una planta de ingredientes farmacéuticos por USD 2,000M; USD 70M solo para terreno (11 mayo 2026).",
+      "como_acercarse": "Vía Embajada de Canadá, CanCham, o gobierno estatal de Hidalgo (oficina de inversión).",
+      "pretexto": "LCG puede ser el socio mexicano para acompañar selección de sitio, equipo de arranque, vínculos con autoridades y benchmarking laboral local — los primeros 6 meses son los críticos.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Profesionalización AJ Group (operador multimarca QSR)",
+      "tipo": "profesionalización + CFO Office",
+      "que_dice_el_extracto": "Wendy's firmó con AJ Group, que tiene franquicias de Häagen-Dazs y Pizza Hut y tiene a Galdino Palafox como CFO, para construir 50 tiendas en CDMX, Edomex, Hidalgo y Morelos (5 marzo 2026).",
+      "como_acercarse": "LinkedIn directo a Galdino Palafox, referido común de mundo franquicias, o congreso ANTAD.",
+      "pretexto": "Pasar de 2 a 3 marcas con escala simultánea (Häagen-Dazs, Pizza Hut, Wendy's) reta el back-office. Vale la pena revisar arquitectura de procesos y sistemas antes de la apertura 10.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Sucesión + gobierno Grupo Indumil",
+      "tipo": "sucesión familiar + profesionalización",
+      "que_dice_el_extracto": "Grupo Indumil invirtió MXN 160M en planta nueva en Hidalgo de blindaje. La empresa mexicana tiene 30 años operando. El presidente es José Eduardo Llanos (13 marzo 2026).",
+      "como_acercarse": "Approach directo o vía Consejo Mexicano de Seguridad Privada.",
+      "pretexto": "Empresas familiares mexicanas con 30 años y proyecto de expansión activa típicamente están en transición de primera a segunda generación. Conversación de gobierno y sucesión.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Check-in relacional Corporativo UNNE y TENPAC (defensa cluster calzado)",
+      "tipo": "relacionamiento + advisory M&A defensivo",
+      "que_dice_el_extracto": "Sin menciones recientes en Whitepaper para UNNE ni TENPAC; en paralelo, Time Ceramic y otros operadores chinos están escalando huella en Hidalgo.",
+      "como_acercarse": "Cámara del Calzado de Hidalgo, alumni London Consultores Pachuca, evento conjunto de cluster.",
+      "pretexto": "El cluster Hidalgo-León del calzado enfrenta presión estructural de importaciones; algunas familias están explorando consolidación o pivote B2B. Tomar el pulso.",
+      "urgencia": "baja"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "Erosión competitiva cluster calzado y cerámica frente a operadores chinos",
+      "descripcion": "Time Ceramic operando ya en Hidalgo a precios competitivos contra Lamosa-Daltile-Interceramic; importaciones calzado chinas presionan a TENPAC y cluster local. Es señal de que la base manufacturera tradicional de Hidalgo está siendo retada — las familias en CRM deben moverse pronto (escalar, pivotar o consolidar) o perderán cuota irreversible."
+    },
+    {
+      "titulo": "Brecha en data de actores AAA/AA del estado",
+      "descripcion": "El CRM reporta 14 cuentas AAA-AA en Hidalgo pero solo 3 familias PPT identificadas en el listado y solo 1 con menciones en Whitepaper. O bien el portafolio PPT está incompleto, o los actores hidalguenses tradicionales tienen muy bajo perfil mediático. Conviene complementar con investigación local (Cámaras y prensa estatal)."
+    },
+    {
+      "titulo": "Concentración geográfica del nearshoring fuera de Hidalgo",
+      "descripcion": "La mayoría de los anuncios mega son de operadores extranjeros que aterrizan, no de empresas locales que escalan. El estado depende de capturar valor de los nuevos entrantes — no hay un Bimbo o Femsa hidalguense en el flujo. Esto limita el pool natural de clientes AAA crecientes desde adentro."
+    }
+  ],
+  "gaps": [
+    "Ausencia de menciones específicas a Tula y al cluster cementero-petroquímico (Holcim, GCC, refinería) en los extractos — fuente importante de manufactura pesada del estado que no aparece reflejada.",
+    "No hay visibilidad sobre proveedores Tier-2/Tier-3 hidalguenses que estén ganando contratos con Giant Motors, Mat Foundry o el cluster Audi-San José Chiapa — investigar vía cluster automotriz directamente.",
+    "Sin información sobre el ecosistema turístico Pueblos Mágicos (Real del Monte, Huasca, Mineral del Chico) ni sus operadores hoteleros familiares.",
+    "Información mínima sobre la familia Paredes (UNNE) y Márquez Ramírez (TENPAC) — requiere inteligencia primaria local (relaciones, eventos cámara, alumni).",
+    "Falta lectura del impacto de la planta Alstom (la más grande de Alstom en América) sobre su cadena de proveedores hidalguenses."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 27,
+    "evaluacion": "media — alto volumen de anuncios de inversión externa con buena identificación de actores nuevos (Solar Core, Carnot, Giant Motors, Mat Foundry, AJ Group, Indumil), pero baja densidad de información sobre familias PPT del CRM (solo Autofin con menciones útiles) y silencio sobre clusters tradicionales (calzado Hidalgo, cementero Tula, turismo Pueblos Mágicos). Útil como mapa de inversionistas entrantes, insuficiente como diagnóstico del tejido empresarial local."
+  }
+}

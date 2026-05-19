@@ -1,0 +1,194 @@
+{
+  "state": "Veracruz",
+  "pulso": "Veracruz se perfila en 2025-2026 como un estado donde la inversión industrial extranjera es el motor visible, mientras la economía familiar veracruzana queda casi muda en el radar mediático nacional. La planta de Constellation Brands en Veracruz finalmente arrancará operaciones hacia finales de agosto de 2026 (anuncio CFO, 10-abr-2026), con una inversión superior a la presupuestada originalmente, parte de un plan global de $2,000 millones de dólares hacia 2027. Pilgrim's Pride confirmó $950 millones de dólares para sus plantas en Veracruz, Campeche y Yucatán (16-ene-2026), dentro de un plan total de $1,300 millones en México que apunta a crecer capacidad 38% (y dejó abierta la puerta a M&A: 'están abiertos a posibles adquisiciones', 01-ago-2025). Bayer comprometió $3,000 millones de pesos para expandir su planta en Orizaba (08-ago-2025), y APSA absorbió activos de International Paper, incluyendo plantas de reciclaje en Veracruz (27-jun-2025).\n\nDel lado de las familias veracruzanas en el CRM, el ecosistema mediático está casi vacío: solo Chedraui aparece consistentemente (13 menciones), pero leído como corporativo bursátil y no como empresa familiar local —José Antonio Chedraui en consejo de Fibra Danhos, José Ramón Chedraui presidiendo SOFOM y Chedraui USA, batalla de aperturas Supercito vs Oxxo, y caída de 10.44% en bolsa en febrero. Los otros seis apellidos del listado (Hernández Ramírez, Chahín Trueba, Café Parroquia/Vergara, GOMSA/Gómez Malpica, GRUVER/Gomez, Unión Veracruzana/Exsome) tienen cero menciones. Aparece una empresa familiar nueva relevante: Café la Flor de Córdoba, tercera generación, 120 puntos de venta y crecimiento doble dígito bajo Federico Hernández (27-abr-2026).\n\nLa lectura comercial es clara: el dinero entrando a Veracruz lo trae el capex multinacional (bebidas, proteína, farma, papel), pero la oportunidad LCG real está en (a) los proveedores y contratistas locales que deben profesionalizarse para venderle a estos jugadores, (b) los exclientes activables que conocen a LCG y operan en agroindustria/comercio, y (c) la sucesión que ya está visible en la tercera generación de empresas cafetaleras y de comercio regional. El silencio mediático sobre las familias veracruzanas no significa quietud: significa que el canal de inteligencia primaria debe ser directo (red libanesa-veracruzana, CCE Veracruz, CANIRAC, Feria del Café Coatepec).",
+  "themes": [
+    {
+      "titulo": "Capex multinacional acelera la huella industrial veracruzana",
+      "explicacion": "Constellation Brands arranca en agosto 2026 con inversión por encima del presupuesto original (parte de $2,000 mdd a 2027); Pilgrim's Pride compromete $950 mdd para Veracruz/Campeche/Yucatán con plan de crecer capacidad 38%; Bayer destina $3,000 mdp a Orizaba. Es la mayor concentración de capex confirmado para Veracruz en años recientes.",
+      "sectores": ["Alimentos y Bebidas", "Agroindustria", "Farma", "Manufactura"],
+      "evidence_dates": ["2026-04-10", "2026-01-16", "2025-08-08", "2025-08-01"],
+      "implicacion_lcg": "Cada planta arrancando o expandiéndose crea un ecosistema de proveedores locales (logística, mantenimiento industrial, packaging, agroindustria) que necesitan profesionalizarse para entrar/permanecer en cadena de suministro. LCG puede ofrecer diagnósticos de operaciones y certificaciones de proveedor a empresas familiares veracruzanas que ya proveen o aspiran a proveer a Constellation, Pilgrim's y Bayer."
+    },
+    {
+      "titulo": "Chedraui ejecuta dos estrategias en paralelo: proximidad en México y defensa en EUA",
+      "explicacion": "Chedraui rompió récord en 2025 con 142 aperturas y llegó a 1,067 sucursales; planea 130 Supercitos más en 2026 (formato de 270 m2, 2,500 SKUs) más 17 grandes y 5 en EUA. Al mismo tiempo, ventas mismas tiendas en EUA cayeron 2% (Q3) y 1.9% en el último reporte por el efecto de políticas migratorias sobre El Super y Fiesta Mart. La acción cayó 10.44% en febrero 2026. José Ramón Chedraui además preside SOFOM de PyMES con cartera comparable al portafolio PyME de Mifel.",
+      "sectores": ["Retail / Comercio", "Banca / Finanzas"],
+      "evidence_dates": ["2026-02-27", "2026-01-13", "2025-10-22", "2025-10-02", "2025-09-29", "2026-03-17", "2026-03-02"],
+      "implicacion_lcg": "Chedraui está en CRM. La caída del negocio en EUA es señal de presión para optimizar operaciones core (México) y la SOFOM crea una vertiente financiera donde LCG puede aportar (riesgo de crédito PyME, profesionalización del brazo financiero). Pretexto natural: 'vimos su récord de aperturas y la presión migratoria sobre El Super; ¿cómo están protegiendo márgenes operativos?'"
+    },
+    {
+      "titulo": "Café de Veracruz: tercera generación se profesionaliza y escala",
+      "explicacion": "Café la Flor de Córdoba pasó de 10 sucursales a 120 en 10 años bajo la tercera generación (Federico Hernández), con crecimientos de doble dígito. Es modelo replicable y benchmark directo para Café Parroquia (Vergara, excliente LCG) que opera en el mismo cluster Coatepec-Córdoba-Xalapa.",
+      "sectores": ["Agroindustria", "Retail / Comercio", "Alimentos y Bebidas"],
+      "evidence_dates": ["2026-04-27"],
+      "implicacion_lcg": "Doble juego: (a) reactivar conversación con Carlos Vergara/Café Parroquia usando Flor de Córdoba como benchmark de qué pasa cuando se profesionaliza la marca cafetalera tradicional veracruzana, (b) abrir Café la Flor de Córdoba (Federico Hernández) como prospecto nuevo —tercera generación, escala vertiginosa, típico momento donde LCG entra con sucesión + profesionalización + modelo de expansión sostenible."
+    },
+    {
+      "titulo": "Corredor logístico CDMX-Puerto de Veracruz captando capital institucional",
+      "explicacion": "INVEX aumentó a 27.7% su participación en FIBRAeMX transfiriendo el 20% que tenía en la empresa que opera 'tramos clave' del corredor carretero CDMX-Veracruz, recibiendo $3,960 mdp en certificados (16-feb-2026). El puerto de Veracruz sigue siendo el corazón logístico del Golfo.",
+      "sectores": ["Logística / Transporte", "Real Estate / Construcción", "Banca / Finanzas"],
+      "evidence_dates": ["2026-02-16"],
+      "implicacion_lcg": "Los operadores familiares de logística, agencias aduanales y autotransporte que tocan el corredor están bajo presión de profesionalización para competir contra el capital institucional. Pretexto directo para Chahín Trueba (Fletes HESA, Acero HESA) y para nuevos prospectos de autotransporte/cabotaje. También ángulo M&A advisory: el capital institucional viene a buscar consolidar el sector."
+    },
+    {
+      "titulo": "Consolidación industrial: APSA absorbe activos de International Paper",
+      "explicacion": "APSA (mexicana, 50 años en papeles, cartones y empaques) se quedó con una planta de cartón para envases y dos plantas de reciclaje, una de ellas en Veracruz, que pertenecían a International Paper (27-jun-2025). Es señal de que jugadores familiares mexicanos están capturando activos cuando multinacionales se replantean su huella.",
+      "sectores": ["Manufactura / Nearshoring", "Real Estate / Construcción"],
+      "evidence_dates": ["2025-06-27"],
+      "implicacion_lcg": "Señal estructural: hay activos disponibles en Veracruz y compradores familiares activos. LCG M&A advisory tiene espacio para asesorar tanto a vendedores (multinacionales replanteando huella) como a compradores familiares en integración post-deal y rampa operativa."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Chedraui (José Antonio y José Ramón Chedraui)",
+      "en_crm": true,
+      "movimiento": "Récord histórico de 142 aperturas en 2025; plan de 130 Supercitos más en 2026; ventas mismas tiendas en EUA -2% por efecto migratorio; acción -10.44% en febrero 2026; José Ramón preside SOFOM PyME y Chedraui USA; José Antonio en consejo de Fibra Danhos.",
+      "que_revela": "La familia está ejecutando una estrategia bifurcada: ofensiva agresiva en proximidad (Supercito) en México y defensiva en EUA. La SOFOM y la presencia en consejo de Fibra Danhos muestran ambición de diversificación financiera. La caída bursátil presiona márgenes y eficiencia operativa.",
+      "approach_sugerido": "Presencia institucional en Asamblea CCE Veracruz y eventos donde la familia se mueve. Pretexto: la presión sobre El Super/Fiesta Mart y el costo de absorber 142 aperturas. Pitch: 'optimización de cadena de suministro entre el formato Supercito (2,500 SKUs) y los Tienda Chedraui (100,000 SKUs) —economías de escala diferenciadas requieren modelos operativos distintos'. Para José Ramón Chedraui: profesionalización del modelo de riesgo de la SOFOM PyME."
+    },
+    {
+      "nombre": "Carlos Vergara — Café Parroquia",
+      "en_crm": true,
+      "movimiento": "Cero menciones en Whitepaper, pero el éxito de Café la Flor de Córdoba (120 sucursales, tercera generación) es benchmark directo del cluster cafetalero veracruzano.",
+      "que_revela": "Excliente LCG con conocimiento directo de la firma. El silencio mediático contrasta con el ruido de Flor de Córdoba —pregunta natural sobre cómo está navegando la familia esa misma transición generacional y de escala.",
+      "approach_sugerido": "Activación directa por puente excliente. Pretexto concreto: 'Carlos, viste la nota de Flor de Córdoba —120 puntos de venta bajo tercera generación. Queremos volver a sentarnos contigo para platicar de dónde está Parroquia en ese mismo arco'. Ángulo: sucesión familiar + estrategia de expansión + profesionalización del modelo. Evento puente: Feria del Café Coatepec."
+    },
+    {
+      "nombre": "José Luis Gómez Malpica — GOMSA",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper en el período. Operación agroindustrial veracruzana en el contexto de capex masivo de Pilgrim's Pride y arranque de Constellation Brands.",
+      "que_revela": "Excliente activable. La capa de proveedores agro a multinacionales (granos, insumos, logística rural) está en momento de presión y oportunidad simultánea.",
+      "approach_sugerido": "Acercamiento directo aprovechando el contexto Pilgrim's. Pretexto: 'el plan de Pilgrim's de crecer capacidad 38% en Veracruz/Campeche/Yucatán y la apertura a adquisiciones cambia el tablero para todo proveedor agroindustrial regional —¿cómo lo están leyendo en GOMSA?'. Ángulo LCG: consultoría operacional para servir a la cadena multinacional y/o M&A advisory si hay interés en consolidar o vender."
+    },
+    {
+      "nombre": "Ramón Gomez Gomez — GRUVER",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper. Grupo veracruzano relevante en el ecosistema empresarial del estado.",
+      "que_revela": "Excliente activable. Operador familiar que conoce LCG, ideal para reactivar relación y mapear referidos en la red empresarial veracruzana.",
+      "approach_sugerido": "Visita de cortesía con pretexto de la actividad económica regional: arranque de Constellation, expansiones de Bayer en Orizaba, corredor CDMX-Veracruz. Pedir lectura del momento y, en paralelo, mapear quiénes de su red están en transición generacional o pensando en M&A."
+    },
+    {
+      "nombre": "Ricardo Exsome — Unión Veracruzana",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper. Apellido con peso en el comercio veracruzano histórico.",
+      "que_revela": "Excliente activable y nodo de red en la elite empresarial del puerto. Pieza clave para entender quién está comprando, vendiendo y profesionalizando entre las familias veracruzanas que no aparecen en medios nacionales.",
+      "approach_sugerido": "Conversación de inteligencia más que de pitch. Pretexto: 'estamos volviendo a poner foco en Veracruz dado el capex de Constellation y Pilgrim's; queremos tu lectura del estado del comercio local y de las familias en transición'. De ahí surgen referidos calificados."
+    },
+    {
+      "nombre": "Federico Hernández — Café la Flor de Córdoba",
+      "en_crm": false,
+      "movimiento": "Tercera generación operando 120 puntos de venta (vs 10 hace una década), crecimiento doble dígito en ingresos. Empresa familiar de 90 años (27-abr-2026).",
+      "que_revela": "Caso paradigmático de empresa familiar veracruzana en el punto exacto donde LCG entra: tercera generación, escala rápida, momento de definir gobierno corporativo y modelo de expansión. No está en CRM —es prospecto nuevo prioritario.",
+      "approach_sugerido": "Acercamiento directo en Córdoba. Pretexto: 'leímos la nota del crecimiento de Flor de Córdoba. En LCG hemos acompañado a varias familias cafetaleras en la transición a tercera/cuarta generación —queremos entender cómo están pensando los siguientes 5 años'. Vía referido: Carlos Vergara (Café Parroquia) puede tener relación. También puente: Feria del Café Coatepec, CANIRAC Veracruz."
+    },
+    {
+      "nombre": "APSA — Grupo familiar mexicano en papel y empaques",
+      "en_crm": false,
+      "movimiento": "Adquirió a International Paper una planta de cartón para envases más dos plantas de reciclaje (una en Veracruz, una en Nuevo León). 50 años en el negocio (27-jun-2025).",
+      "que_revela": "Empresa familiar mexicana en modo expansión vía M&A oportunista, con activo nuevo en Veracruz que probablemente requiere integración post-deal, optimización operativa y posiblemente capital.",
+      "approach_sugerido": "Acercamiento dirigido a la familia operadora de APSA. Pretexto: 'tu integración de los activos de International Paper en Veracruz y Nuevo León cambia el perfil de la empresa —es el momento donde más valor se gana o se pierde'. Oferta concreta: consultoría operacional de integración post-adquisición y diagnóstico de eficiencia de las plantas heredadas."
+    },
+    {
+      "nombre": "Jesús Muñoz — CEO Pilgrim's Pride México",
+      "en_crm": false,
+      "movimiento": "20+ años en la empresa, pilotando un plan de crecer el negocio 20% en México con inversiones en Veracruz y Mérida y apertura declarada a M&A (01-ago-2025). $950 mdd del paquete de $1,300 mdd va a Veracruz, Campeche y Yucatán (16-ene-2026).",
+      "que_revela": "Pilgrim's está cazando activos en agroindustria de proteína en el sureste. Es ancla para todo el ecosistema de proveedores agro veracruzanos y posible comprador de empresas familiares del rubro.",
+      "approach_sugerole": "No es target directo LCG, pero es brújula. Vincular a los exclientes (GOMSA, GRUVER) con la cadena Pilgrim's. También mapear empresas avícolas/proteína familiares veracruzanas que puedan estar siendo objetivo de adquisición —ahí entra LCG M&A advisory del lado vendedor."
+    },
+    {
+      "nombre": "Constellation Brands — planta Veracruz",
+      "en_crm": false,
+      "movimiento": "Arranque operativo a finales de agosto 2026 (retraso vs principios de 2026); inversión por encima del presupuesto original, dentro del plan de $2,000 mdd hacia 2027 (10-abr-2026). Constellation enfrenta presión por menor consumo de alcohol en nuevas generaciones y efecto ICE sobre consumo hispano en EUA.",
+      "que_revela": "Ancla industrial veracruzana con problema de demanda final que se traducirá en presión sobre costos y proveedores locales. Su arranque crea inmediatamente decenas de oportunidades en el ecosistema regional.",
+      "approach_sugerido": "Inteligencia ambiental, no venta directa. Mapear contratistas locales de construcción, logística, mantenimiento industrial y servicios profesionales que están entrando a la cadena —ahí están los prospectos LCG. Pretexto operativo en CCE Veracruz: 'el arranque de Constellation en agosto crea un wave de necesidades de profesionalización para proveedores locales'."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Reactivación de Carlos Vergara (Café Parroquia) con benchmark Flor de Córdoba",
+      "tipo": "Reactivación excliente + sucesión familiar",
+      "que_dice_el_extracto": "Café la Flor de Córdoba, empresa familiar de 90 años en su tercera generación, pasó de 10 a 120 sucursales en 10 años con crecimientos de doble dígito bajo Federico Hernández (27-abr-2026).",
+      "como_acercarse": "Llamada directa de Alfredo a Carlos Vergara aprovechando el track de excliente. Mensaje: 'vimos la nota de Flor de Córdoba —tu competencia regional acaba de saltar a 120 unidades bajo tercera generación. Queremos volver a sentarnos contigo'. Cierre buscado: diagnóstico de profesionalización + sucesión.",
+      "pretexto": "Nota de Whitepaper del 27 de abril sobre Café la Flor de Córdoba y su escala bajo tercera generación.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Reactivación José Luis Gómez Malpica (GOMSA) con narrativa Pilgrim's",
+      "tipo": "Reactivación excliente + consultoría operacional / M&A advisory",
+      "que_dice_el_extracto": "Pilgrim's invertirá $950 mdd en plantas de Veracruz, Campeche y Yucatán, busca crecer capacidad 38%, y declaró abiertamente que están abiertos a adquisiciones (16-ene-2026 y 01-ago-2025).",
+      "como_acercarse": "Reunión de excliente con narrativa de mercado: el capex y apetito de M&A de Pilgrim's mueve el tablero para todo proveedor agro veracruzano. Opción A: profesionalizar para servir mejor a la cadena multinacional. Opción B: explorar si GOMSA está en momento de capturar valor vía venta parcial/total.",
+      "pretexto": "Anuncio de Pilgrim's del 16 de enero sobre $950 mdd para Veracruz/Campeche/Yucatán.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Apertura nueva: Café la Flor de Córdoba (Federico Hernández)",
+      "tipo": "Apertura nueva — empresa familiar en escala / sucesión",
+      "que_dice_el_extracto": "Tercera generación, 90 años de historia, 120 puntos de venta, crecimiento de doble dígito (27-abr-2026).",
+      "como_acercarse": "Acercamiento directo a Federico Hernández en Córdoba. Mejor si llega vía referido (Vergara, CANIRAC Veracruz, o cluster cafetalero). Pitch: gobierno corporativo, modelo de expansión sostenible y planeación de la siguiente transición generacional, todo soportado en el momento de crecimiento doble dígito.",
+      "pretexto": "Crecimiento documentado de 10 a 120 sucursales en 10 años y nota pública en Whitepaper.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Conversación con Chedraui sobre presión migratoria EUA y márgenes de Supercito",
+      "tipo": "Profundización cliente activo / transformación operativa",
+      "que_dice_el_extracto": "Ventas mismas tiendas EUA cayeron 2% (Q3) y 1.9% por efecto migratorio sobre El Super/Fiesta Mart; acción -10.44% en febrero 2026; 142 aperturas en 2025 y 130 Supercitos planeados para 2026 (varias fechas 2025-2026).",
+      "como_acercarse": "Conversación a nivel C-suite sobre dos frentes simultáneos: (a) cómo absorber operacionalmente 142 aperturas anuales sin erosionar márgenes, (b) defensa del negocio EUA en escenario migratorio prolongado. Vehículo: optimización de cadena de suministro diferenciada entre formato Supercito (2,500 SKUs) y Tienda Chedraui (100,000 SKUs).",
+      "pretexto": "Resultados trimestrales y caída bursátil de febrero.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Acercamiento a APSA para integración post-adquisición International Paper Veracruz",
+      "tipo": "Apertura nueva — consultoría post-M&A",
+      "que_dice_el_extracto": "APSA, mexicana con 50 años en papeles, cartones y empaques, se quedó con una planta de cartón para envases y dos plantas de reciclaje (Veracruz y Nuevo León) de International Paper (27-jun-2025).",
+      "como_acercarse": "Investigar accionistas/familia operadora de APSA. Pitch directo: integración post-deal es el momento donde más valor se gana o se pierde —diagnóstico operativo de las plantas heredadas, alineación cultural y captura de sinergias.",
+      "pretexto": "Adquisición de activos de International Paper anunciada en junio 2025.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Reactivación Ricardo Exsome (Unión Veracruzana) como nodo de inteligencia",
+      "tipo": "Reactivación excliente / red de referidos",
+      "que_dice_el_extracto": "Sin menciones específicas en Whitepaper; el contexto es el capex masivo en Veracruz y silencio mediático sobre las familias locales.",
+      "como_acercarse": "Comida o reunión de inteligencia. Mensaje: 'queremos tu lectura del estado del comercio veracruzano y de qué familias están en transición'. Output buscado: 2-3 referidos calificados a familias en sucesión o consolidación.",
+      "pretexto": "Retorno de LCG a foco activo en zona Sur-Centro-Golfo.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Posicionamiento en Asamblea CCE Veracruz y Feria del Café Coatepec",
+      "tipo": "Generación de pipeline regional",
+      "que_dice_el_extracto": "El conjunto de noticias (Constellation, Pilgrim's, Bayer Orizaba, APSA, corredor CDMX-Veracruz) crea un marco macro favorable para conversaciones con la base empresarial local.",
+      "como_acercarse": "Presencia institucional de LCG con un punto de vista preparado: 'capex multinacional en Veracruz: ventana para la profesionalización de proveedores familiares regionales'. Apoyarse en exclientes (Vergara, GOMSA, GRUVER, Exsome) como introductores.",
+      "pretexto": "Calendario de la propia Asamblea CCE Veracruz y Feria del Café Coatepec.",
+      "urgencia": "media"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "Constellation enfrenta presión de demanda final estructural",
+      "descripcion": "Menor consumo de alcohol entre nuevas generaciones y efecto ICE sobre consumo hispano en EUA están perjudicando resultados (10-abr-2026). Un arranque retrasado a agosto 2026 más una demanda dudosa puede traducirse rápidamente en renegociación con proveedores locales y presión sobre contratistas regionales."
+    },
+    {
+      "titulo": "Chedraui bajo presión bursátil y de eficiencia",
+      "descripcion": "Caída de 10.44% en bolsa en febrero 2026 y ventas mismas tiendas EUA en negativo. Empresa cliente expuesta —cualquier proyecto LCG debe entrar con narrativa de eficiencia operativa y absorción de aperturas, no de crecimiento aspiracional."
+    },
+    {
+      "titulo": "Silencio mediático sobre familias veracruzanas",
+      "descripcion": "6 de los 7 apellidos del CRM no aparecen en Whitepaper en el período. No es señal positiva: indica baja visibilidad/dinamismo público o que los movimientos ocurren bajo el radar. Hay que reforzar canal de inteligencia humana en terreno (CCE Veracruz, CANIRAC, red libanesa) porque la inteligencia secundaria no está alimentando bien la zona."
+    },
+    {
+      "titulo": "Capital institucional consolidando el corredor logístico",
+      "descripcion": "INVEX-FIBRAeMX absorbiendo tramos clave del corredor CDMX-Veracruz (feb-2026) sugiere que los operadores familiares de logística y autotransporte regionales enfrentan presión competitiva creciente. Si Chahín Trueba/HESA está en autotransporte/acero, ese es el contexto de su conversación —no esperar a que pidan ayuda."
+    }
+  ],
+  "gaps": [
+    "Cero información mediática sobre Hernández Ramírez (ex-Banamex Tuxpan), Chahín Trueba (HESA), Café Parroquia (Vergara), GOMSA, GRUVER y Unión Veracruzana (Exsome). Toda esta inteligencia debe levantarse en terreno.",
+    "Sin visibilidad sobre la actividad petroquímica en Coatzacoalcos-Minatitlán (Pemex Pajaritos, Cangrejera, Refinería Minatitlán) ni sobre los proveedores familiares que dependen de ese cluster.",
+    "Sin información sobre la red libanesa-veracruzana más allá de Chedraui —Chahín y otras familias del mismo origen no aparecen en extractos.",
+    "Sin lectura del puerto de Tuxpan (Hernández Ramírez está geográficamente ahí) ni de la actividad cañera del Tianguis Cañero.",
+    "No hay menciones sobre transición política/regulatoria estatal que podría afectar permisos, energía o infraestructura industrial.",
+    "Sin perfil específico de los accionistas/familia operadora de APSA —se requiere investigación directa para activar la oportunidad de post-M&A."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 26,
+    "evaluacion": "media — el volumen es decente (26 extractos), pero la distribución es muy desigual: Chedraui acapara la mitad de la conversación, las 6 familias restantes del CRM están ausentes, y la mayor parte del valor accionable viene del capex multinacional (Constellation, Pilgrim's, Bayer, APSA) y de un solo prospecto nuevo familiar de alto valor (Café la Flor de Córdoba). Necesario complementar agresivamente con inteligencia humana en terreno: exclientes, CCE Veracruz, CANIRAC, Feria del Café Coatepec, red libanesa-veracruzana."
+  }
+}

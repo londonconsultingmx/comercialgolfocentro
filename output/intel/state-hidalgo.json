@@ -1,0 +1,342 @@
+{
+  "state": "Hidalgo",
+  "crm_context": {
+    "aaa_aa": 14,
+    "dm": 34,
+    "industries": "Calzado · automotriz · retail"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Grupo Autofin México (Hernández Venegas)",
+      "aliases": [
+        "Autofin",
+        "Hernández Venegas"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 4,
+      "mention_dates": [
+        "2026-01-05",
+        "2025-09-25",
+        "2025-08-20",
+        "2025-06-10"
+      ]
+    },
+    {
+      "label": "Corporativo UNNE (Paredes)",
+      "aliases": [
+        "Corporativo UNNE",
+        "UNNE"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "TENPAC calzado (Márquez Ramírez)",
+      "aliases": [
+        "TENPAC",
+        "Márquez Ramírez"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 27,
+    "ppt_families_hit": 1,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Banca / Finanzas",
+        3
+      ],
+      [
+        "Salud / Farma",
+        3
+      ],
+      [
+        "Real Estate / Construcción",
+        2
+      ],
+      [
+        "Automotriz",
+        2
+      ],
+      [
+        "Manufactura / Nearshoring",
+        2
+      ],
+      [
+        "Energía / Petroquímica",
+        1
+      ],
+      [
+        "Alimentos y Bebidas",
+        1
+      ],
+      [
+        "Agroindustria",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        16
+      ],
+      [
+        "Expansión / Apertura",
+        4
+      ],
+      [
+        "M&A",
+        2
+      ],
+      [
+        "Resultados",
+        2
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        11
+      ],
+      [
+        "Grupo Caliente",
+        3
+      ],
+      [
+        "Innovatio Capital",
+        2
+      ],
+      [
+        "Grupo Salinas",
+        2
+      ],
+      [
+        "Grupo Orlegi",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-05-11",
+      "post_date": "2026-05-11T12:18:05.649Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c16",
+      "subtitle": "Ingredientes farmacéuticos en Hidalgo; Afirme Seguros y HDI; Palenca; movimientos clave;  Peluchería Internacional; Televisa; empleados de OpenAI; mexicanos en Orlando; Globant; la nueva meme stock",
+      "text": "Solar International Core, de Canadá, construirá en el estado de Hidalgo una planta de ingredientes farmacéuticos. Es un proyecto de $2,000 millones de dólares, que según la propia empresa contempla $70 millones para comprar el terreno (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-05-11",
+      "post_date": "2026-05-11T12:18:05.649Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c16",
+      "subtitle": "Ingredientes farmacéuticos en Hidalgo; Afirme Seguros y HDI; Palenca; movimientos clave;  Peluchería Internacional; Televisa; empleados de OpenAI; mexicanos en Orlando; Globant; la nueva meme stock",
+      "text": "Comentario Whitepaper: el anuncio se dio en el contexto de una misión comercial de México a Canadá, donde también se dieron a conocer otras inversiones. Por ejemplo, Bimbo destinará $146 millones de dólares para modernizar sus instalaciones en ese país.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-22",
+      "post_date": "2026-04-22T12:19:04.156Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5ec",
+      "subtitle": "Cementos Chihuahua; el Atlas; acciones de MeLi; Fantasías Miguel; Dalus y Pulpo; faltan sastres en EUA...y allá también quieren autos de China; Amazon y GLP-1; AI en juicios; spotlight en Strathberry",
+      "text": "Comentario Whitepaper: Bejos lidera Mota Engil México y Grupo Prodi (y desde 2018 es dueño de los Pericos de Puebla, de la Liga Mexicana de Beisbol). El año pasado Innovatio Capital le compró a Grupo Caliente el equipo de Querétaro, en un deal que lo valuó en $120 millones de dólares, y el Atlante habría llegado a un acuerdo con Grupo Salinas para hacerse del Mazatlán FC por $65 millones de dólares. De concretarse estos movimientos, solo quedaría un grupo con más de un equipo en México: León y Pachuca, de Grupo Pachuca.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-13",
+      "post_date": "2026-03-13T12:23:54.085Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5ae",
+      "subtitle": "Blindados en Hidalgo; acciones para empleados de 3B; conoce a Cynthia Kleinbaum; Smurfit Westrock; lo que invierten las grandes; Dog Haus en Mérida; crédito privado; Jo Malone; revistas de diseño",
+      "text": "Grupo Indumil invirtió $160 millones de pesos en una nueva planta en Hidalgo en la que fabricarán vidrios blindados y equipo de blindaje corporal. La empresa mexicana tiene 30 años operando y se dedica al blindaje para clientes tanto públicos como privados. El presidente del grupo es José Eduardo Llanos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-05",
+      "post_date": "2026-03-05T12:20:25.070Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-ca3",
+      "subtitle": "ASUR US; $195M para Ualá; Wendy's en México; Empresas Copec; Kabla; AutoZone; Abogados de M&A en EUA; las descendientes de GE; aranceles; Lux Capital",
+      "text": "Wendy’s concretó dos acuerdos de franquicia en el país con los que quieren abrir más de 60 sucursales nuevas. Con AJ Group, que tiene franquicias de Häagen-Dazs y Pizza Hut y tiene a Galdino Palafox como CFO, construirán 50 tiendas en CDMX, Edomex, Hidalgo y Morelos. Con WS Pacific, dirigida por Rodolfo Silveyra, firmaron otras 12 sucursales en Sinaloa y Durango (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-24",
+      "post_date": "2026-02-24T12:27:47.702Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-985",
+      "subtitle": "Liverpool; los nuevos socios de Banamex; Topo Chico en EUA; Colgate-Palmolive; inversiones en Hidalgo y en Colima; Axtel; Apple en Houston; exportaciones de vino de EUA; Domino's",
+      "text": "* Mat Foundry, con sede en UK, comenzará a operar su nueva planta de fundición de piezas automotrices de hierro en Hidalgo. El proyecto implicó una inversión inicial de $1,200 millones de pesos. La empresa tiene también una planta en el Edomex (Redacción Whitepaper). * La japonesa Komatsu, dedicada a fabricar maquinaria pesada, invirtió más de $30 millones de pesos en Colima para abrir una nueva sucursal de mantenimiento y refacciones. Con esta, sumaría 15 en el país (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-23",
+      "post_date": "2026-01-23T12:17:13.194Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-362",
+      "subtitle": "Essity y Kimberly Clark; conoce a Estefanía Lotfe; McCormick; Polaris; licencias bancarias para Ford y GM; cerveza stout; TikTok USA; Waymo en Miami; la venta de Brex",
+      "text": "Comentario Whitepaper: vendieron más de $1,352 millones de dólares en México en 2024 (vs $727 millones es 2021). Nuestro país representa casi 9% de sus ingresos globales, cuando tres años antes era 5.5%. Tienen plantas en Nuevo León, Tamaulipas, Hidalgo, Michoacán y Estado de México.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-16",
+      "post_date": "2026-01-16T12:23:38.413Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-58e",
+      "subtitle": "Pilgrim’s Pride; Trayecto; conoce a Alexandra Violante; en Guanajuato; Fibra Inn; Amazon vs Saks; retrocede Porsche; Keurig Dr Pepper; resultados Cartier; Keurig Dr Pepper; menos nieve en Vail",
+      "text": "Pilgrim’s Pride invertirá $1,300 millones de dólares en México: buscan incrementar su capacidad productiva en más de 373,000 toneladas anuales (equivalentes a un crecimiento de 38%). La mayor parte de estos recursos, $950 millones, va dirigido a las plantas que tienen en Veracruz, Campeche y Yucatán; $200 millones para las de Durango y Coahuila, y el resto a Querétaro, San Luis Potosí e Hidalgo (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-07",
+      "post_date": "2026-01-07T12:24:57.202Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-0d0",
+      "subtitle": "Autos nuevos; Costco en Aguascalientes; Sede Café, The Coffee y Pickup Coffee; J&T Express; LinkedIn; chillers para data centers; Goldman Sachs; Semafor; camiones nuevos en EUA; spotlight en Gorsuch",
+      "text": "A las 7:30 de la mañana de un jueves de diciembre, la fila en una sucursal de Sede Café, en la alcaldía Miguel Hidalgo, ya es de más de 15 personas. Entre ellas, al frente hay un grupo de cuatro corredores en athleisure; detrás, un par de doctoras con bata, a punto de empezar su turno; y hasta atrás, dos colegas en traje listos para irse a la oficina. Para agilizar la fila, uno de los cinco empleados sale a tomar las órdenes por adelantado. Al pagar, el grupo de runners saca de sus bolsillos la tarjeta de lealtad de Sede para acumular puntos y se hace a un lado a esperar su café.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-05",
+      "post_date": "2026-01-05T12:24:05.999Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-667",
+      "subtitle": "Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta",
+      "text": "Cerca de 80% del contenido de estos trenes se fabricará en México, en su planta de Hidalgo, la más grande que tienen en América y la tercera a nivel mundial (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-05",
+      "post_date": "2026-01-05T12:24:05.999Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-667",
+      "subtitle": "Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta",
+      "text": "El neobanco brasileño arrancó operaciones en México en 2019 y en 2022 se convirtió en SOFIPO. Así creció hasta 13 millones de clientes, y en 2025 obtuvo la aprobación para convertirse en banco; comenzará a operar como tal en 2026. En septiembre, Klar le compró Bineo a Banorte, accediendo de forma directa a una licencia bancaria. Ualá y Kapital tomaron esa misma ruta hace un par de años, comprando ABC Capital y Banco Autofin, respectivamente. Plata Card, por su parte, empezó operaciones en 2023 como SAPI y recibió su autorización para volverse banco a finales de 2024.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-17",
+      "post_date": "2025-12-17T12:21:01.385Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3f2",
+      "subtitle": "Leona Health; Grupo Cimarrón; smartphones caros; movimientos clave; Mercado Libre; viajando con Costco; Luckin y Blue Bottle Coffee; podcasts en Netflix; monasterio en Snowmass; spotlight en Adanola",
+      "text": "Comentario Whitepaper: como contexto, en 2024 abrieron dos centros logísticos, en Hidalgo y en el Estado de México, de 100,000 m2 cada uno.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-20",
+      "post_date": "2025-11-20T12:24:40.568Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-079",
+      "subtitle": "Crecimiento de 3B; resultados de Codere; The Nearshore Company; exportaciones de EUA a México; inversión extranjera directa; CMPC y Tupy; Mazatlán FC; Walmart; acciones de Oracle; música y conciertos",
+      "text": "Comentario Whitepaper: este año, Innovatio Capital le compró a Grupo Caliente al equipo de Querétaro, en un deal que los valuó en $120 millones de dólares. Si se concreta la operación del Atlante, solo quedarían dos grupos con más de un equipo en la Liga MX: Atlas y Santos (de Grupo Orlegi) y León y Pachuca (de Grupo Pachuca).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-07",
+      "post_date": "2025-11-07T12:25:11.096Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dff",
+      "subtitle": "Monster; Alsea vendiendo; nuevo CEO de Bimbo; Arteche; TotalPass; Megacable; El Santuario del Gusano de Seda; el trillón de Elon Musk; Ford; vuelos cancelados en EUA; Meta; Dutch Bros",
+      "text": "Arteche, una empresa española de la industria eléctrica, destinó $15 millones de dólares para ampliar sus operaciones en México, incluyendo la construcción de un nuevo laboratorio en Hidalgo donde probarán equipos eléctricos antes de ponerlos en servicio (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "En total, habría ocho plantas armando vehículos eléctricos e híbridos en México: dos plantas de Ford (en Edomex y en Hermosillo), el complejo de General Motors en Ramos Arizpe, la planta de BMW en San Luis Potosí, la de Audi en Puebla, la de Giant Motors Latinoamérica en Hidalgo, la de Toyota en Guanajuato y la de Volkswagen, también en Puebla (Cluster Industrial).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-25",
+      "post_date": "2025-09-25T12:24:40.945Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-767",
+      "subtitle": "Auna en México; Chico Pardo y Banamex; la ronda de Orbio; consumo; Trump Gold Card; la REIT de Rick Perry; el déficit del AI; Chicago Bears; ¿un equipo en Londres?; boletos para conciertos",
+      "text": "Autofin tiene hoy 65 sucursales pero quiere más. Para ello, planean invertir $60 millones de pesos en un plan de expansión, y a la vez desarrollar una nueva app. Actualmente administra una cartera de más de $3,200 millones de pesos y estima cerrar 2025 con 3,750 vehículos entregados, su récord histórico (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-23",
+      "post_date": "2025-09-23T12:19:38.894Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a21",
+      "subtitle": "Lamosa; LigaMx; rendimiento de AFORES; Heineken; LG en Querétaro; CAME; Grupo HIR y Creditaria; Nvidia y OpenAI; Michelob Ultra; Oura Ring; el papá de Jeff; Office Depot; turismo en Islandia",
+      "text": "Comentario Whitepaper: en México el mercado de revestimientos está dominando principalmente por tres gigantes competidores —Lamosa, Daltile e Interceramic. Sin embargo, recientemente ‘les cayó’ un nuevo competidor: Time Ceramic, una empresa de China, hizo una inversión de varios miles de millones de pesos para instalar una nueva fábrica en nuestro país. Ubicada en Hidalgo, entró en funcionamiento desde el año pasado y de acuerdo con personas en la industria, aunque quizás su producto no es de calidad sobresaliente, sí puede competirle a las grandes (y más por su nivel de precio).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-18",
+      "post_date": "2025-09-18T12:24:58.531Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-434",
+      "subtitle": "Sucesión en Femsa; la sueca Essity; Nutrisa sale a bolsa; corredores inmobiliarios; GE Aerospace; Bimbo en Brasil; Brunswick; Las Muertas; Nvidia e Intel; universidades para emprendedores; Arc'teryx",
+      "text": "Comentario Whitepaper: tienen plantas en Nuevo León, Tamaulipas, Hidalgo, Michoacán y el Edomex.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-09",
+      "post_date": "2025-09-09T12:22:00.457Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-98f",
+      "subtitle": "Amazon y Rappi; Llyasa; casinos Cirsa; marketshare automotriz; BBVA y Sabadell; Mary Brown’s Chicken en Yucatán; Temu; padel en Miami; 1789 Capital; el 'Succession' de verdad",
+      "text": "Comentario Whitepaper: aseguran atender en nuestro país alrededor de 5.6 millones de visitantes al año. Sus principales marcas son Casino Life, Casino Central y Emotion, y tienen sucursales en lugares como Hermosillo, La Paz, Chihuahua, Colima y Pachuca (entre otros).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-20",
+      "post_date": "2025-08-20T12:24:20.723Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fe6",
+      "subtitle": "Digitt; CI Banco-Multiva e Intercam-Kapital; Steel Dynamics; e-commerce de productos chinos; Incode; turismo; Target; Hertz y Amazon; mini Labubus; Canva; Foxconn; spotlight en Ooni",
+      "text": "Comentario Whitepaper: basado en CDMX, Kapital nació en 2020 como una fintech; en septiembre de 2023 se quedó con Banco Autofin. Al segundo trimestre, reportaron una cartera total de $9,300 millones de pesos, $18,500 millones de captación, y un resultado neto de $146 millones. Intercam, por su parte, registraba a junio una cartera de $25,000 millones y $37,000 millones de captación, con un resultado neto de $1,358 millones en Q2. Los fundadores de Kapital son René Saúl y Fernando Sandoval.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-08-08",
+      "post_date": "2025-08-08T12:17:36.185Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-33d",
+      "subtitle": "Inversiones de farmacéuticas; AT&T México; movimientos clave; Finsus y Anticipa; TelevisaUnivision; AI y la creación de 'billonarios'; el segmento affluent en el turismo; trailer de The Paper",
+      "text": "* Bayer, empresa alemana con más de 100 años en México, invertirá $3,000 millones de pesos en los próximos cinco años para expandir la capacidad de su planta en Orizaba y agregar líneas de producción en el Edomex. * Carnot Laboratorios, mexicana, destinará $3,500 millones en cinco años para construir una planta en Hidalgo. * Boehringer Ingelheim, también de Alemania, haría una inversión de $3,500 millones para hacer de su planta de tabletas en Xochimilco la más grande de la empresa. * AstraZeneca, de UK, invertirá $2,000 millones en dos años para investigación clínica, ampliar su Centro de Innovación y Tecnología y expandir su manufactura en el Edomex (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-17",
+      "post_date": "2025-07-17T12:24:17.422Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c4",
+      "subtitle": "Walmart y Bait; Fibra Mty; Capitanes; Mango; Loads; Reina Madre; Nemak; Founders Fund; Municipal; cines; Infosel y la fiebre de las punto com",
+      "text": "Reina Madre es una red de clínicas y un hospital enfocados en salud femenina: ginecología, obstetricia, pediatría y medicina estética, de bajo costo. Fundada en 2015, hoy opera 14 clínicas y un hospital en CDMX, Estado de México, Puebla y Pachuca. Su plan es abrir cinco nuevas clínicas al año para llegar a 70 sucursales en las principales ciudades del país. Aseguran atender más de 500,000 consultas al año y más de 6,000 nacimientos.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-14",
+      "post_date": "2025-07-14T12:24:11.700Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c61",
+      "subtitle": "Waldo's; futbol; aranceles; conoce a: Karen Goldberg; Fuchs; minería; autos eléctricos; Pérez-Llorca; MBS's online; Kraft Heinz; Netflix y YouTube; tiendas departamentales; precio de los foros",
+      "text": "Comentario Whitepaper: como contexto, las valuaciones de los equipos de fútbol de la MLS, la liga de EUA, van desde los $400 millones de dólares hasta algunos por encima de los $1,000 millones de dólares, como el Inter de Miami. Otros equipos mexicanos que podrían venderse pronto, por el tema de la multipropiedad, son el Atlas o Santos (Grupo Orlegi), León o Pachuca (Grupo Pachuca) y Mazatlán o Puebla (Grupo Salinas). Hasta antes del deal, Grupo Caliente era dueño de Querétaro y de los Xolos de Tijuana.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-01",
+      "post_date": "2025-07-01T12:21:33.695Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dfa",
+      "subtitle": "Giant Motors en Hidalgo; la ronda de Klar; exportaciones; la planta de metanol; robots de Amazon; Intercam en EUA; Piaggio Avanti; sueldos CTOs y CIOs; el family office de Mariasun",
+      "text": "Giant Motors duplicará la capacidad de la planta que tienen en Hidalgo: están invirtiéndole alrededor de $3,000 millones de pesos para poder llegar a producir 60,000 unidades al año. Fundada en 2006, la empresa arma aquí (y distribuye) principalmente vehículos JAC, de China. En 2024 se vendieron cerca de 25,000 autos JAC en nuestro país (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-17",
+      "post_date": "2025-06-17T12:23:41.068Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-d2f",
+      "subtitle": "Grupo Posadas; resultados de Nazca; uniones de crédito; SuKarne; intercambio comercial; taquerías de EUA; Trump Card; el Ferrari eléctrico; streaming vs cable",
+      "text": "En esta nueva temporada de Arquitectura de los Negocios, Susana Sáenz recorre la historia de Cemex: desde sus orígenes en México con Cementos Hidalgo y Cementos Monterrey, pasando por los desafíos de la Revolución y la Gran Depresión, hasta la fusión que dio pie a la creación de Cemex.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-17",
+      "post_date": "2025-06-17T12:23:41.068Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-d2f",
+      "subtitle": "Grupo Posadas; resultados de Nazca; uniones de crédito; SuKarne; intercambio comercial; taquerías de EUA; Trump Card; el Ferrari eléctrico; streaming vs cable",
+      "text": "En el primer episodio destacan figuras fundadoras, como Brittingham y Zambrano, así como la transformación de la planta Hidalgo en cooperativa gracias al apoyo de Lázaro Cárdenas. Finalmente, analizamos cómo Lorenzo H. Zambrano Treviño impulsó la modernización tecnológica y la expansión global de la empresa.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-10",
+      "post_date": "2025-06-10T12:17:09.139Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-218",
+      "subtitle": "ADO; Kapital Bank y Xepelin; transformadores y medidores chinos; Michelin; vuelos a Europa; Hampton Inn; Winkelmann Powertrain México; Kindle y Goodreads; Agnelli; 'loner economy'",
+      "text": "Comentario Whitepaper: en septiembre de 2023, Kapital, una fintech que había sido creada con el objetivo de ofrecer servicios financieros a PyMes, anunció que pagaría $50 millones de dólares para quedarse con Banco Autofin. De acuerdo con sus estados financieros, habría pasado de perder $81 millones de pesos en el primer trimestre del año pasado, a ganar $75 millones en los primeros 3 meses de 2025.",
+      "matched_by": "family"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "state": "Veracruz",
+  "crm_context": {
+    "aaa_aa": 46,
+    "dm": 98,
+    "industries": "Puerto · petroquímica · agroindustria"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Chedraui",
+      "aliases": [
+        "Chedraui",
+        "Chedraui Obeso"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 13,
+      "mention_dates": [
+        "2026-05-04",
+        "2026-04-01",
+        "2026-03-17",
+        "2026-03-02",
+        "2026-02-27",
+        "2026-01-13",
+        "2025-12-03",
+        "2025-10-22",
+        "2025-10-15",
+        "2025-10-09",
+        "2025-10-02",
+        "2025-09-29",
+        "2025-05-30"
+      ]
+    },
+    {
+      "label": "Hernández Ramírez",
+      "aliases": [
+        "Hernández Ramírez",
+        "Banamex Tuxpan",
+        "ex-Citibanamex"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Chahín Trueba",
+      "aliases": [
+        "Chahín Trueba",
+        "Acero HESA",
+        "Fletes HESA"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Café Parroquia",
+      "aliases": [
+        "Café Parroquia",
+        "Parroquia",
+        "Vergara"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "GOMSA",
+      "aliases": [
+        "GOMSA",
+        "Gómez Malpica"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "GRUVER",
+      "aliases": [
+        "GRUVER",
+        "Ramón Gomez Gomez"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Unión Veracruzana",
+      "aliases": [
+        "Unión Veracruzana",
+        "Exsome"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 26,
+    "ppt_families_hit": 1,
+    "ppt_families_total": 7,
+    "top_sectors": [
+      [
+        "Retail / Comercio",
+        15
+      ],
+      [
+        "Banca / Finanzas",
+        6
+      ],
+      [
+        "Manufactura / Nearshoring",
+        4
+      ],
+      [
+        "Real Estate / Construcción",
+        3
+      ],
+      [
+        "Alimentos y Bebidas",
+        2
+      ],
+      [
+        "Agroindustria",
+        1
+      ],
+      [
+        "Tecnología / Telecom",
+        1
+      ],
+      [
+        "Logística / Transporte",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        8
+      ],
+      [
+        "Resultados",
+        2
+      ],
+      [
+        "Familia / Sucesión",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        10
+      ],
+      [
+        "Oxxo México",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-05-04",
+      "post_date": "2026-05-04T12:19:06.953Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-d77",
+      "subtitle": "Oxxo México; entrevista al CEO de Philip Morris; movimientos clave; Benavides y GLP-1; Glisco en Carolina del Sur; BlackBerry; podcasts y AI; La Once Mil va a Madrid; el impacto de los elevadores",
+      "text": "Comentario Whitepaper: Oxxo México representa 36% de los ingresos totales de Femsa. Con ingresos totales de casi $75,000 millones de pesos en el trimestre, Oxxo México por sí solo sería un negocio con mayores ventas que Cemex (a nivel global). El EBITDA, de $10,500 millones, sería superior a lo que generan Chedraui, Soriana y Tiendas 3B —juntas.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-04-27",
+      "post_date": "2026-04-27T12:21:59.525Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b8c",
+      "subtitle": "Walmex y Walmart; Givaudan en Querétaro; Café la Flor de Córdoba; movimientos clave; resultados de Bosch; fees de banqueros; acciones de Adidas; Spotify; Oprah y Amazon; guaruras en Silicon Valley",
+      "text": "Café la Flor de Córdoba es una empresa familiar con casi 90 años de historia, que hace 10 años contaba con 10 sucursales. Ahora, operada por la tercera generación, se expandieron ya a 120 puntos de venta y presumen crecimientos de doble dígito en ingresos. Federico Hernández es el director general.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-10",
+      "post_date": "2026-04-10T12:12:01.034Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c6",
+      "subtitle": "VC en LATAM; Bupa en México; la planta de Constellation; conoce a Jimena González de Cossío; Dentalia; San Miguel de Allende; SpaceX; Unilever y Grüns; publicidad en ChatGPT; jets en Augusta",
+      "text": "En la llamada con analistas, el CFO de Constellation Brands, afirmó que su planta en Veracruz comenzará a operar hacia finales de agosto de este año; estaba previsto que arrancaría operaciones a principios de este año (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-10",
+      "post_date": "2026-04-10T12:12:01.034Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c6",
+      "subtitle": "VC en LATAM; Bupa en México; la planta de Constellation; conoce a Jimena González de Cossío; Dentalia; San Miguel de Allende; SpaceX; Unilever y Grüns; publicidad en ChatGPT; jets en Augusta",
+      "text": "Comentario Whitepaper: la planta inicialmente iba a estar en Mexicali pero fue cancelada durante el gobierno de AMLO. En Veracruz, la inversión ha sido aún mayor a lo inicialmente presupuestado. El año pasado anunciaron que planeaban invertir $2,000 millones de dólares en las plantas que tienen en México hacia 2027. Ojo que Constellation no está pasando por su mejor momento. Sus resultados se han visto perjudicados tanto por la tendencia hacia un menor consumo de alcohol entre nuevas generaciones, como también por el efecto de las redadas de ICE en EUA (que han desacelerado el consumo entre los hispanos que están en ese país).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-01",
+      "post_date": "2026-04-01T12:25:24.106Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2ac",
+      "subtitle": "Fibra Danhos; Churrerías Porfirio; resultados Cydsa; Park Life; los Burger King de GES; Trox en Puebla; turismo veterinario; ¿crédito de TikTok?; Geely y Volvo; spotlight en Blank Street Coffee",
+      "text": "Comentario Whitepaper: Salvador Daniel es el director general de Fibra Danhos; en su consejo participan como independientes Francisco Gil, José Antonio Chedraui, Pilar Aguilar y Pedro Aspe.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-17",
+      "post_date": "2026-03-17T12:17:32.163Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e15",
+      "subtitle": "Vitro y sus negocios; comida mexicana a nivel global; T1; Dollar General en México; BYD; movimientos clave; Portafolio de Negocios; más gimnasios que tiendas; King’s League; reportes trimestrales; TJX",
+      "text": "Comentario Whitepaper: la SOFOM que preside José Ramón Chedraui se especializa en crédito para empresas pequeñas y medianas; Yenny Cano es la CEO. Como contexto, con una cartera de este tamaño no están tan lejos de lo que tienen colocado en el segmento de PyMes bancos como Mifel ($6,339 millones en el portafolio de micro + pequeña + mediana).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-02",
+      "post_date": "2026-03-02T12:23:55.534Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-427",
+      "subtitle": "IPC; TelevisaUnivision y ViX; la ronda de TESS; Estado Natural; jugadores en Codere; movimientos clave; Bloomingdale’s; The Sphere; BYD en China; Steve Schwarzman y David Zaslav; VCs",
+      "text": "El IPC cierra febrero con una ganancia acumulada de 11.14% desde el primero de enero. Destacan, hasta ahora, los avances de empresas como Orbia (+30.83%), Megacable (+29%), Grupo México (+28.82%), Banco del Bajío (+26%) y Sigma Foods (+22.94%). En el otro extremo, las que más retroceden son Becle (-15%), Chedraui (-10.44%), Quálitas (-10%) y GAP, que acumula una bajada de -5% (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-02-27",
+      "post_date": "2026-02-27T12:20:26.144Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-de2",
+      "subtitle": "Resultados de Bimbo y de Chedraui; TV Azteca y AHMSA; conoce a Fernanda Sainz; Leoni en Durango; Fibra Monterrey; Hyrox; Pokémon; 'set-jetting'",
+      "text": "El año pasado Chedraui rompió su récord de aperturas: abrió 142 tiendas en México y una más en EUA, para llegar a 1,067 sucursales. Para 2026 prevé abrir 130 tiendas del formato Supercito en el país, además de 17 sucursales de formatos más grandes y cinco en EUA (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-02-16",
+      "post_date": "2026-02-16T12:20:39.568Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-4bd",
+      "subtitle": "Mapfre en México; la planta en Silao; INVEX en FIBRAeMX; menos camiones; movimientos clave; la expansión de Sala de Despecho; 16,000 millonarios; H World; las palomitas",
+      "text": "INVEX aumentó a 27.7% su participación en FIBRAeMX por medio de una transacción en la que transfirió a esa organización el 20% que tenía en la empresa que opera “tramos clave” del corredor carretero que conecta a CDMX con el Puerto de Veracruz. INVEX recibió el equivalente de $3,960 millones de pesos en certificados de la fibra (BMV).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-16",
+      "post_date": "2026-01-16T12:23:38.413Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-58e",
+      "subtitle": "Pilgrim’s Pride; Trayecto; conoce a Alexandra Violante; en Guanajuato; Fibra Inn; Amazon vs Saks; retrocede Porsche; Keurig Dr Pepper; resultados Cartier; Keurig Dr Pepper; menos nieve en Vail",
+      "text": "Pilgrim’s Pride invertirá $1,300 millones de dólares en México: buscan incrementar su capacidad productiva en más de 373,000 toneladas anuales (equivalentes a un crecimiento de 38%). La mayor parte de estos recursos, $950 millones, va dirigido a las plantas que tienen en Veracruz, Campeche y Yucatán; $200 millones para las de Durango y Coahuila, y el resto a Querétaro, San Luis Potosí e Hidalgo (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-13",
+      "post_date": "2026-01-13T12:24:19.959Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-aa0",
+      "subtitle": "Supercitos de Chedraui; market cap de BBVA; Chevez Ruiz Zamarripa en España; fuerza laboral; VelaFi; movimientos clave; Uniqlo; casas en Dubai; chocolates Lindt; el podcast de Nicolai Tangen",
+      "text": "El 13 de enero de 2025 Chedraui anunció que planeaba desarrollar 130 tiendas con el formato de Supercito a lo largo de los siguientes 12 meses; ayer dio a conocer que en 2026 buscará otra vez sumar ese mismo número de Supercitos durante este año (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-01-13",
+      "post_date": "2026-01-13T12:24:19.959Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-aa0",
+      "subtitle": "Supercitos de Chedraui; market cap de BBVA; Chevez Ruiz Zamarripa en España; fuerza laboral; VelaFi; movimientos clave; Uniqlo; casas en Dubai; chocolates Lindt; el podcast de Nicolai Tangen",
+      "text": "Comentario Whitepaper: con Supercito, Chedraui está acelerando en un formato de proximidad —son tiendas de unos 270 m2 que tienen 2,500 SKUs (vs más de 100,000 en una Tienda Chedraui) y que se especializan en abarrotes. Pasaron de tener 59 Supercitos en 2021, a 277 en septiembre del año pasado. El otro tema a destacar con Chedraui es el negocio que tienen en EUA. Allá cuentan con 384 supermercados y en su último informe trimestral reportaron que las ventas mismas tiendas en dólares disminuyeron 1.9%; se lo atribuyen a las políticas migratorias (que han afectado el tráfico). Creen que esto se mantendrá igual en 2026 —al menos durante la primera mitad del año.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-03",
+      "post_date": "2025-12-03T12:25:16.806Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9f1",
+      "subtitle": "Inversiones de OMA; Vambe; utilidades de aseguradoras; La Comer en Tulum; TMSourcing; Notion; usos de AI; retrocede Volvo; Shopify en Cyber Monday; spotlight en Bending Spoons",
+      "text": "Comentario Whitepaper: finalizaron el año pasado con 89 sucursales y un piso de ventas de 404,721 m², por lo que en promedio cada una tendría unos 4,550 m². Como contexto, Chedraui tiene al menos 18 tiendas en Quintana Roo.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-22",
+      "post_date": "2025-10-22T12:25:35.807Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e80",
+      "subtitle": "La venta de Prolec GE; Chedraui; WeShip; más sucursales de Nutrisa; Alsea en Jalisco; Heineken; Travis Kelce y Six Flags; Vector; acciones de Beyond Meat; robots en Amazon; spotlight en Swig",
+      "text": "En su informe trimestral, Chedraui reportó que las ventas mismas tiendas en EUA bajaron 2% debido a un menor tráfico de clientes; en formatos como El Super y Fiesta Mart está viéndose afectada por las políticas migratorias en ese país.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-15",
+      "post_date": "2025-10-15T12:25:04.651Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-370",
+      "subtitle": "Resultados de América Móvil; tiendas de Holcim; Deacero; dmX; Acapella; paquete económico vs PyMEs online; parques industriales; REI; Walmart y OpenAI; Netflix y Spotify; spotlight en Don Quijote",
+      "text": "El grupo vendió cerca de $15,000 millones de dólares el año pasado —equivalente a Chedraui— y estaría valuado en $21,000 millones de dólares. Hoy ocupa el sexto lugar en el ranking Japan’s 50 Richest de Forbes (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Whitepaper 10: Banamex y Grupo México, Waymo, Chedraui y más",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Platicamos de Banamex y Grupo México, la seguridad de Waymo, el crecimiento de Chedraui, las inversiones de Arabia Saudita, la presencia de Capital One en México, y de los emprendimientos de adultos mayores y jóvenes.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Disponible en Apple Podcasts, Spotify, YouTube y Trebel",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-02",
+      "post_date": "2025-10-02T12:27:28.274Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-91c",
+      "subtitle": "Vector y Finamex; Chedraui; Edgewell en Aguascalientes; Lalo Spirits; exportaciones; Burger King; AI y el mercado laboral; Berkshire Hathaway; Trump y las universidades; PE en EUA; $500B de Musk",
+      "text": "En lo que va del año, Chedraui ha sumado más de 75 sucursales nuevas y con ello ya superó las 1,000 tiendas. Poco más de 60% están en México y cerca de 40% en EUA. El año pasado abrieron 84, y un año antes fueron 57.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-29",
+      "post_date": "2025-09-29T12:23:26.986Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3dd",
+      "subtitle": "Autozone; Portafolio de Negocios; Grupo Comercial Control; promoción vía influencers; clínicas Cutis; conoce a Edna Sosa; Chambas AI; IPOs; Anthropic; Waymo; Aldi; alternativas a H-1B",
+      "text": "Comentario Whitepaper: creada en 2007, es una SOFOM que se especializa en créditos para empresas. Su consejo está encabezado por José Ramón Chedraui (quien es también presidente del consejo de Chedraui USA).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-18",
+      "post_date": "2025-09-18T12:24:58.531Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-434",
+      "subtitle": "Sucesión en Femsa; la sueca Essity; Nutrisa sale a bolsa; corredores inmobiliarios; GE Aerospace; Bimbo en Brasil; Brunswick; Las Muertas; Nvidia e Intel; universidades para emprendedores; Arc'teryx",
+      "text": "La serie de Netflix Las Muertas, dirigida por Luis Estrada y basada en el libro de Jorge Ibargüengoitia, generó una derrama de $350 millones de pesos durante sus más de cinco meses de rodaje en Veracruz, San Luis Potosí, Guanajuato y Ciudad de México. A una semana de su estreno, entró al top 10 en 42 países (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-20",
+      "post_date": "2025-08-20T12:24:20.723Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fe6",
+      "subtitle": "Digitt; CI Banco-Multiva e Intercam-Kapital; Steel Dynamics; e-commerce de productos chinos; Incode; turismo; Target; Hertz y Amazon; mini Labubus; Canva; Foxconn; spotlight en Ooni",
+      "text": "Comentario Whitepaper: fundada en 2018 por David García y Manuel Álvarez, Digitt ofrece a sus clientes una alternativa para permitirles refinanciar las deudas generadas por el uso del crédito en sus tarjetas bancarias. Ya el año pasado habían recibido una línea de $50 millones de dólares en deuda (de parte de CoVenture, un fondo de Nueva York).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-08-08",
+      "post_date": "2025-08-08T12:17:36.185Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-33d",
+      "subtitle": "Inversiones de farmacéuticas; AT&T México; movimientos clave; Finsus y Anticipa; TelevisaUnivision; AI y la creación de 'billonarios'; el segmento affluent en el turismo; trailer de The Paper",
+      "text": "* Bayer, empresa alemana con más de 100 años en México, invertirá $3,000 millones de pesos en los próximos cinco años para expandir la capacidad de su planta en Orizaba y agregar líneas de producción en el Edomex. * Carnot Laboratorios, mexicana, destinará $3,500 millones en cinco años para construir una planta en Hidalgo. * Boehringer Ingelheim, también de Alemania, haría una inversión de $3,500 millones para hacer de su planta de tabletas en Xochimilco la más grande de la empresa. * AstraZeneca, de UK, invertirá $2,000 millones en dos años para investigación clínica, ampliar su Centro de Innovación y Tecnología y expandir su manufactura en el Edomex (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-01",
+      "post_date": "2025-08-01T12:09:01.216Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-915",
+      "subtitle": "Ingreso en hogares; Cox e Iberdrola; Pilgrim’s Pride; los planes de Don Colchón; resultados de dmX; movimientos clave; Ray Dalio; múltiplo de Figma; relojes de Suiza; zippers de YKK",
+      "text": "Comentario Whitepaper: Pilgrim’s tiene a México entre sus prioridades estratégicas —están buscando crecer su negocio 20%, y para ello traen inversiones en Veracruz y Mérida que les permitirán aumentar su capacidad instalada (y están abiertos a posibles adquisiciones). En la llamada trimestral hablaron mucho sobre nuestro país, destacando avances en el canal de foodservice y como proveedores de los negocios de pollo rostizado. Su CEO en México es Jesús Muñoz, quien tiene más de 20 años en la empresa.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-27",
+      "post_date": "2025-06-27T12:24:33.228Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dfb",
+      "subtitle": "Intervenidos; más 'dollar stores'; plantas de International Paper; empresas de más de 10 empleados; Atomic Kitchen; Inmedi-k; Nike; Travis Kalanick; todo mundo quiere estar la TV",
+      "text": "Una empresa mexicana con 50 años en el negocio de papeles, cartones y empaques, APSA, se estaría quedando con una planta de cartón para envases y dos plantas de reciclaje (en Veracruz y Nuevo León) que pertenecían a International Paper (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-05-30",
+      "post_date": "2025-05-30T12:15:52.176Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7b5",
+      "subtitle": "Chedraui y H-E-B; Índice Global Latam Multilatinas; SWBC en Monterrey; Beyond Wealth; John Deere y los aranceles; Business Insider; cerveza sin alcohol; de dónde vienen los CEOs",
+      "text": "En lo que va del año, Chedraui ha sumado 30 tiendas a su red de sucursales. Operan 572 puntos de venta en México, además de 384 tiendas en EUA (Redacción Whitepaper).",
+      "matched_by": "family"
+    }
+  ]
+}

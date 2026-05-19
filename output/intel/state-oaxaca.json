@@ -1,0 +1,97 @@
+{
+  "state": "Oaxaca",
+  "crm_context": {
+    "aaa_aa": 4,
+    "dm": 6,
+    "industries": "Mezcal · café Pluma Hidalgo"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Casa Cortés Mezcal",
+      "aliases": [
+        "Casa Cortés",
+        "Cortés Mezcal"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Cluster cafetero Pluma Hidalgo + Sierra Sur",
+      "aliases": [
+        "Pluma Hidalgo",
+        "Sierra Sur"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Instituto Sarmiento / Hospital San José",
+      "aliases": [
+        "Instituto Sarmiento",
+        "Hospital San José",
+        "Sarmiento"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 4,
+    "ppt_families_hit": 0,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Alimentos y Bebidas",
+        1
+      ],
+      [
+        "Agroindustria",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        1
+      ]
+    ],
+    "new_entities_detected": []
+  },
+  "excerpts": [
+    {
+      "date": "2025-11-07",
+      "post_date": "2025-11-07T12:25:11.096Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dff",
+      "subtitle": "Monster; Alsea vendiendo; nuevo CEO de Bimbo; Arteche; TotalPass; Megacable; El Santuario del Gusano de Seda; el trillón de Elon Musk; Ford; vuelos cancelados en EUA; Meta; Dutch Bros",
+      "text": "El Santuario del Gusano de Seda en San Pedro Cajonos, Oaxaca, es el único lugar en México donde se conserva la cadena completa de producción de la seda: desde la cría del insecto hasta el tejido a mano.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-29",
+      "post_date": "2025-07-29T12:24:47.417Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-169",
+      "subtitle": "Un trimestre de resultados mixtos; sobre Casa Lumbre; cruceros; Essilor Luxottica; Diablos Rojos; JP Morgan y Open Banking; ganadores con Figma; autos en China; todo mundo va a Japón",
+      "text": "Sin embargo, otra participación importante de la empresa en la industria es menos conocida: Casa Lumbre tiene una empresa agrícola subsidiaria, Mezcales Artesanales Casa Lumbre, que desde hace 8 años crece agave para otras empresas. Opera en Oaxaca, Puebla y Jalisco y desarrolla soluciones de siembra sustentable para el mezcal —una industria que produce 12.3 millones de litros al año (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-25",
+      "post_date": "2025-07-25T12:24:10.238Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5a1",
+      "subtitle": "Genomma Lab; Bimbo; informalidad; Hyrox; Iberdrola; agua mineral; malls en EUA; Paramount y Skydance Media; Hoka y Ugg; barras de proteína",
+      "text": "Comentario Whitepaper: los estados con mayor informalidad son Oaxaca (81.5%), Estado de México (79.8%) y Guerrero (78.6%). En contraste, los de menor informalidad son Quintana Roo (35.9%), Chihuahua (37.7%) y Baja California Sur (38.4%).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-09",
+      "post_date": "2025-07-09T12:17:37.935Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a29",
+      "subtitle": "Autobuses premium; exportaciones de vehículos; Bridgefy; aranceles a los tomates; parques industriales; productos que van y vienen de Nueva Zelanda; Youth Sports; matcha; spotlight en Figma",
+      "text": "ADO invertirá $2,000 millones de pesos para renovar los autobuses de sus flotas Platino y GL; la iniciativa incluye la incorporación de 303 unidades nuevas. Atenderán rutas como México-Oaxaca y México-Villahermosa, y son autobuses con menos asientos —en el segmento platino, por ejemplo, pasan de 27 asientos, a 23 (Expansión).",
+      "matched_by": "state"
+    }
+  ]
+}

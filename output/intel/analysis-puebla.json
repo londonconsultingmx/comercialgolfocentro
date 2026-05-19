@@ -1,0 +1,196 @@
+{
+  "state": "Puebla",
+  "pulso": "Puebla se confirma en los extractos como uno de los hubs industriales más activos de la zona Sur-Centro-Golfo, con una concentración inusualmente alta de eventos de Inversión/Capex (19 de 35 extractos) por encima de Resultados (8) y Expansión/Apertura (4). El estado mantiene su columna vertebral automotriz (Audi, Volkswagen ensamblando eléctricos e híbridos, Thyssenkrupp con planta desde hace casi 30 años, SKF consolidando producción tras cerrar Monterrey, Motherson de India, y ahora Shacman de China con $15 millones de dólares para fabricar camiones), pero el flujo de capital se está diversificando agresivamente hacia alimentos y bebidas (sector top con 6 menciones), real estate industrial y consumo.\n\nEl dato más relevante para LCG es la actividad de empresas familiares poblanas de alimentos en plena fase de expansión Capex: El Calvario/PATSA (Romero Bringas/Celis), fundada hace más de 70 años en Tehuacán, abrió en junio 2025 una nueva planta de huevos en Tlaxcala con $1,250 millones de pesos —y según WATT Poultry hoy es la tercera avícola del país con 10 millones de gallinas, solo detrás de PROAN y Bachoco. Tehuacán Brillante (agua mineral nacida en Puebla en 1983) sigue siendo una de las pocas marcas 100% mexicanas en una categoría dominada por multinacionales; MIYM (lácteos) construye su tercera planta sumando a Puebla y Tlaxcala; Mula de 5's produce ginger beer desde Puebla con un margen de 15%. Hay además llegada de jugadores nuevos al estado: Logistic Properties of the Americas (Costa Rica) entró al mercado mexicano vía Puebla, IKEA reportó crecimiento de 40% con tienda en Puebla, Alsea invirtió $115 millones de pesos para abrir un Cheesecake Factory, Reina Madre (salud femenina) opera ya en Puebla y Trox triplicará su capacidad con $350 millones de pesos.\n\nEn paralelo, el ecosistema deportivo poblano aparece como termómetro de movimiento patrimonial: el Puebla FC (Grupo Salinas) figura entre los clubes en negociación abierta con fondos extranjeros, y Pericos de Puebla (Mota Engil/Bejos) sigue en manos del Grupo Prodi. La cobertura de Whitepaper sobre Puebla es robusta (35 extractos, segunda mejor cobertura sectorial es Real Estate/Construcción), suficiente para construir tesis comerciales sólidas.",
+  "themes": [
+    {
+      "titulo": "Puebla como hub avícola/alimentos en expansión Capex agresiva",
+      "explicacion": "Los extractos confirman que las empresas familiares poblanas del sector alimentos están en una fase de Capex significativa. El Calvario (PATSA, Romero Bringas/Celis) destinó $1,250 millones de pesos para una nueva planta de huevos en Tlaxcala con capacidad inicial de 2 millones de huevos diarios (junio 2025), consolidándose como tercer productor avícola nacional. MIYM invirtió $1,100 millones de pesos para su tercera planta de lácteos (mayo 2025), con presencia previa en Puebla y Tlaxcala. Bimbo anunció a Puebla entre los siete estados receptores de su plan de $2,000 millones de dólares al 2028. Este patrón Capex-intensivo en alimentos es el escenario natural para servicios de profesionalización operativa, optimización de cadena de suministro y financiamiento estructurado.",
+      "sectores": ["Alimentos y Bebidas", "Agroindustria"],
+      "evidence_dates": ["2025-06-05", "2025-05-20", "2025-07-18"],
+      "implicacion_lcg": "Los planes Capex de empresas familiares poblanas en alimentos abren ventana para acompañamiento en profesionalización operacional, governance y financiamiento. El Calvario/PATSA específicamente —ya en el PPT— está pasando de empresa familiar regional a tercer jugador nacional avícola: el clásico punto de inflexión donde se requiere consolidar estructura corporativa, sistemas de gestión y consejo profesional."
+    },
+    {
+      "titulo": "Cinturón automotriz poblano: consolidación y rotación de jugadores globales",
+      "explicacion": "Puebla sigue siendo plaza automotriz clave pero con dinámica de rotación: SKF cerró su planta de Monterrey y consolidó producción en Nuevo León y Puebla (abril 2026, en proceso de separar negocio automotriz del industrial); Volkswagen y Audi mantienen las únicas dos plantas de Puebla que ensamblan eléctricos/híbridos del país; Thyssenkrupp opera desde 1996; Motherson (India) y ahora Shacman (China, $15 millones de dólares para 1,000 camiones/año) refuerzan presencia china. Esta concentración de tier-1 y OEMs genera ecosistema de proveedores familiares mexicanos en autopartes que enfrentan reto de adaptarse a la transición eléctrica.",
+      "sectores": ["Automotriz", "Manufactura / Nearshoring"],
+      "evidence_dates": ["2026-04-13", "2026-04-08", "2025-11-18", "2025-10-09", "2025-09-24"],
+      "implicacion_lcg": "Los proveedores familiares de tier 2-3 del cluster automotriz poblano son público natural para consultoría operacional, diversificación de portafolio (transición EV) y M&A advisory cuando los OEMs reconfiguran cadenas. Los 148 decision makers del CRM en Puebla, con automotriz como industria dominante, son el universo prioritario para acercamientos pretextados con la noticia SKF y la entrada de Shacman."
+    },
+    {
+      "titulo": "Real estate industrial y de retail extranjero entrando por Puebla",
+      "explicacion": "Logistic Properties of the Americas (LPA, sede en Costa Rica) entró al mercado mexicano específicamente vía Puebla con adquisición de naves industriales (octubre 2025), reportando $36.4 millones de dólares de ingresos en los primeros nueve meses. IKEA mantiene Puebla como una de sus tres tiendas en México y reporta crecimiento de 40% en ventas vs 2024. Fibra Inn asumió operación directa de Holiday Inn en Puebla. Alsea destinó $115 millones de pesos para abrir el noveno Cheesecake Factory del país en Puebla. Trox (alemana, ventilación) destinará $350 millones de pesos para triplicar su capacidad en Puebla.",
+      "sectores": ["Real Estate / Construcción", "Logística / Transporte"],
+      "evidence_dates": ["2025-10-06", "2025-11-18", "2025-10-29", "2025-07-30", "2025-07-10", "2026-04-01"],
+      "implicacion_lcg": "La inversión inmobiliaria-industrial sostenida implica que desarrolladores locales y familias dueñas de tierra/naves están viendo plusvalía y demanda concreta. Oportunidad para asesoría en estructuración patrimonial, joint ventures con capital extranjero y profesionalización de family offices que están convirtiendo terrenos en portafolios industriales."
+    },
+    {
+      "titulo": "Marcas poblanas con potencial M&A bajo el playbook Cholula",
+      "explicacion": "Los extractos repetidamente analizan el caso Cholula (adquirida por McCormick a más de 8x ventas y ~25x EBITDA) como benchmark para marcas mexicanas con identidad regional fuerte. McCormick aumentó en 2025 a 75% su participación en McCormick de México. Tapatío se cita como otro caso (~$70 millones de dólares de ventas, márgenes muy altos). Tehuacán Brillante (agua mineral, fundada 1983 en Puebla) se destaca como rareza 100% mexicana en categoría dominada por Coca-Cola (Topo Chico) y Keurig Dr Pepper (Peñafiel). Mula de 5's produce 120,000 botellas/año desde Puebla con 15% de margen.",
+      "sectores": ["Alimentos y Bebidas"],
+      "evidence_dates": ["2026-03-31", "2026-01-30", "2026-01-23", "2026-01-21", "2026-02-20"],
+      "implicacion_lcg": "Tehuacán Brillante y marcas poblanas con identidad regional son candidatos naturales a M&A advisory en el playbook Cholula/Tapatío. LCG puede posicionarse como sell-side advisor para familias dueñas de marcas regionales antes de que un strategic internacional toque la puerta. Indicio fuerte: el mercado está pagando múltiplos de software por marcas mexicanas con tracción de exportación."
+    },
+    {
+      "titulo": "Multipropiedad en LigaMX fuerza venta del Puebla FC",
+      "explicacion": "Dos extractos (marzo 2026 y julio 2025) señalan al Puebla FC entre los clubes en negociación abierta con fondos de inversión extranjeros. Grupo Salinas es dueño del Puebla y de Mazatlán, y la regla de multipropiedad obliga a desinvertir uno. Innovatio Capital compró Querétaro a Grupo Caliente en valuación de $120 millones de dólares; Atlante habría llegado a acuerdo con Grupo Salinas para hacerse del Mazatlán por $65 millones de dólares (lo que implicaría que Salinas se queda con Puebla, o viceversa).",
+      "sectores": ["Tecnología / Telecom"],
+      "evidence_dates": ["2026-03-12", "2025-07-14", "2026-04-22"],
+      "implicacion_lcg": "Movimiento patrimonial mayor con presencia de Grupo Salinas (Salinas Pliego, red AAA del CRM). Aunque la venta de un club no es típicamente consultoría LCG, sí es señal de que el family office Salinas está reordenando portafolio —ventana indirecta para conversaciones sobre vehículos de inversión, governance y profesionalización de equipos deportivos como activos institucionales."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "El Calvario / PATSA (Romero Bringas / Celis)",
+      "en_crm": true,
+      "movimiento": "En junio 2025 inauguró nueva planta de huevos en Tlaxcala con inversión de $1,250 millones de pesos; primera etapa produce más de 2 millones de huevos/día. Es tercer productor avícola nacional con ~10 millones de gallinas según WATT Poultry, solo detrás de PROAN (40M) y Bachoco (12.5M). Fundada hace más de 70 años en Tehuacán, Puebla.",
+      "que_revela": "Empresa familiar poblana en pleno salto de jugador regional a tercer nacional. Capex significativo financiado (origen no revelado, pero $1,250M MXN es masivo) sugiere capacidad de endeudamiento o reinversión de utilidades. Apellido Celis es relevante: nota separada del 16-ene-2026 menciona a Arquímedes Celis (ex CEO de Lala y Bachoco) en el consejo de Pilgrim's México —indicio de red familiar sectorial.",
+      "approach_sugerido": "Familia ya en PPT con dos menciones recientes en Whitepaper —usar pretexto noticioso de la planta Tlaxcala. Investigar puente vía alumni Universidad Anáhuac o YPO; Tehuacán es plaza chica, los Romero Bringas son visibles. Posible angle: profesionalización de governance avícola (consejo, family office, OKRs operativos) ahora que entran a la liga PROAN/Bachoco."
+    },
+    {
+      "nombre": "La Morena (Ayala)",
+      "en_crm": true,
+      "movimiento": "Una sola mención en Whitepaper (15-oct-2025) pero no en el extracto cargado al input —el extracto Holcim/Disensa menciona a 'Rafael Ayala' detrás de Disensa, pero el match a 'Ayala' puede ser homonimia. Sin movimientos materiales detectados en los extractos.",
+      "que_revela": "Cobertura escasa en Whitepaper sobre La Morena. Posible que el alias 'Ayala' haya generado falsos positivos. Sin tesis comercial nueva derivada de los extractos analizados.",
+      "approach_sugerido": "Mantener seguimiento de prensa especializada (categoría salsas/moles). El playbook Cholula/Tapatío aplica si La Morena tiene marcas con tracción exportadora. Aproximación vía red libanesa-mexicana o alumni Anáhuac si aplica al perfil familiar."
+    },
+    {
+      "nombre": "La Italiana (Cernicchiaro)",
+      "en_crm": true,
+      "movimiento": "Sin menciones en Whitepaper en el periodo cubierto.",
+      "que_revela": "Empresa familiar poblana con bajo perfil mediático. No hay evidencia de movimientos Capex, M&A ni resultados publicados en Whitepaper.",
+      "approach_sugerido": "Requiere investigación primaria. Aproximación vía red local Puebla (alumni Anáhuac, Ibero, UPAEP) o vía Cámara de la Industria Alimentaria. Pretexto comercial debería construirse a partir de inteligencia de campo, no de Whitepaper."
+    },
+    {
+      "nombre": "Tehuacán Brillante",
+      "en_crm": false,
+      "movimiento": "Mencionada como marca de agua mineral nacida en Puebla en 1983, una de las pocas marcas 100% mexicanas en categoría dominada por Topo Chico (Coca-Cola) y Peñafiel (Keurig Dr Pepper). Sin movimientos Capex/M&A explícitos en el extracto del 30-ene-2026, pero el contexto del extracto es justamente discutir oportunidades en agua mineral.",
+      "que_revela": "Activo de marca con valor estratégico altísimo —el agua mineral mexicana es categoría con barreras y nostalgia. Estructura familiar probable (no es subsidiaria). Candidato natural a M&A bajo el playbook Cholula/Tapatío si la familia accionista lo considera.",
+      "approach_sugerole": "Investigar accionariado y patriarca via red Puebla / Tehuacán. La cercanía geográfica con El Calvario en Tehuacán sugiere posibles puentes entre ambas familias. Approach via M&A advisory (sell-side) o family office strategy."
+    },
+    {
+      "nombre": "MIYM (envasado de lácteos)",
+      "en_crm": false,
+      "movimiento": "Inició construcción de su tercera planta con $1,100 millones de pesos en Aguascalientes, sumándose a sus plantas existentes en Puebla y Tlaxcala (20-mayo-2025).",
+      "que_revela": "Empresa familiar en plena expansión geográfica con Capex importante. Sector lácteo en consolidación regional. Casi sin huella pública —candidato típico para profesionalización operacional y financiera.",
+      "approach_sugerido": "Investigación primaria sobre propiedad. Approach vía red regional Puebla-Tlaxcala-Aguascalientes; sectorialmente, asociaciones del gremio lácteo. Pretexto: best practices Capex multi-planta, governance multi-sitio."
+    },
+    {
+      "nombre": "Mula de 5's (ginger beer)",
+      "en_crm": false,
+      "movimiento": "Fundada en 2017, produce desde Puebla cerca de 120,000 botellas/año, ventas aproximadas de $3 millones de pesos con margen ~15% (20-feb-2026).",
+      "que_revela": "Empresa pequeña aún, no es target AAA. Pero el ecosistema bebidas-artesanales/premium en Puebla sí es relevante de monitorear como pipeline futuro y para mapeo de fundadores con potencial.",
+      "approach_sugerido": "No es target inmediato. Útil para mapeo de jugadores emergentes y networking con la nueva generación empresarial poblana."
+    },
+    {
+      "nombre": "Grupo Salinas (Puebla FC + Mazatlán FC)",
+      "en_crm": true,
+      "movimiento": "En proceso de negociación de venta de uno de sus dos clubes LigaMX por regla de multipropiedad. Atlante habría acordado con Grupo Salinas para hacerse del Mazatlán FC por $65 millones de dólares (22-abr-2026), lo que implicaría conservar al Puebla.",
+      "que_revela": "El family office Salinas está reordenando portafolio de activos deportivos. Aunque la venta de un club no es típicamente core de LCG, sí es señal de actividad de planeación patrimonial.",
+      "approach_sugerido": "Aproximación a Grupo Salinas requiere red YPO Luis Ortiz o contactos institucionales. Pretexto comercial debe ser de magnitud (M&A, sucesión, family office strategy) —no operacional menor."
+    },
+    {
+      "nombre": "Grupo Prodi / Mota Engil México (Bejos)",
+      "en_crm": false,
+      "movimiento": "Bejos lidera Mota Engil México y Grupo Prodi, y desde 2018 es dueño de los Pericos de Puebla (Liga Mexicana de Beisbol). Mota Engil es construcción/infraestructura.",
+      "que_revela": "Empresario con presencia en construcción (sector top 2 en Puebla) y deporte. Indicio de family office con apetito por activos no-core.",
+      "approach_sugerido": "Investigar a Bejos y Grupo Prodi via alumni Anáhuac, red libanesa-mexicana (apellido Bejos es de origen libanés) o YPO. Pretexto: M&A advisory en infraestructura, diversificación patrimonial, gobernanza family office."
+    },
+    {
+      "nombre": "Alsea (en Puebla con Cheesecake Factory)",
+      "en_crm": false,
+      "movimiento": "Invirtió $115 millones de pesos para abrir la novena sucursal de The Cheesecake Factory en México, en Puebla. La marca representa 1% de los ingresos de Alsea (10-jul-2025).",
+      "que_revela": "Alsea ya está en CRM nacional (familia Cohen-Alazraki). Movimiento marginal para Alsea pero relevante como señal del poder adquisitivo en Puebla suficiente para justificar Cheesecake Factory.",
+      "approach_sugerido": "Alsea es jugador nacional; aproximación vía red CDMX. Para Puebla, el indicio es que el segmento alto está activo —oportunidad para retail/F&B familiar poblano."
+    },
+    {
+      "nombre": "Casa Lumbre / Mezcales Artesanales Casa Lumbre",
+      "en_crm": false,
+      "movimiento": "Subsidiaria agrícola opera en Oaxaca, Puebla y Jalisco; desarrolla soluciones sustentables de siembra de agave para mezcal. Industria mezcalera produce 12.3M litros/año (29-jul-2025).",
+      "que_revela": "Jugador relevante del mezcal con operación en Puebla. Mezcal es categoría de moda para M&A (analogía con tequila). Casa Lumbre fundada por Iván Saldaña, perfil emprendedor profesional.",
+      "approach_sugerido": "Aproximación vía red emprendedora/VC (Endeavor) más que vía empresa familiar tradicional. Útil como indicio de que Puebla es origen agavero relevante —oportunidad para familias terratenientes con concesión agavera."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Profesionalización avícola de El Calvario / PATSA en su salto a top-3 nacional",
+      "tipo": "profesionalizacion",
+      "que_dice_el_extracto": "Inversión de $1,250 millones de pesos en planta Tlaxcala (5-jun-2025); 10 millones de gallinas según WATT Poultry, solo detrás de PROAN (40M) y Bachoco (12.5M).",
+      "como_acercarse": "Via alumni Anáhuac o red YPO Luis Ortiz si aplica. Investigar puentes con Arquímedes Celis (ex CEO Lala y Bachoco, ahora consejero Pilgrim's México) por posible afinidad familiar/sectorial con apellido Celis de PATSA.",
+      "pretexto": "Felicitación por la planta de Tlaxcala + framework de profesionalización operacional/governance para empresas familiares que pasan de regional a nacional. Comparables: cómo Bachoco se profesionalizó antes de su LBO.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "M&A sell-side advisory para Tehuacán Brillante bajo playbook Cholula/Tapatío",
+      "tipo": "m&a",
+      "que_dice_el_extracto": "Tehuacán Brillante (nacida en Puebla, 1983) es una de las pocas marcas 100% mexicanas en agua mineral; categoría dominada por Topo Chico y Peñafiel (30-ene-2026). El playbook Cholula es referido en múltiples extractos (8x ventas, 25x EBITDA).",
+      "como_acercarse": "Investigación primaria del accionariado vía red Tehuacán/Puebla. Posibles puentes con familia El Calvario (Romero Bringas/Celis), también de Tehuacán.",
+      "pretexto": "Conversación estratégica sobre opciones de salida o capitalización: dado el apetito demostrado por strategics globales por marcas mexicanas, ¿cuándo es el momento óptimo? LCG puede ofrecer benchmarking discreto.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Diversificación EV/transición eléctrica para proveedores del cluster automotriz poblano",
+      "tipo": "operacional",
+      "que_dice_el_extracto": "Audi y Volkswagen en Puebla son 2 de las 8 plantas de eléctricos/híbridos del país (9-oct-2025). SKF cierra Monterrey y consolida en Puebla por separación de su negocio automotriz (8-abr-2026). Shacman (China) entra con $15M USD para 1,000 camiones/año (18-nov-2025).",
+      "como_acercarse": "Mapeo de los 148 DM del CRM con foco automotriz. Acercamiento sectorial vía Cámara Nacional de la Industria de Autopartes (INA) y eventos de cluster.",
+      "pretexto": "Roundtable o paper LCG sobre 'Tier 2-3 mexicanos ante la transición EV' usando los movimientos SKF, Audi, VW y la entrada china como datos duros.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Acompañamiento Capex multi-planta de MIYM (lácteos)",
+      "tipo": "operacional",
+      "que_dice_el_extracto": "MIYM invierte $1,100 millones de pesos en tercera planta (Aguascalientes), sumándose a las de Puebla y Tlaxcala (20-may-2025).",
+      "como_acercarse": "Investigación primaria de propiedad y dirección. Red gremial láctea (CANILEC). Posible puente vía proveedores compartidos con El Calvario (ambos en Puebla-Tlaxcala).",
+      "pretexto": "Best-practices de gobernanza, operaciones y supply chain en empresas familiares con expansión multi-sitio. Comparables: cómo Sigma o Lala estructuraron crecimiento multi-planta.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Family office strategy para Grupo Prodi / Bejos (Mota Engil México + Pericos)",
+      "tipo": "sucesion",
+      "que_dice_el_extracto": "Bejos lidera Mota Engil México y Grupo Prodi; desde 2018 es dueño de los Pericos de Puebla (22-abr-2026). Activos diversificados entre infraestructura y deporte.",
+      "como_acercarse": "Apellido Bejos es de origen libanés —approach natural vía red libanesa-mexicana (Slim, Harp Helú, Hajj) si hay puente. Alternativamente, alumni Anáhuac o YPO.",
+      "pretexto": "Conversación sobre estructuración family office, governance multi-activo y planeación de siguiente generación. La diversificación construcción-deporte es señal de family office en formación.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Posicionamiento como sell-side / buy-side advisor en venta del Puebla FC",
+      "tipo": "m&a",
+      "que_dice_el_extracto": "Puebla FC entre clubes en negociación con fondos extranjeros (12-mar-2026). Grupo Salinas dueño de Puebla y Mazatlán; Atlante habría acordado adquirir Mazatlán por $65M USD (22-abr-2026).",
+      "como_acercarse": "Aproximación a Grupo Salinas vía YPO Luis Ortiz o canal institucional. Foco es señalar disponibilidad como advisor reputacional —no necesariamente cerrar el deal del club.",
+      "pretexto": "Documento corto LCG sobre 'Valoración y profesionalización de activos deportivos como vehículo de family office', alimentado por casos Mazatlán FC y Querétaro FC.",
+      "urgencia": "baja"
+    },
+    {
+      "titulo": "Estructuración patrimonial-inmobiliaria para familias dueñas de naves industriales en Puebla",
+      "tipo": "financiera",
+      "que_dice_el_extracto": "Logistic Properties of the Americas (Costa Rica) adquirió naves en Puebla para entrar al mercado mexicano (6-oct-2025); Trox triplicará capacidad con $350M MXN (1-abr-2026); Shacman, Motherson, SKF expanden.",
+      "como_acercarse": "Red local de desarrolladores industriales (AMPIP, AMDI). Alumni Anáhuac que estén en real estate.",
+      "pretexto": "Sesión de inteligencia con familias terratenientes/desarrolladoras sobre cómo capturar la ola de capital extranjero industrial (CR, China, Alemania) vía joint ventures, REITs privados o venta parcial.",
+      "urgencia": "media"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "Reconfiguración SKF como señal de volatilidad en EV automotriz",
+      "descripcion": "SKF cerró planta Monterrey y consolida en Puebla por menor demanda de lo esperado en vehículos eléctricos (abril 2026). Es indicio de que la transición EV está más lenta que lo proyectado —los proveedores familiares poblanos del segmento automotriz podrían enfrentar ajustes de demanda. LCG debe modular el tono optimista sobre nearshoring EV."
+    },
+    {
+      "titulo": "Concentración china creciente en automotriz poblano",
+      "descripcion": "Shacman (camiones) inicia planta en Puebla con $15M USD (18-nov-2025). Junto con presencia previa de marcas chinas en otros estados, indica que el cluster poblano podría reorientarse hacia OEMs chinos —cambio geopolítico relevante con implicaciones de aranceles y T-MEC. Riesgo para proveedores tier-2/3 alineados a OEMs americanos/alemanes."
+    },
+    {
+      "titulo": "Cobertura escasa de La Italiana y La Morena en prensa de business",
+      "descripcion": "Dos de las tres familias del PPT asignadas a Puebla casi no aparecen en Whitepaper. Esto puede indicar bajo perfil estratégico (riesgo: están estancadas o en crisis silenciosa) o simplemente bajo perfil mediático intencional. Requiere validación con inteligencia primaria antes de invertir esfuerzo comercial."
+    }
+  ],
+  "gaps": [
+    "Cobertura muy limitada de La Italiana (Cernicchiaro) y La Morena (Ayala) —familias del PPT— en Whitepaper. Requiere investigación primaria (prensa local Puebla, redes sociales corporativas, registros del IMPI, RPP) para reconstruir estado actual.",
+    "Sector textil/maquila poblano (Tehuacán como capital del jean) totalmente ausente en los extractos. Whitepaper no cubre este verticalmente. LCG debería complementar con fuentes sectoriales (CANAINTEX, Cámara de la Industria del Vestido).",
+    "Universo de empresas familiares medianas (AA del CRM, no AAA) prácticamente invisible en Whitepaper —el medio prioriza Capex grande y M&A. Para los 148 DM mapeados se requiere inteligencia primaria via alumni y redes locales.",
+    "Sector salud y educación privada poblana (universidades, hospitales) con cobertura casi nula. Reina Madre es la única mención —faltan jugadores grandes como Hospital Ángeles Puebla, Hospital UPAEP, sistema BUAP.",
+    "Movimientos políticos/regulatorios estatales (gobierno de Puebla, secretaría de economía estatal) no cubiertos por Whitepaper. Relevante para entender plan estatal de promoción y posibles RFPs de modernización."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 35,
+    "evaluacion": "rica — la cobertura de 35 extractos con dominancia de eventos Capex (19) y sectores alimentos/automotriz/real estate ofrece base sólida para tesis comerciales accionables. Sin embargo, dos de las tres familias del PPT (La Italiana, La Morena) prácticamente no aparecen, lo que obliga a complementar con investigación primaria local. La señal más fuerte y única es la trayectoria de El Calvario/PATSA hacia el podio avícola nacional."
+  }
+}

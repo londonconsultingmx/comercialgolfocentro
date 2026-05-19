@@ -1,0 +1,88 @@
+{
+  "state": "Tabasco",
+  "crm_context": {
+    "aaa_aa": 8,
+    "dm": 15,
+    "industries": "Cacao · automotriz"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Grupo Cruces (automotriz)",
+      "aliases": [
+        "Grupo Cruces"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Chocolates Wolter (Wolter / Parizot Wolter)",
+      "aliases": [
+        "Wolter",
+        "Parizot Wolter",
+        "Chocolates Wolter"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Grupo CICAS (cacao + pimienta)",
+      "aliases": [
+        "Grupo CICAS",
+        "CICAS"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 3,
+    "ppt_families_hit": 0,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Logística / Transporte",
+        1
+      ],
+      [
+        "Retail / Comercio",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        2
+      ]
+    ],
+    "new_entities_detected": []
+  },
+  "excerpts": [
+    {
+      "date": "2025-09-05",
+      "post_date": "2025-09-05T12:24:25.047Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7c4",
+      "subtitle": "Klar y Banorte; Whirlpool en México; hoteles Wyndham; Fibra Macquarie; visas para inversionistas; más tiendas Lululemon; ¿$1 trillón para Elon?; otro concepto de gasolineras; Cousins Maine Lobster",
+      "text": "Volaris conecta a Guadalajara con nuevos destinos desde $29 MXN\\*. Vuela ya hacia Puebla, Durango, Villahermosa y Zihuatanejo hasta el 8 de septiembre de 2025.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-22",
+      "post_date": "2025-07-22T12:24:21.087Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fb4",
+      "subtitle": "OCN; Walmart en Tabasco; compras en el extranjero; Vilore Foods y Tía Lupita; motos de India; Marea Group; Fagor Ederlan; entregas por robots, aranceles, proteína",
+      "text": "Walmart ya tiene 38 tiendas en Tabasco, con una inversión acumulada de $4,000 millones de pesos. Hacia 2027 abrirán otras siete, con una inversión cercana a $1,000 millones de pesos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-09",
+      "post_date": "2025-07-09T12:17:37.935Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a29",
+      "subtitle": "Autobuses premium; exportaciones de vehículos; Bridgefy; aranceles a los tomates; parques industriales; productos que van y vienen de Nueva Zelanda; Youth Sports; matcha; spotlight en Figma",
+      "text": "ADO invertirá $2,000 millones de pesos para renovar los autobuses de sus flotas Platino y GL; la iniciativa incluye la incorporación de 303 unidades nuevas. Atenderán rutas como México-Oaxaca y México-Villahermosa, y son autobuses con menos asientos —en el segmento platino, por ejemplo, pasan de 27 asientos, a 23 (Expansión).",
+      "matched_by": "state"
+    }
+  ]
+}

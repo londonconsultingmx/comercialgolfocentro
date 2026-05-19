@@ -1,0 +1,107 @@
+{
+  "state": "Tabasco",
+  "pulso": "La cobertura de Whitepaper.mx sobre Tabasco es marginal: solo 3 extractos en el periodo analizado, ninguno tocando a las familias PPT del CRM (Grupo Cruces, Chocolates Wolter, Grupo CICAS). Las menciones son tangenciales —rutas aéreas (Volaris), expansión de Walmart y renovación de flotas ADO con rutas a Villahermosa— y reflejan a Tabasco como destino o mercado de consumo, no como origen de capital o decisiones corporativas mexicanas. Esto es consistente con un estado donde la actividad económica está dominada por Pemex, la nueva Refinería Dos Bocas, y un tejido de empresas familiares medianas (cacao, automotriz regional, comercio) que rara vez aparecen en medios financieros nacionales.",
+  "themes": [
+    {
+      "titulo": "Tabasco como mercado de consumo en expansión, no como polo emisor",
+      "explicacion": "Walmart confirma 38 tiendas activas con $4,000 MDP invertidos y 7 más al 2027 ($1,000 MDP adicionales). ADO duplica frecuencia con flotas premium hacia Villahermosa. Volaris suma conectividad. Todos son actores nacionales/extranjeros invirtiendo EN Tabasco; el extracto no registra empresas tabasqueñas invirtiendo afuera.",
+      "sectores": ["Retail / Comercio", "Logística / Transporte", "Aviación"],
+      "evidence_dates": ["2025-07-22", "2025-07-09", "2025-09-05"],
+      "implicacion_lcg": "El proveedor regional (distribuidores, transportistas, inmobiliarios) que sirve a estos jugadores externos puede ser un cliente AAA emergente. Mapear quién es el desarrollador inmobiliario detrás de las 7 nuevas tiendas Walmart y quién opera los servicios de proximidad."
+    },
+    {
+      "titulo": "Halo Dos Bocas / efecto Pemex no aparece en prensa de negocios",
+      "explicacion": "Tabasco es estado natal de AMLO y sede de la Refinería Dos Bocas, megaproyecto del sexenio anterior. Sorprende que Whitepaper.mx no recoja proveeduría, logística pesada, hospedaje industrial o efectos derivados. Posible sesgo del medio hacia retail/finanzas, o bien el ecosistema Dos Bocas se cubre por prensa especializada en energía.",
+      "sectores": ["Petróleo / Energía", "Construcción industrial", "Servicios a la industria"],
+      "evidence_dates": [],
+      "implicacion_lcg": "Hay una historia comercial relevante que NO está en Whitepaper. Vale la pena complementar con Energía a Debate, Petróleo & Energía, y contactos directos con cámaras locales (CMIC Tabasco, Canacintra)."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Walmart de México",
+      "en_crm": false,
+      "movimiento": "38 tiendas en Tabasco + 7 nuevas al 2027; $5,000 MDP acumulados",
+      "que_revela": "Walmart valida que el consumo medio-bajo tabasqueño justifica capex sostenido. Esto eleva el suelo de competencia para retailers regionales y obliga a los grupos familiares locales (incluyendo distribuidores y desarrolladores inmobiliarios) a profesionalizarse.",
+      "approach_sugerido": "No es prospecto LCG directo, pero usar el dato como hook con desarrolladores inmobiliarios y proveedores de servicios que orbitan Walmart Tabasco."
+    },
+    {
+      "nombre": "ADO (Mobility ADO)",
+      "en_crm": false,
+      "movimiento": "$2,000 MDP en renovación de flota Platino y GL; ruta México-Villahermosa priorizada",
+      "que_revela": "Villahermosa sigue siendo eje de movilidad terrestre premium. Para empresarios locales significa mejor conectividad ejecutiva con CDMX —relevante para venta consultiva.",
+      "approach_sugerido": "Dato de soporte para mostrar que la zona tiene flujo ejecutivo creciente; útil al posicionar workshops o foros LCG en Villahermosa."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Validar trío PPT vía red Luis Ortiz YPO y alumni LCG Villahermosa",
+      "tipo": "Activación de red propia",
+      "que_dice_el_extracto": "Whitepaper no menciona a Cruces, Wolter ni CICAS. Hay que entrar por puentes humanos.",
+      "como_acercarse": "Solicitar a Luis Ortiz una sesión de mapeo Tabasco-YPO; pedir a alumni de proyectos pasados LCG en Villahermosa (verificar en HubSpot) tres referencias warm a las familias PPT.",
+      "pretexto": "Estudio LCG sobre empresa familiar del Sureste post-Dos Bocas, con beneficio de un readout privado para participantes.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Cacao premium: ventana de mercado para Chocolates Wolter y Grupo CICAS",
+      "tipo": "Tesis sectorial",
+      "que_dice_el_extracto": "Nada directo en los 3 extractos, pero el contexto macro (turismo cacao, demanda global de chocolate fino de aroma) sugiere oportunidad de profesionalización para familias del sector.",
+      "como_acercarse": "Generar un punto de vista LCG sobre 'Cómo escalar una casa de cacao familiar mexicana sin perder origen' y usarlo como entrada con Wolter/CICAS vía Cámara Nacional del Cacao.",
+      "pretexto": "Compartir hallazgos del PoV y solicitar 30 min para validar hipótesis con un operador líder del sector.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Grupo Cruces (automotriz) — capitalizar boom de movilidad regional",
+      "tipo": "Prospección directa",
+      "que_dice_el_extracto": "ADO invierte $2,000 MDP; ampliación de rutas hacia Villahermosa. Aunque Cruces opera distribución automotriz, el mensaje macro es: la movilidad en Tabasco se está renovando.",
+      "como_acercarse": "Referencia a través de Cámara de la Industria Automotriz local o vía clientes LCG de distribución automotriz en otros estados (Yucatán, Veracruz).",
+      "pretexto": "Benchmark de prácticas de grupos distribuidores familiares en el Sureste; ofrecer comparativo de KPIs operativos.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Ola de proveeduría Dos Bocas / Pemex Tabasco",
+      "tipo": "Tesis sectorial",
+      "que_dice_el_extracto": "Whitepaper no lo cubre, pero la base instalada de servicios industriales en Tabasco genera empresas familiares medianas en construcción, logística pesada y servicios técnicos.",
+      "como_acercarse": "Pedir a la oficina LCG Villahermosa (si existe alumni o consultor residente) lista corta de proveedores Tier-2 de Pemex Tabasco con facturación AAA y dueño familiar.",
+      "pretexto": "Diagnóstico LCG de 'capacidad para sostener crecimiento sin sobre-apalancamiento' aplicado al ciclo Dos Bocas.",
+      "urgencia": "alta"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "Sesgo de cobertura Whitepaper hacia retail/finanzas",
+      "descripcion": "Whitepaper.mx subreporta Tabasco; los 3 extractos son periféricos. No confiar solo en este medio para construir agenda comercial del estado."
+    },
+    {
+      "titulo": "Dependencia del ciclo público (Pemex / Dos Bocas)",
+      "descripcion": "Muchas empresas familiares tabasqueñas dependen del gasto público energético. Cambios de administración federal o recortes en Pemex pueden golpear simultáneamente al pipeline LCG en el estado. Recomendable diversificar cualquier cuenta Tabasco con clientes de cacao/agro/retail."
+    },
+    {
+      "titulo": "Ausencia total de las 3 familias PPT en prensa de negocios nacional",
+      "descripcion": "Cruces, Wolter y CICAS no aparecen ni una vez. Esto puede indicar empresas de bajo perfil mediático (típico de empresa familiar mexicana), o bien que la cobertura está canalizada en medios regionales (Diario Presente, Tabasco Hoy)."
+    }
+  ],
+  "gaps": [
+    "Cero menciones de Grupo Cruces, Chocolates Wolter, Grupo CICAS en Whitepaper.",
+    "Sin cobertura de Refinería Dos Bocas ni proveeduría asociada.",
+    "Sin información de movimientos de capital, fusiones o expansiones de empresas tabasqueñas.",
+    "Sin nombres de directivos, consejeros o family officers tabasqueños identificables.",
+    "Sin datos de inversión en cacao premium, exportación o agroindustria local.",
+    "Sin información sobre el ecosistema de proveedores de Pemex en Tabasco.",
+    "Sin cobertura de turismo cacao (ruta del chocolate, haciendas cacaoteras).",
+    "Sin información sobre la Cámara Nacional del Cacao ni sus integrantes activos.",
+    "Sin datos sobre el sector construcción/inmobiliario en Villahermosa post-Dos Bocas.",
+    "Sin información sobre alumni LCG ubicados en Tabasco (verificar internamente).",
+    "Sin información sobre miembros YPO Tabasco activos (consultar a Luis Ortiz).",
+    "Sin cobertura de la industria de transformación tabasqueña (Canacintra Tabasco).",
+    "Sin datos de bancos regionales o privados activos en el estado.",
+    "Sin información de eventos empresariales o foros donde participen familias tabasqueñas.",
+    "Sin lectura del impacto del cambio sexenal (Sheinbaum vs AMLO) en el ecosistema empresarial local.",
+    "Sin información sobre relevo generacional en las 3 familias PPT.",
+    "Sin datos comparativos con estados vecinos (Veracruz, Chiapas, Campeche) para benchmarking."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 3,
+    "evaluacion": "limitada — Whitepaper.mx no es fuente útil para construir agenda comercial en Tabasco. Los 3 extractos disponibles tratan al estado como mercado de destino (Walmart, ADO, Volaris) y no tocan a las familias PPT del CRM. Para activar este estado se requiere prospección por puentes humanos (Luis Ortiz YPO, alumni LCG Villahermosa, Cámara Nacional del Cacao) y complementar con prensa regional y especializada en energía."
+  }
+}

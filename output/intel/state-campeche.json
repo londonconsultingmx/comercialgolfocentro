@@ -1,0 +1,98 @@
+{
+  "state": "Campeche",
+  "crm_context": {
+    "aaa_aa": 10,
+    "dm": 19,
+    "industries": "Apícola · pesquero · alimentos"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Grupo Richaud Hnos (alimentario)",
+      "aliases": [
+        "Grupo Richaud",
+        "Richaud Hnos",
+        "Richaud"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Azar Wabi (Turismo / liderazgo gremial)",
+      "aliases": [
+        "Azar Wabi"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Cluster apícola-pesquero",
+      "aliases": [
+        "Calkiní",
+        "Hopelchén",
+        "Champotón"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 4,
+    "ppt_families_hit": 0,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Real Estate / Construcción",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-04-01",
+      "post_date": "2026-04-01T12:25:24.106Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2ac",
+      "subtitle": "Fibra Danhos; Churrerías Porfirio; resultados Cydsa; Park Life; los Burger King de GES; Trox en Puebla; turismo veterinario; ¿crédito de TikTok?; Geely y Volvo; spotlight en Blank Street Coffee",
+      "text": "Comentario Whitepaper: Corporativo GES, además de Burger King, opera gasolineras y restaurantes de Church’s Texas Chicken. Su sede está en Campeche. En cuanto a Grupo Centaura, tienen un negocio inmobiliario y agencias automotrices.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-12",
+      "post_date": "2026-03-12T12:24:25.072Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b51",
+      "subtitle": "Bajaj MotoDrive; Cemex en Colombia; inversión extranjera en la Liga MX; Klöckner; La Comer en Yucatán; Uber Elite; pérdidas de Honda; Cybercab; Global Entry; 'fashiontainment'",
+      "text": "Comentario Whitepaper: en ese estado Walmex tenía 61 sucursales a finales de 2024, con planes para abrir 27 nuevas hacia 2027. También hay jugadores regionales relevantes, como Super Akí, que tendría unas 50 sucursales entre Yucatán, Campeche y Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-16",
+      "post_date": "2026-01-16T12:23:38.413Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-58e",
+      "subtitle": "Pilgrim’s Pride; Trayecto; conoce a Alexandra Violante; en Guanajuato; Fibra Inn; Amazon vs Saks; retrocede Porsche; Keurig Dr Pepper; resultados Cartier; Keurig Dr Pepper; menos nieve en Vail",
+      "text": "Pilgrim’s Pride invertirá $1,300 millones de dólares en México: buscan incrementar su capacidad productiva en más de 373,000 toneladas anuales (equivalentes a un crecimiento de 38%). La mayor parte de estos recursos, $950 millones, va dirigido a las plantas que tienen en Veracruz, Campeche y Yucatán; $200 millones para las de Durango y Coahuila, y el resto a Querétaro, San Luis Potosí e Hidalgo (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-07",
+      "post_date": "2025-08-07T12:23:19.241Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-356",
+      "subtitle": "Remesas; Southern Copper Corporation; Kushki; Conver; importaciones de relojes; Aldi; aerolíneas y sus tarjetas; resultados NYT; perfil de Altagracia; la casa de Mountainhead",
+      "text": "Las caídas más marcadas fueron en Sinaloa (-26%), CDMX (-25%), Nuevo León (-22%) y Edomex (-20%); por otro lado, Baja California registró un alza de 17%, Guerrero de 5% y Campeche, de 3% (Redacción Whitepaper).",
+      "matched_by": "state"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "state": "Quintana Roo",
+  "crm_context": {
+    "aaa_aa": 56,
+    "dm": 124,
+    "industries": "Turismo · hospitalidad"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "The Palace Company (Chapur Zahoul)",
+      "aliases": [
+        "Palace Company",
+        "Palace Resorts",
+        "Chapur Zahoul",
+        "Chapur"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Experiencias Xcaret (Quintana Pali/Constandse)",
+      "aliases": [
+        "Xcaret",
+        "Quintana Pali",
+        "Constandse",
+        "Experiencias Xcaret"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 4,
+      "mention_dates": [
+        "2025-12-17",
+        "2025-11-07",
+        "2025-10-09",
+        "2025-06-11"
+      ]
+    },
+    {
+      "label": "Original Resorts (De la Peña)",
+      "aliases": [
+        "Original Resorts",
+        "De la Peña"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 1,
+      "mention_dates": [
+        "2026-02-24"
+      ]
+    }
+  ],
+  "stats": {
+    "total_excerpts": 39,
+    "ppt_families_hit": 2,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Logística / Transporte",
+        7
+      ],
+      [
+        "Turismo / Hospitalidad",
+        7
+      ],
+      [
+        "Retail / Comercio",
+        3
+      ],
+      [
+        "Alimentos y Bebidas",
+        1
+      ],
+      [
+        "Tecnología / Telecom",
+        1
+      ],
+      [
+        "Energía / Petroquímica",
+        1
+      ],
+      [
+        "Manufactura / Nearshoring",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        13
+      ],
+      [
+        "M&A",
+        2
+      ],
+      [
+        "Resultados",
+        2
+      ],
+      [
+        "Expansión / Apertura",
+        2
+      ],
+      [
+        "Familia / Sucesión",
+        1
+      ],
+      [
+        "Funding / Rondas",
+        1
+      ],
+      [
+        "Regulación",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        17
+      ],
+      [
+        "Chichén Itzá",
+        2
+      ],
+      [
+        "Puerto Vallarta",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-04-13",
+      "post_date": "2026-04-13T12:20:22.009Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-19e",
+      "subtitle": "Thyssenkrupp y Aceroteca Trading; Laureate; Ginequito y Azura; las inversiones de Home Depot en México; movimientos clave; volatilidad; sin lavaplatos; bagels de $300M; Kodak; The Audacity",
+      "text": "Comentario Whitepaper: Azura tiene hospitales en Cancún, CDMX y Edo de México (más los nuevos de Monterrey). Cuentan con el respaldo de varios family offices regios y de private equity.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-09",
+      "post_date": "2026-04-09T12:23:44.790Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-405",
+      "subtitle": "Un buen día para la bolsa; el Tío Richie; Zoetis; la supuesta planta de GAC; Topsun en Guanajuato; ligas deportivas online; tráfico en aeropuertos; comida para instagram; Avis, Uniqlo; GLP-1",
+      "text": "* En el caso de GAP, la empresa tuvo una caída de 30% en el número de pasajeros en el aeropuerto de Montego Bay, en Jamaica —uno de los más grandes en el grupo— y que se vio afectado por un huracán. En total, reportaron tráfico de 15.4 millones de pasajeros; 8.4 millones nacionales y 7 millones internacionales. * Asur tuvo 10.9 millones de pasajeros en México; 4.5 millones nacionales y 6.4 millones internacionales. Su aeropuerto más importante, el de Cancún, disminuyó su tráfico nacional más de 7%. Aunque crecieron ligeramente en pasajeros internacionales, el total en ese aeropuerto retrocedió 2%. Fuera del país reportaron 3.5 millones de pasajeros en sus aeropuertos en Puerto Rico y 4.5 millones en Colombia; el total suma cerca de 19 millones de pasajeros. Por su parte, OMA creció 5.7% sus pasajeros nacionales para llegar a 5.7 millones. En cuánto a sus internacionales, quedaron prácticamente igual, y suman 1 millón más para acumular 6.7 millones totales (Redacción Whitepaper).*",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-08",
+      "post_date": "2026-04-08T12:19:26.781Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-05f",
+      "subtitle": "Yazaki y SKF en NL; Bafar y Ciemsa Foodservice; Telefónica; La entrevista al CFO -Ana Yañez, de Actinver; Avocados from Mexico; Las Vegas; Satellites on Fire; Levi's; US Navy; spotlight en Bloom",
+      "text": "Grupo Bafar está adquiriendo a Ciemsa Foodservice, una proveedora para hoteles y restaurantes que tiene Cedis en lugares como Cancún, Los Cabos y CDMX (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-24",
+      "post_date": "2026-03-24T12:21:57.966Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8cf",
+      "subtitle": "Virbac; las comisiones de las tarjetas; desempeño de Samsonite; la inversión de Nestlé; Polymershapes; Bulkmatic; ByteDance; OnlyFans; utilidades de Revolut; las baterías de CATL; $15M para el padel",
+      "text": "Comentario Whitepaper: la liga consiste en 10 equipos, de los cuales uno está en México (en Cancún).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-12",
+      "post_date": "2026-03-12T12:24:25.072Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b51",
+      "subtitle": "Bajaj MotoDrive; Cemex en Colombia; inversión extranjera en la Liga MX; Klöckner; La Comer en Yucatán; Uber Elite; pérdidas de Honda; Cybercab; Global Entry; 'fashiontainment'",
+      "text": "Comentario Whitepaper: en ese estado Walmex tenía 61 sucursales a finales de 2024, con planes para abrir 27 nuevas hacia 2027. También hay jugadores regionales relevantes, como Super Akí, que tendría unas 50 sucursales entre Yucatán, Campeche y Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-24",
+      "post_date": "2026-02-24T12:27:47.702Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-985",
+      "subtitle": "Liverpool; los nuevos socios de Banamex; Topo Chico en EUA; Colgate-Palmolive; inversiones en Hidalgo y en Colima; Axtel; Apple en Houston; exportaciones de vino de EUA; Domino's",
+      "text": "Actualmente el director general es Armando de la Peña y a la cabeza del consejo están Tomás Milmo Santos y Álvaro Fernández (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-02-03",
+      "post_date": "2026-02-03T12:27:32.486Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dbe",
+      "subtitle": "Givaudan en Querétaro; Kings League; el CFO de América Móvil; rutas más populares; OXXO Brasil; Ryder; movimientos clave; Vista Energy; aranceles; tiendas Eddie Bauer; plataformas de apuestas",
+      "text": "De acuerdo con datos de la Agencia Federal de Aviación Civil, en el ámbito internacional la ruta con mayor número de pasajeros en 2025 fue Toronto–Cancún (1.28 millones de pasajeros), seguida por CDMX–Madrid (1.15 millones) y Dallas–Cancún (1.10 millones). En los vuelos nacionales, la principal fue CDMX–Cancún (3.17 millones), luego Monterrey–CDMX (3.08 millones) y CDMX–Guadalajara, con 2.73 millones (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-08",
+      "post_date": "2026-01-08T12:28:44.642Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2bc",
+      "subtitle": "De Canadá a Cancún; Pacífico y Victoria; Don't Worry en EUA; Tigres y Rayados; Freddo; Pluxee; pistachos; robots industriales; Jollibee; Apple Card; Alphabet; mercado secundario de relojes",
+      "text": "El volumen de vuelos de Canadá dirigidos a ciudades de EUA retrocedió 14% en los últimos tres meses del año pasado y lugares como Las Vegas perdieron hasta una tercera parte del volumen. En el otro extremo, el volumen de vuelos de ese país hacia Cancún se disparó 35% (MarketScreener).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-17",
+      "post_date": "2025-12-17T12:21:01.385Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3f2",
+      "subtitle": "Leona Health; Grupo Cimarrón; smartphones caros; movimientos clave; Mercado Libre; viajando con Costco; Luckin y Blue Bottle Coffee; podcasts en Netflix; monasterio en Snowmass; spotlight en Adanola",
+      "text": "Comentario Whitepaper: no encontramos este servicio de agencia de viajes en México (aunque sí vimos paquetes específicos para visitar Xcaret). Pero lo que sí nos sorprendió es que en nuestro país la membresía sí tiene beneficios para comprar un auto —en Volvo, por ejemplo, hay planes de financiamiento exclusivos para tarjetahabientes de Costco, mientras que Ineos les ofrece descuentos de unos $140,000 pesos en la compra de sus camionetas. Más que operar tiendas, el modelo de negocio de Costco es cobrar membresías y a cambio ofrecer una serie de beneficios, incluyendo el acceso a un mix de productos y servicios —desde las tiendas— que ofrecen una muy buena relación entre calidad y precio. Como contexto, si bien las membresías contribuyeron con “apenas” $5,300 millones de dólares, vs ingresos totales de $275,000 millones, lo que generan las membresías termina siendo la mayor parte de la utilidad.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-15",
+      "post_date": "2025-12-15T12:18:59.280Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-640",
+      "subtitle": "MIP y Acciona Energía; carga especializada; KPIs de la banca; WD-40; conoce a Rita Chertorivski; PAS Appliance Systems; PPG Comex; McKinsey; Oracle; LinkedIn; consejo de Tesla; surrogacy",
+      "text": "Comentario Whitepaper: Mexico Infrastructure Partners tiene AUM de más de $12,500 millones de dólares —un portafolio en el que hay desde carreteras en Quintana Roo y Michoacán, hasta antenas de telecomunicaciones, acueductos, dos cárceles (una en Guanajuato y otra en Sonora) y sobre todo, infraestructura de generación de energía.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-11",
+      "post_date": "2025-12-11T12:24:27.267Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-41e",
+      "subtitle": "Sally Beauty; aranceles a China y Corea; Rotoplas; Smithfield; GICSA; Nissan en Aguascalientes; aguacates en Amazon; Urban Outfitters; población en Suiza",
+      "text": "GICSA concretó la venta de la plaza Paseo Coapa (un desarrollo en Cancún) y de su participación en Paseo Metepec, generando con ello ingresos de más de $2,850 millones de pesos. Usarán los recursos para pagar y liquidar certificados bursátiles (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-08",
+      "post_date": "2025-12-08T12:24:03.488Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-542",
+      "subtitle": "MLS Lighting; Pizza Hut; Didi Cuenta; marcas y patentes; Conoce a: Pilar de la Garza; Quartux; Zenith Aeronáutica; OCESA; Arc’teryx; Carvana; exportaciones de China; Netflix y HBO.",
+      "text": "* AINDA, administrador de fondos de capital privado enfocado en energía e infraestructura en América Latina, invertirá hasta $50 millones de dólares en Quartux, una empresa mexicana que ofrece soluciones de almacenamiento de energía industrial. Su CEO es Alejandro Fajer (Redacción Whitepaper). * Zenith Aeronáutica instalará un taller de mantenimiento de aeronaves y una terminal de carga en Quintana Roo, en un proyecto que contempla una inversión de $24 millones de dólares (El Economista).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-03",
+      "post_date": "2025-12-03T12:25:16.806Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9f1",
+      "subtitle": "Inversiones de OMA; Vambe; utilidades de aseguradoras; La Comer en Tulum; TMSourcing; Notion; usos de AI; retrocede Volvo; Shopify en Cyber Monday; spotlight en Bending Spoons",
+      "text": "La Comer abrió su primera tienda en Quintana Roo, en Tulum. Con esta suma 91 sucursales en 16 estados del país. La empresa afirma que la inversión fue de aproximadamente $1,120 millones de pesos y que la tienda tiene más de 9,200 m² de piso de ventas (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-03",
+      "post_date": "2025-12-03T12:25:16.806Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9f1",
+      "subtitle": "Inversiones de OMA; Vambe; utilidades de aseguradoras; La Comer en Tulum; TMSourcing; Notion; usos de AI; retrocede Volvo; Shopify en Cyber Monday; spotlight en Bending Spoons",
+      "text": "Comentario Whitepaper: finalizaron el año pasado con 89 sucursales y un piso de ventas de 404,721 m², por lo que en promedio cada una tendría unos 4,550 m². Como contexto, Chedraui tiene al menos 18 tiendas en Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-28",
+      "post_date": "2025-11-28T12:24:09.772Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-116",
+      "subtitle": "GNP y el impacto del IVA; Optimus en México; Tongling Automotive; Cetesdirecto; ventas de Nissan; Cerralvo Capital; la evolución de Inditex; Gen X; Co-heads de Goldman; visitando ruinas y museos",
+      "text": "Entre las ruinas, destacaron Chichén Itzá con 1.7 millones, Teotihuacán con 1.2 millones y Tulum con 809,000 visitantes. En museos, el más visitado fue el Museo Nacional de Antropología, con 43% del total; le siguieron el Museo Nacional de Historia con 24% y el Museo del Templo Mayor con 4% (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-12",
+      "post_date": "2025-11-12T12:25:33.666Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-daf",
+      "subtitle": "Amazon en México; los vuelos más populares; El Cid Resorts; presupuesto del Poder Judicial; comprando acciones después de los 70; resultados de ON; colapsa Sonder; spotlight en Tito’s Vodka",
+      "text": "Entre enero y septiembre se registraron 47.1 millones de pasajeros en rutas nacionales y 43.8 millones en rutas internacionales, con aumentos anuales de 3.3% y 1.4%, respectivamente. Entre las nacionales, la ruta de mayor crecimiento dentro del top 10 fue Monterrey–Guadalajara (+12%), mientras que en las internacionales destacó Toronto–Cancún, que con 25% más pasajeros pasó del sexto al primer lugar en el mismo periodo del año pasado (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-07",
+      "post_date": "2025-11-07T12:25:11.096Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dff",
+      "subtitle": "Monster; Alsea vendiendo; nuevo CEO de Bimbo; Arteche; TotalPass; Megacable; El Santuario del Gusano de Seda; el trillón de Elon Musk; Ford; vuelos cancelados en EUA; Meta; Dutch Bros",
+      "text": "Comentario Whitepaper: espacios como la Feria Xcaret de Arte Popular Mexicano son fundamentales para proyectos como el de San Pedro Cajonos. En su segunda edición, la feria generó ventas por más de $23 millones de pesos —que se van directo a los artesanos, sin comisiones—, consolidándose como una de las plataformas más importantes del país para el arte popular. Algunos artesanos coinciden en que lo que venden ahí representa entre 30 y 40% de sus ventas anuales.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-11-03",
+      "post_date": "2025-11-03T12:23:20.449Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-eb5",
+      "subtitle": "Bodega Aurrerá Express; crédito automotriz; Platzi; Canva; Colgate-Palmolive; conoce a Dora Giraldo; TGI Fridays en México; la caja de Berkshire Hathaway; BYD; Grupo Prisa; expats en CDMX",
+      "text": "TGI Fridays firmó un acuerdo para abrir 50 sucursales en México. El master franchise agreement es con Mid-City Operadora, dirigida por Álvaro Traconis. Actualmente tienen unidades en Cancún, Mérida, Tampico y Tijuana (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-16",
+      "post_date": "2025-10-16T12:21:17.348Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-01d",
+      "subtitle": "Amazon y Quality Post; Yokohama en Aguascalientes; Maison Kayser; acciones de Orbia; híbridos y eléctricos; Norte19; hispanos y la TV; Ross Dress for Less; Anthropic; Nestlé; ¿la fintech de Mr Beast?",
+      "text": "Una buena parte del crecimiento ha venido por sus tiendas en aeropuertos —solo en el de CDMX tienen cinco—, además de ubicaciones en Monterrey, Cancún, Mérida y Querétaro. También están en corporativos y dentro de Hospitales Ángeles, en donde operan más de 10 sucursales (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Comentario Whitepaper: por valuación, es una de las empresas más grandes del mundo —con un market cap de $229,000 millones de dólares, por encima de American Express ($225,000 millones) o de Uber ($207,000 millones). El año pasado reportaron ventas de $37,895 millones de dólares. Salesforce tiene alrededor de 20 años operando en México, y presumen tener entre sus clientes a empresas como Xcaret, Bafar y FEMSA. Este año nombraron a Phil Sebok como su country manager.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Comentario Whitepaper: el CEO de MiRA es Roberto Pulido. En su portafolio están proyectos como el Hotel San Cristóbal en Baja California Sur, y los centros comerciales Nuevo Sur en Nuevo León y Puerto Cancún, en Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-02",
+      "post_date": "2025-10-02T12:27:28.274Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-91c",
+      "subtitle": "Vector y Finamex; Chedraui; Edgewell en Aguascalientes; Lalo Spirits; exportaciones; Burger King; AI y el mercado laboral; Berkshire Hathaway; Trump y las universidades; PE en EUA; $500B de Musk",
+      "text": "* Popeyes firmó nuevos acuerdos para aumentar el número de restaurantes que tienen en México: contemplan abrir alrededor de 300 sucursales nuevas en los siguientes 10 años. Para Jalisco y zonas del Oeste del país, el acuerdo es con Star Louisiana, en el Noroeste es con Borden Crunch, Grupo Euro se queda con el centro del país, y Grupo Berny con el Sureste (MarketScreener). * Burger King tiene previsto abrir hasta 20 sucursales adicionales en lo que queda del año, y remodelar entre 20 y 35. Para esto invertirán $400 millones de pesos, buscando crecer específicamente en zonas como aeropuertos: recientemente abrieron puntos de venta en el AICM, en el AIFA y el aeropuerto de Tulum (El Economista).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-30",
+      "post_date": "2025-09-30T12:26:24.328Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c0",
+      "subtitle": "Tasa de natalidad; crece Ellaz; Arena Guadalajara; Crédito PyMe; nuevos hoteles; resultados de OpenAI y de Vail Resorts; casas de $1 millón; Universidad de Phoenix; turistas en Chongqing",
+      "text": "Entre Cancún y la Riviera Maya se concentró el 95% de los nuevos cuartos de hotel abiertos en México durante el primer semestre —más de 2,000 en total (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-30",
+      "post_date": "2025-09-30T12:26:24.328Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c0",
+      "subtitle": "Tasa de natalidad; crece Ellaz; Arena Guadalajara; Crédito PyMe; nuevos hoteles; resultados de OpenAI y de Vail Resorts; casas de $1 millón; Universidad de Phoenix; turistas en Chongqing",
+      "text": "Comentario Whitepaper: hace unas semanas escribimos una nota sobre cómo al aeropuerto de Cancún llegaron más del doble de pasajeros extranjeros que al de CDMX.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-24",
+      "post_date": "2025-09-24T12:23:27.385Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6ce",
+      "subtitle": "GMXT; el desempeño de la bolsa; Motherson en Saltillo; en memoria de Mauricio Fernández; Santander y Tesla; camisetas Gildan; leggins vs jeans; Tether; spotlight en Van Cleef & Arpels",
+      "text": "Soriana invirtió $384 millones de pesos para abrir una sucursal de City Club en Cancún, la tercera en Quintana Roo, y con lo que suma 41 sucursales de esta marca (en 2020 tenía 34). Este formato requiere membresía y vende en grandes cantidades; compite con Costco y Sam’s (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-10",
+      "post_date": "2025-09-10T12:20:41.971Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-f5b",
+      "subtitle": "Hoteles voco; Helados Alpura; Liverpool y Fabletics; impuestos; Juguetrón; Mastercraft en México; Osigu; Sequoia y Klarna; Five Guys; Oracle; spotlight en Ironman",
+      "text": "IHG Hotels & Resorts abrirá seis hoteles con su marca voco, que estarán ubicados en Cancún, Guadalajara, Ciudad Juárez, San Luis Potosí, Torreón y Nuevo Laredo. Planeadas para 2027, estas aperturas contemplan cerca de 850 cuartos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-28",
+      "post_date": "2025-08-28T12:25:05.074Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-047",
+      "subtitle": "Aranceles a China; Whitepaper Pulse; tractores de India; por dónde entran los visitantes; Dollarcity; seguridad social en apps de delivey/rides; stablecoins; Nvidia; Lululemon; Apple Music vs Spotify",
+      "text": "Entre enero y junio.pdf), al aeropuerto de Cancún llegaron más del doble de pasajeros extranjeros que al de CDMX: 5.1 millones, frente a 2.1 millones. A Los Cabos llegaron 1.3 millones y a Puerto Vallarta 1.1 millones (más que los 706,000 que llegaron a Guadalajara). El aeropuerto de Tulum recibió 201,000 pasajeros —un poco menos que los 217,000 que llegaron a Monterrey (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-11",
+      "post_date": "2025-08-11T12:23:34.215Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e2f",
+      "subtitle": "KOF en Brasil; 100,000 empleados; Acciona Energía; J. García López; conoce a Cintya Martínez; Trínitas; Nvidia; legacy en Stanford; carritos de golf; goldendoodles y labradoodles",
+      "text": "Su CEO, Oscar Padilla, contó a Whitepaper que su familia originalmente se dedicaba a la hotelería —fueron de los primeros en abrir hoteles en Cancún—, pero ante la llegada de inversión extranjera, pivotearon hacia otros segmentos. “Se parece mucho a la hotelería”, explicó, señalando que en un servicio funerario la hospitalidad, los amenities y la limpieza son clave.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-25",
+      "post_date": "2025-07-25T12:24:10.238Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5a1",
+      "subtitle": "Genomma Lab; Bimbo; informalidad; Hyrox; Iberdrola; agua mineral; malls en EUA; Paramount y Skydance Media; Hoka y Ugg; barras de proteína",
+      "text": "Comentario Whitepaper: los estados con mayor informalidad son Oaxaca (81.5%), Estado de México (79.8%) y Guerrero (78.6%). En contraste, los de menor informalidad son Quintana Roo (35.9%), Chihuahua (37.7%) y Baja California Sur (38.4%).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-23",
+      "post_date": "2025-07-23T12:24:35.947Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-efd",
+      "subtitle": "Sears; Televisa; América Móvil; Banorte; Volaris; Havoc; Holacasa; Oxxo en Yucatán; ZYN; bebidas saludables; meme stocks; arte; spotlight en Hims & Hers",
+      "text": "Hoy en día compiten con Gallo Azul que nació en Monterrey y llegó a la CDMX en 2023, Harris & Frank en CDMX, Monterrey, Guadalajara, Querétaro y Cancún, James & Co, entre otros.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-11",
+      "post_date": "2025-07-11T12:24:37.028Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-bb9",
+      "subtitle": "Pinfra; Franke; Vista Energy; AI en Latinoamérica; telepeaje; contenedores de China; fibra óptica; Varda; Converse; subastas; Also Inc.; retailers en EUA",
+      "text": "Esta semana en MexMoves platicamos con Gabriel Casillas, Chief Latin America Economist de Barclays, sobre por qué la economía de México está más fuerte de lo que muchos piensan. Además: retrasos en las sanciones de EUA a los tres bancos mexicanos, la nueva app de Mercado Pago, fraude de combustibles impulsado por cárteles y los problemas turísticos de Cancún.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-08",
+      "post_date": "2025-07-08T12:24:15.973Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-1be",
+      "subtitle": "Aura Minerals en Zacatecas; aranceles y fábricas en MTY; footprint de Femsa; Tulum Energy y Ternium; centros de envío de Amazon; Arca en Chihuahua; Unilever y sus influencers; Macan eléctrica",
+      "text": "Tulum Energy es un spin off de Techint que está diseñando una planta para producir hidrógeno a partir de gas natural, pero sin emisiones de dióxido de carbono. Dirigida por Max Pieri, cerró una ronda de inversión de $27 millones de dólares; usará estos recursos para construir una planta piloto con esta tecnología al lado de la fábrica de Ternium en Monterrey (TechCrunch).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-08",
+      "post_date": "2025-07-08T12:24:15.973Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-1be",
+      "subtitle": "Aura Minerals en Zacatecas; aranceles y fábricas en MTY; footprint de Femsa; Tulum Energy y Ternium; centros de envío de Amazon; Arca en Chihuahua; Unilever y sus influencers; Macan eléctrica",
+      "text": "Las visitas a zonas arqueológicas en México crecieron 5% en los primeros cinco meses del año, sumando 4.5 millones de personas: 60% nacionales y 40% extranjeros. Los sitios con más afluencia fueron Chichén Itzá, Teotihuacán y la zona arqueológica de Tulum (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-03",
+      "post_date": "2025-07-03T12:19:22.914Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9d6",
+      "subtitle": "Autopartes; City Market Café; más tarjetas de crédito; Indian Motorcycle; ventas de autos en México; Powerwall y Megapack; jets Embraer; BYD en Brasil; Moove; Ferrari y Hermès",
+      "text": "Comentario Whitepaper: este negocio —al menos la parte de baterías para negocios—también lo tienen en nuestro país (algunos hoteles en Cancún, por ejemplo, cuentan con sus Megapacks).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-26",
+      "post_date": "2025-06-26T12:25:09.648Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b28",
+      "subtitle": "Un tema delicado; seguros de gastos médicos; Legendary Vacation Club; Dimanor; Holcim México; ‘Experimental Run Rate’; same-day delivery; product placement; quienes pagan para informarse",
+      "text": "Legendary Vacation Club —que actualmente tiene seis hoteles en Riviera Maya, Puerto Vallarta, Los Cabos y Cancún— proyecta invertir $800 millones de dólares; quieren sumar casi 2,300 habitaciones adicionales. El grupo cuenta con marcas como Hard Rock, Nobu Hotels y Ava (Milenio).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-12",
+      "post_date": "2025-06-12T12:21:36.878Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-135",
+      "subtitle": "Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas",
+      "text": "Dunkin, que ya opera en CDMX, Mérida, Cancún, Nogales y Tijuana, este año abrirá entre 10 y 12 tiendas en Nuevo León, en alianza con Grupo Galería. La marca es parte de Inspire Brands, el conglomerado dueño también de Arby’s, Buffalo Wild Wings y Sonic (El Financiero).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-12",
+      "post_date": "2025-06-12T12:21:36.878Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-135",
+      "subtitle": "Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas",
+      "text": "Cofece habría autorizado a Royal Caribbean la compra del puerto de Mahahual, en Quintana Roo, por $220 millones de dólares. Además, la empresa invertirá $600 millones para desarrollar “Perfect Day México”, un parque turístico que esperan tener operando en 2027 (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-11",
+      "post_date": "2025-06-11T12:15:58.056Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-f68",
+      "subtitle": "Mascotas: Petco, Farmacias del Ahorro y Similares; Miguel Quintana Pali y Xcaret; resultados de Jaguar Land Rover; BYD y Liverpool; impacto de YouTube; Nerds; Live Nation; La Perla; spotlight en IMAX",
+      "text": "Todo el mundo lo conoce como el arquitecto Quintana, pero “que no se enteren en la Asociación de Arquitectos porque ¡no lo soy! Solo estudié dos años en la Ibero. Eso sí, me considero un arquitecto descalzo, un autodidacta”, confiesa con una sonrisa que detona la herencia de su familia materna hawaiana. Y sí, anda descalzo todo el día, algo que suele shockear a quienes lo visitan en su oficina en medio de la selva en Cancún.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-11",
+      "post_date": "2025-06-11T12:15:58.056Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-f68",
+      "subtitle": "Mascotas: Petco, Farmacias del Ahorro y Similares; Miguel Quintana Pali y Xcaret; resultados de Jaguar Land Rover; BYD y Liverpool; impacto de YouTube; Nerds; Live Nation; La Perla; spotlight en IMAX",
+      "text": "Hoy los parques de su consorcio —Xcaret, Xel-Há, Xplor, Xenotes, Xoximilco, Xenses, y Xavage— reciben hasta 10,000 visitantes por día.",
+      "matched_by": "family"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "state": "Chiapas",
+  "crm_context": {
+    "aaa_aa": 5,
+    "dm": 7,
+    "industries": "Café Soconusco · automotriz · hoteles"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Grupo Farrera (Farrera Escudero)",
+      "aliases": [
+        "Grupo Farrera",
+        "Farrera Escudero"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Finca Hamburgo (Edelmann Toriello)",
+      "aliases": [
+        "Finca Hamburgo",
+        "Edelmann Toriello",
+        "Chiripa"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Cluster cafetalero Soconusco",
+      "aliases": [
+        "Soconusco",
+        "Ruta del Café"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 2,
+    "ppt_families_hit": 0,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Turismo / Hospitalidad",
+        1
+      ],
+      [
+        "Logística / Transporte",
+        1
+      ]
+    ],
+    "top_events": [],
+    "new_entities_detected": []
+  },
+  "excerpts": [
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Comentario Whitepaper: el CEO de MiRA es Roberto Pulido. En su portafolio están proyectos como el Hotel San Cristóbal en Baja California Sur, y los centros comerciales Nuevo Sur en Nuevo León y Puerto Cancún, en Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-30",
+      "post_date": "2025-09-30T12:26:24.328Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c0",
+      "subtitle": "Tasa de natalidad; crece Ellaz; Arena Guadalajara; Crédito PyMe; nuevos hoteles; resultados de OpenAI y de Vail Resorts; casas de $1 millón; Universidad de Phoenix; turistas en Chongqing",
+      "text": "Comentario Whitepaper: no es ninguna sorpresa que esta cifra ha venido cayendo, pero vale la pena destacar que en 2015 se registraron 2.35 millones de nacimientos —algo así como 680,000 bebés más que los que nacieron el año pasado. Obviamente las diferencias entre estados son muy diferentes, pues mientras que la tasa de natalidad en Chiapas fue de 86.7, en CDMX habría sido de 32.8.",
+      "matched_by": "state"
+    }
+  ]
+}

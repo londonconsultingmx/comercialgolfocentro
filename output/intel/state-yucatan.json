@@ -1,0 +1,458 @@
+{
+  "state": "Yucatán",
+  "crm_context": {
+    "aaa_aa": 34,
+    "dm": 89,
+    "industries": "Bebidas (Bepensa) · retail · turismo"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Bepensa (Ponce Díaz)",
+      "aliases": [
+        "Bepensa",
+        "Ponce Díaz",
+        "Pepsi Bepensa"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 6,
+      "mention_dates": [
+        "2026-03-23",
+        "2026-01-09",
+        "2026-01-05",
+        "2025-11-27",
+        "2025-09-15",
+        "2025-08-07"
+      ]
+    },
+    {
+      "label": "Galletas Dondé (Gómory)",
+      "aliases": [
+        "Galletas Dondé",
+        "Dondé",
+        "Gómory"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Dunosusa (Ricalde Durán)",
+      "aliases": [
+        "Dunosusa",
+        "Ricalde Durán"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 42,
+    "ppt_families_hit": 1,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Alimentos y Bebidas",
+        11
+      ],
+      [
+        "Banca / Finanzas",
+        4
+      ],
+      [
+        "Logística / Transporte",
+        3
+      ],
+      [
+        "Tecnología / Telecom",
+        3
+      ],
+      [
+        "Real Estate / Construcción",
+        2
+      ],
+      [
+        "Retail / Comercio",
+        2
+      ],
+      [
+        "Automotriz",
+        1
+      ],
+      [
+        "Turismo / Hospitalidad",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        12
+      ],
+      [
+        "Expansión / Apertura",
+        7
+      ],
+      [
+        "Resultados",
+        1
+      ],
+      [
+        "Familia / Sucesión",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        22
+      ],
+      [
+        "Crédito Real",
+        2
+      ],
+      [
+        "Nueva York",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-05-18",
+      "post_date": "2026-05-18T12:19:11.388Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-246",
+      "subtitle": "100 agencias de BYD; Zoomlion en Aguascalientes; en los aeropuertos; depósitos en neobancos; movimientos clave; Alfa Wipes; motos eléctricas; Everlane y Shein; Swatch y AP; el crecimiento de 7 Brew",
+      "text": "De los 10 principales aeropuertos del país, el que más creció pasajeros totales en el primer trimestre fue el de Mérida (+11%), seguido de Monterrey (+8%), y luego el AIFA con 5%. En contraste, los que más disminuyeron en número de pasajeros fueron Puerto Vallarta y Tijuana.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-27",
+      "post_date": "2026-04-27T12:21:59.525Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b8c",
+      "subtitle": "Walmex y Walmart; Givaudan en Querétaro; Café la Flor de Córdoba; movimientos clave; resultados de Bosch; fees de banqueros; acciones de Adidas; Spotify; Oprah y Amazon; guaruras en Silicon Valley",
+      "text": "La mayoría de sus cafeterías están en Jalisco, aunque también tienen presencia en Guanajuato, Michoacán, Nayarit y Sinaloa (una tercera parte de las tiendas son propias y el resto funciona a través de franquicias). El plan es crecer hacia CDMX, Monterrey y Mérida, y también proyectan abrir una primera sucursal en EUA a principios del próximo año (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-27",
+      "post_date": "2026-04-27T12:21:59.525Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b8c",
+      "subtitle": "Walmex y Walmart; Givaudan en Querétaro; Café la Flor de Córdoba; movimientos clave; resultados de Bosch; fees de banqueros; acciones de Adidas; Spotify; Oprah y Amazon; guaruras en Silicon Valley",
+      "text": "•⁠ ⁠JETCARD: La puerta de entrada más eficiente a nuestra flota de 32 aeronaves. Adquiere desde 50 horas de vuelo con disponibilidad inmediata y bases estratégicas en Toluca, Monterrey, Guadalajara, Bajío y Mérida.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-24",
+      "post_date": "2026-04-24T12:18:03.192Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-d80",
+      "subtitle": "Las regias y sus 'récords'; Hortifrut; conoce a Samantha Guzmán; Pinfra, Kimberly Clark; excluyendo las consecuencias de AI; Meta, Nike, Microsoft, EY y KPMG; Sphere; L Catterton; podcasts",
+      "text": "Su CEO, el mexicano Héctor Luján, nos contó en entrevista que alrededor de 93% de la producción mexicana se exporta a EUA, mientras que menos del 5% se queda en el mercado local. La empresa busca aumentar su participación en el país con iniciativas como una plataforma de venta a domicilio B2C, que ya tendría más de 5,000 suscriptores (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-09",
+      "post_date": "2026-04-09T12:23:44.790Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-405",
+      "subtitle": "Un buen día para la bolsa; el Tío Richie; Zoetis; la supuesta planta de GAC; Topsun en Guanajuato; ligas deportivas online; tráfico en aeropuertos; comida para instagram; Avis, Uniqlo; GLP-1",
+      "text": "Comentario Whitepaper: destaca en GAP el crecimiento de 13% del aeropuerto de Morelia, en ASUR un 11% en el de Mérida y en OMA más de 19% registrado en el de Durango.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-23",
+      "post_date": "2026-03-23T12:23:08.029Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-0d4",
+      "subtitle": "Unilever; América Móvil; Zegna en México; nuevos CFOs y movimientos clave; Jollibee; Tupy; centros comerciales de EUA; podcasts; eventos de las empresas de AI; Danone y Huel; comprando en el crucero",
+      "text": "* José Luis Antonio Ponce presidirá el Consejo de Bepensa este año. El año pasado, el puesto lo ocupó Alberto Ponce Gutiérrez. Esta función se alterna anualmente en la empresa (Redacción Whitepaper). * Oscar del Cueto Cuevas, presidente y representante ejecutivo de CPKC de México, reemplazará a Carlos Garcia como presidente de AmCham para el periodo 2023–2025 (Redacción Whitepaper). * Vinci Compass, una firma de asset management especializada en inversiones alternativas en América Latina, nombró a Eugenio Garza y Garza a su consejo. Antes fue CFO de Femsa, CEO de Javer y ocupó puestos directivos en Goldman Sachs y Merrill Lynch. Participa también en los consejos de Regional, Vinte, Cuprum, Berel y Proeza, entre otros (Redacción Whitepaper). * Bruce Zimmerman dejó su cargo como CIO de Tresalia Capital, un puesto que ocupaba desde 2024. Zimmerman fue antes Chief Investment Officer del family office de Ray Dalio (Bloomberg).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-13",
+      "post_date": "2026-03-13T12:23:54.085Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5ae",
+      "subtitle": "Blindados en Hidalgo; acciones para empleados de 3B; conoce a Cynthia Kleinbaum; Smurfit Westrock; lo que invierten las grandes; Dog Haus en Mérida; crédito privado; Jo Malone; revistas de diseño",
+      "text": "En Mérida, HAK Capital cerró un acuerdo con Dog Haus para desarrollar en México al menos 20 restaurantes de esa marca. La cadena de hamburguesas y hot dogs nació en California en 2010 y tiene alrededor de 60 sucursales en EUA. Hace un par de días anunciaron un plan para crecer a 300 restaurantes en los próximos tres años (incluyendo los de México). El influencer Jake Paul está asociado con esta marca (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-12",
+      "post_date": "2026-03-12T12:24:25.072Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b51",
+      "subtitle": "Bajaj MotoDrive; Cemex en Colombia; inversión extranjera en la Liga MX; Klöckner; La Comer en Yucatán; Uber Elite; pérdidas de Honda; Cybercab; Global Entry; 'fashiontainment'",
+      "text": "Con una inversión de $885 millones de pesos, La Comer abrirá su primera tienda en Yucatán (llegan a 93 en total). La tienda tendrá un piso de ventas de más de 6,000 m² (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-12",
+      "post_date": "2026-03-12T12:24:25.072Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b51",
+      "subtitle": "Bajaj MotoDrive; Cemex en Colombia; inversión extranjera en la Liga MX; Klöckner; La Comer en Yucatán; Uber Elite; pérdidas de Honda; Cybercab; Global Entry; 'fashiontainment'",
+      "text": "Comentario Whitepaper: en ese estado Walmex tenía 61 sucursales a finales de 2024, con planes para abrir 27 nuevas hacia 2027. También hay jugadores regionales relevantes, como Super Akí, que tendría unas 50 sucursales entre Yucatán, Campeche y Quintana Roo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-03-10",
+      "post_date": "2026-03-10T12:25:25.810Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9e2",
+      "subtitle": "KIO y su data center; Whirlpool; TICSA y Argos; la carne seca; Krispy Kreme; producción de autos por cada 1,000 personas; air taxis en EUA; ExxonMobil; Lindt y GLP-1; las fábricas de Lego",
+      "text": "KIO inició la construcción de su centro de datos MEX8 en la Ciudad de México, un proyecto que contempla una inversión de $70 millones de dólares y tendrá una capacidad de 4 MW. La empresa tiene data centers también en Monterrey, Querétaro, Hermosillo y Mérida, además de presencia en Guatemala, Panamá, República Dominicana y Colombia (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-27",
+      "post_date": "2026-02-27T12:20:26.144Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-de2",
+      "subtitle": "Resultados de Bimbo y de Chedraui; TV Azteca y AHMSA; conoce a Fernanda Sainz; Leoni en Durango; Fibra Monterrey; Hyrox; Pokémon; 'set-jetting'",
+      "text": "Comentario Whitepaper: están en México desde 1997; cuentan con cinco plantas de producción en Yucatán, Sonora y Durango, y emplean a unas 7,000 personas.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-09",
+      "post_date": "2026-02-09T12:14:09.817Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6b1",
+      "subtitle": "Planes de Coppel; bonos de empresas mexicanas; OMA dentro de Vinci; Maersk; inversiones japonesas; las papas de Robegrill; Amazon y Anthropic; Philip Morris; Taco Bell; colegiaturas en NYC",
+      "text": "diio es una plataforma de inteligencia artificial que transforma las conversaciones con clientes —reuniones, llamadas y WhatsApp— en trabajo listo para usar: resumen, próximos pasos, compromisos, indicadores de progreso y registros ordenados.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-22",
+      "post_date": "2026-01-22T12:22:21.195Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-af2",
+      "subtitle": "Cruceros; Astellas Pharma; KPIs de la banca; Búho; la industria del golf en México; Delta Tecnic; recortes en las tech; Fresnillo en Canadá; seguridad para CEOs; Jamie Dimon; Chip Wilson vs el board",
+      "text": "Búho, una empresa de logística, superó en 2025 el millón de entregas gestionadas, creciendo más de 120% frente a 2024. En tres años duplicaron el tamaño de su planta en Monterrey y abrieron nuevas instalaciones en CDMX y Guadalajara. Este año planean abrir en Mérida y cerca de la frontera (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-16",
+      "post_date": "2026-01-16T12:23:38.413Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-58e",
+      "subtitle": "Pilgrim’s Pride; Trayecto; conoce a Alexandra Violante; en Guanajuato; Fibra Inn; Amazon vs Saks; retrocede Porsche; Keurig Dr Pepper; resultados Cartier; Keurig Dr Pepper; menos nieve en Vail",
+      "text": "Pilgrim’s Pride invertirá $1,300 millones de dólares en México: buscan incrementar su capacidad productiva en más de 373,000 toneladas anuales (equivalentes a un crecimiento de 38%). La mayor parte de estos recursos, $950 millones, va dirigido a las plantas que tienen en Veracruz, Campeche y Yucatán; $200 millones para las de Durango y Coahuila, y el resto a Querétaro, San Luis Potosí e Hidalgo (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-09",
+      "post_date": "2026-01-09T12:20:16.799Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c63",
+      "subtitle": "Fortaleza vende Keystone Cement; la nueva planta de EAM-Mosca; tarjetas y TPVs; Grupo Martex; Reebok México; la submarca de BYD; Río Tinto y Glencore; Strava; Brunello Cucinelli; casas en Aspen",
+      "text": "Comentario Whitepaper: José Manuel García es el general manager para México. Antes estuvo ocho años en Bepensa y también trabajó en empresas como Advanta Seeds, Monsanto y Johnson & Johnson.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-01-05",
+      "post_date": "2026-01-05T12:24:05.999Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-667",
+      "subtitle": "Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta",
+      "text": "Para finalizar 2025, Bepensa vendió el negocio de crédito que tenían en EUA. Con operaciones en los 32 estados de ese país, FinBe USA se especializa principalmente en crédito automotriz para clientes subprime (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-01-05",
+      "post_date": "2026-01-05T12:24:05.999Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-667",
+      "subtitle": "Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta",
+      "text": "Comentario Whitepaper: FinBe es la empresa que antes era Crédito Real USA Finance. En 2023 Bepensa se quedó con ella después de que Crédito Real enfrentara un proceso judicial de bancarrota (habría sido una transacción de más de $60 millones de dólares). Al parecer se trata de una operación que ha venido generando pérdidas pero que no representa una parte muy significativa dentro de la cartera total de Bepensa Capital.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-01",
+      "post_date": "2025-12-01T12:22:07.557Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c3d",
+      "subtitle": "Emergent Cold Latam; Nu y OXXO; movimientos clave; conoce a Marisol Barajas; Hortifrut; Maratón; contracción en márgenes; joyería y relojes Cartier; ChatGPT; volando en privado",
+      "text": "Comentario Whitepaper: desde julio, su CEO es el mexicano Héctor Luján Valladolid.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-27",
+      "post_date": "2025-11-27T12:22:05.281Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e76",
+      "subtitle": "PetStar; crédito para españolas; exportaciones de autopartes; Volex; Fortaleza; el regreso de Motorola; tendencias distintas en AI; P.F. Chang's; 'generational wealth'; casas en Breckenridge",
+      "text": "Comentario Whitepaper: en uno de los primeros artículos de Whitepaper, hace cinco años, hablamos sobre la historia de PetStar (que tenía ya la planta de reciclaje de PET más grande del mundo). Nació como subsidiaria de Pasa, pero en 2011 entró Arca Continental como accionista, invitando también a Coca-Cola México y a embotelladoras como Bepensa, Corporación del Fuerte, Grupo Rica, Embotelladora de Colima y Grupo Embotellador Nayar.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-11-03",
+      "post_date": "2025-11-03T12:23:20.449Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-eb5",
+      "subtitle": "Bodega Aurrerá Express; crédito automotriz; Platzi; Canva; Colgate-Palmolive; conoce a Dora Giraldo; TGI Fridays en México; la caja de Berkshire Hathaway; BYD; Grupo Prisa; expats en CDMX",
+      "text": "TGI Fridays firmó un acuerdo para abrir 50 sucursales en México. El master franchise agreement es con Mid-City Operadora, dirigida por Álvaro Traconis. Actualmente tienen unidades en Cancún, Mérida, Tampico y Tijuana (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-16",
+      "post_date": "2025-10-16T12:21:17.348Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-01d",
+      "subtitle": "Amazon y Quality Post; Yokohama en Aguascalientes; Maison Kayser; acciones de Orbia; híbridos y eléctricos; Norte19; hispanos y la TV; Ross Dress for Less; Anthropic; Nestlé; ¿la fintech de Mr Beast?",
+      "text": "Una buena parte del crecimiento ha venido por sus tiendas en aeropuertos —solo en el de CDMX tienen cinco—, además de ubicaciones en Monterrey, Cancún, Mérida y Querétaro. También están en corporativos y dentro de Hospitales Ángeles, en donde operan más de 10 sucursales (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-14",
+      "post_date": "2025-10-14T12:24:49.907Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-27b",
+      "subtitle": "Hyundai y Kia; 'Price-to-book' de bancos; VEMO; Wendy's; Flete; BYD en Edomex; resultados de JP Morgan y BlackRock; autos nuevos en EUA; Oura; Buc-ee’s; el crecimiento de Uniqlo",
+      "text": "De los cerca de 40 Wendy’s que hay en México, la mitad están en Ciudad Juárez. También tienen presencia en Nuevo León, Yucatán, Querétaro, Aguascalientes y San Luis Potosí. Quieren llegar a 125 unidades para 2028: en su última llamada con analistas dijeron que ya tienen acuerdos para abrir otras 25 sucursales, y presumieron un crecimiento en México de 16% en ventas durante el segundo trimestre (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "El chef Maycoll Calderón, detrás del restaurante Huset, del cocktail bar Hanky Panky y del restaurante que está dentro de Acre Resort, en Los Cabos, está abriendo su primer restaurante en Nueva York. Estará en el Hotel Standard, se llamará Cuna y ofrecerá comida inspirada en Mérida y CDMX (Eater).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-09",
+      "post_date": "2025-10-09T12:24:38.897Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-2d8",
+      "subtitle": "Salesforce; Eden; producción de vehículos eléctricos; Jumex; abriendo en NYC; Bitso; Armani Residences; aranceles; One Medical; data centers; Ferrari",
+      "text": "Comentario Whitepaper: Calderón contó a Whitepaper que Cuna es un concepto que ya había lanzado en Mérida y que ahora llevará a Nueva York. Además del restaurante, abrirá un bar en el mismo lugar. Es originario de Venezuela, pero desde 2015 tiene sus restaurantes en México.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-08",
+      "post_date": "2025-10-08T12:24:42.484Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-197",
+      "subtitle": "Oro y Fresnillo; Yamaguchi en San Luis; Emergent Cold LatAm; CEO de Walmex; América Móvil en Brasil; Torrent Pharma; acciones de AI; Cristiano Ronaldo; robots ABB; spotlight en FanDuel",
+      "text": "El 40% de la población en México pertenece a la clase media y genera más del 50% del consumo nacional, según Inegi. Los trabajadores formales, emprendedores y pequeños comerciantes representan una fuerza económica significativa, con habilidades digitales y sed de progreso. De ahí que requieran servicios accesibles y confiables.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-15",
+      "post_date": "2025-09-15T12:18:23.060Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8e8",
+      "subtitle": "En San Miguel; transportes de carga; Steelform; conoce a Diana González; Cultiba; Morada Uno; Oasis; TikTok Shop; desayuno en tiendas de conveniencia; Black Rock Coffee Bar; Elizabeth Holmes",
+      "text": "Director Corporate Strategy en Bepensa",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-15",
+      "post_date": "2025-09-15T12:18:23.060Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8e8",
+      "subtitle": "En San Miguel; transportes de carga; Steelform; conoce a Diana González; Cultiba; Morada Uno; Oasis; TikTok Shop; desayuno en tiendas de conveniencia; Black Rock Coffee Bar; Elizabeth Holmes",
+      "text": "Diana es directora de estrategia corporativa en Bepensa desde 2023. Antes fue Head of Strategy and Transformation para Nestlé en México, y tuvo un rol similar en Organización Cultiba. Inició su carrera como consultora en Booz Allen Hamilton.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-09",
+      "post_date": "2025-09-09T12:22:00.457Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-98f",
+      "subtitle": "Amazon y Rappi; Llyasa; casinos Cirsa; marketshare automotriz; BBVA y Sabadell; Mary Brown’s Chicken en Yucatán; Temu; padel en Miami; 1789 Capital; el 'Succession' de verdad",
+      "text": "BPT Group, una operadora de restaurantes con sede en Yucatán, abrió la segunda sucursal en México de Mary Brown’s Chicken, una cadena de fast food con cerca de 300 sucursales, principalmente en Canadá, pero también en Reino Unido e India.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-05",
+      "post_date": "2025-09-05T12:24:25.047Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7c4",
+      "subtitle": "Klar y Banorte; Whirlpool en México; hoteles Wyndham; Fibra Macquarie; visas para inversionistas; más tiendas Lululemon; ¿$1 trillón para Elon?; otro concepto de gasolineras; Cousins Maine Lobster",
+      "text": "En Sisal y Telchac, en Yucatán, se construirán dos hoteles de la marca Wyndham, operados por Mayakuná Luxury Group. La inversión será de más de $600 millones de pesos y estarían listos en 2029. En México hay cerca de 90 hoteles Wyndham (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-04",
+      "post_date": "2025-09-04T12:27:02.478Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e20",
+      "subtitle": "TV Azteca y Whitexican; OXXO Brasil; Sigma en Yucatán; siniestralidad en gastos médicos; hedge funds; logística de Alibaba; los SPVs y las startups; prisa por comprar AI; termos premium",
+      "text": "Al inaugurar su nuevo centro de distribución en Yucatán, en el que invirtieron $400 millones de pesos, Sigma anunció que destinarán otros $420 millones hacia 2027 para ampliar la capacidad de producción que tienen en ese estado. En Mérida ya operan una planta en la que fabrican salchichas, jamones cocidos a granel y jamones ahumados (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-02",
+      "post_date": "2025-09-02T12:25:27.843Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b94",
+      "subtitle": "$250M para Vemo; Kapital; banca en Yucatán; Binance; Quanta Computer en NL; Mattilda; Compartamos en Perú; ‘Made in the USA’; PE en el futbol europeo; a16 y su aceleradora; el split de Kraft Heinz",
+      "text": "Yucatán se ha convertido en uno de los focos más relevantes para la banca comercial en México. Desde inicios de 2022, la cartera de crédito comercial en el estado ha crecido en promedio 19.8% anual —una tasa que, de mantenerse, duplicaría el portafolio total en tres años y medio.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-26",
+      "post_date": "2025-08-26T12:22:28.512Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-633",
+      "subtitle": "Inversión en trenes; menos gente en maquiladoras; Yuyo; Kira; Amazon Business; video en LinkedIn; IHOP en el AIFA; chat de Spotify; micro novelas; Checo Pérez; el valor de los Labubus",
+      "text": "MCM Business Tech-Co, que agrupa los negocios empresariales de Megacable, invertirá $400 millones de pesos en diversos proyectos de despliegue de infraestructura y mantenimiento en Mérida. Esta inversión se suma a los $650 millones que han destinado a ese mercado desde 2023 (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-07",
+      "post_date": "2025-08-07T12:23:19.241Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-356",
+      "subtitle": "Remesas; Southern Copper Corporation; Kushki; Conver; importaciones de relojes; Aldi; aerolíneas y sus tarjetas; resultados NYT; perfil de Altagracia; la casa de Mountainhead",
+      "text": "Kushki, una fintech de pagos fundada en Ecuador pero con México como su principal mercado, creció 40% sus ganancias en el país durante el semestre. Entre sus clientes están Comex, Bepensa y Rappi (Axis Negocios).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-08-01",
+      "post_date": "2025-08-01T12:09:01.216Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-915",
+      "subtitle": "Ingreso en hogares; Cox e Iberdrola; Pilgrim’s Pride; los planes de Don Colchón; resultados de dmX; movimientos clave; Ray Dalio; múltiplo de Figma; relojes de Suiza; zippers de YKK",
+      "text": "Comentario Whitepaper: Pilgrim’s tiene a México entre sus prioridades estratégicas —están buscando crecer su negocio 20%, y para ello traen inversiones en Veracruz y Mérida que les permitirán aumentar su capacidad instalada (y están abiertos a posibles adquisiciones). En la llamada trimestral hablaron mucho sobre nuestro país, destacando avances en el canal de foodservice y como proveedores de los negocios de pollo rostizado. Su CEO en México es Jesús Muñoz, quien tiene más de 20 años en la empresa.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-23",
+      "post_date": "2025-07-23T12:24:35.947Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-efd",
+      "subtitle": "Sears; Televisa; América Móvil; Banorte; Volaris; Havoc; Holacasa; Oxxo en Yucatán; ZYN; bebidas saludables; meme stocks; arte; spotlight en Hims & Hers",
+      "text": "Oxxo invertirá $1,250 millones de pesos para abrir 250 tiendas nuevas en Yucatán durante los próximos cinco años. Este año planean inaugurar al menos 30. El proyecto generaría unos 4,000 empleos, entre directos e indirectos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-22",
+      "post_date": "2025-07-22T12:24:21.087Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fb4",
+      "subtitle": "OCN; Walmart en Tabasco; compras en el extranjero; Vilore Foods y Tía Lupita; motos de India; Marea Group; Fagor Ederlan; entregas por robots, aranceles, proteína",
+      "text": "Comentario Whitepaper: tras anunciar hace unos meses los $6,000 millones de dólares que invertirán en México en 2025, ahora Walmart ha venido anunciando inversiones por estado; en mayo fue Yucatán con $1,900 millones de pesos y en marzo Tamaulipas con $2,500 millones de pesos.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-18",
+      "post_date": "2025-07-18T12:24:08.922Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5e2",
+      "subtitle": "Bimbo; En memoria: Don Roberto Servitje; créditos empresariales; Coca-Cola; Sarelly Sarelly; The Coffee; Substack; Tacos On The Street; Liquid Death; Juul; real estate en EUA; robotaxis de Uber",
+      "text": "En el marco de su 80 aniversario, Bimbo anunció una inversión de $2,000 millones de dólares en México hacia 2028. El plan incluye la modernización de más de 30 plantas y la expansión de su flota eléctrica. Las inversiones se concentrarán en siete estados: Baja California, Yucatán, CDMX, Nuevo León, Querétaro, Puebla y Estado de México. (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-10",
+      "post_date": "2025-07-10T12:24:14.917Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-380",
+      "subtitle": "En San Luis Potosí; The Cheesecake Factory; CAT de tarjetas de crédito; bancos; modernizando sistemas para restaurantes; criptomonedas; medicamentos; Ferrero y WK Kellogg; private equity; Dexit",
+      "text": "Esto sucedió en 2023: en Mérida, Alcocer y Estévez encontraron una empresa llamada National Soft que había desarrollado un software de administración para restaurantes. Con el respaldo de inversionistas como Cerralvo Capital y Grupo Bafar, la adquirieron y —siguiendo el playbook de los search funds— se instalaron como CEOs y se apresuraron a transformarla y crecerla.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-08",
+      "post_date": "2025-07-08T12:24:15.973Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-1be",
+      "subtitle": "Aura Minerals en Zacatecas; aranceles y fábricas en MTY; footprint de Femsa; Tulum Energy y Ternium; centros de envío de Amazon; Arca en Chihuahua; Unilever y sus influencers; Macan eléctrica",
+      "text": "Amazon tiene 13 centros de envío en México, que juntos concentran 290,000 metros cuadrados de extensión. Están en Tijuana, Bajío, Guadalajara, Monterrey, Mérida y CDMX (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-12",
+      "post_date": "2025-06-12T12:21:36.878Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-135",
+      "subtitle": "Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas",
+      "text": "Apenas estrenándose como CEO de Heineken México, Oriol Bonaclocha anunció en la mañanera que invertirán $2,750 millones de dólares hacia 2028; una buena parte de esto va para el desarrollo de una nueva planta en Yucatán (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-12",
+      "post_date": "2025-06-12T12:21:36.878Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-135",
+      "subtitle": "Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas",
+      "text": "Dunkin, que ya opera en CDMX, Mérida, Cancún, Nogales y Tijuana, este año abrirá entre 10 y 12 tiendas en Nuevo León, en alianza con Grupo Galería. La marca es parte de Inspire Brands, el conglomerado dueño también de Arby’s, Buffalo Wild Wings y Sonic (El Financiero).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-03",
+      "post_date": "2025-06-03T12:21:49.759Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9ff",
+      "subtitle": "Tiendas Neto; inversión de Japón; el petrolero; invirtiendo en adolescentes; remesas; Reliv y Hospisoft; los negocios de los Murdoch; Waymo; Dave’s Hot Chicken; Sequoia y Mubi; oficinas en EUA",
+      "text": "Tiendas Neto, de Grupo Salinas, destinará este año $375 millones de pesos para abrir 60 sucursales y un Cedis en Yucatán; buscan llegar a 100 tiendas en ese estado (Redacción Whitepaper).",
+      "matched_by": "state"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "state": "Guerrero",
+  "crm_context": {
+    "aaa_aa": 7,
+    "dm": 14,
+    "industries": "Turismo (Mundo Imperial · Vidanta)"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Mundo Imperial / Grupo Hermes (Hank)",
+      "aliases": [
+        "Mundo Imperial",
+        "Grupo Hermes",
+        "Hank"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 2,
+      "mention_dates": [
+        "2025-09-12",
+        "2025-09-05"
+      ]
+    },
+    {
+      "label": "Grupo Vidanta (Chávez Madrazo)",
+      "aliases": [
+        "Vidanta",
+        "Chávez Madrazo"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 3,
+      "mention_dates": [
+        "2026-04-14",
+        "2026-01-22",
+        "2025-12-16"
+      ]
+    },
+    {
+      "label": "Superfarmacias Leyva",
+      "aliases": [
+        "Superfarmacias Leyva",
+        "Leyva"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 16,
+    "ppt_families_hit": 2,
+    "ppt_families_total": 3,
+    "top_sectors": [
+      [
+        "Turismo / Hospitalidad",
+        5
+      ],
+      [
+        "Banca / Finanzas",
+        3
+      ],
+      [
+        "Tecnología / Telecom",
+        2
+      ],
+      [
+        "Logística / Transporte",
+        1
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        4
+      ],
+      [
+        "Funding / Rondas",
+        2
+      ],
+      [
+        "Movimientos directivos",
+        1
+      ],
+      [
+        "Expansión / Apertura",
+        1
+      ],
+      [
+        "Resultados",
+        1
+      ],
+      [
+        "Crisis / Reestructura",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        10
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-04-14",
+      "post_date": "2026-04-14T12:27:22.633Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-faa",
+      "subtitle": "Vidanta en el Mediterráneo; Herdez y sus helados; Nifco en NL; té Izlah; tarjetas con límite de más de $60,000; el plan de Nissan; Amazon vs Starlink; catálogos; la casa del CEO de TelevisaUnivision",
+      "text": "Vidanta está estrenando un mega yate con itinerarios planeados para zonas como la Riviera Francesa, la Costa Española, las Azores y Portugal (y también a las islas griegas). Según la empresa, es un barco que tenía capacidad para 600 pasajeros y que lo rediseñaron para llevar solamente 216 huéspedes (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-04-10",
+      "post_date": "2026-04-10T12:12:01.034Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c6",
+      "subtitle": "VC en LATAM; Bupa en México; la planta de Constellation; conoce a Jimena González de Cossío; Dentalia; San Miguel de Allende; SpaceX; Unilever y Grüns; publicidad en ChatGPT; jets en Augusta",
+      "text": "Comentario Whitepaper: IHG Hotels & Resorts nombró recientemente a Michael Hoe Knudsen como managing director para América Latina y el Caribe, donde tienen 295 hoteles operando y más de 100 en desarrollo. Abrieron su primer hotel en México hace más de 50 años, en Acapulco. El año pasado publicamos que en México están abriendo hoteles de la marca voco.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-06",
+      "post_date": "2026-04-06T12:24:16.343Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-379",
+      "subtitle": "Fastenal; exportaciones de Jalisco; ventas por m2; Café Azúcar Morena; movimientos clave; MSSC MFG Mexicana; Medvi; jóvenes emprendedores; vibe coding; TBPN y OpenAI",
+      "text": "* Tras poco más de un año como CEO de Pizza Hut en México, Germán Morales deja el puesto (Redacción Whitepaper). * Fausto Sainz es el nuevo country manager de Fintoc en México; se integró a la startup chilena de pagos en 2022 (Redacción Whitepaper). * Gordon Kao será ahora el vicepresidente de Grupo Chirey en México; estará a cargo de las marcas Chirey, Omoda y Jaecoo (Redacción Whitepaper). * Iván Canales, ex country manager de Nu en México, se estaría uniendo a PayJoy para encabezar sus mercados internacionales (El Financiero). * Salomon Amkie es el nuevo director de Banca Corporativa de Citi México; está en la empresa desde 2011 (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-02-23",
+      "post_date": "2026-02-23T12:19:18.780Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-583",
+      "subtitle": "Soriana; Prosa y Visa; movimientos clave; aranceles; consejo de El Palacio de Hierro; Grupo Crown Roof Tiles; Grupo Hotelero Santa Fe; HALO; Global Entry; Aritzia; American Girl; utilidades de bancos",
+      "text": "Comentario Whitepaper: hace unas semanas adquirieron un hotel de 70 habitaciones en Ixtapa-Zihuatanejo, por un monto no revelado. Carlos Gerardo Ancira preside el Consejo y Francisco Medina es el CEO.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-22",
+      "post_date": "2026-01-22T12:22:21.195Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-af2",
+      "subtitle": "Cruceros; Astellas Pharma; KPIs de la banca; Búho; la industria del golf en México; Delta Tecnic; recortes en las tech; Fresnillo en Canadá; seguridad para CEOs; Jamie Dimon; Chip Wilson vs el board",
+      "text": "En el top cinco de eventos deportivos con mayor impacto económico en México durante 2025 destacan dos eventos de golf: el México Open Vidanta World, en Jalisco, que generó una derrama económica de $3,000 millones de pesos, y el LIV Golf Mexico City, que sumó $2,000 millones.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-16",
+      "post_date": "2025-12-16T12:25:28.842Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8b7",
+      "subtitle": "El deal de Banamex es oficial; la ronda de Luca; cierra Jüsto; consejo de Aeroméxico; Plata y los neobancos; eventos deportivos en México; cake pops; F-150 eléctrica; tráfico en internet; familias",
+      "text": "El top 5 lo completan el México Open Vidanta World, el LIV Golf en CDMX, la final de la Liga MX entre América y Toluca, y la Fórmula E (El Mister).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-12-02",
+      "post_date": "2025-12-02T12:24:17.901Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-967",
+      "subtitle": "Camino Real Monterrey y Santa Fe; marcas propias en 3B; Dr. Oetker; Femsa Ventures; remsas; Holcim; Amazon Now; mecánicos de Ford; Steel Dynamics; empresas trillonarias; family offices",
+      "text": "* Femsa Ventures invirtió en Aloi, una startup que desarrolló una plataforma para automatizar el cumplimiento fiscal y legal de empresas. Sus fundadores son Pedro Guerrero, parte del founding team de Cometa; Samuel Giraldo, ex Rappi y CloudKitchens; y Rodrigo Burgos, quien estuvo más de nueve años en Kueski (Redacción Whitepaper). * Epic Angels invirtió por primera vez en México, en una ronda pre-semilla para BioPlaster Research, una startup que fabrica bolsas y empaques ecológicos a partir de sargazo. También participa Amplifica Capital. La fundadora y CEO es Andrea Bonilla, PhD en Oxford (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-24",
+      "post_date": "2025-11-24T12:25:03.595Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-848",
+      "subtitle": "Planes de inversión de Torex Gold; publicidad digital; acostumbrados a los aranceles; Incode; conoce a Carmen Villarreal; Wyndham; aseguradoras; clubes dentro de estadios; microdosis de GLP-1",
+      "text": "Torex Gold, una minera canadiense, invertirá más de $110 millones de dólares en 2026 para sus operaciones en México —principalmente en Chihuahua, Guerrero y Sinaloa. El objetivo es incrementar la producción de oro y plata (MarketScreener).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-12",
+      "post_date": "2025-09-12T12:22:38.913Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6a2",
+      "subtitle": "Playtech y Caliente; inversiones; mexicanos de viaje; Estudios Churubusco; Sabadell y BBVA; dudas sobre AI; Ellison y Warner Bros; testamento de Armani; el nuevo reloj de Swatch; corredores abstemios",
+      "text": "Comentario Whitepaper: la marca Caliente patrocina a 13 de los 18 equipos de la Liga MX. Si bien en los últimos años ha surgido competencia —como Bet 365 o Playdoit—, en 2019 Emilio Hank aseguró a Forbes que Caliente tenía 50% del market share.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-05",
+      "post_date": "2025-09-05T12:24:25.047Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7c4",
+      "subtitle": "Klar y Banorte; Whirlpool en México; hoteles Wyndham; Fibra Macquarie; visas para inversionistas; más tiendas Lululemon; ¿$1 trillón para Elon?; otro concepto de gasolineras; Cousins Maine Lobster",
+      "text": "Comentario Whitepaper: en enero del año pasado, Banorte presumió el lanzamiento del primer banco digital en México que nacía con su propia licencia bancaria. Tenían para ese entonces un equipo de unas 200 personas trabajando en el proyecto, y unos meses antes, Carlos Hank había comentado que buscarían que en cinco años Bineo representara entre 5% y 7% de los ingresos del grupo financiero. Sin embargo, este proyecto les representó una pérdida de casi $1,000 millones de pesos en 2024, y luego de otros $500 millones en el primer semestre de 2025. Ese tipo de pérdidas son comunes en el mundo de los neobancos, pero no así dentro de un grupo financiero como lo es Banorte, y desde hace algunos meses comenzaron un proceso de “reestructura” (básicamente, irlo desapareciendo). En ese momento, el CEO de Banorte señaló que considerarían vender la licencia de Bineo, buscando recuperar lo que le habían invertido —algo así como $100 millones de dólares. Klar, por su parte, viene acelerando su crecimiento: triplicó su cartera de crédito en los últimos 12 meses y en el segundo trimestre reportó tener casi $8,800 millones de pesos de captación. Ya desde el año pasado andaban buscando su propia licencia bancaria, y en junio de este año anunciaron que habían obtenido $190 millones de dólares en una nueva ronda de inversión, en la cual su valuación aumentó a $800 millones.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-05",
+      "post_date": "2025-09-05T12:24:25.047Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-7c4",
+      "subtitle": "Klar y Banorte; Whirlpool en México; hoteles Wyndham; Fibra Macquarie; visas para inversionistas; más tiendas Lululemon; ¿$1 trillón para Elon?; otro concepto de gasolineras; Cousins Maine Lobster",
+      "text": "Volaris conecta a Guadalajara con nuevos destinos desde $29 MXN\\*. Vuela ya hacia Puebla, Durango, Villahermosa y Zihuatanejo hasta el 8 de septiembre de 2025.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-29",
+      "post_date": "2025-08-29T12:15:32.452Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-80b",
+      "subtitle": "La ronda de Momento; Grupo Corporativo Papelera; ventas ANTAD; Darwin AI; Gripo Somar; BanCoppel y CIBanco; moda de lujo; BYD; Dell; Dick's; ranchos en EUA y el 'Yellowstone effect'",
+      "text": "Momento, una aseguradora digital de autos, habría obtenido $10 millones de dólares su más reciente ronda de inversión. Fundada en 2022, en CDMX, presumen hoy tener más de 10,000 clientes. Sus fundadores son Lois Rogel, León Bartolomé, ambos ex McKinsey, y Andrés Guerrero, con experiencia en P&G. Pasaron por Y Combinator hace tres años (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-28",
+      "post_date": "2025-08-28T12:25:05.074Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-047",
+      "subtitle": "Aranceles a China; Whitepaper Pulse; tractores de India; por dónde entran los visitantes; Dollarcity; seguridad social en apps de delivey/rides; stablecoins; Nvidia; Lululemon; Apple Music vs Spotify",
+      "text": "“La cosa va a ser cuántos de esos [afiliados] conseguirán el ingreso mínimo necesario para ser considerados trabajadores,” contó a Whitepaper Sergio Guerrero, secretario general de la Unión Nacional de Trabajadores por Aplicación. Aquel ingreso mínimo oficialmente se fijó en $8,364 pesos al mes, un monto que Guerrero estima que es alcanzable si un conductor trabaja cinco días a la semana, seis horas al día.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-07",
+      "post_date": "2025-08-07T12:23:19.241Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-356",
+      "subtitle": "Remesas; Southern Copper Corporation; Kushki; Conver; importaciones de relojes; Aldi; aerolíneas y sus tarjetas; resultados NYT; perfil de Altagracia; la casa de Mountainhead",
+      "text": "Las caídas más marcadas fueron en Sinaloa (-26%), CDMX (-25%), Nuevo León (-22%) y Edomex (-20%); por otro lado, Baja California registró un alza de 17%, Guerrero de 5% y Campeche, de 3% (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-25",
+      "post_date": "2025-07-25T12:24:10.238Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5a1",
+      "subtitle": "Genomma Lab; Bimbo; informalidad; Hyrox; Iberdrola; agua mineral; malls en EUA; Paramount y Skydance Media; Hoka y Ugg; barras de proteína",
+      "text": "Comentario Whitepaper: los estados con mayor informalidad son Oaxaca (81.5%), Estado de México (79.8%) y Guerrero (78.6%). En contraste, los de menor informalidad son Quintana Roo (35.9%), Chihuahua (37.7%) y Baja California Sur (38.4%).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-06-19",
+      "post_date": "2025-06-19T12:23:38.356Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-dbb",
+      "subtitle": "Cinco años de WP; casas de empeño; publicidad digital; Fibra Next; CMPC; Cuerno en NYC; Krispy Kreme; Dufry; dos trabajos; Liquid Death; 100 hijos; Lakers; inversionistas inmunes",
+      "text": "OMA extendió por nueve años su acuerdo con la suiza Avolta, para operar 15 espacios comerciales en los aeropuertos de Monterrey, Mazatlán, Zihuatanejo y Acapulco (Redacción Whitepaper).",
+      "matched_by": "state"
+    }
+  ]
+}

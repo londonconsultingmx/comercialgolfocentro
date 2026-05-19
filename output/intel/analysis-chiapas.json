@@ -1,0 +1,122 @@
+{
+  "state": "Chiapas",
+  "pulso": "Chiapas es un punto ciego casi total para Whitepaper: solo 2 extractos en el corpus, ninguno con contenido económico-empresarial relevante para LCG. Una mención es tangencial (San Cristóbal de las Casas confundido como referencia al Hotel San Cristóbal en BCS, propiedad de MiRA de Roberto Pulido —es decir, NO Chiapas, sino homonimia geográfica) y la otra es un dato demográfico (Chiapas tiene la tasa de natalidad más alta del país: 86.7 vs 32.8 CDMX). Cero menciones de Grupo Farrera, Edelmann Toriello/Finca Hamburgo, Soconusco, café especialidad, o turismo San Cristóbal/Palenque. El estado existe en el radar de medios financieros nacionales casi exclusivamente vía indicadores sociodemográficos y narrativa de seguridad, no como plaza de negocios. Para LCG esto implica que la prospección a Chiapas debe apoyarse 100% en inteligencia primaria (red Luis Ortiz YPO, alumni, contactos en Cámara Cafetalera y Ruta del Café) y NO en señales de prensa nacional. El bono demográfico chiapaneco, sin embargo, es una pista macro relevante: base poblacional joven, mercado interno de consumo creciente, presión sobre infraestructura y servicios —oportunidad indirecta para sectores agroindustria, retail regional y servicios financieros que atiendan a Grupo Farrera y similares.",
+  "themes": [
+    {
+      "tema": "Ausencia mediática de Chiapas en prensa de negocios nacional",
+      "evidencia": "Solo 2 extractos en todo el corpus Whitepaper; ambos triviales para fines comerciales B2B. Whitepaper cubre intensivamente CDMX, NL, JAL, QR pero ignora el Sur-Sureste empresarial.",
+      "implicacion_lcg": "No se puede 'leer' a Chiapas vía prensa. Toda la inteligencia comercial debe venir de red personal, eventos sectoriales (Ruta del Café, Cámara Cafetalera Mexicana, AMECAFE) y referidos YPO/EO."
+    },
+    {
+      "tema": "Bono demográfico chiapaneco",
+      "evidencia": "Tasa de natalidad 86.7 (la más alta de México, vs 32.8 CDMX). Base poblacional joven en expansión.",
+      "implicacion_lcg": "Mercado interno joven sostiene a operadores regionales como Grupo Farrera (automotriz, retail, hoteles) y a la cadena de consumo básico. Pitch a familias chiapanecas: 'cómo capturar el dividendo demográfico antes de que se sature el mercado'."
+    },
+    {
+      "tema": "Homonimia 'San Cristóbal' — riesgo de confusión geográfica",
+      "evidencia": "El extracto del 9-oct-2025 menciona 'Hotel San Cristóbal' pero es el de BCS (MiRA / Roberto Pulido), no San Cristóbal de las Casas.",
+      "implicacion_lcg": "Atención a la calidad de filtros geográficos en inteligencia automatizada. Esto subraya por qué Chiapas necesita curación humana."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Grupo Farrera (familia Farrera Escudero)",
+      "evidencia_whitepaper": "Cero menciones en corpus.",
+      "valor_lcg": "Top of mind PPT Chiapas. Conglomerado regional con concesionarias automotrices (Nissan, otras marcas), hoteles y diversificación. Inteligencia debe obtenerse por canales primarios.",
+      "siguiente_paso": "Activar red Luis Ortiz YPO; preguntar a alumni London si hay puentes; revisar prensa local Chiapas (Cuarto Poder, Diario de Chiapas) fuera del corpus actual."
+    },
+    {
+      "nombre": "Familia Edelmann Toriello — Finca Hamburgo / Chiripa",
+      "evidencia_whitepaper": "Cero menciones.",
+      "valor_lcg": "Café de especialidad de Soconusco, exportador, marca premium reconocida internacionalmente. Caso clásico de empresa familiar multigeneracional con potencial de profesionalización / transición generacional / estrategia de marca.",
+      "siguiente_paso": "Buscar contacto vía Ruta del Café, Specialty Coffee Association (eventos México), o vía exportadores en Tapachula."
+    },
+    {
+      "nombre": "Cluster cafetalero Soconusco (13 fincas Ruta del Café)",
+      "evidencia_whitepaper": "Cero menciones.",
+      "valor_lcg": "13 familias caficultoras integradas en circuito turístico-productivo. Oportunidad cluster: una venta puede abrir 12 más. Marcas como Argovia, Hamburgo, Irlanda, La Chiripa, Genova, Santo Domingo.",
+      "siguiente_paso": "Mapear directorio Ruta del Café (chiapasruta delcafe.com); identificar presidente/coordinador del cluster como entry point único."
+    },
+    {
+      "nombre": "Cámara Nacional del Café y AMECAFE",
+      "evidencia_whitepaper": "Cero menciones.",
+      "valor_lcg": "Gremio. Acceso institucional al sector. Eventos anuales que pueden ser plataforma de marca para LCG.",
+      "siguiente_paso": "Identificar sede regional Chiapas y calendario de eventos 2026."
+    },
+    {
+      "nombre": "Operadores hoteleros San Cristóbal de las Casas / Palenque",
+      "evidencia_whitepaper": "Cero menciones específicas de Chiapas.",
+      "valor_lcg": "Turismo de naturaleza y cultural. Posibles familias propietarias de cadenas boutique (Hotel Bo, Casa Lum, Na Bolom, etc.) — fragmentado pero con jugadores con potencial AA.",
+      "siguiente_paso": "Investigación de campo / referidos locales. Whitepaper no servirá aquí."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Profesionalización y transición generacional en fincas cafetaleras Soconusco",
+      "racional": "Cluster de 13 familias multigeneracionales con marcas premium globales pero gobierno corporativo y procesos típicamente artesanales. Sweet spot LCG: protocolo familiar, sucesión, sistematización operativa, estrategia de marca/comercialización exportación.",
+      "evidencia_origen": "Conocimiento sectorial (no del corpus Whitepaper).",
+      "accion": "Diseñar pitch específico cluster cafetalero. Entrada vía Edelmann (Hamburgo/Chiripa) como caso ancla; usar éxito como referencia para vender al resto."
+    },
+    {
+      "titulo": "Grupo Farrera — diversificación y captura de bono demográfico",
+      "racional": "Conglomerado regional con base poblacional joven creciente. Oportunidades en estrategia corporativa, M&A regional, expansión de líneas de negocio (automotriz EV, hospitalidad, retail).",
+      "evidencia_origen": "CRM LCG (clasificación AAA/AA) + dato demográfico Whitepaper (natalidad 86.7).",
+      "accion": "Buscar entrevista exploratoria vía red Luis Ortiz / YPO Sureste; ofrecer diagnóstico estratégico sin costo de 2-3 semanas."
+    },
+    {
+      "titulo": "Turismo experiencial y boutique San Cristóbal–Palenque",
+      "racional": "Categoría con valor de marca creciente post-pandemia. Operadores familiares con potencial de profesionalización en revenue management, pricing, integración digital y expansión regional.",
+      "evidencia_origen": "Conocimiento sectorial.",
+      "accion": "Investigación primaria de top 10 hoteleros boutique Chiapas; mapear propietarios; correlacionar con CRM."
+    },
+    {
+      "titulo": "Posicionamiento de marca LCG vía evento sectorial cafetalero",
+      "racional": "Patrocinio o participación con ponencia en evento Ruta del Café o congreso AMECAFE puede dar visibilidad cluster completo en una sola intervención.",
+      "evidencia_origen": "Conocimiento sectorial.",
+      "accion": "Calendarizar mapeo de eventos 2026 e identificar uno donde Alfredo Chávez o socio LCG pueda dar keynote sobre 'profesionalización de empresas familiares cafetaleras'."
+    }
+  ],
+  "alertas": [
+    {
+      "alerta": "Riesgo de seguridad regional (Frontera Comalapa, Sierra, Soconusco fronterizo)",
+      "evidencia": "Contexto público conocido (no del corpus). Crimen organizado con disputas territoriales activas en la frontera sur 2024-2025. Afecta logística de café, turismo de aventura y movilidad de ejecutivos.",
+      "impacto_lcg": "Limita visitas físicas, eleva costo logístico para clientes, puede demorar implementaciones in situ. Considerar protocolos de seguridad para consultores enviados a Tapachula / Soconusco / fronterizos."
+    },
+    {
+      "alerta": "Baja densidad de prospectos AAA/AA respecto a otros estados zona",
+      "evidencia": "CRM: solo 5 AAA/AA, 7 DM. Comparado con estados de mayor desarrollo industrial.",
+      "impacto_lcg": "Costo de adquisición por cliente potencial es alto (viajes, tiempo). Justifica enfoque cluster (entrar a uno para vender a varios) y no estrategia uno-a-uno tradicional."
+    },
+    {
+      "alerta": "Volatilidad precios café internacional",
+      "evidencia": "Contexto sectorial. El precio del café arábica ha tenido oscilaciones fuertes 2024-2025.",
+      "impacto_lcg": "Fincas pueden estar en modo defensivo (no contratar consultoría) o en modo expansivo (capitalizar precios altos). Timing del pitch debe leer ciclo de precios."
+    },
+    {
+      "alerta": "Ausencia mediática puede señalar opacidad informativa",
+      "evidencia": "Solo 2 menciones triviales en corpus completo Whitepaper.",
+      "impacto_lcg": "Las familias chiapanecas son menos visibles públicamente. Diligencia previa a reuniones requerirá fuentes alternas (Mercado, prensa local, registro público, INPI). No asumir disponibilidad de información estándar."
+    }
+  ],
+  "gaps": [
+    "Cero menciones de Grupo Farrera, Farrera Escudero o sus líneas de negocio en Whitepaper.",
+    "Cero menciones de Finca Hamburgo, familia Edelmann Toriello, Chiripa o cualquier finca del cluster Soconusco.",
+    "Sin información sobre eventos comerciales relevantes en Chiapas 2025-2026 (Ruta del Café, AMECAFE, ferias turísticas).",
+    "Sin cobertura de movimientos M&A, inversiones o expansiones de capital privado en el estado.",
+    "Sin información sobre nuevas marcas hoteleras o de hospitalidad expansionándose a San Cristóbal / Palenque / Tuxtla.",
+    "Sin datos sobre cadenas de retail regional, distribución alimentaria o concesionarios automotrices fuera de Grupo Farrera.",
+    "Sin información sobre infraestructura: nuevos aeropuertos regionales, carreteras, Tren Maya impacto en Palenque (mencionado solo marginalmente en corpus general, no en extractos Chiapas).",
+    "Sin información sobre exportadores agroalimentarios chiapanecos (cacao, miel, mango ataulfo, plátano).",
+    "Sin cobertura del sector energético (hidroeléctricas en Chiapas, gas Chicontepec, etc.).",
+    "Sin datos sobre la clase empresarial joven de Tuxtla Gutiérrez y Tapachula.",
+    "Sin mención de actores ganaderos regionales (Chiapas es estado ganadero relevante).",
+    "Sin información sobre Universidades empresariales locales (UNACH, ITESM Chiapas) que sirvan de puente reclutamiento / alumni.",
+    "Sin información sobre cómo la situación de seguridad fronteriza está afectando decisiones de inversión de empresas chiapanecas.",
+    "Sin información sobre relación con cluster guatemalteco (frontera comercial activa Tapachula-Tecún Umán).",
+    "Falta data sobre proveedores LCG indirectos: bancos regionales que financian a las familias PPT, despachos legales, despachos contables que podrían ser referidores."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 2,
+    "evaluacion": "muy limitada — Whitepaper prácticamente no cubre Chiapas como plaza de negocios. Los 2 extractos no contienen señal accionable (uno es homonimia con BCS, otro es dato demográfico macro). Toda la prospección requiere inteligencia primaria. Recomendación: complementar con prensa local (Cuarto Poder, Diario de Chiapas, Heraldo de Chiapas), publicaciones sectoriales (AMECAFE, SCA), red personal Luis Ortiz YPO y alumni London Consultores. Tratar Chiapas como mercado de 'cluster sales' (entrar a una familia para penetrar al gremio) y no como mercado de leads dispersos."
+  }
+}

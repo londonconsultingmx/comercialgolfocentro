@@ -1,0 +1,110 @@
+{
+  "state": "Campeche",
+  "pulso": "La cobertura de Whitepaper sobre Campeche es marginal: apenas 4 menciones en el periodo, ninguna de ellas centrada en el estado, sino tangenciales (Campeche aparece como subsede de operaciones nacionales). Lo poco que se asoma confirma dos hilos: (1) presencia de capital regional con vocación multi-formato (Corporativo GES con sede en Campeche operando Burger King, gasolineras y Church's Texas Chicken) y (2) Campeche como geografía secundaria de jugadores nacionales (Pilgrim's Pride invirtiendo en planta, Super Akí con red sub-regional, Walmex). No hay narrativa pública sobre las familias PPT del estado (Richaud, Azar Wabi, cluster apícola-pesquero) ni sobre el verdadero motor económico local (pesca, miel, agroindustria, transición post-Pemex en Ciudad del Carmen). Para Campeche, Whitepaper NO es fuente suficiente; LCG debe construir inteligencia primaria vía red Anáhuac Campeche, YPO Luis Ortiz y trabajo de campo."
+,
+  "themes": [
+    {
+      "titulo": "Conglomerados familiares campechanos diversificados bajo el radar nacional",
+      "explicacion": "Corporativo GES (con sede en Campeche) aparece como operador multi-vertical: Burger King + Church's Texas Chicken + gasolineras + restaurantes. Es el perfil clásico de family business AAA que LCG atiende: diversificación oportunista, gobernanza informal, retos de consolidación operativa. La mención es breve pero confirma que existe capital local con escala que prensa nacional ignora.",
+      "sectores": ["Franquicias QSR", "Combustibles / Estaciones de servicio", "Restaurantes"],
+      "evidence_dates": ["2026-04-01"],
+      "implicacion_lcg": "GES no figura en el set PPT actual del CRM pero debe entrar al pipeline. Es target ideal para diagnóstico de profesionalización de holding multi-formato y eventualmente sucesión / gobierno corporativo. Validar si ya está en el CRM como cliente o prospecto."
+    },
+    {
+      "titulo": "Campeche como geografía pasiva de inversión nacional",
+      "explicacion": "Pilgrim's Pride destina parte de USD 950M a sus plantas en Veracruz, Campeche y Yucatán (ene-2026). Super Akí mantiene ~50 sucursales entre Yucatán, Campeche y Quintana Roo. Walmex opera red regional. Esto indica que Campeche es plaza de producción agroindustrial y consumo, no de toma de decisión corporativa: los HQs están fuera.",
+      "sectores": ["Agroindustria avícola", "Retail / Supermercados"],
+      "evidence_dates": ["2026-01-16", "2026-03-12"],
+      "implicacion_lcg": "Los proyectos grandes en Campeche se deciden en Monterrey / CDMX / EUA. Para LCG, la jugada en estos jugadores no es local; es a través de los corporativos. En cambio, los proveedores locales (logística, frío, mano de obra calificada agroindustrial) sí pueden ser targets familiares medianos."
+    },
+    {
+      "titulo": "Remesas al alza en Campeche mientras el norte cae",
+      "explicacion": "En ago-2025 Campeche registró +3% en remesas mientras Sinaloa caía -26%, CDMX -25%, NL -22% y Edomex -20%. Es un dato pequeño pero atípico: sugiere base migratoria sostenida y consumo local resiliente en contraste con la desaceleración del norte y centro.",
+      "sectores": ["Consumo / Retail regional", "Servicios financieros para remesas"],
+      "evidence_dates": ["2025-08-07"],
+      "implicacion_lcg": "Refuerza la tesis de que el consumo de base en Campeche aguanta — relevante para operadores QSR y retail familiares locales. Útil como dato de contexto en pitch a Grupo GES, Super Akí (Yucatán), y cualquier retailer de la península."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Corporativo GES (sede Campeche)",
+      "en_crm": false,
+      "movimiento": "Opera franquicias Burger King, Church's Texas Chicken, gasolineras y restaurantes desde Campeche.",
+      "que_revela": "Family business multi-formato de escala regional con sede operativa en el estado — perfil exacto AAA. Probablemente con retos de consolidación administrativa entre verticales heterogéneas.",
+      "approach_sugerido": "Validar primero si está en CRM bajo otro nombre. Buscar puente vía Anáhuac Campeche o cámara local. Pitch: 'optimización de holding multi-formato' (governance, shared services, KPIs cruzados verticales QSR vs combustibles)."
+    },
+    {
+      "nombre": "Grupo Centaura (Campeche, mención lateral)",
+      "en_crm": false,
+      "movimiento": "Negocio inmobiliario + agencias automotrices.",
+      "que_revela": "Otro family business diversificado del estado. Combinación inmobiliario + dealers automotrices es típica de capital patrimonial que requiere profesionalización financiera y separación de patrimonio personal vs empresa.",
+      "approach_sugerido": "Investigar quiénes son los principales, edad de generación al mando, si hay sucesión visible. Pretexto de approach: análisis de rentabilidad por unidad de negocio y gobierno corporativo."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Diagnóstico de holding diversificado a Corporativo GES",
+      "tipo": "Profesionalización / Gobierno corporativo",
+      "que_dice_el_extracto": "GES opera Burger King + Church's + gasolineras + restaurantes desde Campeche — combinación que rara vez tiene shared services maduros ni reporting consolidado homogéneo.",
+      "como_acercarse": "Vía red Anáhuac Campeche o YPO Luis Ortiz. Si no hay conexión directa, vía cámara de franquiciatarios o ANTAD.",
+      "pretexto": "Tendencias 2026 en gestión de portafolios multi-formato (QSR + combustibles): cómo medir rentabilidad real por unidad y captar sinergias de back-office.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Mapeo activo del cluster apícola-pesquero (Calkiní/Hopelchén/Champotón)",
+      "tipo": "Pipeline building",
+      "que_dice_el_extracto": "Whitepaper no cubre esto. Es justamente lo que falta.",
+      "como_acercarse": "LCG debe activar trabajo de campo: visitas a cooperativas pesqueras, Consejo Apícola, asociaciones de exportadores de miel. Identificar a los 5-8 patrones familiares más relevantes del cluster.",
+      "pretexto": "Estudio sectorial gratuito 'Profesionalización de la cadena apícola exportadora mexicana' como puerta de entrada.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Acercamiento a familias PPT no cubiertas por prensa (Richaud, Azar Wabi)",
+      "tipo": "Relacionamiento directo",
+      "que_dice_el_extracto": "Cero menciones en Whitepaper para las tres familias PPT.",
+      "como_acercarse": "Por completo offline: red Luis Ortiz YPO para Azar Wabi (liderazgo gremial turismo). Para Richaud, vía cámara alimentaria o proveedores comunes. Anáhuac Campeche alumni para cualquiera de las dos.",
+      "pretexto": "Conversación informal sobre sucesión y profesionalización en empresas familiares de tercera generación — sin pitch comercial inicial.",
+      "urgencia": "alta"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "Cobertura mediática casi nula",
+      "descripcion": "Whitepaper.mx es ciego a Campeche. LCG no puede depender de prensa nacional para anticipar movimientos en este estado — toda la inteligencia tiene que ser primaria."
+    },
+    {
+      "titulo": "Transición post-Pemex en Ciudad del Carmen no aparece en data",
+      "descripcion": "El brief menciona que Ciudad del Carmen ya no es tan activa para Pemex, pero no hay extractos que lo confirmen o cuantifiquen. Riesgo de pitch desinformado si LCG asume narrativas viejas. Validar con fuentes locales antes de ofertar a cualquier empresa con exposición a la industria petrolera."
+    },
+    {
+      "titulo": "Familias PPT invisibles públicamente",
+      "descripcion": "Las tres familias PPT del estado (Richaud, Azar Wabi, cluster apícola) tienen cero menciones en 12 meses de Whitepaper. Esto puede indicar perfil bajo intencional — el approach debe ser por relaciones, no por reactividad a noticias."
+    }
+  ],
+  "gaps": [
+    "Composición accionaria y generacional de Grupo Richaud Hnos (alimentario) — no hay nada público actual",
+    "Estado del liderazgo gremial turístico de Azar Wabi: ¿siguen activos en cámaras, qué cargos, qué proyectos?",
+    "Mapeo del cluster apícola exportador: principales exportadores familiares en Calkiní, Hopelchén y Champotón",
+    "Mapeo del cluster pesquero (camarón, pulpo) en Champotón y Carmen: cooperativas vs empresas familiares formales",
+    "Impacto real de la desaceleración de Pemex en Ciudad del Carmen 2024-2026 y proveedores locales sobrevivientes",
+    "Empresas familiares en transición de proveedor Pemex hacia otros sectores (reconversión productiva)",
+    "Identificación completa del accionariado y management de Corporativo GES",
+    "Identificación de propietarios y management de Grupo Centaura",
+    "Penetración de Super Akí en Campeche específicamente (cuántas sucursales en el estado, propiedad familiar yucateca)",
+    "Familias campechanas con segunda residencia / oficinas en Mérida o CDMX (decisores que no viven en Campeche)",
+    "Alumni Anáhuac Campeche en posiciones C-level — base concreta y actualizada",
+    "Lista de miembros YPO con base en Campeche más allá de Luis Ortiz",
+    "Inversiones extranjeras anunciadas en Campeche 2025-2026 (Pilgrim's es solo una pieza)",
+    "Empresas constructoras y desarrolladoras locales (el único sector con hit en stats fue Real Estate / Construcción, pero sin nombres)",
+    "Estado del Tren Maya en términos de derrama económica empresarial local (hoteles, proveeduría, logística)",
+    "Familias de la industria del cemento, cal y materiales para construcción (proveedores naturales del Tren Maya)",
+    "Operadores turísticos familiares con escala (Campeche, Calakmul, costa)",
+    "Productores de azúcar y caña en la frontera con Tabasco — ¿hay capital campechano?",
+    "Sucesores generacionales identificados (próximos 5 años) en las 3 familias PPT",
+    "Movimientos de M&A intra-peninsular (Yucatán-Campeche-Quintana Roo) en los últimos 24 meses"
+  ],
+  "calidad_intel": {
+    "n_excerpts": 4,
+    "evaluacion": "limitada — Whitepaper.mx prácticamente no cubre Campeche. De 4 menciones, ninguna trata de las 3 familias PPT del estado ni de los sectores clave (pesca, miel, agroindustria local, transición post-Pemex). El análisis tiene valor como mapa de gaps y como confirmación de dos jugadores familiares menos visibles (GES, Centaura), pero NO sustituye trabajo de inteligencia primaria. LCG debe priorizar Campeche como estado de pipeline por relacionamiento, no por reactividad a prensa."
+  }
+}
