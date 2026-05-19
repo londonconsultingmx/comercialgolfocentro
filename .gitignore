@@ -1,23 +1,39 @@
-# Python
+# ====== Python ======
 __pycache__/
 *.pyc
 *.pyo
 .venv/
 venv/
 
-# Sistema
+# ====== Sistema operativo ======
 .DS_Store
+Thumbs.db
 
-# Logs (la cookie puede aparecer en outputs de debug)
+# ====== Editores ======
+.vscode/
+.idea/
+*.swp
+
+# ====== Logs ======
+# La cookie puede aparecer en outputs de debug
 *.log
 extract.log
 
-# Secretos / credenciales (por si llegas a moverlos a .env)
+# ====== Secretos / credenciales ======
 .env
 .env.*
 !.env.example
 
-# Documentos sensibles que NO van al repo
-# (PPT estratégico interno + xlsx piloto con datos del CRM)
+# ====== Datos sensibles del CRM — NO subir ni a repos públicos ======
+data/crm/hubspot_empresas_AAA_AA.csv
+data/crm/hubspot_contactos.csv
+data/crm/exclientes.csv
+data/crm/*.xlsx
+
+# ====== Archivos de fuentes con posible copyright ======
+data/fuentes/*.pdf
+
+# ====== Documentos estratégicos internos ======
+# PPT consolidado + xlsx piloto con datos del CRM (no van al repo)
 *.pptx
 *.xlsx

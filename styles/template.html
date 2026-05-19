@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$title$ — LCG Market Intelligence</title>
+<link rel="stylesheet" href="$css$">
+<style>
+  /* Ajustes específicos para output de Pandoc (.md → HTML) — más legibles que las presentaciones */
+  html, body { font-size: 17px; }   /* Override del 28px del CSS base para documentos largos */
+  body { padding: 0; }
+  .doc {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 80px 60px 120px;
+    background: var(--lcg-cream);
+  }
+  .doc h1 {
+    font-size: clamp(48px, 6vw, 72px);
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  .doc h2 {
+    font-size: clamp(32px, 4vw, 44px);
+    margin-top: 64px;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--lcg-line);
+  }
+  .doc h3 {
+    font-size: clamp(24px, 3vw, 30px);
+    margin-top: 40px;
+    margin-bottom: 12px;
+    font-weight: 400;
+  }
+  .doc h4 {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--lcg-green);
+    margin-top: 32px;
+    margin-bottom: 12px;
+  }
+  .doc p, .doc li {
+    font-size: 17px;
+    line-height: 1.65;
+    max-width: none;
+    color: var(--lcg-ink);
+  }
+  .doc table { font-size: 15px; margin: 24px 0; }
+  .doc th { font-size: 11px; padding: 10px 12px; }
+  .doc td { padding: 10px 12px; }
+  .doc td:first-child { font-weight: 500; }
+  .doc strong { font-weight: 600; color: var(--lcg-dark); }
+  .doc em { color: var(--lcg-green); font-style: italic; font-family: var(--font-serif); }
+  .doc blockquote {
+    font-size: 22px;
+    padding: 8px 24px;
+    margin: 24px 0;
+  }
+  .doc code { font-size: 14px; }
+  .doc hr { margin: 48px 0; }
+
+  /* Header institucional del documento */
+  .doc-header {
+    border-bottom: 1px solid var(--lcg-line);
+    padding-bottom: 32px;
+    margin-bottom: 48px;
+  }
+  .doc-header .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+  .doc-header .emblem-block {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .doc-header .emblem {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--lcg-green);
+  }
+  .doc-header .label {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--lcg-green);
+  }
+  .doc-header .doc-date {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--lcg-ink-60);
+  }
+
+  /* Footer */
+  .doc-footer {
+    margin-top: 96px;
+    padding-top: 32px;
+    border-top: 1px solid var(--lcg-line);
+    font-family: var(--font-sans);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--lcg-ink-60);
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+</head>
+<body>
+<div class="doc">
+
+<div class="doc-header">
+  <div class="meta-row">
+    <div class="emblem-block">
+      <span class="emblem"></span>
+      <span class="label">LCG · Market Intelligence</span>
+    </div>
+    <div class="doc-date">$date$</div>
+  </div>
+</div>
+
+$body$
+
+<div class="doc-footer">
+  <span>London Consulting Group · México</span>
+  <span>Zona Sur-Centro-Golfo</span>
+</div>
+
+</div>
+</body>
+</html>
