@@ -1,0 +1,143 @@
+# Whitepaper, Hoy
+
+> Waldo's; futbol; aranceles; conoce a: Karen Goldberg; Fuchs; minería; autos eléctricos; Pérez-Llorca; MBS's online; Kraft Heinz; Netflix y YouTube; tiendas departamentales; precio de los foros
+
+**Fecha:** 2025-07-14  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-c61  
+**Word count:** 1194
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!m2S6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa2a5de-17b0-40d3-bc83-10871e2e40b2_1281x234.jpeg)](https://trytoku.info/46wUvSe)
+
+---
+
+#### Rumbo a 1,000
+
+**Waldo’s** inauguró su tienda número 900 en el país, ubicada en la CDMX. La empresa fundada en 1999 abrió su tienda 500 en 2022. El año pasado [afirmaron](https://www.eleconomista.com.mx/empresas/Waldos-llegaria-a-5000-tiendas-en-10-anos-20240411-0159.html) que esperan alcanzar la tienda 1,000 en 2026 y llegar a 5,000 para 2034 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** venderían alrededor de $13,000 millones de pesos anuales.*
+
+---
+
+#### Futbol
+
+**Innovatio Capital** le [compró](https://www.forbes.com/sites/brettknight/2025/07/11/liga-mx-queretaro-sale-marc-spiegel/) a **Grupo Caliente**, el equipo de fútbol de **Querétaro**, en un deal que los valuó en $120 millones de dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** como contexto, las [valuaciones de los equipos de fútbol de la MLS](https://www.forbes.com/sites/justinbirnbaum/2025/02/21/the-most-valuable-mls-teams-2025/), la liga de EUA, van desde los $400 millones de dólares hasta algunos por encima de los $1,000 millones de dólares, como el **Inter de Miami**.*
+>
+> *Otros equipos mexicanos que podrían venderse pronto, por el tema de la multipropiedad, son el **Atlas** o **Santos** (**Grupo Orlegi**), **León** o **Pachuca** (**Grupo Pachuca**) y **Mazatlán** o **Puebla** (**Grupo Salinas**). Hasta antes del deal, **Grupo Caliente** era dueño de **Querétaro** y de los **Xolos de Tijuana**.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-c61?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2Nzc1MDI2OCwiaWF0IjoxNzc5MjE1OTQ4LCJleHAiOjE3ODE4MDc5NDgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.uul4YHHO0kqpoH641WLSdcEGRw-T4amk9ECVnW3gw9o)
+
+---
+
+#### Aranceles
+
+El presidente de EUA volvió a amenazar con aranceles de 30% a **México** y la **Unión Europea** a partir del 1 de agosto. Según [Bloomberg](https://www.bloomberg.com/news/articles/2025-07-12/trump-says-us-to-impose-30-tariffs-on-eu-mexico-from-aug-1), los productos que cumplan con el T-MEC quedarían exentos, pero la posibilidad de nuevos aranceles vuelve a generar incertidumbre, sobre todo para la industria automotriz, que depende de cadenas de suministro integradas. México ya inició negociaciones. En Europa, **Macron** y **Von der Leyen** advirtieron sobre posibles represalias si Trump concreta sus amenazas (***Redacción Whitepaper***).
+
+---
+
+#### Conoce a: Karen Goldberg
+
+[CMO & Senior Director of Marketing Mobile en Samsung Electronics](https://www.linkedin.com/in/karen-goldberg-director-marketing-ecommerce-digital-crm/)
+
+[![](https://substackcdn.com/image/fetch/$s_!HbTT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6bf4e9d-2e01-46dd-b3dc-3b9a98302467_1178x956.jpeg)](https://substackcdn.com/image/fetch/$s_!HbTT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6bf4e9d-2e01-46dd-b3dc-3b9a98302467_1178x956.jpeg)
+
+Desde 2023, Karen es CMO de **Samsung** en México. Tiene más de 20 años de trayectoria en posiciones de marketing, aunque principalmente en el mundo de la moda: estuvo en **Grupo Axo** a cargo de marcas como **Tommy Hilfiger**, **Brooks Brothers** y **Sephora**, además de haber trabajado en **Grupo Julio** y en **American Eagle**. Estudió en la **Universidad Anáhuac** y más adelante cursó programas en la **Kellogg School of Management** y en el **IPADE** (***Redacción Whitepaper***).
+
+---
+
+#### Lubricantes
+
+**Fuchs**, una empresa alemana de lubricantes automotrices, [invirtió](https://www.fuelsandlubes.com/fuchs-mexico-opens-warehouse-to-boost-supply-chain/) más de $20 millones de pesos para expandir su planta en Querétaro. El [año pasado](https://www.whitepaper.mx/p/whitepaper-hoy-ba2?utm_source=publication-search) arrancaron la construcción de una planta en San Luis Potosí, con $300 millones de pesos de inversión (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa tiene más de 35 años en México, que [sería](https://www.somosindustria.com/articulo/crece-fuchs-mexico-en-el-pais/) uno de sus cinco principales mercados. Según su [informe anual](https://fuchs.azureedge.net/fileadmin/Home/Investor_Relations/Geschaeftsbericht/Zwischenbericht/2025_24_/FPL_GB24_englisch_final_interaktiv_geschuetzt__1_.pdf), venden más de $2,300 millones de pesos en el país.*
+
+---
+
+#### Minería
+
+**Starcore International**, una minera canadiense, [desinvirtió](https://www.marketscreener.com/quote/stock/STARCORE-INTERNATIONAL-MI-1411571/news/Canada-s-Starcore-divests-African-assets-to-focus-on-Mexican-mining-operations-50479301/) en sus operaciones en Costa de Marfil, para concentrarse en su producción de oro y plata en México. En [2024](https://7731071d.flowpaper.com/AnnualReport2024/#page=1) reportó ingresos globales de más de $20 millones de dólares (***Redacción Whitepaper***).
+
+---
+
+#### Autos eléctricos
+
+Según la **EMA** (que incluye a **Tesla** y **BYD**), en el primer semestre se vendieron en México 19,481 autos eléctricos y 24,081 *plug-in hybrids* —34% y 48% más que en el mismo periodo del año pasado. La red de recarga para este tipo de autos ya tendría más de 51,800 posiciones, un crecimiento de 15% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: según el **[INEGI](https://www.inegi.org.mx/contenidos/datosprimarios/iavl/doc/2025/rm_raiavl2025_07.pdf)** (que no incluye a **Tesla** y **BYD**), en el semestre se vendieron poco más de 709,000 autos, por lo que el marketshare estimado de autos eléctricos ronda el 3% y el de eléctricos y plug-in hybrids 6%.*
+
+---
+
+#### Abogados
+
+La firma española **Pérez-Llorca**, que hace un año se [fusionó](https://www.whitepaper.mx/i/146558017/abogados) con el despacho mexicano **González-Calvillo**, ahora confirmó su integración con el colombiano **Gómez-Pinzón**. Con esta operación, sus ventas globales rondarán los $230 millones de dólares anuales ***(Redacción Whitepaper).***
+
+---
+
+#### MBAs online
+
+En **España**, **Namencis Education** es un grupo de **educación online** que este año debiera estar facturando €10 millones de euros, con un EBITDA de unos €5 millones. La creció un ***searcher***, quien en 2020 compró un par de **programas de MBA** que se vendían online (en precios que van desde €250 a €1,000 euros por todo el programa). Está siendo **adquirida** por un grupo de **empresarios e influencers españoles**, liderado por **[Yaiza Canosa](https://www.linkedin.com/in/yaizacanosa/)** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: uno de los principales socios en Namencis era **Cerralvo Capital**, la firma mexicana que invierte principalmente en **search funds**. **[Santiago Pérez Teuffer](https://www.linkedin.com/in/santiago-perez-teuffer-7bb47614/)** explicó a **Whitepaper** que para sus inversionistas, la venta de Namencis representa un **retorno de 6x lo invertido** (una TIR de 40%).*
+
+---
+
+#### Escisiones
+
+**Kraft Heinz** está evaluando separar una parte de su negocio —que incluye varios productos bajo la marca Kraft— para crear una nueva empresa que podría valer hasta $20,000 millones de dólares ([Reuters](https://www.reuters.com/en/kraft-heinz-prepares-spinoff-wsj-reports-2025-07-11/)).
+
+---
+
+#### Streaming
+
+En EUA, la batalla por el tiempo frente a la televisión se ha reducido prácticamente a dos jugadores: **Netflix** y **YouTube**. Según Nielsen, juntos representaron 20% del tiempo total que las personas en este país pasaron viendo TV en mayo: YouTube con 12.5% y Netflix 7.5%. Claro, estas cifras incluyen datos únicamente de la televisión, Netflix por ejemplo asegura que 30% de su audiencia ve el contenido en otros *devices*.
+
+*“During the go-go cable years, entertainment executives used to repeat the mantra, “content is king.” Mr. Dayeh, the talent agent, said that these days “audience is king” — and two players stand to benefit the most. “Netflix was like, ‘We want to be a studio,’ and they became a platform,” he said. “YouTube was a platform that is now becoming a studio. But what they both did was create these forums that are for everyone””* ([NY Times](https://www.nytimes.com/2025/07/12/business/media/youtube-netflix-streaming.html))*.*
+
+---
+
+#### Departamentales
+
+Después de alcanzar un pico de casi $97,000 millones de dólares en 1999, las ventas anuales de las tiendas departamentales en EUA cayeron 69% para finales de 2023. Ahora, conceptos como la francesa **Printemps** en Nueva York están replanteando el modelo tradicional: integrando tendencias de retail europeo, enfocándose en espacios para restaurantes, bares, spa y otras experiencias dentro de la tienda ([WSJ](https://www.wsj.com/real-estate/commercial/can-the-french-reinvent-americas-broken-department-store-model-ff719a4a?mod=djem10point)).
+
+---
+
+#### ¿Cuánto cuesta ir a los foros?
+
+Para algunos emprendedores y empresas, asistir a foros o *summits* es parte de sus planeaciones anuales, con el objetivo de actualizarse, buscar clientes e inversionistas o simplemente como parte de una estrategia de PR. Estos son los precios de algunos de los principales eventos de este tipo (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!ZMtd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F527b515a-efaa-4712-b610-ba0340cbd973_2512x4641.jpeg)](https://substackcdn.com/image/fetch/$s_!ZMtd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F527b515a-efaa-4712-b610-ba0340cbd973_2512x4641.jpeg)
+
+> *¿Has ido a alguno de ellos?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-c61/comments)
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!xjPv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcf773a-f735-4b65-be8b-85ebbbefa2ab_1872x320.png)](https://trytoku.info/46wUvSe)
+
+#### ¿Tus ingresos crecen al ritmo de tu operación… o de tu conciliación bancaria?
+
+Muchos CEOs y CFOs lideran compañías que escalan comercialmente, pero siguen operando con procesos financieros del siglo pasado: pagos fragmentados, conciliaciones lentas y flujos de caja impredecibles.
+
+La realidad es simple: no puedes escalar lo que no controlas.
+
+Toku es líder en **Payment Relationship Management (PRM)**, una infraestructura que automatiza y gestiona todo el ciclo financiero con tus clientes: cobros recurrentes, conciliaciones, reportes y mensajería inteligente.
+
+Así, tu operación cobra más, cobra mejor y, sobre todo, **deja de depender del Excel y procesos manuales.**
+
+El resultado: una empresa que lidera, no que reacciona.
+
+[Descubre el poder del PRM](https://trytoku.info/46wUvSe)

@@ -1,0 +1,157 @@
+# Whitepaper, Hoy
+
+> En San Luis Potosí; The Cheesecake Factory; CAT de tarjetas de crédito; bancos; modernizando sistemas para restaurantes; criptomonedas; medicamentos; Ferrero y WK Kellogg; private equity; Dexit
+
+**Fecha:** 2025-07-10  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-380  
+**Word count:** 1396
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!3Azy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e4ddaa-5eb3-47d6-828f-265d05d24cbe_1456x198.webp)](http://arkham.tech/whitepaper)
+
+---
+
+#### San Luis Potosí
+
+**ABB**, con sede en Suiza, [amplió](https://slp.gob.mx/noticias/2025/7/9/abb-invierte-121-mdd-en-expansi%C3%B3n-y-genera-m%C3%A1s-de-220-nuevos-empleos/) su planta en San Luis Potosí tras invertir más de $12 millones de dólares. La empresa se especializa en electrificación, automatización y robótica para diferentes industrias *(**Redacción Whitepaper**).*
+
+> ***Comentario Whitepaper**: a nivel global facturan cerca de $33,000 millones de dólares; México representa 2.5% de ese monto —unos $830 millones—. Su country manager es **[Vicente Magaña](https://www.linkedin.com/in/vmagana2010/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=mx)**.*
+
+---
+
+#### Más de 10 años
+
+Como parte de un plan de inversión de $115 millones de pesos en Puebla, **Alsea** abrió la novena sucursal de **The Cheesecake Factory** en México. La marca tiene más de 10 años en el país y [representa](https://www.alsea.net/uploads/es/documents/alsea_reporte_anual_bmv_anexo_n/alsea_reporte_anual_bmv_anexo_n_2024.PDF) apenas 1% de los ingresos de **Alsea** ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: su licencia sobre la marca, según el [informe anual](https://s29.q4cdn.com/187116270/files/doc_financials/2023/ar/The-Cheesecake-Factory-2024-Annual-Report.pdf) de **The Cheesecake Factory**, también contempla desarrollar franquicias en Chile y explorar oportunidades en Argentina, Brasil, Colombia y Perú.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-380?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2Nzc1MDAzNiwiaWF0IjoxNzc5MjE1OTUxLCJleHAiOjE3ODE4MDc5NTEsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.clLlY0luqyg4rFIpYenpCz8gFqWsywmN8r9ITKuoGGE)
+
+---
+
+#### Tarjetas de credito
+
+**Las tarjetas de crédito** ***platino*** concentraron al cierre de 2024 una cuarta parte de los saldos totales en México. Su CAT promedio ronda 45%, muy por debajo del de las tarjetas *oro* y *clásicas*.
+
+Según el banco central, en México hay 24 tarjetas bancarias con CATs superiores a 100%. Como referencia, todas las principales fintechs —**Nu**, **Klar**, **MercadoPago**, **Plata**, **Ualá**, **Stori** y **DidiCard**— también manejan CATs por arriba del 100% en sus productos “no platino” ([Margin](https://www.margin.mx/p/monday-on-the-margin-bf2?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d312841-35dc-43c3-9fa4-55b589cfe005_2762x2242.png&open=false)).
+
+[![](https://substackcdn.com/image/fetch/$s_!8XGa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca47f13f-995c-4a7c-84d4-76a8bc16b4bf_1920x1573.jpeg)](https://substackcdn.com/image/fetch/$s_!8XGa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca47f13f-995c-4a7c-84d4-76a8bc16b4bf_1920x1573.jpeg)
+
+---
+
+#### Bancos
+
+Con la prórroga de 45 días otorgada por el Departamento del Tesoro de Estados Unidos, **Intercam**, **CIBanco** y **Vector Casa de Bolsa** podrán seguir operando con normalidad —tanto en México como en el extranjero— incluyendo transferencias con contrapartes en el sistema financiero de EUA. La sanción, ahora está programada para aplicarse el 4 de septiembre ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-09/us-grants-reprieve-to-mexican-firms-targeted-for-laundering)).
+
+---
+
+#### Modernizando sistemas para restaurantes
+
+**[Alonso Alcocer](https://www.linkedin.com/in/alonso-alcocer-goudet-25138997/)** y **[Santiago Estévez](https://www.linkedin.com/in/santiago-estévez-gutiérrez-27294177/)** intentaron primero con un broker digital de transporte de carga, pero rápidamente llegaron a la conclusión que no era un proyecto para ellos. Los emprendedores, que antes habían trabajado en **Southern Cross**, decidieron mejor crear un **[search fund](https://www.whitepaper.mx/p/search-funds-una-actualizacion?utm_source=publication-search)** para comprar una empresa que ellos pudieran después dirigir.
+
+Esto sucedió en 2023: en Mérida, Alcocer y Estévez encontraron una empresa llamada **National Soft** que había desarrollado un software de administración para restaurantes. Con el respaldo de inversionistas como **[Cerralvo Capital](https://www.whitepaper.mx/p/cerralvo-capital-y-su-inversion-en?utm_source=publication-search)** y **[Grupo Bafar](https://www.whitepaper.mx/p/por-que-le-gusta-bafar-a-los-inversionistas?utm_source=publication-search)**, la adquirieron y —siguiendo el *playbook* de los search funds— se instalaron como CEOs y se apresuraron a transformarla y crecerla.
+
+[![](https://substackcdn.com/image/fetch/$s_!PT7A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8be22e4b-b12c-4ffc-bf1c-c711cdd15ecf_1691x1186.jpeg)](https://substackcdn.com/image/fetch/$s_!PT7A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8be22e4b-b12c-4ffc-bf1c-c711cdd15ecf_1691x1186.jpeg)
+
+#### *Seguir leyendo al final de este correo….*
+
+---
+
+#### Criptomonedas
+
+**Kira**, una startup con sede en Miami y operaciones en México, EUA y Colombia, desarrolló una plataforma para transacciones con *stablecoins*. [Recibieron](https://dplnews.com/edrizio-de-la-cruz-lanza-nueva-fintech-de-infraestructura-con-stablecoins-e-ia-kira/) una inversión de $2 millones de dólares, sin revelar quiénes participaron ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: sus fundadores son **[José Alberto Díaz García](https://www.linkedin.com/in/josealbdg/)**, ex product manager en **Clip** y **Stori**; **[Edrizio De La Cruz](https://www.linkedin.com/in/edrizio-de-la-cruz/)**, cofundador y CEO de **Arcus** hasta su venta a **Mastercard**; y **[Camilo Jiménez](https://www.linkedin.com/in/camilohjimenez/)**, quien fue CTO de **Littio**, startup que pasó por **Y Combinator**.*
+
+---
+
+#### Medicamentos
+
+En 2024, México exportó a EUA más de $1,000 millones de dólares en medicamentos: $385 millones por electrolitos, $126 millones por medicinas para tos, gripe y enfermedades respiratorias, y $54.5 millones en antiácidos ([El Economista](https://www.eleconomista.com.mx/empresas/mexico-duplica-exportaciones-medicamentos-eu-20250709-767348.html)).
+
+> ***Comentario Whitepaper:** según datos del [Department of Commerce](https://www.trade.gov/trade-data-analysis) de EUA, este monto casi se duplicó en cinco años; en 2014 era de apenas $350 millones de dólares.*
+
+---
+
+#### M&A
+
+**Ferrero** está cerca de comprar **WK Kellogg** en un deal de $3,000 millones de dólares. La empresa surgió hace dos años, cuando **Kellogg's** se dividió en **Kellanova**, que concentra marcas como **Pringles**, **Pop-Tarts** y **Eggo**, y en **WK Kellogg**, que se quedó con los cereales **Froot Loops**, **Frosted Flakes** y **Rice Krispies** ([WSJ](https://www.wsj.com/business/deals/ferrero-nears-roughly-3-billion-deal-for-maker-of-froot-loops-frosted-flakes-c61a10a2)).
+
+> ***Comentario Whitepaper**: en agosto pasado, **Mars** [anunció](https://www.mars.com/news-and-stories/press-releases-statements/mars-acquisition-august-2024) la compra de **Kellanova** por $36,000 millones de dólares, pero la operación [todavía no](https://www.reuters.com/sustainability/boards-policy-regulation/eu-antitrust-regulators-investigate-36-billion-mars-bid-kellanova-sources-say-2025-06-18/) se concreta.*
+
+---
+
+#### *$4 trillion*
+
+Ayer las acciones de **Nvidia** superaron, por primera vez, una valuación de mercado de $4 trillones de dólares (en el sentido americano). Sería la primera empresa en alcanzar esta cifra ([CNBC](https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html)).
+
+---
+
+#### Exits
+
+En EUA, el número de transacciones que le permiten a firmas de **private equity** lograr un ***exit*** en sus inversiones **disminuyó 25%** en el segundo trimestre —“*It’s the **third consecutive quarter of declines** in exit count, as sponsors increasingly chose to hold off on selling*” ([PitchBook](https://pitchbook.com/news/articles/pe-exits-decline-25-in-q2-as-deal-activity-cools?utm_medium=newsletter&utm_source=daily_pitch&sourceType=NEWSLETTER)).
+
+---
+
+#### Y en otro tipo de exits
+
+**Andreessen Horowitz**, [anunció](https://a16z.com/were-leaving-delaware-and-we-think-you-should-consider-leaving-too/) que cambiará su domicilio fiscal de Delaware a Nevada, en el caso más reciente de empresas que han tomado esa decisión, conocida como *“dexit”*. En mayo, **Roblox** hizo lo mismo, siguiendo los pasos de **Dropbox**, **Simon Property Group**, **Tripadvisor** y **[Tesla](https://www.whitepaper.mx/i/163413728/dexit)**. La firma de VC argumenta que las cortes de Delaware ya no protegen los intereses de negocios como solían hacerlo y abren paso a litigios largos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: entre las startups latinoamericanas que tienen inversión de a16z y están incorporadas en Delaware son **Rappi**, **Jeeves** y **Latitud**.*
+
+---
+
+#### Testosterona
+
+Para cadenas como **Gameday**, el increíble aumento en la demanda de sus **terapias de testosterona** entre los adultos jóvenes de EUA está impulsado un **crecimiento exponencial de sus sucursales**: creada en 2018, su red de centros de atención sumó 325 sucursales en los últimos 14 meses. En lugares como **Texas**, se aplicaron más tratamiento de este tipo en el último trimestre del año pasado, que en todo 2021.
+
+“*Like many wellness fads the testosterone craze aims to fix a real medical problem. There is some evidence that men today, on average, have lower testosterone levels than men did decades ago (…) Its loudest proponents, however, are not doctors. **Joe Rogan**, America’s top podcaster, who started trt when he was 40, touts it to his 20m listeners as a way to help men feel younger. **Dax Shepard**, an actor and podcaster, says that “heavy testosterone injections” helped him gain 24 pounds of muscle*” ([The Economist](https://www.economist.com/united-states/2025/07/08/american-men-are-hungry-for-injectable-testosterone)).
+
+---
+
+#### Whitepaper 10: Los últimos artículos de Whitepaper
+
+Esta semana tuvimos como invitada a **Daniela Dib**, del equipo editorial de Whitepaper. Hablamos del impacto positivo que han tenido en México los aranceles, del presupuesto aprobado en EUA y de los requisitos para las visas H2A. También de la ronda de inversión de **Plena** y del proyecto de **Murano**. En el *deep dive*, Daniela contó cómo ha sido el behind the scenes del contenido que reciben nuestros suscriptores los viernes.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/86-whitepaper-10-los-últimos-artículos-de-whitepaper/id1584711514?i=1000716576337), [Spotify](https://open.spotify.com/episode/0kDKAA2uMBKOiPLuZfFARb?si=FcVD4ZefTjCHSxcHs9mLsw), [Youtube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+##### Presentado por:
+
+#### ¿Qué pasaría si cada persona en tu empresa tuviera acceso a inteligencia personalizada?
+
+No en un sentido futurista, sino en uno real y alcanzable, donde los procesos de tu empresa se pueden optimizar con tus propios datos; donde cada decisión se toma con contexto, y cada persona tiene el poder de actuar con información precisa.
+
+Eso es lo que hacemos en Arkham, brindarle a tu empresa un sistema inteligente que te permite:
+
+– Integrar y organizar los datos de toda tu operación  
+– Tomar decisiones con métricas 100% confiables  
+– Resolver retos críticos con modelos de AI adaptados a tu operación
+
+Imagina tener una inteligencia como ChatGPT, pero alimentada con los datos de tu empresa: una plataforma que te da control total y precisión absoluta sobre cada área de tu operación. Eso es Arkham.
+
+Agenda un demo en [arkham.tech/whitepaper](http://arkham.tech/whitepaper) y comienza una nueva era para tu empresa.
+
+[![](https://substackcdn.com/image/fetch/$s_!vCUV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9b3a6b-e3be-4eed-8bba-f7b38bd73da8_600x338.gif)](https://www.arkham.tech/whitepaper)
+
+[Agendar demo](https://www.arkham.tech/whitepaper)
+
+---
+
+#### *Continúa: Modernizando sistemas para restaurantes*
+
+Comenzaron priorizando un modelo de suscripción, tipo SaaS. La empresa que compraron tenía 13,000 clientes utilizando este tipo de suscripción; 18 meses más tarde tienen 22,000 suscriptores y proyectan cerrar 2025 con más de 25,000. Presumen tener entre sus clientes desde restaurantes con estrellas Michelin, como **Quintonil**, hasta cadenas con muchísimo tráfico, como **[El Pollo Loco](https://www.whitepaper.mx/p/detras-del-inconfundible-aroma-de?utm_source=publication-search)**.
+
+Rebautizada como **Soft Restaurant**, en enero los emprendedores estrenaron terminales de cobro, como un servicio adicional. Quieren ofrecer una solución que esté completamente integrada, de forma que desde una misma terminal los meseros puedan tomar las órdenes, cobrar y emitir los tickets.
+
+Hoy son una empresa con 160 personas —más o menos, la mitad en funciones de desarrollo de tecnología y de soporte— que opera en varios países (aunque 90% del negocio sigue estando en México) y que este año debiera estar generando alrededor de $250 millones de pesos de ingresos.

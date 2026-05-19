@@ -1,0 +1,139 @@
+# Whitepaper, Hoy
+
+> Dollar General; On en México; Casa Ley; The Home Depot; Debt to equity; Minsa; Grupo Posadas; Warner Bros. Discovery; BRP; Aperol Spritz; Apple; Meta; Cristiano y Perplexity; leaf blowers
+
+**Fecha:** 2025-12-05  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-cf1  
+**Word count:** 1541
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!kFu_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89d090c-6eb7-4562-882f-1831df08891d_600x154.jpeg)](https://eaglepropertycapital.com/)
+
+---
+
+#### Footprint en México
+
+En lo que va del año, **Dollar General** ha [abierto](https://www.investing.com/news/transcripts/earnings-call-transcript-dollar-general-q3-2025-beats-eps-forecasts-stock-surges-93CH-4391417) siete tiendas en México, con lo que llega a un total de 15 en el país. A nivel global tiene cerca de 21,000 tiendas y planes para abrir 450 más el próximo año, al menos 10 de ellas en México. En los primeros nueve meses [registraron](https://investor.dollargeneral.com/financials-sec-filings/sec-filings) ingresos por $32,000 millones de dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: sus tiendas en México, más que un formato de “tienda de dólar” como en EUA, son pequeños supermercados.*
+
+---
+
+#### Otras aperturas
+
+* **ON Running** abrió su primera tienda oficial en la CDMX; tendría únicamente alrededor de 50 tiendas propias en el mundo. Tienen además unos 10,500 puntos de venta incluyendo distribuidores (***Redacción Whitepaper***).
+* **Casa Ley** [invirtió](https://retailers.mx/fresh-market-ley-abre-la-tercera-tienda-en-culiacan-con-inversion-de-200-millones-de-pesos/) $200 millones de pesos en la cuarta sucursal de su formato “Fresh Market”, enfocado en un segmento premium. En total, la empresa de Sinaloa [opera](https://www.casaley.com.mx/tiendas/) más de 300 sucursales, principalmente en el oeste y noroeste del país (***Redacción Whitepaper***).
+* La nueva tienda de **The Home Depot**, en Querétaro, tuvo una [inversión](https://municipiodequeretaro.gob.mx/anuncia-felifer-macias-inversion-de-the-home-depot-mexico-por-406-millones-de-pesos/) de más de $400 millones de pesos. Hace [unas semanas](https://www.whitepaper.mx/i/178518685/nuevas-tiendas) inauguraron dos tiendas más —una en Nayarit y otra en Tamaulipas— con una inversión conjunta superior a los $850 millones de pesos (***Redacción Whitepaper***).
+
+---
+
+#### Debt to equity
+
+Al cierre del tercer trimestre, la deuda total de las emisoras no financieras en México sumó más de $5.7 billones de pesos (12 ceros). Es un monto equivalente a casi tres cuartas partes del portafolio de crédito de la banca comercial en el país. El 65% corresponde a créditos bursátiles, 24% a créditos bancarios y el resto a financiamiento con otras entidades y proveedores (***Redacción Whitepaper**, vía **[Tukan](https://tukanmx.com/)***).
+
+[![](https://substackcdn.com/image/fetch/$s_!6zS1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da8f682-0360-4a44-afe4-f20193c9d73a_4099x4158.png)](https://substackcdn.com/image/fetch/$s_!6zS1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da8f682-0360-4a44-afe4-f20193c9d73a_4099x4158.png)
+
+---
+
+#### Harina de maíz
+
+**Minsa** [cerró](https://minsa.com.mx/images/inversionistas/2025/Estados%20Financieros/Tercer%20Cuarto.pdf) el tercer trimestre con una pérdida neta de $63 millones de pesos. Aun así, de enero a septiembre acumuló una utilidad de $106 millones —una caída de 65% frente al mismo periodo del año pasado.
+
+En lo que va de 2025, reportó ventas netas por $6,703 millones, apenas 0.8% por encima de 2024. El volumen, en cambio, creció 4%, alcanzando 362 mil toneladas, gracias a mayores colocaciones en los segmentos Especiales y Exportación (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: durante 2025, la empresa también ha estado activa en el mercado de deuda. En lo que va del año ha colocado certificados bursátiles cada mes por montos de entre $100 y $200 millones de pesos, para un total de $1,490 millones, amparado bajo su programa de certificados bursátiles de hasta por un monto de $1,000 millones. Todos con plazos de entre 56 y 224 días y tasas ligadas a la TIIE, más un spread de entre 0.20 y 0.34 puntos. El más reciente —noviembre— fue también el más bajo: $40 millones. Según Minsa, las emisiones, estructuradas con Monex como representante común, se están usando para capital de trabajo.*
+
+---
+
+#### Hoteles
+
+**Grupo Posadas** confirmó que inversionistas independientes destinarán más de $15,000 millones de pesos para ampliar su portafolio y fortalecer su operación. La compañía tiene 34 hoteles en desarrollo que añadirán 4,800 habitaciones a las más de 30,000 que ya opera en destinos clave de México. Con esta expansión, buscan estar listos para el aumento de turistas que se espera con la Copa Mundial de 2026 ([Axis Negocios](https://www.axisnegocios.com/breves.phtml?id=144240)).
+
+---
+
+#### Streaming
+
+El negocio directo-al-consumidor de **Warner Bros. Discovery** [sumó](https://s201.q4cdn.com/336605034/files/doc_financials/2025/q3/WBD_3Q25-Earnings-Report-11-06-25.pdf) 2.3 millones de suscriptores a nivel global en el tercer trimestre de 2025, alcanzando los 128 millones. Es un aumento de 9.4% (de subscriptores totales) frente al cierre de 2024. El segmento de Streaming & Studios —que incluye Warner Bros. Television, Motion Picture Group, DC Studios, HBO, Max y su catálogo de cine y televisión— reportó ingresos por $5,300 millones de dólares y un EBITDA ajustado de $1,000 millones, un alza de 58% anual.
+
+**[Mariano César](https://www.linkedin.com/in/mariano-cesar-2205316/?originalSubdomain=ar)**, SVP de Contenido y Programación de WBD Latam, aseguró a Whitepaper que **Chespirito: Sin Querer Queriendo** lideró la audiencia en América Latina, colocándose entre los cinco títulos más vistos globalmente durante sus primeros 28 días. Fue también el contenido que más nuevos suscriptores atrajo en México y la región. Para 2026, WBD prepara varias segundas temporadas, lo que César considera una señal clara de demanda (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Hoy viernes [se anunció](https://www.bloomberg.com/news/articles/2025-12-05/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?srnd=phx-latinamerica) la compra de Warner Bros. Discovery por parte de **Netflix**. Según el acuerdo, los accionistas de WB recibirán $27.75 dólares por acción, en efectivo y en acciones de Netflix. El valor total del capital asciende a $72,000 millones de dólares, mientras que el valor empresarial se estima en $82,700 millones.*
+>
+> *Con la transacción, Netflix se convierte en dueño del canal HBO y su catálogo de series y películas, además de los estudios en California y un extenso archivo de cine.*
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!blDG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91d12e2c-466e-44f2-9ae7-6e70439af1e2_1987x870.jpeg)](https://substackcdn.com/image/fetch/$s_!blDG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91d12e2c-466e-44f2-9ae7-6e70439af1e2_1987x870.jpeg)
+
+[![](https://substackcdn.com/image/fetch/$s_!s_zv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f4a1fe2-96df-4562-8856-c6d26521c57d_1684x1090.jpeg)](https://substackcdn.com/image/fetch/$s_!s_zv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f4a1fe2-96df-4562-8856-c6d26521c57d_1684x1090.jpeg)
+
+---
+
+#### Motos
+
+**BRP**, una empresa canadiense de vehículos recreativos (ATVs, motos de nieve, cuatrimotos, etc.), [incrementó](https://news.brp.com/system/files-encrypted/nasdaq_kms/assets/2025/12/03/18-47-32/FY26Q3%20Webcast%20Presentation%20vF%20FI103125.pdf) 13% sus ventas retail en América Latina durante el trimestre, siendo esta la región con mayor crecimiento. En su llamada [destacaron](https://www.investing.com/news/transcripts/earnings-call-transcript-brp-inc-q3-2025-beats-eps-expectations-93CH-4391410) los resultados en México, así como su red de distribuidores en el país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: [tienen](https://news.brp.com/static-files/4c5852fc-c027-4983-8ad5-2afc518e51e2) 14 plantas de manufactura a nivel global, de las cuales tres están en Juárez y una —la más grande de la empresa— en Querétaro.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-cf1?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4MDUyMjg0MSwiaWF0IjoxNzc5MjE1NzkzLCJleHAiOjE3ODE4MDc3OTMsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.1LESSR0KdmR2Rdf4kB2G68RiQKU6GNCOsOoQ8GJaeSE)
+
+---
+
+#### Spritz
+
+Una parte importante de la estrategia del grupo italiano **Campari**, es crecer en EUA, donde su CEO afirma que la mitad de la población nunca ha escuchado de **Aperol Spritz**. Inicialmente se han enfocado en 11 de las principales ciudades del país, que representan 65% del consumo de **Aperol** en EUA. Su objetivo es quedarse con el *market share* que actualmente sería de cervezas premium ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-04/campari-ceo-simon-hunt-wants-to-swap-beer-for-aperol-spritz-in-us)).
+
+> ***Comentario Whitepaper**: de 2015 a la fecha, las ventas de **Aperol** dentro del portafolio de **Campari** pasaron de representar 10% a más de 25%. El año pasado hicimos un [spotlight en](https://www.whitepaper.mx/p/spotlight-en-aperol) **[Aperol](https://www.whitepaper.mx/p/spotlight-en-aperol)**.*
+
+---
+
+#### Breves
+
+* Otros dos ejecutivos se suman a la lista de salidas en **Apple**: Kate Adams, la principal asesora legal de la compañía desde 2017, y Lisa Jackson, vicepresidenta de Medio Ambiente, Políticas e Iniciativas Sociales. Estas salidas se anuncian poco después de las de Jeff Williams (COO), John Giannandrea (jefe de AI) y Alan Dye (diseño). Todo esto pasa mientras Apple pierde terreno en la carrera por la inteligencia artificial y recibe críticas por haber abandonado el nivel de detalle en el diseño que la distinguía ([TechCrunch](https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/)).
+* **Meta** estaría recortando hasta un 30% su división de Reality Labs enfocada en el metaverso. Esta unidad, responsable del hardware y software para la visión de realidad virtual, ha acumulado más de $70,000 millones de dólares en pérdidas en los últimos cuatro años ([NY Times](https://www.nytimes.com/2025/12/04/technology/meta-cuts-metaverse-unit.html)).
+* **Cristiano Ronaldo** está adquiriendo una participación en **Perplexity AI**, que además incluye un patrocinio global con el futbolista. La empresa, con sede en San Francisco, fue valuada en $20,000 millones de dólares en septiembre ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-05/cristiano-ronaldo-invests-in-perplexity-ai-enters-partnership-misnf0af)).
+
+---
+
+#### MexMoves: Binance’s Mexico Bet, Duncan Wood on USMCA Hearings, Bimbo at 80, and the 40-Hour Week Ahead
+
+Entrevistamos a **Salvador Rivero**, el nuevo Country Head de **Binance México**, quien explica qué planea hacer en el país el exchange de criptomonedas más grande del mundo. También hablamos con **Duncan Wood**, experto en política bilateral, sobre las audiencias del T-MEC en Washington. **Grupo Bimbo** cumple 80 años e inaugura su nuevo museo en la CDMX, entre otros temas.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/47-binances-mexico-bet-duncan-wood-on-usmca-hearings/id1792066671?i=1000739758092), [Spotify](https://open.spotify.com/episode/09HOuAqx9ld8bPLWwbXT3v?si=Zd6FGwEcQ6i1b6_8mbH4aw) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+---
+
+#### Contra las sopladoras
+
+“*Many topics divide Americans: illegal immigration, abortion, the rights of transgender people. And then there are **leaf blowers** (…) They are **appallingly noisy**, at a frequency that penetrates walls. Their two-stroke engines are **noxious**. Using a single blower for an hour emits as much particulate matter as driving 1,770km (…) Often **users do not even collect leaves up**, but instead just blow them into neighbouring properties*”.
+
+Más de 200 comunidades en EUA han venido **prohibiendo el uso de** ***leaf blowers***que no sean eléctricas, pero como suele suceder, esa discusión está convirtiéndose en **un tema de partidos**: en estados como Texas y Georgia —gobernados por Republicanos— la postura es más bien de “**prohibir la prohibición**” de este tipo de equipos, mientras que en regiones que tienden a ser Demócratas es más común la postura contraria ([The Economist](https://www.economist.com/united-states/2025/12/01/leaf-blowers-are-the-latest-thing-dividing-americans)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!lAqh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb78024f1-27b0-47f5-a802-0a224b4b5a4d_1200x674.jpeg)](https://eaglepropertycapital.com/)
+
+#### Diversifica tu patrimonio invirtiendo en Multifamily en dólares.
+
+**Eagle Property Capital** es una administradora de fondos de inversión especializada en *Multifamily* (vivienda en renta) en EE.UU. (TX y FL). Desde su fundación en 2011, ha adquirido y reposicionado más de **11,400 departamentos**, actualmente administra más de **$1,300 MM USD** en activos.
+
+Los retornos objetivo de los fondos son de **12.0% a 15.0%** **anual en dólares** y un múltiplo de capital de 1.7x a 2.0x.
+
+Dentro de las ventajas de invertir en *Multifamily* están las distribuciones trimestrales, inversión en dólares, apreciación de las propiedades y cobertura contra inflación, en una de las clases de activos más resilientes.
+
+Contacta a **Marcelo Margáin Zambrano** por teléfono o *WhatsApp* **[+52](http://wa.me/528180201416)****[81 8020 1416](http://wa.me/528180201416)**, o por mail [marcelo.margain@epcinvest.com](mailto:marcelo.margain@epcinvest.com) para conocer más sobre **Eagle Property Capital** y su nuevo **Fondo VI**.
+
+[Eagle Property Capital](https://eaglepropertycapital.com/)

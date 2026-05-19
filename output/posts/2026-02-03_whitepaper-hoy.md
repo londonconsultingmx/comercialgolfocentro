@@ -1,0 +1,162 @@
+# Whitepaper, Hoy
+
+> Givaudan en Querétaro; Kings League; el CFO de América Móvil; rutas más populares; OXXO Brasil; Ryder; movimientos clave; Vista Energy; aranceles; tiendas Eddie Bauer; plataformas de apuestas
+
+**Fecha:** 2026-02-03  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-dbe  
+**Word count:** 2377
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!aWT9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b48f360-762b-4c50-b644-a2924dbc33a8_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+---
+
+#### Fragancias
+
+En **Querétaro**, la suiza **Givaudan** [invertirá](https://www.marketscreener.com/news/pepsico-prepared-management-remarks-q4-2025-prepared-management-remarks-ce7e5bd2d08df725) $110 millones de dólares para construir una [nueva fábrica](https://www.marketscreener.com/news/givaudan-is-strengthening-its-presence-in-latin-america-with-additional-capabilities-to-better-ser-ce7e5bd2dc89f024) de fragancias (que se utilizan [principalmente](https://www.givaudan.com/taste-wellbeing/segments) en la industria alimenticia). La empresa ya tiene operaciones en ese estado, y en 2024 [creció](https://www.givaudan.com/media/media-releases/2024/givaudan-expands-production-facility-in-pedro-escobedo-mexico) la planta actual para aumentar 40% su capacidad de producción (***Redacción Whitepaper***).
+
+---
+
+#### Deportes y entretenimiento
+
+La empresa detrás de **Kings League** estaría obteniendo **$63 millones de dólares** en una nueva ronda de inversión liderada por Alignment Growth, una firma basada en Nueva York ([Bloomberg](https://www.givaudan.com/taste-wellbeing/segments)).
+
+> ***Comentario Whitepaper:** Kings League es una empresa de entretenimiento (o de medios), en donde el producto principal son torneos de fútbol que se juegan con reglas diferentes y que se transmiten por medio de plataformas digitales. Genera ingresos mediante la venta de patrocinios y de publicidad durante los partidos, principalmente, pero también comercializando su propiedad intelectual, así como por las entradas a los eventos y por la venta de artículos promocionales.*
+>
+> *El concepto se originó en España en el verano de 2022; Ibai Llanos y Gerard Piqué —el influencer y el futbolista— son sus creadores. Un año más tarde anunciaron su llegada a México, que es a la vez la sede para una liga con equipos de países de Latinoamérica. Aquí habrían sumado como socios a **Emilio Azcárraga** y a **Filip**, y su presidente es **Miguel** **Layún**, quien [en esta entrevista nos explicó](https://www.whitepaper.mx/p/kings-league-y-la-apuesta-por-cautivar?utm_source=publication-search) la visión detrás del negocio.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-dbe?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4NTg2NzI1NiwiaWF0IjoxNzc5MjE1NzQyLCJleHAiOjE3ODE4MDc3NDIsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.-mwqyPYeCYfreIve3WcIEIf_l9mM4vEPEK4JwPgd5JI)
+
+---
+
+#### Entrevistando al CFO: Carlos García Moreno, América Móvil
+
+[![](https://substackcdn.com/image/fetch/$s_!QMTH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3b4df7-d1f3-46bb-90eb-931c8fe4c2ae_1536x1024.jpeg)](https://substackcdn.com/image/fetch/$s_!QMTH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3b4df7-d1f3-46bb-90eb-931c8fe4c2ae_1536x1024.jpeg)
+
+Cuando Carlos García Moreno llegó a América Móvil en enero de 2001, la empresa era poco más que Telcel…con planes de expansión regional. Tenía entonces cuatro operaciones: México, Ecuador, Guatemala y un operador virtual en Estados Unidos, ingresos cercanos a $3,000 millones de dólares y cero deuda. “Formalmente es la misma posición, pero es como haber estado en diferentes empresas”, dice hoy, al mirar en retrospectiva una trayectoria de 25 años como CFO del grupo. Y no exagera: en ese cuarto de siglo, América Móvil pasó de ser un operador esencialmente mexicano a un jugador global con presencia en más de 20 países y alrededor de 400 millones de usuarios.
+
+#### *Seguir leyendo al final de este correo…*
+
+---
+
+#### Las rutas
+
+De acuerdo con datos de la Agencia Federal de Aviación Civil, en el ámbito internacional la ruta con [mayor número de pasajeros en 2025](https://www.gob.mx/afac/acciones-y-programas/estadisticas-280404) fue **Toronto–Cancún** (1.28 millones de pasajeros), seguida por **CDMX–Madrid** (1.15 millones) y **Dallas–Cancún** (1.10 millones). En los vuelos nacionales, la principal [fue](https://www.gob.mx/afac/acciones-y-programas/estadisticas-280404) **CDMX–Cancún** (3.17 millones), luego **Monterrey–CDMX** (3.08 millones) y **CDMX–Guadalajara**, con 2.73 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** dentro del top 10 de los aeropuertos con mayor número de pasajeros en 2025, los **mayores crecimientos** se registraron en **Monterrey**, que [creció](https://ir.oma.aero/wp-content/uploads/2026/01/OMA_Reporte_Trafico_Dic25_vf.pdf) 15% (de 13.6 a 15.6 millones de pasajeros), y en el **AIFA**, que [aumentó](https://aifa-website.s3.us-east-1.amazonaws.com/contenido/RJPyE/Numeralia+Aeroportuaria+Ene.+a+Dic.+2025.pdf) 11.7% (de 6.3 a 7.1 millones).*
+
+---
+
+#### En Brasil
+
+**Femsa** [anunció](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1528867_1.pdf) que está ya **asumiendo el control de OXXO Brasil**; en septiembre del año pasado dieron a conocer que estaban deshaciendo el joint venture que tenían en ese país. De acuerdo con el reporte del tercer trimestre, hay al menos **609 sucursales** de OXXO en Brasil (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Brasil está resultando ser una **prioridad estratégica** para OXXO. Además de tratarse de un **mercado enorme**, con un entorno de retail muy **fragmentado**, las tiendas que tienen ahí están creciendo mucho más rápidamente que el resto: mientras que las **ventas mismas-tiendas** de la división proximidad retrocedieron ligeramente en el segundo trimestre del año pasado, los OXXOs de Brasil reportaron un **crecimiento de casi 13%** en esta misma métrica.*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿Qué app usas?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-dbe/comments)
+
+---
+
+#### Logística
+
+**Ryder**, una empresa de EUA de transporte y logística, inauguró en Nuevo León su **sexto** complejo de almacenaje y distribución, con capacidad para recibir hasta 100 vehículos de carga por día ([El Financiero](https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/01/30/ryder-refuerza-su-expansion-con-nuevo-complejo-logistico-en-nuevo-leon/)).
+
+> ***Comentario Whitepaper**: según su [informe anual](https://s29.q4cdn.com/533725779/files/doc_financials/2024/ar/Ryder_2024AR_031125_VERSIONTWO_FINAL.pdf) de 2024, vendieron $12,636 millones de dólares, de los cuales $325 millones de dólares correspondieron a **México** (en 2021 fueron $219 millones). Al frente está [Ricardo Álvarez](https://www.linkedin.com/in/ricardo-alvarez-52642226/), VP y director general de **Ryder México**, quien lleva más de 20 años en la empresa.*
+
+---
+
+#### Movimientos clave
+
+* Después de 16 años, **Joaquín Vargas Mier y Terán** [dejará](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1527570_1.pdf) de ser director general y presidente ejecutivo de **[CMR](https://www.whitepaper.mx/p/podria-sushi-itto-duplicar-su-tamano?utm_source=publication-search)**; queda pendiente el nombramiento de quién lo reemplazará de manera definitiva (***Redacción Whitepaper***).
+* **[Josué González Hernández](https://www.linkedin.com/in/mrjosue/)** fue [nombrado](https://www.merca20.com/who-is-josue-gonzalez-xs-new-country-director-for-mexico/) country director para México de **X**. Tiene experiencia en empresas como Meta, EPA Digital y LLYC (***Redacción Whitepaper***).
+* **[Jaime Longoria](https://www.linkedin.com/in/jaime-longoria-manllo-85979927/?originalSubdomain=mx)** es el nuevo CEO de OXXO en EUA, puesto que ocupaba **[Hal Adams](https://www.linkedin.com/in/charleshaladams/)**, quien se [retiró](https://www.cstoredive.com/news/oxxo-usa-names-new-ceo/810775/). Además, **[David Alejandro González](https://www.linkedin.com/in/david-alejandro-gonz%C3%A1lez-garc%C3%ADa-18583310b/)** será COO de OXXO en México (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!3Bnb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd23e19-6a8e-4ada-80ac-44ceda8853f8_1494x946.jpeg)](https://substackcdn.com/image/fetch/$s_!3Bnb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd23e19-6a8e-4ada-80ac-44ceda8853f8_1494x946.jpeg)
+
+Jaime Longoria
+
+* **[Juan Carlos Durán](https://www.linkedin.com/in/juan-carlos-duran-riveroll-7627a1a/)** tiene más de 10 años de experiencia en Elektra, además de haber pasado por Grupo Zorro Abarrotero y Modelo. Ahora es CMO de **Tiendas del Sol & Woolworth** (***Redacción Whitepaper***).
+* **Luis Armando Kuri** se [integrará](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1528578_1.pdf) como head de banca patrimonial y premier internacional en **HSBC México**. Antes fue CEO de **Afore Banamex** (***Redacción Whitepaper***).
+* **The Walt Disney Company** [nombró](https://www.produ.com/television/noticias/the-walt-disney-company-latin-america-nombra-a-luis-arvizu-como-general-manager-head-of-direct-to-consumer-mexico/) a **[Luis Arvizu](https://www.linkedin.com/in/luisarvizu/)** como general manager & head of direct-to-consumer en México. Entre 2008 y 2016 fue general manager de **Yahoo** en México y, entre 2020 y 2023, managing director de **Vix** en América Latina (***Redacción Whitepaper***).
+
+---
+
+#### En Coahuila
+
+**Industrias Sigrama**, empresa de Torreón fundada en 1987, abrió su tercera planta en **Coahuila**, con una [inversión](https://clusterindustrial.com.mx/sigrama-abre-su-tercera-planta-en-coahuila-con-inversion-de-3-mdd-generara-180-empleos/) de $3 millones de dólares. Se [especializan](https://www.sigrama.com.mx/?page_id=284) en soluciones de ingeniería para procesos industriales y en la fabricación de tableros eléctricos (***Redacción Whitepaper***).
+
+---
+
+#### *Breves*
+
+* En un *deal* de más de $700 millones de dólares, **Vista Energy** está quedándose con una participación en **activos petroleros** adicionales en la región de **Vaca Muerta**, en Argentina —“*The blocks fit perfectly into Vista’s portfolio, adding both flowing barrels and a deep inventory of highly productive, ready-to-drill wells*” ([SEC](https://www.sec.gov/Archives/edgar/data/1762506/000119312526032631/d21801d6k.htm)).
+* Antes de la segunda llegada de **Trump** a la presidencia, EUA generaba alrededor de $8,000 millones de dólares mensuales por concepto de **aranceles**. Desde octubre del año pasado, esa cifra promedia poco más de $30,000 millones cada mes —y si se mantiene por un año, terminará siendo **equivalente a 1.2% del PIB** ([The Economist](https://www.economist.com/finance-and-economics/2026/02/01/has-america-hit-peak-tariff)).
+* El futuro de las más de **250 tiendas Eddie Bauer** en EUA es **incierto**: la empresa se prepara para ir nuevamente a ***Chapter 11***, y la mayoría de las tiendas podrían ser **cerradas**. Por lo pronto, sus operaciones de **e-commerce** pasaron a una empresa distinta ([Retail Dive](https://www.retaildive.com/news/eddie-bauer-stores-closing-us-canada-bankruptcy-filing/811095/)).
+* “*By now, the **Forbes 30 Under 30 list** has become more than a little notorious for the amount of entrants who go on to be c**harged with fraud***” —la fundadora de **Kalder**, una fintech basada en Nueva York, está siendo **acusada** de haber **mentido** acerca de quiénes eran sus clientes y de su nivel de ingresos con el objetivo de conseguir $7 millones de dólares en una ronda de inversión ([TechCrunch](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=9f7b9c90c081692ac723c0bd188ed1c10e1fc043)).
+
+---
+
+#### Perdedores
+
+“*Starting from the second you open your account, **sportsbooks are gathering information** to determine **what type of bettor you will be**. This includes the obvious stuff, such as a bettor’s real name, date of birth, and address, which are often disclosed in the app’s terms of service and allow them to start building a profile. Then, the algorithms get more advanced as you start placing bets (…) a **sportsbook’s profit margins** literally live and die with t**heir ability to differentiate** winning accounts from losing accounts as quickly as possible*”.
+
+Las plataformas de apuestas gastan miles y miles de millones de dólares en **adquisición de clientes** —por eso se han convertido en los **grandes anunciantes** y patrocinadores— pero lo que es menos visibles es que invierten también miles de millones en **iniciativas de R&D** que buscan **clasificar** con mayor precisión a sus usuarios. Cerca de 80% de los ingresos de esta industria vienen de apenas **10% de sus clientes** (los famosos ‘***whales***’) y el **top 1% contribuye con 36%** de los ingresos totales ([Huddle Up)](https://huddleup.substack.com/p/inside-the-algorithms-sportsbooks?utm_campaign=email-post&r=67640&utm_source=substack&utm_medium=email).
+
+> ***Comentario Whitepaper**: el artículo detalla cómo las plataformas utilizan **algoritmos** para catalogar a sus clientes y luego personalizarles ofertas y mensajes (y cuando así les conviene, mejor limitarles las posibilidades de seguir apostando).*
+>
+> *Existe muy poca información de **cómo funciona esto en México**, pero es de suponer que **debe ser algo muy similar** pues la tecnología que está detrás de este tipo de plataformas suele ser la misma.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!W9Qg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F602a3705-338c-493d-bde1-83c8b8c0074d_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+**London Consulting Group** es una empresa de consultoría enfocada en incrementar la rentabilidad de sus clientes.
+
+Con sólida presencia en México y presencia global en 26 países, se dedican a elevar la productividad y eficiencia operativa de organizaciones en diferentes giros.
+
+Su metodología se enfoca en la optimización de procesos y estrategias, con un alto enfoque en la gestión del cambio. Su implementación activa y efectiva de soluciones genera, en promedio, un retorno de inversión de 5 a 1.
+
+Visita su página web [www.londoncg.com](http://www.londoncg.com/) o contacta a Luis Ortiz -*CEO & Founder Mexico*- al [luis.ortiz@londoncg.com](mailto:luis.ortiz@londoncg.com) y comienza la transformación de tu empresa.
+
+[London Consulting Group](https://londoncg.com/es/contactanos-mexico)
+
+---
+
+#### *Continúa: Carlos García Moreno, América Móvil*
+
+Cuando Carlos García Moreno llegó a América Móvil en enero de 2001, la empresa era poco más que Telcel…con planes de expansión regional. Tenía entonces cuatro operaciones: México, Ecuador, Guatemala y un operador virtual en Estados Unidos, ingresos cercanos a $3,000 millones de dólares y cero deuda. “Formalmente es la misma posición, pero es como haber estado en diferentes empresas”, dice hoy, al mirar en retrospectiva una trayectoria de 25 años como CFO del grupo. Y no exagera: en ese cuarto de siglo, América Móvil pasó de ser un operador esencialmente mexicano a un jugador global con presencia en más de 20 países y alrededor de 400 millones de usuarios.
+
+García Moreno no venía del mundo de las telecomunicaciones. Economista de formación, había hecho carrera en la banca internacional y después en el sector público, en la Secretaría de Hacienda y Crédito Público, donde participó en la gestión de la deuda soberana. Al cierre del sexenio de Ernesto Zedillo, tenía claro que regresaría al sector privado. La invitación a sumarse a América Móvil coincidió con el spin-off de Telmex y con un momento de profunda inestabilidad en América Latina. “Fue estar en el lugar correcto, en el momento correcto”.
+
+La primera etapa de América Móvil fue de expansión agresiva, pero no exenta de riesgo. Crisis cambiarias, mercados cerrados y países con severos problemas económicos marcaron los primeros años del grupo. Para García Moreno, ese contexto no fue una desventaja, sino una oportunidad. “Para entrar a un país, alguien tiene que querer salir”. Y muchos operadores querían hacerlo. Desde la dirección financiera, su papel fue doble: participar directamente en negociaciones de adquisición y diseñar los esquemas de financiamiento que permitieran crecer sin comprometer la viabilidad de largo plazo.
+
+América Móvil nació sin deuda, pero muy pronto comenzó a buscar alternativas de financiamiento. Primero en México, luego en Estados Unidos y Europa. “Diez años después, llegamos a tener más de $45,000 millones de dólares de deuda”. Para una empresa que había arrancado con caja neta positiva, el salto era enorme. Sin embargo, el objetivo nunca fue minimizar la deuda per se, sino usarla estratégicamente. “No se trata de ahorrarte 10 puntos base en una colocación; se trata de llevar a la empresa por el camino más eficiente en el tiempo”, señaló.
+
+Esa filosofía se volvió aún más relevante con la llegada del iPhone y el cambio estructural hacia los datos móviles. La voz dejó de ser el negocio central y la infraestructura se convirtió en la verdadera ventaja competitiva. García Moreno explicó que no puedes crecer en datos si no tienes una plataforma fija sólida y esa convicción llevó a América Móvil a transformarse en una empresa integrada, con fuertes inversiones en fibra óptica y la adquisición de Telmex y Telmex Internacional en 2010. Fue una decisión costosa, pero estratégica.
+
+En los últimos años, el enfoque del CFO ha evolucionado hacia la reducción de riesgos estructurales. En una empresa con operaciones en 23 países y exposición a 18 monedas, el riesgo cambiario es permanente. “Nuestro trabajo es evitar crisis existenciales”, dice. Considera que una buena parte de lo que hace el financiero, más allá de bajar costos, es la obligación de llevar a la empresa por una senda en donde esté protegida, en donde pueda florecer porque no tiene que andar apagando ‘infiernitos’. “Que nunca te quedes sin acceso al mercado, que no tengas problemas de refinanciamiento, que estés cubierto cuando hay volatilidad”. Para él, el valor del CFO es comparable al de un seguro: no se mide por lo que cuesta, sino por lo que evita.
+
+En entrevista con Whitepaper, platicó que una de las apuestas más recientes y personales ha sido el desarrollo del mercado local de deuda. Convencido de que México subutiliza su ahorro interno, impulsó un programa de bonos globales en pesos, registrados tanto en México como en Estados Unidos. “Hace dos años, decir que levantarías miles de millones de pesos con extranjeros sonaba a locura”, hoy América Móvil ha colocado cerca de $80,000 millones de pesos bajo ese esquema, con una participación creciente de inversionistas internacionales. Para él, no es solo una decisión financiera, sino casi una postura de política económica: “Si queremos inversión, tiene que haber financiamiento”.
+
+A lo largo de las últimas dos décadas, América Móvil ha fortalecido su flujo libre de efectivo, reducido su Capex de niveles cercanos al 20% de ingresos a un rango de 14–15%, y mantiene un crecimiento sólido de EBITDA, incluso por encima del crecimiento de ingresos a tipo de cambio constante. “Eso es apalancamiento operativo y disciplina”, concluyó.
+
+Después de 25 años como CFO, García Moreno no habla de retirarse, pero sí de consolidar. Menos expansión territorial, más solidez financiera, más tecnología y menos riesgos innecesarios. “El reto permanente es modernizarte sin poner en peligro a la empresa”, dice. Y quizá esa frase resume mejor que ninguna otra su forma de ver las finanzas: no como un fin, sino como los cimientos que permiten que todo lo demás ocurra.

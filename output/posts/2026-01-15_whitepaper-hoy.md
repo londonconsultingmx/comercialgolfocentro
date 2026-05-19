@@ -1,0 +1,130 @@
+# Whitepaper, Hoy
+
+> La inversión de GM; avanza la venta de autos eléctricos; Banamex; palomitas; aguacates; Tu coach de AI; Dolphins y 49ers; Amazon; Beretta y Ruger; de la historia -cuando McDonald's llegó a México
+
+**Fecha:** 2026-01-15  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-ae0  
+**Word count:** 1395
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!V3Re!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27acd8b6-3cef-46e3-88fa-713723bcc1fa_2416x545.jpeg)](https://diio.com/mx?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026)
+
+---
+
+#### Muchas SUVs
+
+**General Motors**, que tiene cuatro plantas en México, [invertirá](https://news.gm.com.mx/newsroom.detail.html/Pages/news/mx/es/2026/jan/GMM-Resultados-2025.html) $1,000 millones de dólares durante los próximos dos años para fortalecer su operación de manufactura en el país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: son el segundo mayor vendedor de vehículos, con 13% del [mercado](https://www.inegi.org.mx/contenidos/datosprimarios/iavl/doc/2026/rm_raiavl2026_01.pdf) (solo detrás de Nissan). Presumen tener casi 79% de participación en el segmento de SUV grandes (gracias a las Suburban, Tahoe y Yukon) y 39% en el de las de lujo, con **Escalade** y las nuevas versiones **eléctricas**.*
+
+---
+
+#### Eléctricos
+
+…y hablando de eléctricos, el año pasado se [vendieron](https://emasociacion.org/download/barometro-cuarto-trimestre-2025/) en México **43,358 vehículos 100% eléctricos** —38.5% más que en 2024. En el caso de los híbridos enchufables, las ventas ascendieron a casi 53,000 unidades (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el punto de entrada para comprar un auto completamente eléctrico es cada vez más accesible. Por ejemplo, BYD ofrece el Dolphin Mini en $400,000 pesos, Renault tiene el Kwid E-Tech en $375,000 y el JAC E10X tiene un precio de lista de $371,000 pesos.*
+
+---
+
+#### Banamex
+
+“*We are focused on the next step in the exit process, and we're **actively looking at selling some additional smaller stakes** as we lead up to an IPO*” —**Jane Fraser**, la CEO de **Citi**, dijo en la llamada trimestral que antes de hacer el IPO de Banamex esperan vender otras participaciones. Por lo pronto, **Fernando Chico Pardo** tiene ya el control de 25% del banco ([MarketScreener](https://www.marketscreener.com/news/transcript-citigroup-inc-q4-2025-earnings-call-jan-14-2026-ce7e58d9d888fe22)).
+
+> ***Comentario Whitepaper**: hay varios ‘tiradores’ interesados en sumarse al proyecto de esta nueva versión de Banamex (incluyendo firmas de private equity).*
+
+---
+
+#### Palomitas
+
+Para **Conagra Brands**, las palomitas son **el producto clave** en México: su marca **ACT II** representaría 35% de sus ventas totales en nuestro país. También tienen aquí marcas como Hunts, Del Monte y **PAM** ([Expansión](https://expansion.mx/empresas/2026/01/13/la-jugada-de-act-ii-para-no-salir-del-carrito-del-super)).
+
+> ***Comentario Whitepaper**: en 2024, habrían vendido alrededor de $5,600 millones de pesos en México (y $11,613 millones de dólares a nivel global). Su general manager en nuestro país es **[Alberto Cavia](https://www.linkedin.com/in/alberto-cavia/)**.*
+
+---
+
+#### Aguacates
+
+**Mission Produce** está [adquiriendo](https://www.globenewswire.com/news-release/2026/01/14/3219153/0/en/Mission-Produce-Announces-Agreement-to-Acquire-Calavo-Growers-Expanding-North-American-Avocado-Business-and-Diversifying-Portfolio-Across-Fresh-Produce.html) a **Calavo**, que se dedica a procesar y distribuir aguacates, tomates y papaya. Con esta transacción, Mission está integrando a su red las empacadoras que tiene Calavo **en Michoacán y en Jalisco**, elevando a cuatro sus instalaciones en nuestro país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: según su [informe anual](https://investors.missionproduce.com/static-files/c6fe417a-0a0e-4e8a-a296-735f932c9799), poco más de 20% de los empleados de Mission Produce están en México, mientras que en el caso de [Calavo](https://ir.calavo.com/static-files/422de8d2-85fe-40ca-ac6b-fb902b67a476), la cifra supera el 80%. Ambas empresas tienen su sede oficial en **California**.*
+
+---
+
+#### Tu coachde AI
+
+Personalidades como **Tony Robbins**, Gabby Bernstein y Matthew Hussey —autores y conferencistas que son especialmente populares en el mundo de la **superación personal** y el coaching— están lanzando chatbots diseñados para conversar utilizando **su propia voz** y **basados en su filosofía y enseñanzas**. Con suscripciones de $99 dólares al mes, por ejemplo, el app de Tony Robbins ofrece a sus usuarios consejos personalizados, “platicados” en la voz del famoso autor, disponibles en todo momento ([WSJ](https://www.wsj.com/style/ai-self-help-chat-bots-tony-robbins-gabby-bernstein-0cf8b3b0?st=JSMFKh)).
+
+> ***Comentario Whitepaper**: por su parte, [The Economist](https://www.economist.com/united-states/2025/12/16/the-race-for-an-ai-jesus-is-on) destacó hace algunas semanas un app llamado “**Text with Jesus**”, también creado con AI, que se basa en la **Biblia** para responder preguntas teológicas y ofrecer “**acompañamiento espiritual**” (sus usuarios pueden elegir entre la voz de la Virgen o de algún apóstol). Aseguran que tiene alrededor de 150,000 usuarios —incluyendo **muchos en México.***
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-ae0?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4NDM0NjQwMywiaWF0IjoxNzc5MjE1NzU5LCJleHAiOjE3ODE4MDc3NTksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.bEXH4nKmikpd469UyLIlFltVSVc8eAsWv7OxaU8bcqI)
+
+---
+
+#### Minería
+
+**Amazon** le comprará a Río Tinto **el cobre** que la minera comienza a producir en Arizona. “T*he Amazon-Rio Tinto deal comes as **overall copper demand is rising**, and growth of **data centers** could worsen what's already a looming shortfall in decades ahead*” ([Axios](https://www.axios.com/2026/01/15/amazon-rio-tinto-copper-data-center)).
+
+> ***Comentario Whitepaper**: están estrenando además un innovador proceso de producción de cobre que implica el uso de microorganismos y que **promete acortar los tiempos de “mine-to-market”** (además de utilizar menos agua).*
+
+---
+
+#### NFL
+
+* Comprar a los **Dolphins** en 2009 le costó a **Stephen Ross** alrededor de $1,000 millones de dólares. En 2024, el empresario vendió una participación de 13% en un *deal* que valuaba a su equipo en $8,000 millones. Ross ahora tiene 85 años y está pasándole la responsabilidad del equipo a su yerno; asegura que ha estado r**ecibiendo ofertas de hasta $15,000 millones de dólares** para comprar a los Dolphins —un equipo que no ha ganado un Super Bowl desde 1974 ([Bloomberg](https://www.bloomberg.com/news/articles/2026-01-14/miami-dolphins-owner-ross-offered-close-to-15-billion-for-team?srnd=homepage-americas)).
+* Los **49ers** han “perdido” $95 millones de dólares de sueldos para sus **jugadores lesionados**: entre los equipos que siguen en los playoffs, son por mucho el que tiene a más jugadores caros **fuera de circulación** ([WSJ](https://www.wsj.com/sports/football/san-francisco-49ers-injuries-george-kittle-476ab9d5?st=sMneqK)).
+
+---
+
+#### Rifles y pistolas
+
+**Beretta**, que generó ingresos de $1,700 millones de dólares en 2024, busca quedarse con el control de **Sturm Ruger**. La primera, cuya sede está en Luxemburgo, tiene ya **casi 10% de las acciones** de la segunda (de EUA). Las ventas de Ruger han venido disminuyendo y con ello, el precio de sus acciones retrocedió 60% en 2025. Ahora tiene un market cap de menos de $600 millones de dólares, y su board está tomando medidas para protegerse de **un posible intento de compra hostil** ([Financial Times](https://www.ft.com/content/97e6f29e-bc79-43e0-bcbd-2dfe98755ea3)).
+
+> ***Comentario Whitepaper**: Beretta presume ser una empresa **fundada en 1526**, que sigue **bajo el control de la misma familia**. Su CEO es descendiente —de **hace 15 generaciones**— del fundador. El año pasado publicamos un [Spotlight de la marca](https://open.substack.com/pub/whitepaper/p/spotlight-en-beretta?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).*
+
+---
+
+#### Whitepaper 10: Empresas mexicanas, podcast de Nicolai Tangen, empresas chinas, Saks
+
+Platicamos sobre las empresas mexicanas grandes con **mayores márgenes**, del podcast de **Nicolai Tangen**, de la inversión de **empresas chinas** fuera de su país y de la quiebra de **Saks**.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/126-empresas-mexicanas-podcast-de-nicolai-tangen/id1584711514?i=1000745213647), [Spotify](https://open.spotify.com/episode/5i1H2JNFMNRxFV2zvKnc0k?si=-h5LKefxTjusn90QKZAEWQ), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### *De la historia*: *“The Big Mac Goes To México”*
+
+*“The McDonald’s Big Mac came to Mexico this week, causing traffic jams as **hundreds of Mexicans lined up to buy hamburgers, but with chili sauce instead of ketchup** (…) The Mexicans that jammed the restaurant on opening day **were predominately young and affluent, and also spoke English**”,* [escribió](https://www.nytimes.com/1985/11/02/business/the-big-mac-goes-to-mexico.html) **[The New York Times](https://www.nytimes.com/1985/11/02/business/the-big-mac-goes-to-mexico.html)** en 1985.
+
+México tenía entonces alrededor de 75 millones de habitantes y **McDonald’s** había puesto la mira en nuestro país —esto, después de instalar primero restaurantes en Panama, El Salvador, Costa Rica, Venezuela y Brazil (entre otros). Aquí, su primera sucursal estaría en el Pedregal, la segunda estaba planeada para Polanco y la tercera comenzaba a desarrollarse en Monterrey.
+
+[![](https://substackcdn.com/image/fetch/$s_!tRsF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F989bc544-3c5c-451d-a9dc-29e38f81601c_1747x1344.jpeg)](https://www.nytimes.com/1985/11/02/business/the-big-mac-goes-to-mexico.html)
+
+De acuerdo con el artículo —parte del archivo histórico del periódico de Nueva York— no fue fácil para McDonald’s operar en México. De entrada, tenían que obtener todas sus materias primas localmente (algo que resultaría especialmente difícil en el caso de las papas), y aún así el producto era relativamente caro: la hamburguesa sencilla costaba $250 pesos (de los viejos), mientras que torta o unos tacos podrían costar entre $100 y $200 pesos.
+
+La regulación de la época establecía que las empresa debía tener un socio mayoritario mexicano, por lo que tras una convocatoria **McDonald’s** eligió a **[Saul Kahan](https://www.linkedin.com/in/saul-kahan-a6338a19?originalSubdomain=mx)**, entonces de 24 años, de entre mas de 500 interesados (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en 2007 se creó **Arcos Dorados**, que es hasta la fecha la holding encargada de operar la marca de **McDonald’s** en América Latina y el Caribe. Actualmente tienen aquí alrededor de 380 restaurantes y en 2024 sus ventas en México habrían ascendido a unos $447 millones de dólares.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!FLYi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabbbe172-6d0d-4557-bf4e-70eb4cd13df2_1800x871.jpeg)](https://www.diio.com/mx/webinar-ia-ventas-b2b-2026?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026)
+
+En 2026, que tu equipo de ventas use IA ya no es una ventaja: es el estándar. La verdadera diferencia está en cómo la usas. **[diio](https://diio.com/mx?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026)** es la plataforma de inteligencia artificial para ventas líder en la región. Analiza llamadas, videollamadas y mensajes, entiende lo que ocurre en cada conversación y ayuda a tus equipos a vender más, con menos fricción, un CRM que se completa automáticamente y guía clara para cerrar más clientes.
+
+El próximo **jueves 22**, diio realizará un **webinar exclusivo para empresas B2B** que buscan llevar sus ventas y customer success al siguiente nivel utilizando las principales tendencias de IA de este año: desde reducir el esfuerzo operativo hasta mejorar la tasa de cierre y la calidad del pipeline.
+
+Si tu organización tiene equipos comerciales o de clientes, **[regístrate sin costo](https://www.diio.com/mx/webinar-ia-ventas-b2b-2026?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026)** al webinar como suscriptor de Whitepaper. También puedes [solicitar una demo personalizada](https://diio.com/mx/agendar?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026).
+
+[Regístrate en Seminario](https://www.diio.com/mx/webinar-ia-ventas-b2b-2026?utm_source=whitepaper_mx&utm_medium=email&utm_campaign=whitepaper_mx_enero_2026&utm_content=2026-01-15&utm_term=webinar-ia-ventas-b2b-2026)

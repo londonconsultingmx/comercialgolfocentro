@@ -1,0 +1,135 @@
+# Whitepaper, Hoy
+
+> Natura en México; Préstamo Feliz; J.B. Hunt; conoce a Ana Paula Niembro; movimientos clave; resultados de STP; Alpek; sueldos de CEOs; IPOs de startups; Texas Roadhouse y Bubba’s 33
+
+**Fecha:** 2025-06-02  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-3ad  
+**Word count:** 1378
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!rD7V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42a43611-e67a-43cc-bf2e-6832256df71b_1281x234.jpeg)](https://www.terantbwa.mx/)
+
+---
+
+#### Con el ojo en México
+
+“*We will grow **disproportionately** in **Mexico***” —el CEO de **Natura** quiere apalancarse en la red de más de 500,000 ‘consultoras de belleza’ que tiene su empresa en nuestro país para aumentar su participación de mercado; planean además desarrollar una **red de tiendas** ([Bloomberg](https://www.bloomberg.com/news/articles/2025-05-30/natura-ceo-bets-on-mexico-as-cosmetic-maker-recovers-from-rout)).
+
+> ***Comentario Whitepaper**: la empresa es también dueña de **Avon**, que el año pasado comenzó el proceso de Chapter 11.*
+
+---
+
+#### SOFOMes
+
+Fondos administrados por **Christofferson, Robb & Company** —una firma de inversiones basada en Nueva York— están [demandando](https://www.ifecom.cjf.gob.mx/paginas/servicios.htm?pageName=servicios%2Fpizarra.htm) la declaración de **concurso mercantil** de **Préstamo Feliz**, una SOFOM regia (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: de acuerdo con información de CONDUSEF, **Préstamo Feliz** tiene una cartera total de $12,600 millones de pesos, de los cuales **más de $6,500 millones están en cartera vencida** (+51%). Ese tamaño de cartera la colocaría como una de las SOFOMes más grandes en el país —y también la que tiene **el monto más** alto registrado como cartera vencida.*
+>
+> ***Christofferson, Robb & Co** le había venido otorgando líneas a la SOFOM de Monterrey para permitirles colocar créditos de nómina y para pensionados, así como para financiar la adquisición de otras organizaciones (incluyendo la subsidiaria en México de World Acceptance Corporation). **Alegan** que cayó en **default** y que no está cumpliendo con sus obligaciones de repago.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!DLfx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b11987a-2ba5-4d52-a726-c90219aa27a8_1501x906.heic)](https://substackcdn.com/image/fetch/$s_!DLfx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b11987a-2ba5-4d52-a726-c90219aa27a8_1501x906.heic)
+
+---
+
+#### Logística
+
+**J.B. Hunt** está aliándose con **Grupo México Transportes** y BNSF Railway para ofrecer un servicio de transporte de **carga intermodal** desde **Querétaro**; J.B. Hunt está además abriendo una nueva oficina en esa misma ciudad ([Freightwaves](https://www.freightwaves.com/news/j-b-hunt-expands-premium-intermodal-offering-into-mexico)).
+
+---
+
+#### Conoce a: Ana Paula Niembro
+
+[Director, Finance Business Partner en Mastercard México](https://www.linkedin.com/in/ana-paula-niembro-9b752632/details/experience/)
+
+[![](https://substackcdn.com/image/fetch/$s_!rnC_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a2aa0cd-3ee9-4f8e-b7a3-ba6f5d9685d9_1204x1014.jpeg)](https://substackcdn.com/image/fetch/$s_!rnC_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a2aa0cd-3ee9-4f8e-b7a3-ba6f5d9685d9_1204x1014.jpeg)
+
+**Ana Paula** está empezando una nueva etapa como consejera independiente, tras más de 20 años de trayectoria en finanzas corporativas. Fue tesorera en **La Costeña** y CFO/COO de **Viña Concha y Toro**; también fue parte del equipo fundador de **Rabbit**, una plataforma que ofrece soluciones logísticas, financieras y tecnológicas a tenderos en México. Actualmente está en **Mastercard**, con el cargo de *director, finance business partner.*
+
+Es licenciada en Administración Financiera del **Tec de Monterrey**, con estudios en la **Universidad de Toronto**, **ESADE** y la **Universidad de Navarra**. Es miembro de The 1% Finance Leaders **(*****Redacción Whitepaper*****)**.
+
+---
+
+#### Movimientos Clave
+
+* **Médica Sur** [nombró](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1467556_1.pdf) a **Octavio González Chon** como su nuevo director general, en sustitución de **Carlos Arellano Quintana**. Lleva 28 años en la empresa y más de 20 como miembro del consejo (***Redacción Whitepaper***).
+* **[Sebastián Barrios](https://www.linkedin.com/in/zebas/?originalSubdomain=mx)** dejaría su puesto como SVP of Technology en **Mercado Libre** para convertirse en SVP of Engineering en **Roblox**. Antes fue fundador de **Yaxi**, una startup que vendió a **Cabify** (***Redacción Whitepaper***).
+* **[Jaime Fernández](https://www.linkedin.com/in/jaime-a-fernandez-41b7989a/?originalSubdomain=mx)** será *chief commercial officer* para México, Centroamérica y el Caribe en **AON** a partir del 1º de junio. Llega tras 15 años en **Interprotección**, donde su último puesto fue vicepresidente de operaciones, y fue miembro del consejo de la **BMV** (***Redacción Whitepaper***).
+* **[Rodnei Silva](https://www.linkedin.com/in/rodneisilva/?originalSubdomain=mx)** es el nuevo director general de **Maserati** en México. Su última posición fue como *head of product* en **INEOS Automotive**, y antes estuvo en **Jaguar Land Rover** (***Redacción Whitepaper***).
+* **Hershey** [anunció](https://www.linkedin.com/posts/hershey-m%C3%A9xico_imhershey-activity-7333880221076496384-1vwP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU) a **[Andrés Onco](https://www.linkedin.com/in/andresonco/)** como gerente general para América Latina. Anteriormente fue *general manager* de la división de bebidas en México de **PepsiCo** (***Redacción Whitepaper***).
+
+---
+
+#### En EUA
+
+**Alpek** decidió cerrar la planta de PET que tienen en **Carolina del Norte**, con lo que espera generar ahorros de $20 millones de dólares anuales ([BMV](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1469173_1.pdf)).
+
+> ***Comentario Whitepaper**: el año pasado **Alpek** registró ingresos totales de **$7,400 millones de dólares** —los insumos que producen se usan para hacer desde los envases de PET de refrescos y jugos, hasta para fabricar juguetes, botes de yogurt e incluso jeringas. Tienen 34 plantas y operaciones en 9 países.*
+
+---
+
+#### Por donde pasan los pagos
+
+El año pasado, los ingresos por comisiones e intereses de STP aumentaron 45%, a más de $3,260 millones de pesos. Su principal fuente de ingresos son las comisiones por transferencia (cobran entre $4.5 y $2.5 pesos por transacción). Generaron $1,600 millones de pesos de utilidad (***Redacción Whitepaper, vía [Tukán](https://tukanmx.com/)***).
+
+> ***Comentario Whitepaper**: STP sería el proveedor de servicios de pago para más de 1,500 empresas, entre las que se encuentran jugadores como **Quálitas**, **Caliente**, **Rappi**, y **Liverpool**. A la cabeza está **[Fernando Gutiérrez García](https://www.linkedin.com/in/fergutierrez/?locale=en_US)**.*
+
+[![](https://substackcdn.com/image/fetch/$s_!E4-o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bcec4ba-6ac5-4a01-b022-dc90836c2132_2850x2140.png)](https://substackcdn.com/image/fetch/$s_!E4-o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bcec4ba-6ac5-4a01-b022-dc90836c2132_2850x2140.png)
+
+---
+
+#### Bien compensados
+
+Con un monto total de $165 millones de dólares, el plan de compensación para el CEO de Axon Enterprise —la empresa que está detrás de los ***Tasers***que usa la policía en EUA— fue el más alto en el año pasado; le seguirían los CEOs de GE ($89 millones), **Blackstone** ($84 millones), **Apple** ($75 millones) y **KKR** ($73 millones). En la lista aparece **Jamie Dimon** en el número 23, con $37 millones de dólares, mientras que **Elon Musk** sale al final, con un sueldo de $0 por parte de Tesla ([WSJ](https://www.wsj.com/business/rick-smith-axon-ceo-pay-package-2024-6e864a64?mod=hp_lead_pos3)).
+
+> ***Comentario Whitepaper**: más de la mitad de los CEOs dirigiendo alguna de las empresas en el S&P 500 recibieron **más de $17 millones de dólares** en 2024 (vs $15.8 millones en 2023). Fuera del S&P 500, destaca el caso del CEO de **Shopify**, con un plan de $150 millones de dólares el año pasado.*
+
+---
+
+#### *Breves*
+
+* **Amazon** estaría eliminando miles de millones de páginas que anuncian “**artículos improductivos**” —básicamente cosas que no se venden o que llevan inactivas más de 2 años. Con ello reducirían el total de artículos diferentes que están disponibles en el marketplace de 74,000 millones, a 50,000 millones; en el proceso ahorran más de $20 millones de dólares del costo de servidores ([Business Insider](https://www.businessinsider.com/amazon-bend-curve-project-purges-billions-product-listings-everything-store-2025-5)).
+* **49ers Enterprises** —la organización que controla al equipo de la NFL— está aliándose con Andrew Cavenagh (un emprendedor de EUA) para juntos quedarse con el control de **Rangers Football Club**, uno de los principales equipos de fútbol en **Escocia** ([BBC](https://www.bbc.com/sport/football/articles/cqj7gj2w0k5o#:~:text=A%20US%2Dbased%20consortium%2C%20including,club%20following%20months%20of%20negotiations.)).
+* **Taylor Swift** adquirió los derechos a sus **primeros 6 discos** —eran propiedad de una firma de private equity, que en 2020 pagó por ellos alrededor de $360 millones de dólares. La cantante habría pagado por ellos una cifra “no muy lejana” a la original ([PitchBook](https://pitchbook.com/news/articles/taylor-swift-shakes-off-private-equity?utm_medium=newsletter&utm_source=daily_pitch&sourceType=NEWSLETTER)).
+
+---
+
+#### Venture capital
+
+En EUA, todas las **startups** que hicieron un **IPO** en los últimos 12 meses debutaron en el mercado con un valor inferior a lo que antes habían logrado en las rondas privadas. **eToro**, por ejemplo, salió a bolsa con un descuento de 66% en comparación con la ronda que cerró en 2023, mientras que **Chime**, que está por hacer su IPO esta misma semana, se estima que comenzará con un market cap de unos $11,000 millones de dólares. En 2021 había sido valuada en $25,000 millones ([The Information](https://www.theinformation.com/articles/every-vc-backed-ipo-past-12-months-round?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: el ‘**upside**’ de esto es que la mayoría de estas empresas han después **repuntado** en el mercado, y sus acciones han venido mejorando en precio por encima del promedio.*
+
+---
+
+#### *Casual dining*
+
+**Texas Roadhouse** cuenta con 664 restaurantes y el año pasado generó $5,400 millones de dólares de ingresos —es ya considerada la **principal** cadena de *casual dining* en EUA (destronó a **Olive Garden** en esa categoría).
+
+Junto con ella, está creciendo muy rápidamente **su marca hermana**: **Bubba’s 33**, también creada por el fundador de **Texas Roadhouse**, se especializa más bien en hamburguesas y pizzas y vendió casi $300 millones de dólares en 2024 (+20%). Existen **52 sucursales**, y planean pronto extenderla a 200 restaurantes ([Restaurant Business](https://www.restaurantbusinessonline.com/financing/look-out-bubbas-33-texas-roadhouses-fast-growing-free-wheeling-sibling)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!n-It!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7148787b-430c-4aad-8749-73e4813e03c2_1281x234.jpeg)](https://substackcdn.com/image/fetch/$s_!n-It!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7148787b-430c-4aad-8749-73e4813e03c2_1281x234.jpeg)
+
+Desde 1947 en **TERAN TBWA\** han construido algunas de las **marcas más icónicas del mercado mexicano**. Hace 30 años se unieron al colectivo global TBWA\ y a partir de entonces adoptaron Disruption® como su filosofía y metodología estratégica: **Ergo The Disruption® Company.**
+
+**TERAN TBWA\** combina la inteligencia humana con la IA para crear comunicación end 2 end que da resultados de negocio. Cuentan con talento de clase mundial en negocios, estrategia, social content y creatividad con más de 700 colaboradores.
+
+Tiene herramientas propietarias de última generación como: *Backslash* para la detección de tendencias socio-culturales, *Collective AI* (sus GPT’s exclusivos) y *Omni* sistema operativo de marketing.
+
+Aquí algunos ejemplos de plataformas de marca que han creado en colaboración con sus clientes.
+
+[![](https://substackcdn.com/image/fetch/$s_!_I5c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ce3e763-e54f-412b-8768-3b9969bb3bf6_1456x292.jpeg)](https://substackcdn.com/image/fetch/$s_!_I5c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ce3e763-e54f-412b-8768-3b9969bb3bf6_1456x292.jpeg)
+
+Contacto: **[andres.teran@terantbwa.com.mx](mailto:andres.teran@terantbwa.com.mx)**
+
+[Conoce más](https://www.terantbwa.mx/)

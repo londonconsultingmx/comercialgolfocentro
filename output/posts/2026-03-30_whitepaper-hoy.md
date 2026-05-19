@@ -1,0 +1,117 @@
+# Whitepaper, Hoy
+
+> Bimbo en El Salvador; Femsa y sus más de 33,000 tiendas; Grupo Elektra; movimientos clave; Auntie Anne’s; stablecoins; Sysco y Jetro; Infiniti en EUA; Nestlé; Whoop; Arc’teryx
+
+**Fecha:** 2026-03-30  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-2c2  
+**Word count:** 1280
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!iRTC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7957527f-10a4-4e13-ae39-fdab7431934a_2250x436.jpeg)](https://www.samsung.com/mx/smartphones/galaxy-s26-ultra/?cid=mx_pd_display_whitepaper_galaxy-s26-ultra_launch_galaxys26-launch-lao-cmo-web-26q1gs26-local-budget_video_branded-content_2pd-intereses_im-aw)
+
+---
+
+#### En Centroamérica
+
+**Bimbo** [inauguró](https://www.grupobimbo.com/es/prensa/comunicados/negocio/inauguramos-novabes-y-reforzamos-nuestra-apuesta-por-la-inversion-y) una nueva planta en El Salvador, en la que habría invertido [$80 millones de dólares](https://diario.elmundo.sv/economia/bimbo-invierte-80-millones-en-nueva-planta-en-apopa). Desde ahí producirán productos de pastelería, panadería y tortillas (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**:* *en [Centroamérica](https://www.grupobimbo.com/es/marcas/centroamerica), **Bimbo** estableció su primera planta fuera de México en Guatemala, en 1990. Poco después, en 1993, llegó a El Salvador. [Actualmente](https://d2rwhogv2mrkk6.cloudfront.net/s3fs-public/reportes-2026/Reporte_Definitivo_BMV_XBRL_Espan%CC%83ol_Dic_25.pdf?VersionId=a02utXI.8oXK4fNBLmaVi.4eYhjk_X82), tiene presencia en 93 países, de los cuales opera directamente en 39.*
+
+---
+
+#### Más de 33,000
+
+**Femsa** [terminó](https://femsa.gcs-web.com/static-files/7cc954e3-a0c3-4efe-a282-0d295312ecc5) 2025 con 33,377 puntos de venta. En México hay 24,297 tiendas —incluyendo formatos como Oxxo y Bara—, mientras que Brasil, Colombia, EUA, Chile y Perú suman cerca de 1,900. En lo que se refiere a farmacias, cuentan con más de 1,000 puntos de venta en cada uno de sus mercados: México, Colombia, Chile y Ecuador.
+
+A esto se suman las tiendas en Europa: más de 1,300 en Alemania, más de 1,200 en Suiza y unas 140 en Luxemburgo, Países Bajos y Austria. Finalmente, están las gasolineras: 545, todas en México (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**:* *durante el año, sus ingresos crecieron 7.6% a $841,000 millones de pesos. En la [carta de su informe anual](https://femsa.gcs-web.com/static-files/7cc954e3-a0c3-4efe-a282-0d295312ecc5) hacen referencia a que, tras un año de crecimiento de doble dígito en ingresos, utilidad bruta y utilidad de operación en la mayoría de sus unidades de negocio, en 2025 enfrentaron “un entorno de consumo más retador”.*
+
+---
+
+#### En pagos
+
+**Moody’s** cambió la perspectiva de **Grupo Elektra** de **negativa**, a **estable**. La calificadora considera que, si bien el monto que Elektra le debe todavía al **SAT** es significativo y podría ejercer cierta presión sobre su liquidez, la empresa debiera poder cumplir “en tiempo y forma con el esquema de pagos acordado gracias a los **elevados niveles de caja** e inversiones en valores del segmento comercial” ([BMV](https://www.bmv.com.mx/docs-pub/eventoca/eventoca_1544942_2.pdf)).
+
+> ***Comentario Whitepaper**: el deal que hizo Elektra con el SAT implica un pago inicial de $6,476 millones de pesos, que se hizo en enero, más **18 parcialidades** (en total [tendrían que pagar](https://www.bmv.com.mx/docs-pub/eventoca/eventoca_1544942_2.pdf) $24,959 millones más intereses). El año pasado Elektra generó EBITDA de $13,345 millones.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-2c2?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MjUzNjI0NSwiaWF0IjoxNzc5MjE0OTQ5LCJleHAiOjE3ODE4MDY5NDksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.bZjvQ6EzQERQAJC1DffIie1XddkOFgcFaEGFkq4Xuik)
+
+---
+
+#### Movimientos clave
+
+* **[Carlos Emilio González](https://www.linkedin.com/in/ceglzg/)** será el nuevo presidente de los **Tigres**; lleva más de 25 años en **Cemex** y entre 2017 y 2023 fue presidente de la empresa para Egipto y los Emiratos Árabes Unidos. Reemplazará a **[Mauricio Culebro](https://www.linkedin.com/in/mculebrog27/)**, quien [pasará](https://www.atlutd.com/news/mauricio-culebro-named-president-of-soccer-amb-sports-and-entertainment) a ser presidente de futbol de **AMB Sports and Entertainment**, propietarios del Atlanta United y del estadio Mercedes-Benz (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!I3YX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1959f0-c764-42bc-af00-6fc18c6c1a5a_1457x1507.jpeg)](https://substackcdn.com/image/fetch/$s_!I3YX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1959f0-c764-42bc-af00-6fc18c6c1a5a_1457x1507.jpeg)
+
+* **Deepple** nombró a **[Erika Domínguez](https://www.linkedin.com/in/erikadominguezgalvan/?locale=es)**, quien era su *chief marketing & strategy officer*, como su nueva CEO. Tiene más de 20 años de experiencia en **KIO**, de 2001 a 2024 (***Redacción Whitepaper***).
+* **[Juan Carlos Vallejo](https://www.linkedin.com/in/juan-c-vallejo-27a6b8137/)** será CEO de **Google** en Argentina. [Lleva](https://www.linkedin.com/posts/juan-c-vallejo-27a6b8137_a-partir-del-1ro-de-abril-asumo-el-rol-de-share-7442933475151675393-lYA2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU) seis años al frente de las áreas de retail y tecnología en Google México (***Redacción Whitepaper***).
+* **Aon** anunció a **[Julio Cedillo](https://www.linkedin.com/in/julio-adolfo-cedillo-mej%C3%ADa-079aa61b5/)** como CEO para México, el Caribe y Centroamérica. Reemplaza a **[Franco Di Lucca](https://www.linkedin.com/in/franco-di-lucca-71b13a?originalSubdomain=mx)**, quien ahora será CEO para América del Sur, sin incluir Brasil (***Redacción Whitepaper***).
+
+---
+
+#### Pretzels
+
+**Auntie Anne’s** proyecta inversiones de $200 millones de pesos para abrir 40 sucursales en México durante los próximos cinco años. Su primera tienda en el país, en Monterrey, habría alcanzado en 15 días los niveles de venta previstos para tres meses ([Expansión](https://expansion.mx/empresas/2026/03/27/auntie-annes-mexico-40-tiendas-tropicalizacion-menu)).
+
+> ***Comentario Whitepaper**:* *el master franchise de la marca en el país lo [tiene](https://cuervosnegrostudio.com/auntie-annes/) **Beegroup**, de Monterrey, liderado por [Patricia Velasco](https://www.linkedin.com/in/patriciavelascos/) y [Adalberto Rangel](https://www.linkedin.com/in/adalbertorangel/). Los dueños de la marca son **GoTo Foods** ([antes](https://www.restaurantbusinessonline.com/operations/focus-brands-changing-its-name-goto-foods), Focus Brands), de Atlanta, que también tienen en su portafolio a Cinnabon y Moe’s Southwest Grill.*
+
+---
+
+#### *Stablecoins*
+
+Durante 2025, el volumen de *stablecoins* usadas para pagos se duplicó hasta alcanzar aproximadamente $400,000 millones de dólares a nivel global; se estima que 60% correspondió a pagos B2B.
+
+*“Las empresas y los desarrolladores en América Latina nos están mostrando lo que es posible cuando se construye sobre estos nuevos rieles transformadores”,* dijo **[Zach Abrams](https://www.linkedin.com/in/zacharyabrams/)**, CEO y cofundador de **Bridge**. “*Cualquier empresa que opere globalmente, o aspire a hacerlo, puede beneficiarse enormemente de las stablecoins”* (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**:* *este año hemos publicado sobre dos startups en México que ofrecen soluciones de pagos transfronterizos a través de stablecoins: **[VelaFi](https://www.whitepaper.mx/i/184346180/ecosistema-emprendedor)**, que recientemente recibió $20 millones de dólares en una ronda de inversión, y **[Crosspoint](https://www.whitepaper.mx/i/184958669/pagos)**, que nos contó hace unos meses que cada mes suma entre 150 y 200 nuevos clientes. También está **[Kira](https://www.whitepaper.mx/i/167750036/criptomonedas)**, con sede en Miami y operaciones en México, así como empresas como **Bitso Business**, que integran este tipo de activos en sus procesos.*
+
+---
+
+#### *Food service*
+
+En EUA, **Sysco** [está adquiriendo](https://www.reuters.com/business/sysco-acquire-restaurant-depot-29-billion-deal-wsj-reports-2026-03-30/) a **Jetro Restaurant Depot** en una transacción que valúa a la empresa privada en **$29,000 millones de dólares**. Jetro, cuyas ventas ascienden a unos $16,000 millones de dólares anuales, [opera 166 bodegas](https://www.wsj.com/business/deals/sysco-to-buy-restaurant-depot-in-29-billion-deal-f50c8a7d?mod=hp_lead_pos3) en las que sus clientes —básicamente, **restauranteros**— encuentran todo tipo de insumos y hasta equipamiento para sus negocios (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en 2019 **Femsa** [invirtió](https://femsa.gcs-web.com/news-releases/news-release-details/femsa-invest-us-cash-and-carry-leader-jetro-restaurant-depot) $750 millones de dólares para quedarse con una **participación minoritaria en Jetro**. En aquel momento, los planes eran **traer la marca a México** como joint venture. Sin embargo —y como parte de su plan ‘**Femsa Forward’**— la regia vendió esa participación en 2023 ([les pagaron](https://femsa.gcs-web.com/news-releases/news-release-details/femsa-forward-announcing-divestment-femsas-minority-position) $1,400 millones de dólares).*
+
+---
+
+#### *Breves*
+
+* De vender más de 150,000 vehículos en EUA en 2017, [las ventas de Infiniti](https://www.cnbc.com/2026/03/26/inifiniti-qx65-suv-nissan.html) en ese país **cayeron** a **menos de 53,000** en 2025. Esto coloca a la marca premium de Nissan muy por debajo de competidores como **Acura** (133,000 unidades en 2025) o de **Lexus**, que ese año vendió **más de 370,000 vehículos** (***Redacción Whitepaper***).
+* Como parte de su plan de reenfoque, **Nestlé** está vendiendo una participación de 50% en su negocio de aguas, dentro del cual tienen marcas como **San Pellegrino**, **Perrier** y **Acqua Panna**. Firmas como **KKR** estarían interesadas en participar; la valuación total del negocio se calcula que debiera estar alrededor de €5,000 millones de euros ([Financial Times](https://www.ft.com/content/48b2fbfe-925d-4c88-88d5-3f864c7081af?syn-25a6b1a6=1)).
+* De acuerdo con el fundador de **Whoop**, el único app que sus clientes abren con mayor frecuencia que el suyo es **WhatsApp**. Aunque actualmente la mayoría de sus clientes son **hombres**, están creciendo más rápidamente **entre las mujeres**. “*(…) the overwhelming majority of Whoop’s customers **want to wear the band as a fashion statement***” ([TechCrunch](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=36b6752bec99a7c457e37e01a90d3bc156b74598)).
+
+---
+
+#### *Gorpcore*
+
+Entre 2020 y 2025, las ventas de **Arc’teryx** pasaron de menos de $500 millones de dólares, **a más de $2,700 millones**. El crecimiento está siendo impulsado por **China**, que en 2020 representaba alrededor de 25% del negocio y ahora es cerca del 40%. En ese país, cada tienda de la marca genera unos $10 millones de dólares anuales de ingresos —el **doble** de lo que venden las sucursales que tienen en EUA ([Bloomberg](https://www.bloomberg.com/news/features/2026-03-27/athletes-love-arc-teryx-so-do-celebrities-and-chinese-shoppers?srnd=phx-latinamerica)).
+
+> ***Comentario Whitepaper**: **Arc’teryx**, que fue creada a principios de la década de los 90s,**tiene su sede en **Vancouver**. Su actual CEO fue antes CFO de JCrew y de Lululemon.*
+
+---
+
+##### Presentado por:
+
+#### Galaxy S26: productividad e inteligencia en un solo dispositivo
+
+**La serie Galaxy S26** redefine la experiencia móvil al ofrecer privacidad avanzada única en un *smartphone,* diseñada para proteger la información personal en todo momento.
+
+Integra herramientas de AI que permiten a los usuarios trabajar, crear y comunicarse de forma más eficiente. Sus funciones están pensadas para simplificar tareas cotidianas, optimizar el tiempo y aumentar la productividad.
+
+No se trata solo de un *smartphone* más potente. Se trata de un ecosistema que da control total sobre los datos, se adapta a cómo trabajas y acompaña cada decisión del día con la confianza de que todo está donde debe estar.
+
+[![](https://substackcdn.com/image/fetch/$s_!9VDj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c2d11cd-937c-4c7a-a656-eda446cac33c_4500x3375.jpeg)](https://www.samsung.com/mx/smartphones/galaxy-s26-ultra/?cid=mx_pd_display_whitepaper_galaxy-s26-ultra_launch_galaxys26-launch-lao-cmo-web-26q1gs26-local-budget_video_branded-content_2pd-intereses_im-aw)
+
+[Conoce la serie](https://www.samsung.com/mx/smartphones/galaxy-s26-ultra/?cid=mx_pd_display_whitepaper_galaxy-s26-ultra_launch_galaxys26-launch-lao-cmo-web-26q1gs26-local-budget_video_branded-content_2pd-intereses_im-aw)

@@ -1,0 +1,119 @@
+# Whitepaper, Hoy
+
+> Cementos Chihuahua; el Atlas; acciones de MeLi; Fantasías Miguel; Dalus y Pulpo; faltan sastres en EUA...y allá también quieren autos de China; Amazon y GLP-1; AI en juicios; spotlight en Strathberry
+
+**Fecha:** 2026-04-22  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-5ec  
+**Word count:** 1517
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!RJYP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8f77892-3b75-4773-841e-03a8d36f1f21_1080x368.jpeg)](https://www.boxfactura.com/info/viaticos?pctc=2026&utm_source=whitepaper&utm_medium=newsletter&utm_campaign=wp202604)
+
+---
+
+#### Concreto
+
+El incremento en el precio del concreto en EUA —de 28% en el trimestre— impulsó los ingresos de **Cementos Chihuahua**, que [aumentaron](https://cdn.investorcloud.net/gcc/InformacionFinanciera/InformacionTrimestral/GCC-1T2026.pdf) 20% para llegar a casi $300 millones de dólares en los primeros tres meses del año. EUA representa un tercio de las ventas de la empresa (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa tiene ocho plantas de cemento y 96 de concreto premezclado.*
+
+---
+
+#### En el fútbol
+
+En Guadalajara, el **Atlas** estaría en la etapa final de su venta. **Grupo Orlegi**, que también es dueño de Santos, se lo vendería al empresario **José Miguel Bejos**, en una operación que se estima cercana a $220 millones de dólares ([Mediotiempo](https://www.mediotiempo.com/futbol/liga-mx/jose-miguel-bejos-sera-nuevo-dueno-del-atlas)).
+
+> ***Comentario Whitepaper**: Bejos lidera **Mota Engil México** y **Grupo Prodi** (y desde 2018 es dueño de los **Pericos de Puebla**, de la Liga Mexicana de Beisbol).*
+>
+> *El año pasado **Innovatio Capital** le compró a **Grupo Caliente** el equipo de **Querétaro**, en un deal que lo valuó en $120 millones de dólares, y el **Atlante** habría llegado a un acuerdo con **Grupo Salinas** para hacerse del Mazatlán FC por $65 millones de dólares. De concretarse estos movimientos, solo quedaría un grupo con más de un equipo en México: León y Pachuca, de **Grupo Pachuca.***
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-5ec?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5NDk1NjEwMiwiaWF0IjoxNzc5MjE0OTI4LCJleHAiOjE3ODE4MDY5MjgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.22hB-_TnDOMU_JCv8i5PDNySQK_zPPXsdE3Q07kLeNo)
+
+---
+
+#### ¿La oportunidad?
+
+Aún y cuando su negocio continúa creciendo, el precio de las acciones de **Mercado Libre** retrocedió 9% en los últimos 12 meses y la empresa cotiza al múltiplo más bajo que ha tenido en 10 años. De acuerdo con [The Information](https://www.theinformation.com/articles/mercado-libre-growing-30-plus-year-stock-cheap?utm_source=ti_app&rc=xfuqjy), la acción está barata: consideran que el mercado **no está valuando correctamente** el crecimiento de su negocio de **fintech** ni reconociendo el potencial del negocio de **publicidad** ([The Information](https://www.theinformation.com/articles/mercado-libre-growing-30-plus-year-stock-cheap?utm_source=ti_app&rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: el año pasado, Mercado Pago contribuyó $12,600 millones de dólares de ingresos —un avance de 46%— y esto impactó positivamente en la generación de flujo de la empresa.*
+
+---
+
+#### Manualidades y decoración de eventos
+
+El auge de las mesas de dulces en eventos sociales tuvo su pico a mediados de 2017. Después de la pandemia, se popularizaron las tablas de quesos. La moda navideña el año pasado fue el estilo Ralph Lauren, con mucho tartán. Y para quienes buscan hacer este tipo de manualidades a cualquier escala, en este país Fantasías Miguel suele estar *top of mind.*
+
+“Nuestras principales clientas son mujeres desde los seis hasta los 80 años,” [David Litchi](https://www.linkedin.com/in/david-litchi-06a27139b/), co-CEO de la compañía, contó a Whitepaper.
+
+**Fantasías Miguel** nació en la década de los 60, cuando Miguel y Linda, los padres de David, abrieron una tienda pequeña en el centro de Ciudad de México. Vendían artículos para hacer joyería de fantasía —de ahí su nombre—, como arillos o cuentas de vidrio.
+
+Litchi contó que durante sus primeras décadas, la empresa necesitaba un permiso especial de importación para vender el tipo de productos de su giro. Por lo menos hasta los 80, Fantasías Miguel era de las pocas compañías que traían cuentas de vidrio de República Checa, aretes de plástico de Alemania o cuentas decorativas de EUA. Desde su tienda en el centro, la empresa distribuía por mayoreo o surtía a vendedores nacionales.
+
+Cuando el mercado se abrió, en los 90, la segunda generación de la familia se involucró en el negocio. “Mi hermano Daniel y yo le dijimos a mi papá, ‘ya abrieron las fronteras y nuestros clientes, que eran otras tiendas, se van a volver nuestros competidores’,” recordó Litchi, por lo que decidieron expandirse por el país pero ahora enfocándose en el sector minorista.
+
+Actualmente, Fantasías Miguel tiene 46 tiendas que, en conjunto, reciben cerca de 4 millones de visitantes al año. El ticket promedio roza los $600 pesos. En su fábrica en el Estado de México, la empresa produce artículos de MDF (como cajitas o figuras), diamantinas o lentejuelas. Según Litchi, dejaron los productos de fantasía porque sus clientes comenzaron a comprar en China, con quien se volvió muy difícil competir.
+
+Aunque el mismo tipo de productos ahora también se encuentra en sitios chinos, como AliExpress o Temu, Fantasías Miguel sigue apalancándose del *foot traffic* de sus tiendas para llegarle al público mexicano. “Mucha gente que nos visita no sabe ni qué quiere comprar,” explica Litchi, por lo que es prioridad mantener a las tiendas interesantes para que el cliente las explore. Por eso ofrecen clases gratuitas de manualidades en sus sucursales.
+
+De acuerdo con el co-CEO, el hecho de que cada año cambien 20% de sus casi 30,000 SKUs también ayuda porque así se mantienen vigentes con la temporalidad de las manualidades. Un ejemplo fue la serie de conciertos de Taylor Swift en 2023, cuando las *swifties* abarrotaron las sucursales de Fantasías Miguel para comprar el material necesario para hacer los *friendship bracelets.* “Esa vez fácil subieron las ventas un 200%,” contó Litchi (***Redacción Whitepaper***).
+
+---
+
+#### Software para PyMes
+
+**Pulpos** es una startup creada por emprendedores argentinos que se mudaron a México para lanzar su iniciativa: un sistema de gestión para negocios pequeños y medianos, y dentro del cual sus clientes encuentran herramientas de venta, inventario, facturación, compras y de finanzas.
+
+**[Diego Serebrisky](https://www.linkedin.com/in/diegoserebrisky/)**, de **Dalus Capital,** contó en entrevista que su firma está liderando una ronda de inversión de **$5 millones de dólares** en Pulpos; aseguró que la startup más que duplicó el número de clientes en los últimos dos años y que cuenta con más de 6,000 comercios pagando una mensualidad por el acceso a la plataforma (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: sus fundadores —**[Franco Silvetti](https://www.linkedin.com/in/franco-silvetti1/)**, **[Lucas Cortes](https://www.linkedin.com/in/lucascortes/?locale=en)** y **[Frank Martin](https://www.linkedin.com/in/frankmartinb/)**— hicieron antes **Restorando**, una startup que fue [adquirida](https://latamlist.com/tripadvisor-subsidiary-acquires-latin-american-reservations-platform-restorando/) por **TripAdvisor** en 2019.*
+
+---
+
+#### *Breves*
+
+* En EUA, el número de **sastres** se desplomó a lo largo de las últimas tres décadas. Esto está perjudicando a cadenas como **Nordstrom**, que emplea a miles de personas para ajustarle la ropa a sus clientes — “*there is **an acute need for tailoring** even in the current age of **casual dressing**. Pants and cuffs still need to be hemmed to say nothing of bridal, prom and other special-occasion clothes*” ([WSJ](https://www.wsj.com/style/fashion/suddenly-everyone-wants-a-tailor-theyre-in-short-supply-5f40110c?st=NjdrPz)).
+* **Amazon** está lanzando un programa basado en **medicamentos GLP-1**. En EUA, los precios para algunos de sus clientes comienzan en $25 dólares al mes ([CNBC](https://www.cnbc.com/2026/04/21/amazon-glp-1-weight-loss-program.html)).
+* **Sullivan & Cromwell** tuvo que disculparse formalmente con un **juez federal** después de que la firma de abogados presentó un documento durante un proceso de bancarrota que, al haber sido elaborado por medio de una plataforma de AI, incluía **citas inventadas** y otras **alucinaciones** ([Business Insider](https://www.businessinsider.com/sullivan-and-cromwell-apologizes-ai-hallucinations-court-filing-2026-4?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=b2e3d76bd173a5db789891866ebdbfe286984499)).
+
+---
+
+#### También allá los quieren
+
+En EUA, algunos **influencers** han estado haciendo ***reviews*** de vehículos de **China** en **TikTok**; esto está generando cada vez más interés en las marcas chinas entre los consumidores americanos ([Bloomberg](https://www.bloomberg.com/news/articles/2026-04-21/byd-xiaomi-and-zeekr-car-reviews-flood-tiktok-youtube-in-the-us)).
+
+> ***Comentario Whitepaper**: hablamos de esto en **Whitepaper** desde **el año pasado** —es evidente que **hay una estrategia desde China** para presentar en EUA las ventajas en **features** y **precio** que tienen sus vehículos (y de acuerdo a encuestas citadas en el artículo de [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-21/byd-xiaomi-and-zeekr-car-reviews-flood-tiktok-youtube-in-the-us), está funcionando). Vale la pena destacar, por otro lado, que **el valor** de las exportaciones automotrices desde China está explotando —de haber exportado el equivalente de menos de $5,000 millones de dólares de autos en 2020, según estimaciones **esa cifra asciende ya a más de $76,000 millones**.*
+
+---
+
+#### Spotlight en: Strathberry
+
+[![](https://substackcdn.com/image/fetch/$s_!mzhC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd27e6f93-357e-47f8-8296-1fa695ae2c36_1275x717.jpeg)](https://substackcdn.com/image/fetch/$s_!mzhC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd27e6f93-357e-47f8-8296-1fa695ae2c36_1275x717.jpeg)
+
+En un contexto en el que las principales marcas de moda se enfrentan a una desaceleración en la demanda, Strathberry avanza en sentido contrario. Fundada en 2013, la marca escocesa que se especializa en bolsas fabrica sus productos en España —supuestamente en los mismos talleres que marcas como Chloé y Chanel— pero sale al mercado con un precio promedio mucho más bajo. Figuras como Kate Middleton y Meghan Markle, al igual que celebridades de Hollywood como JLo y Katie Holmes, han sido fotografiadas usando las bolsas de Strathberry.
+
+Sus ingresos han venido creciendo a doble dígito cada año, y para 2025 habrían estado cerca de los $50 millones de dólares. Tienen cuatro tiendas propias en UK, su canal online, y sus bolsas están también disponibles en tiendas como Nordstrom, Neiman Marcus, y Saks; proyectan ingresos de más de $67 millones para 2026. La fundadora [resume](https://www.marieclaire.com/celebrity/royals/princess-kate-meghan-markle-strathberry-bags-sale/) su ambición: “*We talk about becoming a sort of Scottish Burberry one day!*” (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### Evita pérdidas en comprobación de viáticos con automatización
+
+Toma el control de los gastos de viaje y comienza a implementar importantes ahorros en tu empresa. Box Factura te permite mejorar los procesos de comprobación de gastos de viaje, bloqueando automáticamente facturas duplicadas o generadas incorrectamente con el objetivo de maximizar su acreditación. Siendo una solución diseñada en México, es muy fácil de usarla para administradores y viaticantes. Ve [este video](https://www.youtube.com/watch?v=XsOMIbBzGFM&list=PLr515uUouVUy4-XJFYceh4sxIv_7RLSvE) y comprueba su simplicidad.
+
+Ya sea que tengas una empresa con cientos de viaticantes, o una con una decena, la aplicación se adapta a tus necesidades.
+
+Contacta a Rafael Soto, CEO de Box Factura a [rsoto@boxfactura.com](mailto:rsoto@boxfactura.com) o escríbele por WhatsApp al [55 6565 9252](https://wa.me/525565659252) y obtén una demo gratuita de 30 días sin compromiso.
+
+[![](https://substackcdn.com/image/fetch/$s_!45bx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd961a78-220c-4cfd-b677-8cff6d076e7c_4184x3855.png)](https://www.boxfactura.com/info/viaticos?pctc=2026&utm_source=whitepaper&utm_medium=newsletter&utm_campaign=wp202604)
+
+[Control de gastos de viaje](https://www.boxfactura.com/info/viaticos?pctc=2026&utm_source=whitepaper&utm_medium=newsletter&utm_campaign=wp202604)

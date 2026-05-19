@@ -1,0 +1,110 @@
+# Whitepaper, Hoy
+
+> Acciones en México; 'TACO trade'; viene Firehouse; la evolución de Fibra MTY; la ronda de Medsi; $100,000 millones de BBVA; motores V8; planes de Nissan; spotlight en Seres/Aito
+
+**Fecha:** 2025-05-28  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-4ac  
+**Word count:** 1025
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!cuNw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3acdfca5-4f73-4128-9fe2-b04435520b9d_1080x275.webp)](https://www.salesforce.com/)
+
+---
+
+#### Mejorando
+
+La bolsa mexicana alcanzó ayer un **máximo histórico** de 59,735.43 puntos ([Bloomberg](https://www.bloomberg.com/news/articles/2025-05-27/mexico-stocks-hit-record-as-tariff-respite-boosts-risky-assets)).
+
+> ***Comentario Whitepaper**: en lo que va del año, el IPC acumula una ganancia de 18.26%. Sobresalen casos como el de **Megacable** (+42.8), **Gentera** (+56%) y **Peñoles** (+45.76).*
+
+---
+
+#### *TACO*
+
+…y hablando de acciones: en círculos inversionistas está **popularizándose** el término ‘***TACO trade***’ para describir el comportamiento de los mercados ante las declaraciones de Trump (cuando las acciones se desploman el día que amenaza un arancel, y repuntan el día que extiende el plazo de negociación). Las iniciales significan ‘***Trump Always Chickens Out***’ ([NY Times](https://www.nytimes.com/2025/05/27/business/stock-market-trump-tariffs.html)).
+
+---
+
+#### Otra
+
+**Firehouse Subs**, una marca de **Restaurant Brands International**, [anunció](https://www.prnewswire.com/news-releases/firehouse-subs-accelerates-expansion-in-mexico-with-plans-to-open-100-restaurants-302466260.html) planes para abrir **100 restaurantes** en México durante los próximos 5 años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el plan para México lo trae **Foodplay**, una iniciativa del family office de los **González Albuerne**, la familia que controla Grupo Multimedios y Milenio**,** así como Altea (su división inmobiliaria) y a los **Sultanes de Monterrey.** Entre sus diversos negocios tienen también unas 30 sucursales de Kentucky Fried Chicken y son quienes están impulsando el [crecimiento de](https://www.whitepaper.mx/p/tim-hortons-ganandose-su-propio-espacio?utm_source=publication-search) **[Tim Hortons](https://www.whitepaper.mx/p/tim-hortons-ganandose-su-propio-espacio?utm_source=publication-search)** [en nuestro país](https://www.whitepaper.mx/p/tim-hortons-ganandose-su-propio-espacio?utm_source=publication-search).*
+
+---
+
+#### En evolución
+
+**Fibra Mty** pasó de poco más de 660,000 metros cuadrados de área bruta rentable en el [primer trimestre de 2019](https://cdn.investorcloud.net/fibramty/InformacionFinanciera/ReportesTrimestrales/Reportes/2019-1T-XBRL.pdf), a cerca de 1.89 millones de metros cuadrados en 2025. En el proceso, rediseñaron su portafolio para cargarse completamente hacia las propiedades industriales.
+
+[![](https://substackcdn.com/image/fetch/$s_!MUZX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe37b38e-7c63-4158-8322-3c01cc93c6d6_2250x3373.jpeg)](https://substackcdn.com/image/fetch/$s_!MUZX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe37b38e-7c63-4158-8322-3c01cc93c6d6_2250x3373.jpeg)
+
+Reportan 40 trimestres seguidos de crecimiento: en el primer trimestre de 2025 alcanzaron un NOI de $779 millones de pesos —**41% más** que el mismo periodo del año anterior **(*****Redacción Whitepaper*****).**
+
+> ***Comentario Whitepaper:** este es otro caso en donde llama la atención **el nivel de detalle** que incluyen en sus reportes, así como el hecho de ser una organización que está prácticamente **en manos del mercado** (no hay realmente un accionista de control). Su CEO es **[Jorge Avalos Carpinteyro](https://www.linkedin.com/in/jorge-%C3%A1valos-22978126/).***
+
+---
+
+#### Dispositivos médicos
+
+**Sanfer Farma** está invirtiendo **$3 millones de dólares** en **Medsi**, una empresa mexicana que desarrolló una plataforma que permite utilizar distintos tipos de dispositivos como herramienta de diagnóstico y monitoreo médico de signos vitales (incluyendo ritmo cardíaco, presión arterial y niveles de hemoglobina). La empresa asegura que cuenta ya con aprobación de COFEPRIS y que están trabajando con laboratorios de diagnóstico, entidades de gobierno y corporativos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** Sanfer es una farmacéutica mexicana fundada en 1941. Tiene inversión de General Atlantic desde 2014, y en 2019 recibió $500 millones de dólares por parte de CDPQ para expandirse en México y Latinoamérica; cuentan con 21 plantas de producción y casi 10,000 empleados.*
+
+---
+
+#### $100,000 millones
+
+Durante la reunión nacional de consejeros regionales, el **presidente de BBVA** anunció que entre 2025 y 2030 [invertirán](https://www.bbva.com/es/mx/economia-y-finanzas/bbva-invertira-mas-de-100-000-millones-de-pesos-en-mexico-en-el-periodo-2025-2030/) $100,000 millones de pesos en México ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: de los más de €10,000 millones de euros de utilidad que generó BBVA el año pasado, **México contribuyó con €5,450 millones**. En este caso, su presidente habla de invertir aquí alrededor de €760 millones de euros anuales, aunque no es muy claro en qué tipo de proyectos. Seguramente una parte de esto irá a desarrollo de **herramientas tecnológicas**, ¿pero qué más? ¿Más sucursales y cajeros? ¿Oficinas corporativas?*
+
+---
+
+#### Teléfonos y compras online
+
+De acuerdo con una reciente investigación, **16 días de cada mes**, consumidores en **México** hacen ***window shopping*** desde sus teléfonos. Por otro lado, los clientes continúan enfrentando un **alto nivel de fricción** al momento de tener pagar compras online.
+
+“*Many shoppers in Mexico frequently **run into problems during the payment process**, especially online. Around 3 in 10 Mexican shoppers experienced at least one type of payment-related friction during their most recent online purchase*” ([PYMTS](https://www.pymnts.com/news/mobile-commerce/2025/mobile-phone-shoppers-are-mexican-merchants-best-friend/)).
+
+---
+
+#### Armadoras
+
+* **GM** estaría suspendiendo una inversión de $300 millones de dólares para producir **motores eléctricos** en una planta que tiene en Buffalo, y en su lugar destinarán **casi $900 millones de dólares** para producir ahí mismo una nueva generación de **motores V8** ([WSJ](https://www.wsj.com/business/autos/general-motors-to-invest-888-million-in-propulsion-plant-23ea7636?mod=lead_feature_below_a_pos1)).
+* **Nissan** está trabajando en un plan para obtener **$7,000 millones de dólares** por medio de una combinación de **ventas de activos** (incluyendo quizás plantas en México) y **deuda** ([MarketScreener](https://www.marketscreener.com/quote/stock/NISSAN-MOTOR-CO-LTD-6492477/news/Nissan-plans-7-billion-funding-including-loan-backed-by-UK-government-Bloomberg-News-says-50082308/)).
+* **Toyota** se convirtió en el **principal accionista** de **Joby**, una de las empresas que está desarrollando “**taxis voladores**”. Basada en California, Joby asegura que comenzará a ofrecer sus servicios en Dubai a partir del próximo año ([MSN](https://www.msn.com/en-my/news/other/toyota-becomes-top-shareholder-in-air-taxi-maker-joby/ar-AA1FBMdO)).
+* **Stellantis** [nombró como CEO](https://www.reuters.com/business/autos-transportation/stellantis-names-antonio-filosa-its-new-ceo-source-says-2025-05-28/) a **Antonio Filosa**, quien hasta ahora era responsable de su negocio en EUA. Por otro lado, la armadora estaría [terminando el deal](https://www.reuters.com/business/autos-transportation/amazons-in-car-software-deal-with-stellantis-fizzles-2025-05-28/) que tenía con **Amazon**, anunciado desde 2022, para desarrollar el software que hubiera sido utilizado dentro de sus vehículos (***Redacción Whitepaper***).
+
+---
+
+#### Spotlight en: Seres y Aito
+
+[![](https://substackcdn.com/image/fetch/$s_!Ch-N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa557df43-e20a-4bb1-86a0-6455b17c6117_1281x650.jpeg)](https://substackcdn.com/image/fetch/$s_!Ch-N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa557df43-e20a-4bb1-86a0-6455b17c6117_1281x650.jpeg)
+
+En 2021, una pequeña armadora de autos de China, **Seres**, hizo un joint venture con **Huawei** para juntas crear una marca de SUVs híbridas y eléctricas dirigidas al segmento premium.
+
+Bautizada como **Aito**, la marca ha sido todo un éxito: las [ventas se triplicaron](https://www.bloomberg.com/news/articles/2025-05-19/china-s-luxury-car-brand-that-s-come-from-behind-to-overtake-bmw) en 3 años, a unas 427,000 unidades en 2024, y estarían ya en el primer lugar en la categoría de vehículos de más de $70,000 dólares —por encima de lo que venden en ese país empresas como BMW, Mercedes, Land Rover y Porsche.
+
+Esta experiencia está impulsando a **Huawei** a buscar deals similares con otras armadoras en ese país ***(Redacción Whitepaper).***
+
+---
+
+##### Presentado por:
+
+#### La Solución Ideal para Empresas en Crecimiento
+
+En el competitivo mundo de los negocios, contar con las herramientas adecuadas es esencial. **Salesforce** se posiciona como la mejor opción de CRM para empresas de todos los tamaños.
+
+¿Por qué? Porque ofrece una plataforma escalable, fácil de usar y personalizable que se adapta a tus necesidades específicas y con Inteligencia Artificial. No solo eso, sino que también proporcionamos soporte y recursos para garantizar que saques el máximo provecho de tu CRM.
+
+Con la capacidad de **Agentforce,** sus agentes de IA están listos para ayudarte a alcanzar tus objetivos. Con casos de éxito y testimonios de empresas similares a la tuya, **Salesforce** puede ayudarte a crecer.
+
+[Workshop: Construyendo Agentes Autónomos](https://www.salesforce.com/mx/form/events/webinars/form-rss/4814978)

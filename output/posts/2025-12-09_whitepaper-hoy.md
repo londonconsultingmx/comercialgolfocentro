@@ -1,0 +1,160 @@
+# Whitepaper, Hoy
+
+> Alsea y Raising Cane’s; inversiones de Banamex; Clarimex; lo que tienen en la caja; Oxxo Gas; Alfa/Sigma; movimientos clave; Casaideas; oficinas en San Diego; Mercadona; David Zaslav
+
+**Fecha:** 2025-12-09  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-5f4  
+**Word count:** 1403
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!mbnT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb71a65d9-83d5-473c-92d8-07c60a940f98_1281x293.jpeg)](https://landing.kuspit.com/tesoreria2026?utm_source=whitepaper&utm_medium=paid+media&utm_campaign=whitepaper+2025&utm_content=wp+hoy+tesoreria+landing+2026)
+
+---
+
+#### Pollos
+
+**Alsea**, que el próximo año estrenará las primeras sucursales de **Chipotle** en México, habría ahora [acordado](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1514496_1.pdf) **traer a Raising Cane’s** a nuestro país, también en 2026 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa de los **Torrado** está reconfigurando su portafolio de marcas y mercados, [desinvirtiendo](https://www.whitepaper.mx/i/178012049/simplificando-su-negocio) en Burger King y TGI Friday’s, por ejemplo, mientras que buscarán desarrollar en nuestro país marcas que **están muy de moda en EUA**. El caso de **Raising Cane’s** es especialmente interesante ([esta entrevista](https://podcasts.apple.com/us/podcast/raising-canes-todd-graves/id1150510297?i=1000557743745) a su fundador es espectacular). Cada una de sus sucursales vende en promedio $6.6 millones de dólares al año, y en el ranking de [QSR de los top 50 restaurantes](https://www.qsrmagazine.com/story/top-50-fast-food-chains-ranked-2025/) de comida rápida, solo **Chick-fil-A** los supera en esta categoría (con $7.5 millones de dólares).*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿Alguna otra? ¿Small Cheval? ¿RH?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-5f4/comments)
+
+---
+
+#### Para volver a crecer
+
+**Banamex** ha invertido en 2025 alrededor de **$450 millones de dólares** en proyectos de desarrollo de **tecnología**. Además, buscarán nuevamente incursionar en el segmento de **banca corporativa** y contar con su propia casa de bolsa.
+
+“***Banamex** has been operating independently for the past year and is **beginning to claw back market share** it lost during a quarter-century of Citigroup ownership*” ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-08/banamex-aims-to-expand-corporate-banking-seek-brokerage-license)).
+
+---
+
+#### Carbón activado
+
+**Yuanli Activated Carbon**, una empresa de China, [invertirá](https://www.yicaiglobal.com/news/chinas-yuanli-activated-carbon-to-buy-49-of-mexicos-clarimex-in-usd256-million-deal-to-boost-americas-expansion) cerca de $26 millones de dólares para adquirir el 49% de participación que **Norit Américas** tenía en **Clarimex**, empresa mexicana productora de carbón activado —material utilizado en industrias como la minera, alimentaria y agrícola (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: entre enero y agosto, **Clarimex** [registró](https://www.yicaiglobal.com/news/chinas-yuanli-activated-carbon-to-buy-49-of-mexicos-clarimex-in-usd256-million-deal-to-boost-americas-expansion) ingresos operativos por $40 millones de dólares y una utilidad de $3 millones.*
+
+---
+
+#### En la caja
+
+Las emisoras no financieras en México sumaron más de $93,000 millones de dólares en efectivo y equivalentes al cierre de septiembre. Como referencia, esta cifra es comparable al market cap de empresas como **Dell**, **Nike** o **BP.** Entre las cinco principales —Pemex, CFE, **Grupo México**, **Femsa** y **Peñoles**— concentran **más de la mitad de ese monto** ([Margin](https://www.margin.mx/p/monday-on-the-margin-477)).
+
+[![](https://substackcdn.com/image/fetch/$s_!z3kc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fdf8034-d479-4145-ac57-f4f489c4e792_1750x1517.jpeg)](https://substackcdn.com/image/fetch/$s_!z3kc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fdf8034-d479-4145-ac57-f4f489c4e792_1750x1517.jpeg)
+
+---
+
+#### En carreteras
+
+**Oxxo Gas** inauguró en Chihuahua su primer **parador** para **operadores** de **transporte pesado**. El espacio incluye áreas de descanso, regaderas, seguridad, estaciones de **Mecánica Tek** —su red de talleres automotrices— y restaurantes del portafolio de **Femsa** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: dentro de **Femsa**, **Oxxo Gas** [aporta](https://femsa.gcs-web.com/system/files-encrypted/nasdaq_kms/assets/2025/10/28/2-40-42/Esp%20PR%203Q25%20vf.pdf) algo así como 8% de los ingresos totales de la empresa (aunque tiene márgenes muy ajustados). Algo que sí sabemos es que **a directivos de Femsa** les gusta mucho el modelo de **Buc-ee’s**…*
+
+---
+
+#### Para la historia…
+
+Como se anunció desde hace algunas semanas, **Alfa** está siendo renombrada como **Sigma Foods**. Hoy, en asamblea extraordinaria, se **aprobó el cambio** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: hace cinco años publicamos [La Desaparición de Alfa](https://www.whitepaper.mx/p/la-desaparicin-de-grupo-alfa?utm_source=publication-search), uno de los primeros artículos de **Whitepaper** (y de los pocos que tienen [color en la ilustración principal](https://www.whitepaper.mx/p/la-desaparicin-de-grupo-alfa?utm_source=publication-search)). El legendario grupo empresarial regio como tal ya dejó de existir, y en su lugar quedaron Alpek, Axtel, Nemak y Sigma Foods.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-5f4?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4MDUyMjkzOSwiaWF0IjoxNzc5MjE1NzkwLCJleHAiOjE3ODE4MDc3OTAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.nIMdS6eNz9R8z-SPli2wZhGDKgyRoGAadKsyMpgNePA)
+
+---
+
+#### Movimientos clave
+
+* **[Luis Brossier](https://www.linkedin.com/in/luis-brossier/)** será el nuevo CEO de **Citi México** a partir de marzo del próximo año. Sustituye a **[Álvaro Jaramillo](https://www.linkedin.com/in/alvaro-jaramillo-24701347/)** (***Redacción Whitepaper***).
+* **Redwood Capital Partners** nombró a **[Sofia Padilla](https://www.linkedin.com/in/sofia-padilla-0b42a6196/)**, quien lleva más de tres años en el fondo, como managing partner (***Redacción Whitepaper***).
+* Tras un año como CEO de **PepsiCo Foods** en Brasil y el Cono Sur, **[Alex Carreteiro](https://www.linkedin.com/in/alexcarreteiro/)** [pasará](https://www.theheinekencompany.com/newsroom/heineken-appoints-new-regional-president-americas/) a **Heineken**, donde será presidente regional de las Américas (***Redacción Whitepaper***).
+* **Colgate-Palmolive** [nombró](https://www.axisnegocios.com/breves.phtml?id=144209) a **[Riccardo Ricci](https://www.linkedin.com/in/riccardo-ricci-b88690a/)** como nuevo vicepresidente ejecutivo y gerente general en México. Lleva 17 años en la empresa, con posiciones directivas en Brasil, Europa y Asia (***Redacción Whitepaper***).
+* A partir del próximo año, **[René Martínez Martínez](https://www.linkedin.com/in/ren%C3%A9-mart%C3%ADnez-mart%C3%ADnez-44619463/)**, director general de **Javer**, [pasará](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1513274_1.pdf) a ser CEO de **Vinte**, en lugar de **[René Jaime Mungarro](https://www.linkedin.com/in/ren%C3%A9-jaime-mungarro-07b26a230/)**, quien seguirá en el comité ejecutivo. Ambos permanecen en el Consejo de Vinte (***Redacción Whitepaper***).
+
+---
+
+#### Para el hogar
+
+**Casaideas**, un retailer **chileno** de productos para el hogar que opera en México a través de un *joint venture* 50-50 con **Grupo Gigante**, abrirá dos tiendas más en lo que queda del año; llegarán así a **11 sucursales**. Sus ventas mismas tiendas han crecido 7% a lo largo de 2025 y el ticket promedio supera los $500 pesos. Llegaron a México hace dos años y medio (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: su country manager, **[Gabriela Márquez](https://www.linkedin.com/in/gabriela-marquez-3b497046/)**, dijo en entrevista que, en cuanto a ventas, México disputa con Colombia el tercer lugar más relevante para la empresa, después de Chile y Perú.*
+
+[![](https://substackcdn.com/image/fetch/$s_!zsMg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3468cac0-e7f5-46f8-bc4a-bd611c9a65db_1281x179.webp)](https://tinyurl.com/2fn3zf24)
+
+*¿Tu equipo de Data & Tecnología está listo para 2026?*
+
+Si lideras un equipo de **Data, Tecnología,** ***Analytics,*** **IT o Producto** y quieres escalar su impacto en el negocio, este *workshop online* es para ti.
+
+Junto a **Romina Guevara** *(+15 años de experiencia liderando transformación digital y plataformas B2C y B2B en América Latina)* entenderás el nuevo rol estratégico del líder de **Data & Tech**, cómo priorizar proyectos de *IA* con *ROI* medible, casos reales de impacto en compañías de la región y las habilidades críticas que todo *manager* necesitará en 2026
+
+El encuentro es gratuito y con cupos limitados!
+
+[Inscríbete ahora y asegura tu lugar](https://tinyurl.com/2fn3zf24)
+
+[![](https://substackcdn.com/image/fetch/$s_!1kM5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!1kM5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)
+
+#### *Breves*
+
+* IATA estima que 2026 será un año de **utilidades récord** —más de $40,000 millones de dólares en total—para las **aerolíneas** ([Reuters](https://www.reuters.com/business/aerospace-defense/global-airlines-set-record-41-billion-net-profit-next-year-iata-says-2025-12-09/)).
+* **Uber** comenzará a instalar en **aeropuertos** de EUA **quioscos** para que cualquiera pueda solicitar su servicio de *rides* sin tener que utilizar el app en su teléfono. Es una medida para beneficio de quienes aterrizan en ese país y no cuentan todavía con servicio de datos ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-09/uber-s-new-airport-kiosks-will-let-travelers-order-rides-without-the-app?srnd=homepage-americas)).
+* En **España**, **Mercadona** reportó que cerca de **4.5% de sus ventas** —algo así como €1,800 millones de euros— fueron pagadas utilizando **tarjetas extranjeras**. Los **turistas** que visitan ese país están volviéndose cada vez más relevantes para la cadena de **supermercados** ([Expansión.es](https://www.expansion.com/empresas/distribucion/2025/12/09/6934566a468aeb331e8b4580.html)).
+* “*(…) his vote of no-confidence tells other downtown property investors that Bren expects the near-record-high office vacancies and other **problems could endure for years***” —Donald Bren, quien fuera el principal propietario de **edificios de oficinas** en el centro de **San Diego**, ha venido **rematando** sus propiedades porque no ve un futuro de crecimiento en la zona ([WSJ](https://www.wsj.com/real-estate/commercial/a-real-estate-tycoons-san-diego-exit-is-turning-the-city-upside-down-84d0d678?mod=hp_lead_pos7)).
+
+---
+
+#### Whitepaper 10: Tendencias de RH
+
+En el *deep dive* de esta semana hablamos sobre lo que está pasando en México desde la perspectiva de recursos humanos en las empresas, con enfoque en niveles ejecutivos.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/119-tendencias-de-rh/id1584711514?i=1000740315709), [Spotify](https://open.spotify.com/episode/3dtGd6WJWnBOJqNNWNgifp?si=VdkW3D5QSCKyBvFFqKJa3g), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Por lograr el *deal*
+
+Detrás del **drama** por quién se quedará finalmente con **Warner Bros Discovery**, el gran ganador parece que terminará siendo su CEO, **David Zaslav**: su plan de compensación contempla acciones cuyo valor podría terminar estando por encima de $660 millones de dólares ([CNBC](https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html)).
+
+> ***Comentario Whitepaper**: todo es cuestión de **timing**. Hace poco más de un año, el precio de las acciones de WBD estaba por debajo de $8 dólares; ahora **Netflix** y **Paramount** están peleándose la empresa (que **es** **básicamente la misma que hace un año**) y con ello, están también dispuestos a pagar más de $27 dólares por acción. Parece ser un caso más bien **defensivo**, en donde lo que más les importa es **que la otra empresa no se quede** con esos activos.*
+
+---
+
+##### Presentado por:
+
+#### Cierra este 2025 con decisiones financieras inteligentes y deja listo el terreno para un 2026 sin estrés de tesorería.
+
+**¿Tu cuenta empresarial actual te está dando rendimientos, o solo te cobra comisiones?**
+
+Antes de empezar el nuevo año, asegúrate de no cometer los mismos errores y elige una solución que impulse la rentabilidad de tu tesorería.
+
+Convierte tus recursos detenidos en una estrategia financiera que trabaja por tu empresa, con liquidez diaria, disponibilidad inmediata y rendimientos automáticos con la **[Cuenta Empresarial para Tesorerías Kuspit](https://landing.kuspit.com/tesoreria2026?utm_source=whitepaper&utm_medium=paid+media&utm_campaign=whitepaper+2025&utm_content=wp+hoy+tesoreria+landing+2026)**.
+
+Tres razones para cambiarte a Kuspit:
+
+1. [Rendimientos superiores al 7% anual](https://landing.kuspit.com/tesoreria2026?utm_source=whitepaper&utm_medium=paid+media&utm_campaign=whitepaper+2025&utm_content=wp+hoy+tesoreria+landing+2026)\*. Sin sacrificar liquidez. Por encima de los rendimientos de la banca tradicional.
+2. Acceso a los mejores fondos de inversión de operadoras líderes en México, todo desde una sola plataforma segura y regulada.
+3. Implementación ágil en solo 7 días, simplificando la operación de Tesorería, Finanzas y Contabilidad sin fricciones.
+
+Inicia el 2026 tomando decisiones inteligentes para tu tesorería.
+
+\**Rendimientos estimados conforme a tasa de Cetes 28 días, septiembre 2025.*
+
+[![](https://substackcdn.com/image/fetch/$s_!hlVj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2a4773-6266-43bc-8216-997b314e469d_1500x857.jpeg)](https://landing.kuspit.com/tesoreria2026?utm_source=whitepaper&utm_medium=paid+media&utm_campaign=whitepaper+2025&utm_content=wp+hoy+tesoreria+landing+2026)
+
+[Agenda una consulta](https://calendly.com/kuspit-comercial/cuenta-tesoreria-agenda-tu-consulta?utm_source=whitepaper&utm_medium=mail&utm_campaign=whitepaper%202025&utm_content=wp%20hoy%20tesoreria%20landing%202026)

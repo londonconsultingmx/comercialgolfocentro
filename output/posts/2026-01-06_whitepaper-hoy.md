@@ -1,0 +1,136 @@
+# Whitepaper, Hoy
+
+> Angoitia, Gómez y Azcárraga; Pop Mart en México; exportaciones de Chihuahua; la ronda de Xepelin; movimientos clave; soya; lo que ganaron los banqueros; Life360; aranceles; visas para influencers
+
+**Fecha:** 2026-01-06  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-7e2  
+**Word count:** 1387
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!f4-l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe872f029-7075-4a20-94ad-1884eb0c6bda_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+---
+
+#### …y siguen los cambios en Televisa
+
+**Bernardo Gómez** y **Alonso de Angoitia** están **comprándole a Emilio Azcárraga** una parte minoritaria de las acciones de la empresa, consistente en 26,332,332,804 **acciones Serie “A”** ([BMV](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1521200_1.zip#/visorXbrl)).
+
+> ***Comentario Whitepaper**: los Co-CEOs de la empresa [le están pagando](https://otp.tools.investis.com/clients/us/grupo_televisa/SEC/sec-show.aspx?FilingId=19041480&Cik=0000912892&Type=PDF&hasPdf=1) **alrededor de $1,000 millones de pesos, cada uno**, para quedarse —también cada uno— con el 12% de las acciones de la Serie A. En todo caso, [acordaron mantener](https://otp.tools.investis.com/clients/us/grupo_televisa/SEC/sec-show.aspx?FilingId=19041480&Cik=0000912892&Type=PDF&hasPdf=1) los **derechos de nombramiento de consejeros** de estas acciones dentro del **Fideicomiso Azcárraga** (el cual es controlado por Emilio Azcárraga).*
+>
+> *La semana pasada se dio a conocer que **Azcárraga** estaba aumentando su participación personal en **Ollamani**, mientras que en octubre, **Eduardo Tricio** compró el 7.2% del capital social de **Televisa** (y Fintech Holdings, de **David Martínez**, tiene también una parte muy significativa de esta empresa).*
+
+---
+
+#### Labubus
+
+**Pop Mart** está ahora **fabricando sus juguetes** en un nuevo “hub de manufactura” que habría **instalado en México** ([MarketScreener](https://www.marketscreener.com/news/pop-mart-begins-toy-production-in-mexico-ce7e59ded18bf225)).
+
+> ***Comentario Whitepaper**: la empresa suele trabajar por medio de acuerdos con fabricantes locales. Ha sido tal la demanda por sus juguetes y coleccionables, que **la empresa de China** [multiplicó por 10](https://www.marketscreener.com/news/china-s-pop-mart-expands-supply-chain-amid-global-push-ce7e59dfd988f222) su capacidad de producción entre 2024 y 2025 (están también sumando fábricas en Cambodia e Indonesia).*
+
+---
+
+#### El mayor exportador
+
+En el tercer trimestre del año pasado, **Chihuahua** incrementó el valor de sus [exportaciones](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/exporta_ef/etef2025_12.pdf) **más de 40%,** para llegar a casi $29,000 millones de dólares. Con esto se consolidó como el principal exportador del país en el periodo, por encima de Coahuila y Nuevo León (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!_F92!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3629e52-e29e-4703-91bf-57255fdcc2c3_2320x1887.jpeg)](https://substackcdn.com/image/fetch/$s_!_F92!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3629e52-e29e-4703-91bf-57255fdcc2c3_2320x1887.jpeg)
+
+> ***Comentario Whitepaper**: parte del crecimiento en Chihuahua se explica por el repunte en la categoría de **equipo de computación**, comunicación, medición y otros componentes electrónicos, que **creció más de 66%**.*
+
+---
+
+#### Crédito para empresas
+
+**Nazca** estaría liderando una **ronda de inversión de $20 millones de dólares** en **Xepelin**, la fintech chilena que se especializa en soluciones financieras para PyMes y que está buscando **consolidarse en México.** Su facturación anual estaría cerca de $100 millones de dólares, tienen cerca de 500 empleados y están en proceso de reorganizarse como SOFIPO ([Diario Financiero](https://www.df.cl/df-mas/por-dentro/xepelin-levanta-us-20-millones-en-ronda-liderada-por-nazca-ventures-con)).
+
+> ***Comentario Whitepaper**: …y como ha venido sucediendo con otras startups, la nueva valuación —al parecer— es **inferior** a la que lograron en rondas anteriores. El artículo del diario chileno señala que la valuación estaría disminuyendo de $720 millones de dólares, a “un número **cercano a $400 millones**”. En su cap table están desde Kaszek y FJ Labs, hasta Cathay, DST Global y Endeavor Catalyst. A la cabeza de **Xepelin** está **[Sebastián Kreis](https://www.linkedin.com/in/sebastiankreis/)**, quien hace un par de años nos habló de[cómo México se convirtió en su principal mercado](https://www.whitepaper.mx/i/137522155/spotlight-en-xepelin).*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿Qué otra cosa?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-7e2/comments)
+
+---
+
+#### Movimientos clave
+
+* **Clara** nombró a **[Jorge de Lara](https://www.linkedin.com/in/jorgedelara/?originalSubdomain=mx)** como su nuevo presidente en México. Viene de dirigir la división de movilidad de **Edenred** en el país; antes estuvo más de 11 años en **American Express** y también tuvo experiencia en **Aeroméxico** (***Redacción Whitepaper***).
+* **[Jorge Girault](https://www.linkedin.com/in/jorge-girault-42b4b3262/?originalSubdomain=mx)**, quien era CFO de **Fibra Prologis**, será su nuevo CEO, en sustitución de **[Héctor Ibarzábal](https://www.linkedin.com/in/hector-ibarzabal-a2145432/?originalSubdomain=mx)**, quien se jubila tras más de 30 años en la empresa. El puesto de CFO lo asumirá **[Alexandra Violante](https://www.linkedin.com/in/aleviolante/?originalSubdomain=mx)**, quien encabezaba el área de relación con inversionistas (***Redacción Whitepaper***).
+* **[Alejandro Santoyo](https://www.linkedin.com/in/alejandro-santoyo-9a6a284/)** es [nuevo](https://www.whitecase.com/news/press-release/alejandro-santoyo-joins-white-case-partner-mexico-city) *partner* de la práctica fiscal de **White & Case**. Tiene experiencia como vicepresidente y director fiscal de **JP Morgan** para América Latina, y en firmas como Chevez Ruiz y Zamarripa, Creel, García-Cuéllar, Aiza y Enríquez, y Ritch Mueller (***Redacción Whitepaper***).
+* **[Romina Benvenuti](https://www.linkedin.com/in/romina-benvenuti-561a8529/?locale=es_ES)**, Chief Legal Officer de **Nu** en México, y **[Carlos González Fillad](https://www.linkedin.com/in/carlos-gonzalez-fillad-8aa3b142/)**, director de soluciones globales de pago en **HSBC**, fueron [nombrados](https://international.nubank.com.br/es/company/romina-benvenuti-es-nombrada-co-coordinadora-del-comite-de-banca-y-pagos-digitales-de-la-asociacion-de-bancos-de-mexico/) co-coordinadores del Comité de Banca y Pagos Digitales de la Asociación de Bancos de México hasta 2027 (***Redacción Whitepaper***).
+* **Citi México** [nombró](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1519636_1.zip#/visorXbrl) a **[Alberto Torres García](https://www.linkedin.com/in/alberto-torres-garc%C3%ADa-225798105/?originalSubdomain=mx)** como nuevo consejero, en sustitución de **[Juan Manuel Rincón Cortés](https://www.linkedin.com/in/juanmrincon/)** (***Redacción Whitepaper***).
+
+---
+
+#### Soya
+
+*“Mexico, typically the second-largest buyer of US soybeans, became **the top destination for US soybeans** and received 21% above average. Of the 1.7 million tonnes first-quarter soybean shipments to Mexico, 60% were shipped overland by rail, and 40% were shipped by ocean vessel.”*
+
+Con la caída en las compras de China por las tensiones arancelarias, **México se convirtió en el principal comprador de soya de EUA** entre septiembre y noviembre ([Baking Business](https://www.bakingbusiness.com/articles/65434-us-soybean-shipments-fall-in-first-quarter)).
+
+---
+
+#### Banqueros
+
+El precio de las acciones de los bancos más grandes de EUA aumentó 29% en 2025 —2x más que el mercado— y esto se está **reflejando en lo que ganaron los principales banqueros** de ese país. El CEO de **Capital One**, por ejemplo, ganó más de $300 millones de dólares en el año (una cifra que incluye la apreciación de acciones que tenía desde antes), mientras que los ejecutivos principales en **Citi** ganaron más de $100 millones cada uno.
+
+El gran ganador habría sido, sin embargo, **Jamie Dimon**: la suma de su salario, bonos, dividendos, plan de acciones y el aumento en el valor de su participación total en **JP Morgan** durante 2025asciende a unos **$770 millones de dólares**. “*For Mr. Dimon and his counterparts, this means **paydays closer to the scale of hedge fund managers or Silicon Valley start-up founders** than the caretakers of old-line lenders*” ([NY Times](https://www.nytimes.com/2026/01/05/business/banking-deregulation-jamie-dimon.html)).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-7e2?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4MzU2NTQ0OSwiaWF0IjoxNzc5MjE1NzcwLCJleHAiOjE3ODE4MDc3NzAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.vOhIdoc79MzETsgmCznfqvx_QRabKPscOe7vLFZMfk8)
+
+---
+
+#### *Breves*
+
+* **Life360** reportó un crecimiento de 34% en sus ingresos durante el tercer trimestre del año pasado: tienen **más de 90 millones de usuarios activos** y generaron $96 millones de dólares por concepto de **suscripciones** (además de otros $17 millones por venta de publicidad). Su acción aumentó 49% en 2025, alcanzando con ello un **market cap de $5,300 millones** ([MarketScreener](https://www.marketscreener.com/news/life360-family-first-profit-burst-ce7e59ded88df027)).
+* La administración del presidente **Trump** **pospuso por un año** el aumento de **aranceles** que tenía programado para sofás, gabinetes de cocina y muebles de baño ([Retail Dive](https://www.retaildive.com/news/furniture-cabinets-tariffs-delay-trump-administration/808704/)).
+* Toms Capital, un ***activist investor***, estaría tomando una “participación significativa” en **Target**. Es la misma firma de inversión que estuvo presionando para hacer cambios en Kenvue y en Kellanova ([Reuters](https://www.reuters.com/sustainability/sustainable-finance-reporting/pressure-grows-target-activist-investor-builds-stake-ft-reports-2025-12-26/)).
+* Las acciones de **Adidas** amanecen hoy con una caída de más de 6%, después de que Bank of America **recortó su precio target** y las colocó en la categoría de ***sell***. El banco estima que este año sus ventas no crecerán “más de un dígito” y que la marca sigue estando muy amenazada por Nike, On, Asics y Puma, entre otras ([MarketWatch](https://www.marketwatch.com/story/adidas-gets-hit-with-rare-double-downgrade-as-bofa-calls-the-end-of-the-casualization-trend-5eba7346?mod=hp_minor_pos25&_gl=1*1eqluuy*_ga*MTE0MzgwNTMzNi4xNzU3MzQ4MTgw)).
+
+---
+
+#### Whitepaper 10: La marca indeleble de Bissú
+
+En esta edición de nuestro podcast, **Susana Sáenz** y **Daniela Dib** detallan la historia de Bissú, la empresa mexicana de maquillaje que compite con las marcas que dominan la industria.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/la-marca-indeleble-de-bissú/id1584711514?i=1000743896343), [Spotify](https://open.spotify.com/episode/3laFDJmxvNLKc3nLh85x2r?si=e8YlAVpxRbOivKleiQp9kQ), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Visas
+
+“*The O-1A is for those in science, education, business or athletics. The **O-1B is for artists** and those in the motion picture or television industries. The idea was simple on paper. Let in people **whose work would substantially benefit American culture** and the economy. Initially, that meant **opera singers, filmmakers, theatre artists and musicians** with traditional credentials*”.
+
+En EUA, el número de visas O-1B otorgadas cada año **aumentó más de 50%** entre 2014 y 2024 (el resto de los tipos de visas creció menos de 10%). Esta categoría está siendo acaparada ahora por **creadores de contenido**, **influencers** e incluso **modelos de OnlyFans** ([Financial Times](https://www.ft.com/content/8816fcec-4148-4cda-be7f-fc59d5bcbf59?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=77a18afcc04054296b635351d948219993d1b081)).
+
+> ***Comentario Whitepaper**: el artículo explica que es más fácil para las autoridades valorar el número de followers —“The appeal is obvious. From a legal standpoint, **follower counts and earnings are far easier to quantify than artistic merit**”.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!r5aM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F942cad27-52b3-4ae9-944f-be2a38b86666_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+**London Consulting Group** es una empresa de consultoría enfocada en incrementar la rentabilidad de sus clientes.
+
+Con sólida presencia en México y presencia global en 26 países, se dedican a elevar la productividad y eficiencia operativa de organizaciones en diferentes giros.
+
+Su metodología se enfoca en la optimización de procesos y estrategias, con un alto enfoque en la gestión del cambio. Su implementación activa y efectiva de soluciones genera, en promedio, un retorno de inversión de 5 a 1.
+
+Visita su página web [www.londoncg.com](http://www.londoncg.com/) o contacta a Luis Ortiz -*CEO & Founder Mexico*- a [luis.ortiz@londoncg.com](mailto:luis.ortiz@londoncg.com) y comienza la transformación de tu empresa.
+
+[London Consulting Group](https://londoncg.com/es/contactanos-mexico)

@@ -1,0 +1,131 @@
+# Whitepaper, Hoy
+
+> Remesas; Southern Copper Corporation; Kushki; Conver; importaciones de relojes; Aldi; aerolíneas y sus tarjetas; resultados NYT; perfil de Altagracia; la casa de Mountainhead
+
+**Fecha:** 2025-08-07  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-356  
+**Word count:** 1199
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!Ft6W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32573d7d-d8cf-4111-bab2-4454a3a23a18_1080x160.png)](https://www.aerolineasejecutivas.com/)
+
+---
+
+#### Remesas
+
+En la primera mitad del año, las familias en México recibieron **menos dinero** por concepto de remesas —el monto total [se redujo](https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadroAnalitico&idCuadro=CA79) de $31,327 millones de dólares en 2024, a $29,500 millones en 2025.
+
+Las caídas más marcadas fueron en Sinaloa (-26%), CDMX (-25%), Nuevo León (-22%) y Edomex (-20%); por otro lado, Baja California registró un alza de 17%, Guerrero de 5% y Campeche, de 3% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: …y esto se está reflejando en los **resultados** de algunas de las **empresas** más grandes en México, que en los reportes del segundo trimestre hablaron de menos tráfico en sus tiendas, tickets más pequeños y en general una desaceleración de la demanda (sobre todo en productos de consumo).*
+
+---
+
+#### Más de minería
+
+Southern Copper Corporation, de **Grupo México**, [planea invertir](https://southerncoppercorp.com/wp-content/uploads/2025/07/pr250728.pdf) más de $10,000 millones de dólares en proyectos mineros en México, comenzando con $600 millones en 2025. En su portafolio destacan **minas de cobre** en Baja California y Sonora (***Redacción Whitepaper***).
+
+---
+
+#### Pagos
+
+**Kushki**, una *fintech* de pagos fundada en Ecuador pero con **México** como su principal mercado, creció 40% sus ganancias en el país durante el semestre. Entre sus clientes están **Comex**, **Bepensa** y **Rappi** ([Axis Negocios](https://www.axisnegocios.com/breves.phtml?id=141019)).
+
+> ***Comentario Whitepaper**: la empresa se fundó en 2017 y [en 2022](https://www.whitepaper.mx/p/whitepaper-hoy-4f5) alcanzó una valuación de $1,500 millones de dólares. En su cap table están **Kaszek, SoftBank** y **DILA Capital**. En 2022 [adquirieron](https://www.whitepaper.mx/p/whitepaper-hoy-dac?utm_source=substack&utm_medium=email) a la mexicana **Billpocket**.*
+
+---
+
+#### Globos
+
+**Conver** es una empresa mexicana que produce plástico para empaques y globos metálicos. Se fundó en 1979 y desde 1996 cotiza en la **BMV**. En el [primer semestre](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../ifrsxbrl/ifrsxbrl_1482265_2025-02_1.zip#/visorXbrl) vendió 30% más que en el mismo periodo de 2024 —un total de $986 millones de pesos.
+
+El 70% de sus ventas viene de exportaciones, principalmente a EUA y de acuerdo con la propia empresa, sus productos están protegidos por el T-MEC. En su informe trimestral destacaron el crecimiento del negocio de globos en ese país, impulsado por tiendas de dólar (uno de sus principales clientes es **Dollar Tree**) y mayoristas de globos personalizados. En lo que va del año, han generado utilidades por $20 millones de pesos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa es de Jalisco y [presume](https://www.conver.com.mx/wp-content/uploads/2025/05/REPORTE-ANUAL-2024.pdf) ser el segundo productor de globo metalizado a nivel mundial. Más de la mitad de las acciones las tiene **Jorge Salcedo Padilla**.*
+
+---
+
+#### Relojes
+
+Entre mayo de 2017 y el mismo mes de 2025, el CAGR de las importaciones a México de **relojes no eléctricos** fue de 3.4%. Para los provenientes de Suiza, la cifra fue de 7.7%, mientras que los de China cayeron en promedio 10.7% cada año (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: los datos de la gráfica incluyen relojes de pulsera, de bolsillo y similares, mecánicos. No se consideran smartwatches ni relojes digitales.*
+
+[![](https://substackcdn.com/image/fetch/$s_!xbHd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F876baff5-85ab-4af9-b4ca-8c05e58c972e_2712x2677.jpeg)](https://substackcdn.com/image/fetch/$s_!xbHd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F876baff5-85ab-4af9-b4ca-8c05e58c972e_2712x2677.jpeg)
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-356?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MDI4NDUxMiwiaWF0IjoxNzc5MjE1OTIwLCJleHAiOjE3ODE4MDc5MjAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qpGUlIfLXinZAG1G3yJYzIZCRKhGkxAfz6ARjio0Dvk)
+
+---
+
+#### Supermercados
+
+Tan solo en 2025, **Aldi** abrirá unas **200 tiendas nuevas en EUA**. La cadena alemana de supermercados proyecta terminar el año con una red de **2,600 sucursales** en ese país —muy cerca de las 2,700 que tiene **Kroger**. Sus **marcas propias** contribuyen con cerca de 90% de sus ventas, y a la cadena le ha ido especialmente bien con una combinación relativamente **rara** para el segmento: precios muy accesibles, con un surtido de muchos productos más bien ***healthy***.
+
+“*Customers are flocking to Aldi. Overall, visits to grocery stores in the first half of this year were up about 1.8 percent from last year, but customer trips to Aldi stores surged more than 7 percent (…) What makes that level of enthusiasm especially surprising is that what Aldi provides is a **stripped-down, almost utilitarian**, model of a supermarket*” ([NY Times](https://www.nytimes.com/2025/08/06/business/aldi-grocery-expansion.html)).
+
+> ***Comentario Whitepaper**: hasta cierto punto, es el mismo modelo que está implementando **Tiendas 3B** en nuestro país (el layout dentro de las tiendas y el estilo de surtido son relativamente similares). Sin embargo, lo que Aldi ha logrado mejor que nadie es construir una **marca de culto**, con clientes que se convierten en **fans** (y esto es todavía más notorio en su otra cadena, **Trader Joe’s**).*
+
+---
+
+#### Lealtad
+
+El año pasado, las principales aerolíneas de EUA —American Airlines, Delta, Southwest y United— registraron utilidades operativas. Sin embargo, todas **están perdiendo dinero por transportar pasajeros**: el verdadero negocio, y lo que les permite ser empresas rentables, son sus programas de **lealtad** y los acuerdos que tienen con emisores de **tarjetas de crédito**.
+
+Entre enero y junio de este año, por ejemplo, **American Express**, le pagó a Delta $2,100 millones de dólares —una cifra equivalente a toda la utilidad operativa de esa aerolínea— mientras que **Citigroup** le pagó a American cerca de $1,400 millones, y **JPMorgan Chase**, $800 millones de dólares a United ([The Economist](https://www.economist.com/business/2025/08/06/how-loyalty-programmes-are-keeping-americas-airlines-aloft)).
+
+---
+
+#### Periódicos
+
+El **New York Times** reportó un aumento de casi 230,000 suscriptores a sus productos digitales en el segundo trimestre: sus ingresos totales avanzaron 10%, a $686 millones de dólares, con una utilidad operativa superior a $100 millones ([WSJ](https://www.wsj.com/business/media/new-york-times-nyt-q2-earnings-report-stock-2025-3e639387?st=qw9Tr4)).
+
+> ***Comentario Whitepaper**: el precio de su acción está alcanzando máximos históricos —hace 10 años estaba en unos $12 dólares, y ayer cerró en más de $60, con un market cap por encima de $10,000 millones de dólares. Tienen en total 11.9 millones de suscriptores, y más de la mitad pagan por más de un producto.*
+
+---
+
+#### Whitepaper 10: Q2 2025
+
+Esta semana hablamos de qué publican los CEO mexicanos en **LinkedIn**, de **Carvana**, de **McKinsey** y de **Strava**. En el *deep dive* discutimos reportes trimestrales de algunas de las empresas de nuestro país, incluyendo **ASUR**, **Liverpool** y **Bafar**.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/89-whitepaper-10-q2-2025/id1584711514?i=1000720972909), [Spotify](https://open.spotify.com/episode/1ikWAwimJ0MhWZvJnUjznZ?si=Wq7igInvRueSUB78gvbKTg), [Youtube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Altagracia
+
+**Bloomberg** publicó un **muy detallado perfil** sobre **Altagracia Gómez Sierra** y el rol que ha venido jugando en la administración de la presidenta **Sheinbaum**.
+
+“*Gómez Sierra has become Sheinbaum’s guide to the world of commerce, an **unlikely ally** for a party that rails against what it calls the ‘**mafia of power**’ (…) Uncommonly young and outspoken for Mexico’s business world, known for its aging crop of billionaires, Gómez Sierra plays up her difference with long eyelashes, floor-length dresses and glimmering headbands that, if you squint, look like tiaras* “([Bloomberg](https://www.bloomberg.com/news/features/2025-08-07/who-is-altagracia-gomez-minsa-heir-mexico-president-sheinbaum-s-new-ally?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: muy recomendable.*
+
+---
+
+#### La casa
+
+Para los fans de **Succession**, la casa en la que fue filmada **Mountainhead** está ahora disponible para **renta**. Ubicada en **Deer Valley**, tiene su propia góndola, canchas techadas de pickeball y basketball, líneas de boliche y un simulador de golf —y cuesta **$60,000 dólares la noche**, con una estancia mínima de cinco noches ([Robb Report](https://robbreport.com/shelter/celebrity-homes/mountainhead-mansion-for-rent-utah-1236958900/?_bhlid=623dcb23092d65f38031f037145cc04c03d4dc3d)).
+
+---
+
+##### Presentado por:
+
+#### Aerolíneas Ejecutivas: Vuela a tu Manera. Siempre Primero.
+
+Imagina esto: **tu avión, listo cuando tú lo estés**. Sin filas, sin esperas, solo la **libertad de ir a donde quieras, cuando quieras.**
+
+En Aerolíneas Ejecutivas, hacemos que volar sea **fácil y lujoso**. Nuestros **paquetes de horas de vuelo** te dan acceso a aviones **seguros y cómodos**, solo para ti.
+
+Es **tu tiempo, tu espacio, tu control total.** Deja de preocuparte y empieza a disfrutar de viajes que te llevan directo a tus metas.
+
+Para mayor información: [info@ale.mx](mailto:info@ale.mx), [5549440307](http://wa.me/5549440307).
+
+[Aerolíneas Ejecutivas](https://www.aerolineasejecutivas.com/)

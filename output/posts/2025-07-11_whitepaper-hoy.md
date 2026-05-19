@@ -1,0 +1,138 @@
+# Whitepaper, Hoy
+
+> Pinfra; Franke; Vista Energy; AI en Latinoamérica; telepeaje; contenedores de China; fibra óptica; Varda; Converse; subastas; Also Inc.; retailers en EUA
+
+**Fecha:** 2025-07-11  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-bb9  
+**Word count:** 1363
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!X_MW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78cbdf1a-83c0-4351-94d5-1fb048755c69_1094x201.webp)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+---
+
+#### Puertos
+
+**Pinfra** [finalizó](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1478320_1.zip#/visorXbrl) la venta por $800 millones de dólares de la terminal que operaba en el Puerto de Altamira a **[TiL Group](https://tilgroup.com/our-terminals.html)**, una empresa de Luxemburgo. Con esto, estarían saliendo del negocio portuario (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en [2024](https://cdn.investorcloud.net/pinfra/InformacionFinanciera/InformesAnuales/2024-Anual.pdf), **Pinfra** vendió $18,603 millones de pesos con un margen neto superior a 55%. Más de $13,500 millones provinieron de autopistas concesionadas, $3,300 millones de su negocio de construcción y $1,500 millones de la terminal en Altamira. Su director general es **David Peñalosa.***
+
+---
+
+#### Para cocinas
+
+Una empresa suiza que fabrica productos para cocinas y restaurantes, **Franke**, [inauguró](https://www.prnewswire.com/mx/comunicados-de-prensa/grupo-franke-inaugura-nueva-planta-de-produccion-en-mexico-302502727.html) su primera planta en México. Invirtieron $82 millones de dólares y empezaron a construirla en marzo de 2023. Desde ahí producirán cocinas, estantes para bebidas y productos personalizados (***Redacción Whitepaper***)*.*
+
+> ***Comentario Whitepaper**:* *a nivel global la empresa vendió más de $3,000 millones de dólares en 2024; tiene 7,700 empleados y presencia en 35 países.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-bb9?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2Nzc1MDEwMCwiaWF0IjoxNzc5MjE1OTQ5LCJleHAiOjE3ODE4MDc5NDksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.OlfGJ8TlsS2K8Okp6X8epTNFO6p-m8z2pWr4-Sm0TU4)
+
+---
+
+#### Creciendo
+
+**Vista Energy** [vendió](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1478366_1.pdf) $611 millones de dólares en el segundo trimestre, 54% más que en el mismo periodo del año pasado. En cuanto a utilidad, superó los $235 millones. Vista fue el [primer SPAC](https://substack.com/redirect/509d8b9b-ac08-4958-a226-04027d8f8136?j=eyJ1IjoiMWdlZGZwIn0.KqGN-Y10cGmeqUvnIgxKcLs2BrS-p7qAA9tU0zcIyTA) en América Latina, se lanzó en la **Bolsa Mexicana de Valores** y desde 2019 también cotiza en la NYSE (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!HfGG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F342894c9-58ae-4e51-b54b-24954d337c16_3028x2405.jpeg)](https://substackcdn.com/image/fetch/$s_!HfGG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F342894c9-58ae-4e51-b54b-24954d337c16_3028x2405.jpeg)
+
+> ***Comentario Whitepaper**: el crecimiento se explica en parte por la [adquisición](https://www.whitepaper.mx/i/161475926/petroleo-y-gas) que hicieron en abril de **Petronas Argentina**, que tiene 50% de una concesión de hidrocarburos en ese país. El [deal](https://www.reuters.com/latam/negocio/HUZYUUO6IVJ2NETQAG36LG65JQ-2025-04-16/) habría sido de $1,200 millones de dólares.*
+
+---
+
+#### Implementando AI
+
+En la última edición del reporte sobre inteligencia artificial en **Latinoamérica** que hace **Hi Ventures** ([disponible aquí](https://www.hi.vc/insights/state-of-ai-in-latin-america-2025)), llama la atención la **popularidad** de las **herramientas de OpenAI** en la región: 89% de las **startups** que respondieron la encuesta dijeron que utilizan alguna de las soluciones de OpenAI (la segunda más mencionada, con 48%, fue Google/Gemini), mientras que del lado de las **firmas de VC**, 98% usan ChatGPT (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: los **corporativos** que respondieron la encuesta señalaron que el uso que están haciendo de las plataformas de AI es principalmente **para generar contenido**, y algo para **atención de clientes**.*
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!knXI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd816d9-d057-46a9-b340-3e1d90be2258_2784x1674.jpeg)](https://substackcdn.com/image/fetch/$s_!knXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd816d9-d057-46a9-b340-3e1d90be2258_2784x1674.jpeg)
+
+> ***Comentario Whitepaper**: según las respuestas de los suscriptores, la mitad de los encuestados quiere ir a un partido del mundial. Varios incluso planean asistir a juegos en EUA.*
+
+---
+
+#### Autopistas
+
+Cerca de 80 % de las transacciones electrónicas para pagar en las casetas de autopistas federales usan el sistema de **PASE**, una empresa mexicana de **telepeaje**. Su director general, **Alexis Reséndiz**, explicó en entrevista que están en proceso de eliminar el uso de efectivo en las casetas operadas por **CAPUFE** y que con ello proyectan una reducción de costos operativos de entre **20 % y 30 %**. La eliminación de pagos en efectivo les permitiría reducir 70% el número de personas necesarias para operar las casetas.
+
+Esta transición, que dijo Reséndiz que podría completarse en un periodo de tres a seis meses, dependerá tanto de la inversión del gobierno federal como de los 75 concesionarios que operan alrededor de 4,600 km de carreteras de cuota. Los concesionarios deberán instalar la infraestructura necesaria para habilitar carriles exclusivos de cobro automático.
+
+Hasta ahora, PASE ha colocado 10.6 millones de **tags** entre modalidades de prepago y postpago; sin embargo, solo 3.6 millones se consideran activas (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en otros países es común que la cobranza en autopistas funcione solamente por medio de dispositivos de este tipo; hace sentido que estemos avanzando en ese camino. Sin embargo, en mi experiencia personal algunos de los sistemas de lectura implementados en las casetas de nuestro país fallan con frecuencia —al menos en el caso de Nuevo León es de lo más normal que “el sistema no lea la tarjeta” y las filas sean interminables. Habrá que ver si hay un estándar mínimo que tengan que cumplir los concesionarios.*
+
+---
+
+#### Regresando
+
+Después de que en febrero se **desplomó** el número de **contenedores que viajan de China a México**, desde marzo esa cifra se ha venido recuperando. De mediados de mayo, a la fecha, **avanzó 26%** ([Freightwaves](https://www.freightwaves.com/news/borderlands-mexico-dp-world-sees-big-logistics-opportunities-across-latin-america)).
+
+---
+
+#### Fibra Óptica
+
+* **Neutral Networks**, del grupo regio **Even Group**, destinó $1 millón de dólares para construir un ducto con cables de fibra óptica entre Tijuana y San Diego. Es parte de su plan de [inversión](https://www.milenio.com/negocios/neutral-networks-35-mdd-desarrollo-fibra-optica-mexico) de $35 millones de dólares hacia 2025. La empresa es dirigida por **[Gabriel Navarro](https://www.linkedin.com/in/gabrielnavarroassad/)** (***Redacción Whitepaper***).
+* **Fibras Ópticas de México**, fabricante de fibra óptica, invertirá $2 millones de dólares en su planta en Guadalajara. Fundada en 2005, tiene como clientes a **Izzi**, **Totalplay**, **Megacable** y **Telmex** ([Expansión](https://expansion.mx/tecnologia/2025/07/03/la-empresa-mexicana-de-fibra-optica-que-enfrenta-el-precio-bajo-chino)).
+
+---
+
+#### Ramen
+
+**Samyang Foods**, una empresa coreana de ramen, ha visto crecer el valor de su acción más de 90% en lo que va del año, alcanzando un market cap superior a los $8,000 millones de dólares. Su marca **Buldak** —que se traduce a “*fire chicken*”— se ha vuelto viral en redes sociales por lo picante que es, al grado de que fue retirada temporalmente de mercados como Dinamarca.
+
+*“Perhaps because of its “seriously extreme spice,” **Buldak** has become an object of fascination for social media influencers who might enjoy truth-or-dare antics. The carbonara version, in particular, resembles the boxed macaroni and cheese Americans grew up with — with a kick. In May, the number of TikTok hashtags related to Buldak surged 250% from last year, according to CLSA, a brokerage”* ([Bloomberg](https://www.bloomberg.com/opinion/articles/2025-07-09/why-buldak-ramen-is-an-8-billion-brand)).
+
+---
+
+#### Breves
+
+* **Varda**, una empresa que fabrica medicamentos en el espacio, obtuvo $187 millones de dólares en una nueva ronda en la que participaron **Peter Thiel**, **Lux Capital** y **Khosla Ventures**. Con esto, ha recaudado un total de $329 millones ([CNBC](https://www.cnbc.com/2025/07/10/space-startup-varda-medicine-orbit.html?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew)).
+* **Nike** nombró a **Aaron Cain** como nuevo CEO de **Converse**. Actualmente es vicepresidente y general manager de Nike Global Men’s, cargo al que llegó tras 21 años en la empresa ([Reuters](https://www.reuters.com/sustainability/boards-policy-regulation/nike-names-insider-new-converse-ceo-after-jared-carver-steps-down-2025-07-10/)).
+* La bolsa **Hermès Birkin** original se vendió ayer en una subasta por $10.1 millones de dólares, un record para su categoría ([WSJ](https://www.wsj.com/style/fashion/hermes-birkin-bag-auction-sothebys-2c990d3c?st=XB6BNa&mod=1440&user_id=67c5ebc76cb26bffa30cfb3d)).
+* **Also Inc.**, el spinoff de **Rivian** enfocado en vehículos eléctricos de micromovilidad, alcanzó una valuación de $1,000 millones de dólares tras recibir una inversión de $200 millones de **Greenoaks Capital** ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-08/rivian-spinoff-making-small-evs-said-to-be-valued-at-1-billion)).
+
+---
+
+#### Retailers en EUA
+
+La **National Retail Federation** publicó su lista anual de los [Top 100 retailers en EUA](https://nrf.com/research-insights/top-retailers/top-100-retailers/top-100-retailers-2025-list). En el top 10 hay cinco empresas con operaciones internacionales — **Walmart**, **Amazon**, **Costco**, **The Home Depot** y **Walgreens**— y cinco que operan únicamente dentro de EUA: **Kroger**, **CVS**, **Target**, **Lowes** y **Albertsons** (***Redacción Whitepaper***).
+
+---
+
+#### MexMoves
+
+Esta semana en MexMoves platicamos con **Gabriel Casillas**, Chief Latin America Economist de **Barclays**, sobre por qué la economía de México está más fuerte de lo que muchos piensan. Además: retrasos en las **sanciones** de EUA a los tres bancos mexicanos, la nueva app de **Mercado Pago**, fraude de combustibles impulsado por cárteles y los problemas turísticos de **Cancún**.
+
+*Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/26-why-wall-street-is-bullish-on-mexico-while-lithium/id1792066671?i=1000716747182), [Spotify](https://open.spotify.com/episode/1tET6eHz3taDrLaoa1n2py?si=-3fhS2acQii_3JJU3UM71w) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+> ***MexMoves** es un podcast de **Whitepaper**, en inglés, de temas de negocios relevantes tanto para EUA, como para México.*
+
+---
+
+##### Presentado por:
+
+¡Descubre la nueva propuesta de valor HSBC Premier! Estamos emocionados de presentarte una oferta única, construida sobre cuatro pilares fundamentales que transformarán tu estilo de vida:
+
+* **Patrimonio:** Consolida tu patrimonio con productos de inversión disponibles en la palma de tu mano y la compañía de nuestros ejecutivos certificados en cada paso que des.
+* **Salud:** Protege a los que más te importan con las asistencias y coberturas en salud e imprevistos incluidas en HSBC Premier.
+* **Viajes:** Lleva tus viajes a otro nivel y vive experiencias exclusivas con tus Tarjetas HSBC Premier.
+* **Internacional:** Maneja tus finanzas alrededor del mundo ahorrando tiempo, dinero, y disfrutando el reconocimiento global que solo HSBC te puede dar en más de 25 países.
+
+Imagina disfrutar de experiencias integradas que no solo se adaptan a tus necesidades, sino que también enriquecen tu relación con la banca. Te ofrecemos un servicio personalizado, diseñado especialmente para ti. Tu mundo es Premier cuando tu banco lo es.
+
+[![](https://substackcdn.com/image/fetch/$s_!KyM2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5a71288-d932-43b8-97d1-d5277a1e5d74_1080x1080.jpeg)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+[Conoce más](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)

@@ -1,0 +1,128 @@
+# Whitepaper, Hoy
+
+> Otra fibra que todos quieren; música en México; planes de Alsea; el comité directivo de Bimbo; Tramontina y Mitsubishi Motors; GA y Banamex; Apple y AI; Nvidia; Meta en Fifth; JP Morgan y Tom Brady
+
+**Fecha:** 2026-03-19  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-a42  
+**Word count:** 1469
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!CVyE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2372c1d8-a30e-4b58-8458-b01975a29f23_2250x425.jpeg)](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)
+
+---
+
+#### Otra que todos quieren
+
+Un día después de que **Fibra Prologis** [obtuvo la autorización](https://www.bmv.com.mx/docs-pub/eventfid/eventfid_1541774_1721_1.pdf) de su asamblea para realizar una oferta para comprar el 100% de los certificados bursátiles de **Fibra Macquarie**, tanto **[Fibra Mty](https://www.bmv.com.mx/docs-pub/eventfid/eventfid_1542045_2157_1.pdf)** como **[Fibra Next](https://www.bmv.com.mx/docs-pub/eventfid/eventfid_1542056_7401_1.pdf)** dijeron que también están interesados en hacer una oferta por **Macquarie** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: ¿será que volveremos a ver una **pelea** para quedarse con una fibra? Hace un par de años vimos que todo mundo se arrebataba **Terrafina** (se la terminaría quedando Prologis), aunque eso fue en un momento en el que estaba con todo la fiebre de **nearshoring**. En [este episodio de WP 10](https://open.spotify.com/episode/4Ds6UqqZppiTC4izo9lfve?si=924c89f18aa84f15) explicamos **porqué las fibras se sienten tan presionadas por ser más grandes** (el tamaño impacta directamente en qué tanto se mueven sus acciones en el día a día, lo que a su vez las vuelve más atractiva para otros inversionistas).*
+>
+> *Macquarietiene 244 propiedades industriales y 17 propiedades de retail, que le generan rentas como de $5,100 millones de pesos (NOI). Como contexto, el NOI de Prologis es de casi $12,500 millones y el de Fibra Mty es de unos $3,400 millones (Next es técnicamente nueva, y [reportó](https://fibranext.mx/site_media/uploads/documentos/documento-OTHVW-1772054977.pdf) para el cuarto trimestre un NOI de poco más de $1,000 millones de pesos). Importante: en noviembre, Next obtuvo $400 millones de dólares en una emisión de CBFIs, mientras que Fibra Mty consiguió por su parte $500 millones hace apenas un par de semanas.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-a42?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MTI4MTg4NSwiaWF0IjoxNzc5MjE0OTU5LCJleHAiOjE3ODE4MDY5NTksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.KEwY30bLSsfpAPhef1Hw_rcLO02FH_MZLe5Vl6yFOX8)
+
+---
+
+#### Para este año
+
+**Alsea** planea abrir en 2026 entre 180 y 220 nuevas sucursales, con lo que la operadora de restaurantes debiera terminar el año superando **5,000 puntos de venta a nivel global**. [Proyectan](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1541990_1.pdf) un CAPEX de $5,500 millones de pesos, para incrementar sus ventas entre 5% y 7% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en 2025 sumaron 169 sucursales nuevas y las ventas netas aumentaron más de 9%. El CAPEX fue de $5,138 millones de pesos.*
+
+---
+
+#### Música
+
+De acuerdo con la [IFPI](https://www.ifpi.org/resources/), los ingresos por música grabada en México crecieron 13% el año pasado. Con este avance, México supera a Italia y Australia para posicionarse como el **décimo mercado más grande** a nivel global en esta categoría (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** a nivel global, los ingresos por música grabada fueron de $31,700 millones de dólares, un máximo histórico. De este total, $22,000 millones provienen del **streaming**; el resto se divide entre formato físico, descargas y otros.*
+
+---
+
+#### Comité directivo: Bimbo
+
+Después de 27 años como CEO de Bimbo, **Daniel Servitje** [dejó](https://www.grupobimbo.com/es/prensa/comunicados/negocio/grupo-bimbo-nombra-daniel-servitje-presidente-ejecutivo-rafael-pamias#:~:text=Grupo%20Bimbo%20nombra%20a%20Daniel,asume%20Direcci%C3%B3n%20General%20%7C%20Grupo%20Bimbo) su cargo a **Rafael Pamias,** quién un año después fue [reemplazado](https://www.grupobimbo.com/es/prensa/comunicados/negocio/grupo-bimbo-nombra-nuevo-director-general) por **[Alejandro Rodríguez Bas](https://www.linkedin.com/in/alejandro-rodriguez-bas-a544362/?originalSubdomain=mx)**, actual director general de la empresa. Dentro de su [comité directivo](https://www.grupobimbo.com/es/inversionistas/gobierno-corporativo/comites/comite-directivo), tanto [Raúl Ignacio Obregón Servitje](https://www.linkedin.com/in/raul-obregon-98142040/) como [Fernando Lerdo de Tejada Servitje](https://www.linkedin.com/in/fernandolts/?originalSubdomain=mx) y [Mark Bendix](https://www.linkedin.com/in/mark-bendix-3895891a/) son directores generales adjuntos (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!en98!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F825507b3-1ddc-41ab-ac45-df742f1dd38b_2506x5420.jpeg)](https://substackcdn.com/image/fetch/$s_!en98!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F825507b3-1ddc-41ab-ac45-df742f1dd38b_2506x5420.jpeg)
+
+---
+
+#### Su primera en México
+
+**Tramontina**, una empresa brasileña de utensilios de cocina, inauguró en el Edomex su primera planta en México; [producirán](https://www.eleconomista.com.mx/empresas/tramontina-inaugura-primera-planta-mexico-20260317-804699.html) más de 1 millón de **sartenes** al año. En total, la [inversión](https://amp.milenio.com/negocios/tramontina-invierte-500-mdp-planta-lerma) sería de $500 millones de pesos hacia 2027 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: comercializan sus productos en México [desde](https://www.tramontina.com.mx/institucional/acerca) 1997 y el país es su tercer mercado más relevante, detrás de Brasil y EUA. Su managing director es [Adilson Formentini](https://www.linkedin.com/in/adilson-formentini-73a97852/overlay/about-this-profile/).*
+
+---
+
+#### …y otra en el Edomex
+
+**Mitsubishi Motors** [ampliará](https://clusterindustrial.com.mx/mitsubishi-motors-amplia-almacen-de-refacciones-en-mexico-a-6-000-m2-junto-a-dhl-supply-chain/) el almacén de refacciones que tiene en el Edomex; aunque no revelaron el monto de la inversión, dijeron que la superficie pasará de 3,800 a 6,000 m2. Desde ese centro atienden a sus [cerca](https://www.tyt.com.mx/nota/mitsubishi-mexico-amplia-su-almacen-en-el-macrocentro-logistico-de-dhl-supply-chain) de 70 puntos de venta en el país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: [Ah-kin Vázquez](https://www.linkedin.com/in/ah-kin-vazquez-1306345/overlay/about-this-profile/) es Presidente y CEO de Mitsubishi Motors en México. En los primeros dos meses del año incrementaron 13% sus [unidades vendidas](https://www.inegi.org.mx/contenidos/datosprimarios/iavl/doc/2026/rm_raiavl2026_03.pdf), a 4,651. Como contexto, en el mismo periodo **Renault** ha vendido poco más de 5,000 autos y **JAC** 3,725.*
+
+---
+
+#### Arquitectura de los negocios: Nu, Episodio 2
+
+En este segundo episodio de Arquitectura de los Negocios, **Susana Sáenz** continúa la historia de **Nubank** en el momento más decisivo: cuando empieza a transformarse en una potencia financiera regional.
+
+> *Este episodio es **exclusivo para suscriptores**. En [este breve video](https://www.youtube.com/shorts/4GgBjXsIeoo) te explicamos cómo puedes agregar el canal **Whitepaper Access** en tu cuenta de **Spotify**.*
+
+---
+
+#### La oportunidad
+
+[Luis Cervantes](https://www.linkedin.com/in/luis-cervantes-7a2b9814/), managing director de **General Atlantic**, dijo que la decisión de invertir en **Banamex** se debió a que el sistema financiero mexicano representa una de las oportunidades más atractivas a nivel global. “El sector bancario en México ha crecido sus utilidades a tasas cercanas al 15% anual en la última década y alrededor de 12% anual en los últimos 35 años”, explicó. Este desempeño se ha dado con niveles elevados de rentabilidad: el ROE del sistema ronda el 18%, mientras que los bancos líderes alcanzan niveles de 25%.
+
+Durante la cumbre de **Amexcap**, Cervantes reconoció que la pregunta natural es si estos niveles pueden sostenerse en **un entorno de mayor competencia**. La tesis de General Atlantic es que sí, por el bajo nivel de penetración financiera en México, que sigue siendo un motor estructural de crecimiento.
+
+Bajo esta lógica, insiste, Banamex representa una plataforma única: una institución con escala, marca y base de clientes, pero con amplias oportunidades de modernización y eficiencia **(Redacción Whitepaper)**
+
+> ***Comentario Whitepaper:** GA tiene más de $130,000 millones de dólares en AUM, y de acuerdo con el fondo, en los últimos 10 años LATAM ha dado mejores retornos que cualquier otra región. El año pasado [entrevistamos a](https://www.whitepaper.mx/p/desde-hospitales-hasta-seminuevos?utm_source=publication-search) **[Bill Ford](https://www.whitepaper.mx/p/desde-hospitales-hasta-seminuevos?utm_source=publication-search),** CEO de General Atlantic.*
+
+---
+
+#### La verdadera ganadora
+
+Mientras que algunos alegan que **Apple** está quedándose **rezagada** en el mundo del AI, la realidad es que es una de las grandes ganadoras: el año pasado las apps de AI le pagaron alrededor de $900 millones de dólares en *fees* del **App Store**. Importante destacar que a nivel mensual, los ingresos por este concepto prácticamente se **triplicaron** durante el año, por lo que se estima que esa cifra podría ser mucho mayor en 2026 ([WSJ](https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f?st=TgHtGV)).
+
+> ***Comentario Whitepaper**: si bien $1,000 millones de dólares es relativamente poco dentro de una empresa que el año pasado superó $400,000 millones en ingresos totales, aún así es muy significativo porque lo que genera por el App Store **tiene márgenes enormes** y además contribuye con la narrativa de que su **división de Servicios** es cada vez más relevante.*
+
+---
+
+#### *Breves*
+
+* …y hablando de las **ganadoras de AI**: más allá de los microprocesadores, **Nvidia** “**discretamente**” ha venido creciendo una división de negocio especializada en sistemas y tecnología que son necesarios para construir los data centers de AI. El año pasado esa división generó más de $30,000 millones de dólares de ingresos ([TechCrunch](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=c8f0427b2e37d3d5ece9fbba336469f9b9ec0e3f)).
+* A la que parece que le están “comiendo el mandado” es a **OpenAI**: apenas en diciembre, entre las empresas que contrataron por primera vez alguna plataforma de AI el 60% eligió alguna de las herramientas de esa empresa. Sin embargo, para finales de febrero esa cifra se desplomó a 26% —**Anthropic** aceleró en ese espacio y supera ya **73% de los clientes nuevos** en el **mercado** ***enterprise*** ([Axios](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=54eb4ed09d57616c42a3a08c64be79c22f959e58)).
+* **Meta** está construyendo una nueva ***flagship store*** en **Fifth Ave**. Es un espacio en el que los clientes podrán probar sus *smartglasses* y los dispositivos de virtual reality ([Hypebeast](https://hypebeast.com/2026/3/meta-manhattan-permanent-flagship-store-announcement)).
+* El ***JPMorgan Chase Athlete Council***, presidido por Dwyane Wade (NBA) y en el que participan deportistas como **Tom Brady**, Sue Bird y Alex Morgan es una nueva iniciativa que está haciendo el banco para desarrollar mejores productos y servicios financieros específicamente para atletas profesionales ([CNBC](https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html)).
+
+---
+
+##### Presentado por:
+
+#### ¿Tu equipo de planificación de demanda realmente está planificando el futuro… o sobreviviendo en Excel?
+
+Mejorar el fill rate en solo 2% puede parecer marginal, pero en empresas de consumo masivo, ese 2% puede representar millones en ventas adicionales con Walmart.
+
+Sin embargo, en la práctica, muchos equipos siguen operando bajo presión constante: datos fragmentados entre múltiples sistemas, pronósticos poco confiables y análisis manual en hojas de cálculo. El resultado es siempre el mismo, sobreproducción o quiebres de stock. En ambos casos, dinero perdido.
+
+Con Arkham, los datos de Walmart Retail Link, o de cualquier otro retailer, se integran de forma automatizada: sin descargas manuales, sin normalización en Excel. La plataforma calcula el inventario en tiempo real y estima el sell-out para todos tus EANs por tienda y por CEDIS, para finalmente estimar la siguiente orden de Walmart con un 95% de precisión, SKU por SKU, con un horizonte de hasta 8 semanas.
+
+El CPFR deja de operar bajo supuestos y comienza a apoyarse en modelos estadísticos sobre demanda real. Cuando el fill rate mejora, el ROI es inevitable.  
+  
+En 2026 operar AI-First ya no es opcional cuando cada punto porcentual importa.
+
+[![](https://substackcdn.com/image/fetch/$s_!GNQ3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1769cf2f-f81a-40fa-8ebe-75dc93998292_3162x1710.png)](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)
+
+[Agenda tu demo](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)

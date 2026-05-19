@@ -1,0 +1,126 @@
+# Whitepaper, Hoy
+
+> MIP y Acciona Energía; carga especializada; KPIs de la banca; WD-40; conoce a Rita Chertorivski; PAS Appliance Systems; PPG Comex; McKinsey; Oracle; LinkedIn; consejo de Tesla; surrogacy
+
+**Fecha:** 2025-12-15  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-640  
+**Word count:** 1301
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!InJs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33d3068e-4aa9-4caa-8863-72c19ce6e908_1388x164.webp)](https://udem.edu.mx/ARQ)
+
+---
+
+#### Energía
+
+En una transacción de **$1,000 millones de dólares**, **Mexico Infrastructure Partners** está comprándole a la española **Acciona Energía** dos **parques eólicos** que tienen en **Reynosa**, junto con una participación de 49% en su cartera fotovoltaica de 1,300 megavatios en EUA ([Reuters](https://www.reuters.com/business/energy/acciona-energia-sell-assets-mip-us-mexico-1-billion-2025-12-15/)).
+
+> ***Comentario Whitepaper**: Mexico Infrastructure Partners tiene AUM de más de $12,500 millones de dólares —un portafolio en el que hay desde **carreteras** en Quintana Roo y Michoacán, hasta **antenas** de telecomunicaciones, acueductos, **dos cárceles** (una en Guanajuato y otra en Sonora) y sobre todo, infraestructura de generación de energía.*
+
+---
+
+#### Carga especializada
+
+El segmento de **autotransporte de carga especializada** —una categoría que incluye materiales peligrosos, carga **refrigerada**, vehículos o maquinaria pesada— **creció 39%** el año pasado (a $253,531 millones de pesos). De acuerdo con datos [del INEGI](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/eat/EAT2024_CP.pdf), dentro de las actividades de transporte y servicios relacionados fue **la rama que más creció** en **ingresos** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: vale la pena destacar que la categoría de carga especializada generó ingresos de $162,000 millones de pesos en 2022 —esto es, s**umó más de $90,000 millones en dos años**.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-640?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4MTI1ODgxNiwiaWF0IjoxNzc5MjE1Nzg0LCJleHAiOjE3ODE4MDc3ODQsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.tJL8PsdBUqcnRDKxYA1JupsFviWIKQyp0QbuAYgFKf4)
+
+---
+
+#### KPIs banca múltiple
+
+Excluyendo a **Cibanco** e **Intercam**, los indicadores de rentabilidad del sistema bancario cerraron con una ROA de 1.9% y un ROE de 16.1% —ambos ligeramente **por debajo** de lo registrado en el mismo mes del año anterior. Las **utilidades** de los últimos 12 meses sumaron $295,000 millones de pesos, 2.5% más que hace un año ([Margin](https://www.margin.mx/p/monday-on-the-margin-477?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc904da39-c23b-4d84-afac-a077b45b52dd_2258x2692.png&open=false)).
+
+[![](https://substackcdn.com/image/fetch/$s_!UJrb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa22f8f4f-6d42-4911-aa03-092ea458610e_1166x1402.jpeg)](https://substackcdn.com/image/fetch/$s_!UJrb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa22f8f4f-6d42-4911-aa03-092ea458610e_1166x1402.jpeg)
+
+---
+
+#### Lubricante
+
+El CEO de **WD-40** presumió en la junta anual con accionistas que su negocio **en México** creció de $6.8 millones de dólares en 2024, **a $23.5 millones en 2025** —“*and we’re not done as we see Mexico as a $30 million to $40 million market over the coming years*” ([MarketScreener](https://www.marketscreener.com/news/transcript-wd-40-company-shareholder-analyst-call-ce7d50d8da8ef324)).
+
+---
+
+#### Conoce a: Rita Chertorivski
+
+[Senior Vice President Business and Legal Affairs - Global Entertainment, TelevisaUnivision](https://www.linkedin.com/in/ritachertorivski/)
+
+[![](https://substackcdn.com/image/fetch/$s_!ZENI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc31848b3-dd5d-4c61-97a3-26ad0b8ed9b3_1200x1161.jpeg)](https://substackcdn.com/image/fetch/$s_!ZENI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc31848b3-dd5d-4c61-97a3-26ad0b8ed9b3_1200x1161.jpeg)
+
+**[Rita](https://www.linkedin.com/in/ritachertorivski/)** es abogada por la Ibero y tiene una maestría en Derecho por la Universidad de Miami. Comenzó su carrera en el despacho **Creel, García-Cuéllar y Muggenburg**, y después estuvo en un tribunal colegiado en Jalisco por casi cuatro años.
+
+En 2014 se unió al área legal de **NBC Universal Telemundo**, en Miami, y desde 2023 es *Senior VP Business and Legal Affairs* para la división de entretenimiento global de **TelevisaUnivisión**(***Redacción Whitepaper***).
+
+---
+
+#### Arneses
+
+En **Querétaro**, la planta de arneses que tiene la alemana **PAS Appliance Systems** está en proceso de ser adquirida por **Bizlink**, una empresa de **Taiwan**. El valor de la transacción ronda **$69 millones de dólares** ([MarketScreener](https://www.marketscreener.com/news/bizlink-to-acquire-mexico-s-pas-appliance-systems-shares-drop-4-ce7d50d8d18ff424)).
+
+---
+
+#### Pintura y recubrimientos
+
+El actual presidente de **PPG Comex**, [Javier Sosa Mejía](https://www.linkedin.com/in/javier-sosa-mej%C3%ADa-42ab1622/?originalSubdomain=mx), asumirá [a partir de enero](https://www.marketscreener.com/news/ppg-industries-inc-appoints-javier-sosa-mej-a-as-president-ppg-latin-america-effective-january-1-ce7d50d8da8af72d) la presidencia de PPG **a nivel Latinoamérica** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: hace unos 10 años, **PPG le compró Comex** a la familia **Achar** en un **deal** cercano a $2,300 millones de dólares. Tienen **más de 5,000 tiendas en México,** y aunque en la primera mitad del año se les desaceleró muchísimo el crecimiento —una consecuencia de la incertidumbre ocasionada por los **aranceles**— su CEO recientemente [comentó](https://s25.q4cdn.com/953898558/files/doc_financials/2025/q3/CORRECTED-TRANSCRIPT_-PPG-Industries-Inc-PPG-US-Q3-2025-Earnings-Call.pdf) que estarían **cerrando muy bien 2025** (en especial gracias a su negocio de **retail**).*
+
+[![](https://substackcdn.com/image/fetch/$s_!Sic_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73a4874b-142f-430b-a583-16342f0be3d9_1281x179.webp)](https://bit.ly/44Jokxx)
+
+**Transforma esta planta en Querétaro en tu próxima ventaja competitiva.** Opera rentablemente desde el primer día, sin inversiones iniciales en infraestructura. Con logística estratégica y acceso a talento calificado, incluye cuatro líneas para manufacturar refrigeradores y lavadoras.
+
+Agenda una visita [aquí](https://bit.ly/495RhGd) y descubre cómo esta oportunidad puede integrarse a tu estrategia y acelerar tu retorno de inversión. [Conoce la planta.](https://bit.ly/44Jokxx)
+
+[![](https://substackcdn.com/image/fetch/$s_!1kM5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!1kM5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)
+
+#### Un nuevo modelo de negocio
+
+“*Were it not for the steadfast presence of **Larry Ellison**, its preternaturally youthful 81-year-old founder, chairman and chief technologist, **you might have thought you had dialed into the wrong earnings call***”.
+
+El giro hacia AI está **transformando** por completo el modelo de negocio de **Oracle**. Fundada hace 48 años, a lo largo de la mayor parte de su historia se especializó en **software** para administrar bases de datos y por lo tanto, el **Capex** raramente superó 5% de los ingresos. Sus márgenes brutos rondaban 80%, y en los últimos años, generó alrededor de $12,000 millones de dólares de flujo anualmente.
+
+Sin embargo, ahora que está apostando por **soluciones de AI**, las inversiones están “comiéndose” **dos terceras partes de las ventas**, el flujo se volvió **negativo** y la deuda neta se disparó, de $11,000 millones de dólares, a $88,000 millones ([The Economist](https://www.economist.com/business/2025/12/11/oracle-and-the-hard-truths-about-software)).
+
+> ***Comentario Whitepaper**: no es algo que le está sucediendo solamente a Oracle —entre junio de 2024 y junio de 2025, las inversiones en Capex de **Alphabet**, **Amazon**, **Meta** y **Microsoft** superaron $300,000 millones de dólares, en conjunto. Esa cifra es **prácticamente el doble** que lo que invirtieron en los 12 meses anteriores.*
+
+---
+
+#### *Breves*
+
+* El cambio en el **algoritmo** de **LinkedIn** —implementado en verano con el objetivo de apalancarse en **LLMs**— estaría generando una avalancha de quejas de sus ‘**power users**’, quienes alegan que se **desplomaron** sus estadísticas de *views* y *engagement* ([TechCrunch](https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/)).
+* En **McKinsey**, el número total de empleados pasó de 17,000 en 2012, a 45,000 para 2022. Por otro lado, los ingresos ingresos totales de la firma han rondado entre $15,000 y $16,000 millones de dólares durante los últimos cinco años. Y mientras que quieren continuar **sumando más consultores** al equipo, buscarían **reducir el número de empleados** en áreas de soporte ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-15/mckinsey-executives-plot-job-cuts-in-slowdown-for-consulting-industry?srnd=homepage-americas)).
+* El **consejo de administración** de **Tesla** es, por mucho, **el que mejor paga**: sus integrantes han ganado **más de $3,000 millones de dólares** en los últimos años, gracias principalmente a planes de **stock options**. Esto es aproximadamente 2.5 veces lo que ganaron los consejeros de **Meta**, u ocho veces que lo que le corresponde a los de **Alphabet** ([Reuters](https://www.reuters.com/sustainability/boards-policy-regulation/tesla-board-made-3-billion-via-stock-awards-that-dwarfed-tech-peers-2025-12-15/)).
+* **OpenEvidence**, una startup que desarrolló un producto **tipo ChatGPT** pero especializado en **información médica**, estaría alcanzando una **valuación de $12,000 millones de dólares** en su más reciente ronda de inversión. Fundada hace tres años y con sede en **Miami**, aseguran tener un ARR de $150 millones de dólares, principalmente vendiéndole publicidad a **farmacéuticas** ([The Information](https://www.theinformation.com/articles/chatgpt-doctors-startup-doubles-valuation-12-billion-revenue-surges?rc=xfuqjy)).
+
+---
+
+#### ¿Dinastías?
+
+En EUA, contratar a una mujer para que tenga el bebé de alguien más —el modelo de ***surrogacy***— ha venido creciendo año con año, y una buena parte de esto corresponde a **clientes internacionales**: tan solo entre 2014 y 2019 **se multiplicó por cuatro** el número de papás que no viven en EUA, pero que buscan que sus hijos nazcan en ese país (de una mamá americana). Se estima que 40% de los “ciclos de surrogacy” son para clientes internacionales —y de éstos, **más de 40% son para clientes de China** ([WSJ](https://www.wsj.com/us-news/chinese-billionaires-surrogacy-pregnancy-7fdfc0c3?mod=hp_lead_pos7)).
+
+> ***Comentario Whitepaper**: el [artículo](https://www.wsj.com/us-news/chinese-billionaires-surrogacy-pregnancy-7fdfc0c3?mod=hp_lead_pos7) del **WSJ** es de lo más **impactante** que he leído en los últimos días. Cuenta casos de **billonarios de China** que están tratando de crear “dinastías” con niños nacidos en EUA, como el caso de un emprendedor en la industria de los videojuegos que supuestamente **tiene ya más de 100 hijos** nacidos por este proceso. “An increasing number of ‘**crazy rich’** clients are **commissioning dozens, or even hundreds, of U.S.-born babies** with the goal of ‘forging an unstoppable family dynasty’”.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!FIki!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a4ab25f-cf88-451b-a695-f56581c80b6f_1368x486.png)](https://udem.edu.mx/ARQ)
+
+La **Escuela de Arquitectura de la Universidad de Monterrey** forma a profesionales capaces de crear y transformar espacios con una visión ética, creativa y socialmente responsable. Desde el Centro Roberto Garza Sada, “La Puerta de la Creación”, nuestros estudiantes desarrollan proyectos innovadores guiados por expertos en arquitectura y diseño.
+
+Su preparación integra técnicas análogas y digitales, así como el conocimiento de aspectos sociales, culturales y de innovación necesarios para planear y gestionar proyectos arquitectónicos y urbanos en distintos contextos locales e internacionales.
+
+Conoce más sobre la **Escuela de Arquitectura UDEM** en <https://udem.edu.mx/ARQ>
+
+[UDEM](https://udem.edu.mx/ARQ)

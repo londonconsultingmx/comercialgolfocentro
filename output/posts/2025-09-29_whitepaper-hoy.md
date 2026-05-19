@@ -1,0 +1,150 @@
+# Whitepaper, Hoy
+
+> Autozone; Portafolio de Negocios; Grupo Comercial Control; promoción vía influencers; clínicas Cutis; conoce a Edna Sosa; Chambas AI; IPOs; Anthropic; Waymo; Aldi; alternativas a H-1B
+
+**Fecha:** 2025-09-29  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-3dd  
+**Word count:** 1566
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!TQDu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb69c3484-67b7-4abc-b966-d996ce09b603_1456x467.webp)](https://acortar.link/79IezT)
+
+---
+
+#### Refacciones
+
+En el último trimestre **Autozone** sumó **45 tiendas nuevas en México**; tienen ya 883 sucursales en nuestro país.
+
+“*Our Mexico business is doing **very, very well** against a tougher macro backdrop. But we have a lot of confidence in this growth plan. Hence, we’re going to **continue to accelerate** store growth in the future*”, dijo su CEO en la llamada con analistas ([MarketScreener](https://www.marketscreener.com/news/transcript-autozone-inc-q4-2025-earnings-call-sep-23-2025-ce7d58ddd88cf220)).
+
+---
+
+#### Crédito
+
+La cartera de crédito de **Portafolio de Negocios** [ascendió](https://www.bmv.com.mx/docs-pub/infinsom/infinsom_1482248_2025-02_1.pdf) a poco más de $4,000 millones de pesos al cierre del segundo trimestre; esto le generó a la SOFOM —una de las pocas **reguladas** en nuestro país— casi $600 millones de pesos de ingresos por intereses y con ello, un resultado neto de $160 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: creada en 2007, es una SOFOM que se especializa en créditos para empresas. Su consejo está encabezado por **José Ramón Chedraui** (quien es también presidente del consejo de **Chedraui USA**).*
+
+---
+
+#### Tiendas y restaurantes
+
+**Grupo Comercial Control**, la empresa detrás de las tiendas **Del Sol** y **Woolworth**, así como de los restaurantes **Noreste Grill**, proyecta cinco nuevas tiendas y dos restaurantes durante el próximo año. La inversión sería de unos $12 millones de pesos por restaurante y de entre $50 y $80 millones por tienda ([El Financiero](https://www.elfinanciero.com.mx/monterrey/2025/09/26/grupo-comercial-invertira-en-apertura-de-tiendas-y-restaurantes-en-2026/)).
+
+> ***Comentario Whitepaper**: tienen **más de 130 tiendas** en 26 estados, además de cerca de **30 restaurantes**.*
+
+---
+
+#### Con los influencers
+
+Para cantantes y actores que vienen a México a promover conciertos y películas, se volvió una estrategia ‘obligada’ **aparecer junto a los influencers** más populares en nuestro país. En los últimos meses hemos visto desfilar en el canal de **[Robe Grill](https://www.whitepaper.mx/p/el-papa-del-influencer)** a Will Smith, Olivia Rodrigo y a Maluma, entre otros, y ahora Warner Bros recurrió a **José Ramones** y **Emilio Antún** para promover **One Battle After Another** (los influencers entrevistaron al *cast*, incluyendo a Leonardo DiCaprio y Benicio del Toro).
+
+[![](https://substackcdn.com/image/fetch/$s_!f9Z6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8508565-3689-49b7-accd-6ed34a306fc6_1620x1910.jpeg)](https://substackcdn.com/image/fetch/$s_!f9Z6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8508565-3689-49b7-accd-6ed34a306fc6_1620x1910.jpeg)
+
+La estrategia de promoción de esta película en particular ejemplifica cómo están transformándose las campañas de marketing: de acuerdo con el **[NY Times](https://www.nytimes.com/2025/09/26/business/media/marketing-warner-bros-one-battle-after-another.html)**, los estudios de **Hollywood** estarían reduciendo los anuncios en TV y en espectaculares, y apostando más por *word of mouth*, campañas con influencers y preestrenos exclusivos.
+
+*“Warner Bros. used to be known as the ‘**spray and pray**’ studio: With 20 movies released annually, it often spent heavily on TV ads, billboards, bus sides, in-theater displays and lavish premieres. But long gone are the days where you can spend your way to success”*, publicó la semana pasada el [diario](https://www.nytimes.com/2025/09/26/business/media/marketing-warner-bros-one-battle-after-another.html) (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en este tipo de deals es donde se puede apreciar el **valor** de las **audiencias** que han venido construyendo los influencers en nuestro país (prácticamente **sin CAPEX ni concesiones**). Hace nada, los actores de Hollywood iban más bien a programas en los canales de las principales **televisoras**; hoy lo siguen haciendo, en menor medida, pero es indudable que muchos prefieren ahora ir con los influencers.*
+
+---
+
+#### Cuidado de la piel
+
+En tan solo 18 meses, **Cutis** está inaugurando una **cuarta clínica** y viene en camino la **quinta**. Ubicadas en **Monterrey** y **Gómez Palacio**, este modelo de **clínica dermatológica** combina atención protocolizada, operación por medio de enfermeras con supervisión dermatológica remota, y una ‘capa tecnológica’ por medio de la cual buscan escalar de manera eficiente. Aseguran que desde llegaron al mercado han venido logrando un crecimiento compuesto en los ingresos de **26% mensual** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **Cutis** es parte del portafolio de iniciativas de **Sanum Holdings**, que tiene a la cabeza a **[José Antonio Rivero González](https://www.linkedin.com/in/joseantonioriverojr/?originalSubdomain=mx)**.*
+
+---
+
+#### Conoce a: Edna Sosa
+
+[Marketing Director en Lululemon México](https://www.linkedin.com/in/edna-sosa-vargas/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+[![](https://substackcdn.com/image/fetch/$s_!WCVI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc698f9-5f50-4bf7-8f9e-e018561c28b2_1278x1108.jpeg)](https://substackcdn.com/image/fetch/$s_!WCVI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc698f9-5f50-4bf7-8f9e-e018561c28b2_1278x1108.jpeg)
+
+**Edna** llegó a **Lululemon** hace tres años como brand & community manager. Un año después fue nombrada directora de marketing. Antes fue brand manager en **Síclo** durante casi cuatro años, y trabajó previamente en empresas de belleza y agencias de relaciones públicas. Es licenciada en Comunicación por el **Tec de Monterrey** (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-3dd?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NDI2OTc0NSwiaWF0IjoxNzc5MjE1ODY0LCJleHAiOjE3ODE4MDc4NjQsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.33pga2wL4ScpI88Ybium2V1GNReGNx-VvH3Arvo943Y)
+
+---
+
+#### RH
+
+**Chambas AI** es una **bolsa de trabajo,** vía **WhatsApp**, para buscar empleo cerca de su ubicación (y que permite generar un CV con ayuda de AI). Según su CEO, **[Max Werner Rodríguez](https://www.linkedin.com/in/max-werner-rodriguez-11ab50167/)**, en menos de dos años han registrado más de 1 millón de usuarios interactuando con el **bot** y actualmente estarían logrando unos **20 empleos diarios**.
+
+Obtuvieron **$500,000 dólares de inversión** por parte de **Nazca**, recursos que usarán para ampliar la oferta de vacantes y después crecer hacia otras ciudades. Max dijo a **Whitepaper** que, aunque por ahora solo ofrecen empleos de tiempo completo, están viendo una demanda importante por trabajos de medio tiempo (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!pW7Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F689f5da8-6c1d-4655-801d-832945a1fe55_1281x202.jpeg)](http://bit.ly/4pCHhul)
+
+Según MIT, 95% de los proyectos de AI no logra impacto medible en P&L, principalmente por falta de integración y alineación estratégica. **Punk Solutions** desarrolló el **[AI Viewfinder Strategy Workshop](https://punk.solutions/ai-assessment)**, un programa diseñado para alinear al C-Level, priorizar casos transversales y generar un roadmap en cuestión de días.
+
+Para más información: <https://punk.solutions/ai-assessment> o escribe al correo [info@punk.solutions](mailto:info@punk.solutions)
+
+[![](https://substackcdn.com/image/fetch/$s_!vca5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbee4eb6-58a0-4af7-9e87-b5d9c57357d0_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!vca5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbee4eb6-58a0-4af7-9e87-b5d9c57357d0_1281x104.webp)
+
+#### Finalmente, algo de liquidez
+
+En el tercer trimestre hubo **13 IPOs** en EUA de empresas que habían sido **fondeadas por venture capital**. Estas salidas a bolsa generaron $36,400 millones de dólares de valor —**2,861% más** que hace un año ([PitchBook](https://pitchbook.com/news/articles/ipos-and-some-vc-liquidity-finally-arrived-in-q3?utm_medium=newsletter&utm_source=weekend_pitch&sourceType=NEWSLETTER)).
+
+> ***Comentario Whitepaper**: evidentemente, el mercado sigue muy **lejos** de los niveles que alcanzó en 2021. En el segundo trimestre de ese año, por ejemplo, el valor de este tipo de IPOs estuvo a nada de llegar a $160,000 millones de dólares. Luego se **desplomó**, y en todo 2022 los IPOs habrían generado menos de $6,000 millones.*
+>
+> *Ojo que **no todos** los IPOs de este año han resultado **muy exitosos**. En su primera semana como empresa pública, por ejemplo, **Stubhub** ha visto su market cap **retroceder** [cerca de $2,200 millones de dólares](https://www.bloomberg.com/news/articles/2025-09-25/stubhub-s-2-2-billion-spiral-is-worst-start-from-ipo-since-2007?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=b97cdca938c590cb36acc2c774f5318370404059).*
+
+---
+
+#### Internacionalizándose
+
+De acuerdo con **Anthropic**, casi **80%** de la actividad que registra **Claude** se origina fuera de EUA. Su Chief Commercial Officer aseguró que el negocio internacional crece por encima de sus expectativas originales y que por lo tanto, este mismo año están **triplicando** el tamaño de su **equipo de expansión internacional**. Por lo pronto estarían contratando ***country managers*** en países como India, Australia, Corea y Nueva Zelanda ([CNBC](https://www.cnbc.com/2025/09/26/anthropic-global-ai-hiring-spree.html?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=cb382a8263764c07ac350a12160d4b198c3a3933)).
+
+> ***Comentario Whitepaper**: de acuerdo con [The Information](https://www.theinformation.com/articles/ai-startups-join-100-million-arr-club-will-stay?rc=xfuqjy), en los últimos cinco meses al menos **seis** “**AI native startups**” especializadas en soluciones para empresas dijeron que su **ARR** ya supera los $100 millones de dólares. En todo caso, la misma [publicación](https://www.theinformation.com/articles/ai-startups-join-100-million-arr-club-will-stay?rc=xfuqjy) insiste que **esta métrica puede ser engañosa**. “The most obvious flaw with the ARR metric is that a company might hit the $100 million ARR mark based on taking the last month’s revenue and multiplying it by 12, but that doesn’t mean it’ll stay at that level”.*
+
+---
+
+#### *Breves*
+
+* En San Francisco, **Waymo** tendría ya **cerca de 20% de participación** en el mercado de *ride-sharing*. Pero llama la atención que, al menos hasta ahora, su crecimiento **no** está teniendo un impacto negativo en la tasa de empleo de choferes: pareciera más bien que este servicio de taxis autónomos está **expandiendo el mercado**, con personas eligiendo a Waymo en lugar de usar sus propios vehículos ([The Economist](https://www.economist.com/finance-and-economics/2025/09/28/the-economics-of-self-driving-taxis)).
+* “***White men** made up a **majority** of new directors added this year at S&P 500 companies **for the first time since 2017***” —conforme las empresas han venido buscando fortalecer sus consejos de administración con integrantes que tengan experiencia como CEOs, hay muchísimos más **hombres**, y **blancos**, en el *pool* de candidatos potenciales ([Bloomberg](https://www.bloomberg.com/news/articles/2025-09-26/white-men-make-a-comeback-in-america-s-boardrooms?srnd=homepage-americas)).
+* **Aldi** está rediseñando su estrategia de **marcas privadas** y ahora el nombre de la cadena de supermercados estará **siempre visible**: buscan mayor consistencia en la imagen y sobre todo que sus clientes identifiquen que el producto que se llevaron a su casa tiene a Aldi detrás ([Modern Retail](https://www.modernretail.co/marketing/why-aldi-execs-overhauled-their-private-label-brand-strategy/?utm_campaign=mrdis&utm_medium=email&utm_source=mrdaily&utm_content=092625)).
+
+---
+
+#### Todos quieren esos empleados
+
+Aprovechando que la administración del presidente **Trump** está **encareciendo** dramáticamente el proceso para obtener **visas H-1Bs**, otros países buscan convertirse en una alternativa.
+
+El primer ministro de **Canadá**, por ejemplo, [dijo](https://www.bloomberg.com/news/articles/2025-09-27/canada-wants-to-lure-tech-workers-who-won-t-get-us-h-1b-visas) que buscarán rediseñar su estrategia de inmigración para atraer a este tipo de talento, mientras que **Alemania** y **UK** van también [tras este mercado](https://www.bloomberg.com/news/articles/2025-09-27/canada-wants-to-lure-tech-workers-who-won-t-get-us-h-1b-visas). **China** no se quiere quedar atrás, y como parte de su plan para posicionarse como **un país amigable al talento foráneo**, esta semana están lanzando un nuevo programa de visas específicamente para graduados de programas de ciencias, ingenierías y matemáticas (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### Presidente InterContinental Monterrey: El nuevo ícono de lujo en San Pedro
+
+Descubre el nuevo referente de hospitalidad en el corazón de Valle Oriente. Con **293 habitaciones de diseño contemporáneo**, Presidente InterContinental Monterrey ofrece una experiencia exclusiva para quienes buscan confort, estilo y atención impecable.
+
+**Disfruta de:**
+
+* Dos restaurantes de clase mundial: **Lilōu**, con su propuesta contemporánea de autor, y **Chapulín**, donde la cocina mexicana se eleva a una experiencia gourmet única.
+* Bar con ambiente sofisticado y mixología de autor.
+* Gimnasio equipado con tecnología de última generación.
+* Amplios salones para eventos corporativos y sociales.
+
+Ubicado a pocos minutos de los principales centros financieros, comerciales y médicos de Monterrey, es la opción ideal tanto para viajes de negocios como de placer.
+
+**Una nueva era de elegancia, servicio personalizado y confort excepcional en Monterrey. ¡Ven a vivirla!**
+
+Contacto: [presidenteicmonterrey.com](http://presidenteicmonterrey.com/) | Natalia García, Directora de Ventas, [natalia\_garcia@grupopresidente.com](mailto:natalia_garcia@grupopresidente.com)
+
+[![](https://substackcdn.com/image/fetch/$s_!tmJW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c6928fa-72e3-4c35-ae08-152e39558f7b_1900x1069.jpeg)](https://acortar.link/79IezT)
+
+[InterContinental Monterrey](https://acortar.link/79IezT)

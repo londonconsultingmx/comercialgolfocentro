@@ -1,0 +1,123 @@
+# Whitepaper, Hoy
+
+> Kiosko; inversión de España en México; Kuo; multas a bancos; New Era; Cemex; Joby Aviation; Tetra Pak; Target; Spotlight en: Plunge
+
+**Fecha:** 2025-07-16  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-3a6  
+**Word count:** 1285
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!WgK6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2df6d316-8aa9-494a-932e-deecfbc900b2_1636x285.jpeg)](https://www.mapfre.com.mx/particulares/)
+
+---
+
+#### Tiendas de conveniencia
+
+**Kiosko** es un retailer de conveniencia fundado en 2003 en Colima. Forma parte de un grupo que incluye a la **Embotelladora de Colima** —del sistema Coca-Cola— y a **Cervecería de la Costa**, que produce cervezas artesanales.
+
+Tardaron unos siete años en abrir sus primeras 100 tiendas; para 2017 ya tenían 400 y hoy suman más de 890. En agosto inaugurarán la número 900 y esperan alcanzar 1,000 el próximo año.
+
+Sus tiendas están principalmente en Jalisco, Michoacán, Colima, Nayarit y Sinaloa. Venden desde café, botanas y cerveza hasta servicios digitales como pago de recibos y transferencias. Al frente está **[Fernando Velasco Márquez](https://www.linkedin.com/in/fernando-velasco-m%C3%A1rquez-7aa6a02a/)** ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: la **Embotelladora de Colima** se fundó en 1955 y es una de las ocho del país —las más grandes son **Arca Continental** y **Coca-Cola Femsa**. Las tiendas **Kiosko** funcionan como un canal para colocar lo que embotellan, similar a cómo empezó **Oxxo** con las bebidas de **Cervecería Cuauhtémoc**, o lo que hoy hacen **Grupo Modelo** y **Heineken** con **Modelorama** y **Six**.*
+
+---
+
+#### Desde España
+
+En el primer trimestre, España [invirtió](https://www.gob.mx/se/prensa/nuevo-record-de-atraccion-de-ied-en-mexico-al-1t-2025?idiom=es) más de $3,200 millones de dólares en México, equivalente al 15% del total de IED, solo detrás de EUA (con 40%). Más de 70% del capital español [se destinó](https://mexiconewsdaily.com/business/spanish-investment-mexico-first-quarter-2025/) al sector financiero, principalmente a través de **BBVA** y **Santander** (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-3a6?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2Nzc1MDM2NiwiaWF0IjoxNzc5MjE1OTQ0LCJleHAiOjE3ODE4MDc5NDQsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.NBb0e-dHZ-gDOR1r-7-FTSRIGcbnI0JnoZqu7mcp9pc)
+
+---
+
+#### Resultados
+
+**Kuo** vendió $27,084 millones de pesos en el [primer semestre](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1478967_1.pdf), un crecimiento de 8% frente al mismo periodo del año pasado. El segmento de consumo —que incluye su *joint venture* con **Herdez** y la venta de carne de cerdo— creció 18%, aunque esto se compensó con la caída de 5% en su negocio industrial, impactado por menor demanda de clientes automotrices como **GM**, **INEOS** y **Volvo (*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper:** la empresa es un conglomerado industrial enfocado en los sectores de alimentos, químico y automotriz. El año pasado vendieron su negocio de refacciones automotrices a la brasileña **Frasle Mobility**, que habría [pagado](https://substack.com/redirect/82977b07-b491-45d8-9645-dcdd8f4c6402?j=eyJ1IjoiMWdlZGZwIn0.KqGN-Y10cGmeqUvnIgxKcLs2BrS-p7qAA9tU0zcIyTA) unos $389 millones de dólares.*
+
+---
+
+#### Bancos
+
+*“The bulk of Intercam’s fines were imposed on the same day as the US action while most of CIBanco’s and Vector’s were levied on June 26, one day later, suggesting coordination between the countries’ authorities.”*
+
+La **CNBV** multó a **Intercam**, **Vector** y **CI Banco** por inconsistencias en prevención de lavado de dinero y por no notificar a clientes sobre cambios en sus fondos. **Intercam** recibió sanciones por $92 millones de pesos, la mayoría el mismo día que el gobierno de EUA los señaló. Un día después, la CNBV impuso multas a **CI Banco** por $67 millones y a **Vector** por $27 millones ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-15/mexico-fined-firms-intercam-vector-cibanco-targeted-by-us-over-drug-claims)).
+
+---
+
+#### Gorras
+
+Según datos de [El Mister](https://elmister.substack.com/p/dossier-los-numeros-del-rey?utm_source=publication-search), en cinco años **New Era** pasó de vender 90,000 gorras en México a casi 620,000 en 2024, con un crecimiento anual compuesto superior a 47%. A nivel global, [estimaciones](https://www.sportsbusinessjournal.com/Articles/2024/08/08/new-era-completes-acquisition-47-brand/#:~:text=New%20Era%20Cap%20has%20completed,of%20apparel%20and%20accessories%20globally) apuntan a ventas por unos $2,000 millones de dólares; en el país, al frente está **[David Pérez Padilla](https://www.linkedin.com/in/david-perez-padilla-bb9a56b/)** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa abrió oficinas en México en [2012](https://www.newera.mx/pages/100-anos-de-historia). Tiene acuerdos con las principales ligas de EUA (**NFL**, **MLB** y **NBA**) y en México trabaja también con las ligas de beisbol profesional y con la mayoría de los equipos de la **Liga MX**.*
+
+---
+
+#### Reajustes
+
+Como parte de su estrategia de optimización de costos, **Cemex** estaría ajustando su plantilla laboral. Según sus informes trimestrales, en el primer trimestre de 2024 tenían 44,746 empleados, frente a 43,797 en el mismo periodo de este año ([Reforma](https://www.reforma.com/recortan-en-cemex-a-directivos/ar3038932)).
+
+[![](https://substackcdn.com/image/fetch/$s_!Sn4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!Sn4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)
+
+HayCash ofrece financiamiento a cualquier negocio que tenga ingresos con terminal de punto de venta —TPV—, adelantándote hasta 2.5 veces tu venta promedio mensual. Obtenlo en 72 horas, hasta por $10 millones de pesos, sin garantía y de manera 100% digital. El pago del financiamiento se hace directamente reteniendo un porcentaje de la venta diaria en TPV. Para más información contacta a Brandon, CEO , al [+52 1 56 5103 5861](http://wa.me/+5215651035861) o por correo [brandon@haycash.com.mx](mailto:brandon@haycash.com.mx)
+
+[![](https://substackcdn.com/image/fetch/$s_!-EMX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!-EMX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)
+
+#### Taxis en el aire
+
+**Joby Aviation**, una empresa de California que desarrolla **taxis aéreos** totalmente eléctricos, duplicó la capacidad de su planta en ese estado a 24 unidades anuales. El objetivo es comenzar a comercializar sus vehículos el próximo año en Dubái ([TechCrunch](https://techcrunch.com/2025/07/15/joby-aviation-doubles-pilot-evtol-facility-capacity-as-it-races-toward-air-taxi-launch/)).
+
+> ***Comentario Whitepaper**: en [octubre](https://www.whitepaper.mx/p/whitepaper-hoy-5eb?utm_source=post-email-title&publication_id=57583&post_id=149943186&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true), **Toyota** invirtió $500 millones de dólares en Joby, además de los $400 millones que ya había invertido antes.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!LIHM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15200095-06f4-41ec-9490-1374216e8213_1281x579.png)](https://substackcdn.com/image/fetch/$s_!LIHM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15200095-06f4-41ec-9490-1374216e8213_1281x579.png)
+
+---
+
+#### Family offices
+
+La discreta familia detrás de **Tetra Pak**, a través de entidades en varios países, ha acumulado un portafolio de $9,000 millones de dólares, concentrado principalmente en acciones de cinco empresas: **IFF** y **Givaudan**, ambas del negocio de sabores y fragancias, **Linde Plc**, de gases industriales, **Sensient Technologies**, una productora de ingredientes de especialidad y **SIG Group** de empaques. Este portafolio, antes desconocido por el bajo perfil de la familia, abarca inversiones en 100 compañías.
+
+Por su parte, Tetra Pak produjo casi 180,000 millones de empaques el año pasado y generó ingresos por $18,500 millones de dólares ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-15/tetra-pak-s-secretive-rausing-family-builds-9-billion-in-global-stock-bets?srnd=homepage-americas)).
+
+---
+
+#### Perdiendo mercado
+
+Desde su máximo histórico en 2021, las acciones de **Target** han caído 61% y sus ingresos vienen retrocediendo desde 2022, con expectativas de que la tendencia continúe este año. Según entrevistas de [CNBC](https://www.cnbc.com/2025/07/15/target-stock-and-sales-fall-as-ceo-brian-cornell-contract-ends.html) con empleados, proveedores y clientes, la crisis se debe a factores como menos personal en tiendas, productos frecuentemente agotados y pasillos desordenados. A esto se suman nuevos aranceles y la presión de competidores como **Walmart** y **Costco**, que han tomado riesgos con nuevos productos, dejando a Target en un terreno complicado del que tendrá que buscar cómo salir (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el análisis de [CNBC](https://www.cnbc.com/2025/07/15/target-stock-and-sales-fall-as-ceo-brian-cornell-contract-ends.html) va más allá de los resultados; muestra con buenas gráficas cómo se compara Target frente a su competencia. Hace unos años hicimos una [radiografía](https://www.whitepaper.mx/p/target?utm_source=publication-search) de la empresa con datos de 2022, justo antes de que empezaran los problemas.*
+
+---
+
+#### Spotlight en: Plunge
+
+[![](https://substackcdn.com/image/fetch/$s_!mqyC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77abd613-3983-43f4-98b3-6b0231a7e16a_1280x761.jpeg)](https://substackcdn.com/image/fetch/$s_!mqyC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77abd613-3983-43f4-98b3-6b0231a7e16a_1280x761.jpeg)
+
+A diez meses de lanzar su negocio, **Plunge** generaba $750,000 dólares en ingresos y para [2024](https://www.entrepreneur.com/starting-a-business/how-plunge-went-from-a-diy-project-to-a-10-million-business/468174) habrían llegado a vender $100 millones anuales. Fundada en 2020, la empresa empezó vendiendo únicamente tinas de inmersión en agua fría, justo cuando el concepto de *cold plunges* empezaba a popularizarse.
+
+Gran parte del éxito lo atribuyen a haber conseguido el dominio plunge.com, generándoles tráfico orgánico. Esto, junto con una estrategia sólida de *influencer marketing*, los posicionó como la marca líder de su categoría. Sus tinas cuestan alrededor de $8,000 dólares y en 2023 lanzaron también saunas, con precios por encima de $11,000 dólares.
+
+En marzo abrieron una ronda de community funding a través de **Wefunder**, permitiendo que cualquier persona pudiera invertir en la marca. Hasta ahora han recaudado alrededor de $4.3 millones de dólares (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+Transformar una operación compleja en una industria altamente regulada no es tarea sencilla. Requiere visión estratégica, decisiones coherentes y una cultura organizacional comprometida con el cambio.
+
+**MAPFRE** tiene presencia en más de 30 países y, en México, cuenta con una operación sólida que la posiciona como la aseguradora número uno en el ramo de Daños. En 2024 puso en marcha el Plan Estratégico Aztlán, basado en tres pilares clave: Crecimiento, Simplificación y Talento. A partir de esta estrategia, ha alcanzado resultados históricos con el objetivo de posicionarse entre las cinco principales aseguradoras del país.
+
+En la parte final del episodio #84 de **Whitepaper 10** conversamos con Alberto Berges, CEO de MAPFRE y Paulo Butchart, Director Ejecutivo Comercial, sobre cómo se gestiona una transformación de esta magnitud desde dentro, qué implica innovar en una empresa de esta escala y cómo se construye una visión de largo plazo en un entorno que exige resultados inmediatos.
+
+[Escúchalo aquí](https://open.spotify.com/episode/4B5jmrvPgjtLUgg9rbxCGX?si=wScQ-eV7Q_6u0vuP6yWsFQ&t=3946)

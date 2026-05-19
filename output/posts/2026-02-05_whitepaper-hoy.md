@@ -1,0 +1,143 @@
+# Whitepaper, Hoy
+
+> Resultados de BBVA; Numaris y Linzor; Meade en HSBC; La NFL y el Super Bowl en México; Pizzas Plaza; Modelez, O’Reilly y Match; carreteras; Naranja X; Alphabet; NY Times vs Washington Post
+
+**Fecha:** 2026-02-05  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-bb0  
+**Word count:** 1669
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!W4Si!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa840c495-1a1c-4776-8b16-18c1aafe5620_2000x299.jpeg)](https://www.deloitte.com/latam/es/industries/technology/perspectives/tech-trends-2026.html?id=mx:2or:3dn:awa_Tech-Trends-2026:Whitepaper)
+
+---
+
+#### Más de €10,000 millones
+
+“*2025 was **a remarkable year for Mexico** with a very strong performance despite a challenging macro environment*”, [aseguró](https://www.marketscreener.com/news/transcript-banco-bilbao-vizcaya-argentaria-s-a-q4-2025-earnings-call-feb-05-2026-ce7e5adbdf8ef022) la CFO de **BBVA**, describiendo a nuestro país como un mercado en el que **seguirán invirtiendo** porque están convencidos que los retornos serán muy positivos.
+
+El banco reportó que su **participación de mercado** en México **alcanzó 25.6%**, y que la participación que tienen en **depósitos** en específico creció 70 puntos base. A nivel global, sus utilidades [ascendieron a €10,511 millones de euros](https://www.bmv.com.mx/docs-pub/8kmateri/8kmateri_1530065_1.pdf); las operaciones que tienen en nuestro país aportaron **cerca de 45%** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: similar a lo que sucedió en el **conference call de Banorte**, uno de los analistas **cuestionó** el impacto que pudieran estar teniendo los **neobancos** ante nuevas generaciones de clientes. **Onur Genç**, su CEO, [respondió](https://www.marketscreener.com/news/transcript-banco-bilbao-vizcaya-argentaria-s-a-q4-2025-earnings-call-feb-05-2026-ce7e5adbdf8ef022) que el año pasado **sumaron 4.7 millones de clientes nuevos en México**, que éstos lo que más valoran es la experiencia, y además que están relativamente protegidos por la relación que tienen con empresas (porque **tienen sus nóminas**).*
+>
+> *Interesante que **Genç** [destacó](https://www.marketscreener.com/news/transcript-banco-bilbao-vizcaya-argentaria-s-a-q4-2025-earnings-call-feb-05-2026-ce7e5adbdf8ef022) también que **algunos de los neobancos ya no son tan nuevos** —“Those new banks that you are mentioning, and **some of them have been there for many years now**. There are newcomers, but they are also very entrenched now players in Mexico on the new bank side. They have been there for quite a long time”* (*[en este artículo](https://www.whitepaper.mx/p/en-otra-escala-bbva-mexico?utm_source=publication-search) analizamos **la fórmula** que le ha funcionado a **BBVA en México**)*.
+
+---
+
+#### Search funds
+
+**Numaris** es un search fund que fue creado en 2021 por **[Mateo Cantú](https://www.linkedin.com/in/mcrt/?originalSubdomain=mx)** y **[Juan Pablo Baeza](https://www.linkedin.com/in/juan-pablo-baeza-062724217/)** y que ha venido haciendo un*roll-up* de empresas que ofrecen servicios de **telemática** para administrar flotillas de vehículos. En cuatro años **compraron seis empresas** dedicadas a este tipo de servicios, y con ello crecieron a cerca de 220,000 vehículos supervisados por sus sistemas.
+
+Ahora los inversionistas originales estarían **vendiéndole sus acciones** a **Linzor**, una firma de private equity originaria de **Chile**, que se queda por lo tanto [con una mayoría](https://linzorcapital.com/linzor-capital-partners-announces-the-raising-of-fourth-fund-and-new-investments/) en la empresa. **Baeza** seguirá como CEO, **Cantú** se queda en el consejo (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: de acuerdo con personas cercanas a la empresa, se trata de una transacción que habría superado las expectativas de los inversionistas originales.*
+
+---
+
+#### El presidente
+
+**HSBC México** [designó](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1529889_1.pdf) a **[José Antonio Meade](https://www.linkedin.com/in/jos%C3%A9-meade-kuribre%C3%B1a-229b9116/)** como **presidente** de su consejo de administración —un nombramiento [efectivo](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1529889_1.pdf) desde el pasado 3 de febrero. Esa función era ocupada por **[Jorge Arce](https://www.whitepaper.mx/p/la-entrevista-jorge-arce)**, quien ha sido director general del banco desde febrero de 2020 y presidente del consejo desde enero de 2022 (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!mPLF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a0c4fe-d00b-48fd-a918-afc83e9e1c4f_1526x1004.jpeg)](https://substackcdn.com/image/fetch/$s_!mPLF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a0c4fe-d00b-48fd-a918-afc83e9e1c4f_1526x1004.jpeg)
+
+> ***Comentario Whitepaper**: **Susana Sáenz** [entrevistó el año pasado a Jorge Arce](https://www.whitepaper.mx/p/la-entrevista-jorge-arce). En el consejo de **HSBC** están también [Claudia Jañez](https://www.linkedin.com/in/claudia-janez-a1107b2/) y Vanessa Rubio, entre otros.*
+
+---
+
+#### Entre deportes y negocios: La NFL y el Super Bowl en México
+
+[![](https://substackcdn.com/image/fetch/$s_!qiM4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf23a4bd-277b-4a5e-a4ca-e2803f054707_1280x850.jpeg)](https://open.substack.com/pub/whitepaper/p/entre-deportes-y-negocios-la-nfl?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+México juega un papel relevante en la estrategia de expansión internacional de la NFL. Prueba de ello es la llegada de partidos de temporada regular al país: en México se han disputado hasta ahora cinco partidos de la liga, el último en 2022, aunque esta semana se anunció un acuerdo con el renovado Estadio Azteca para que regrese la liga con partidos el 2026, 2027 y 2028. En total, han habido 62 partidos oficiales fuera de EUA, siendo UK el país que más ha tenido, con 42 y seguido de Canadá con seis.
+
+Con 40 millones de aficionados a la NFL, México está solo por detrás de EUA en el número de fans. De acuerdo con datos de la propia NFL, mientras que en EUA el 40% de la población es aficionada a la NFL, en nuestro país esto es así para 30% de la población.
+
+[Leer el artículo completo](https://open.substack.com/pub/whitepaper/p/entre-deportes-y-negocios-la-nfl?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Pizza
+
+**Pizzas Plaza** es una cadena de pizzerías mexicana fundada en 1979 por la familia **Góngora Albuerne** en el sur de la Ciudad de México, y que opera actualmente bajo la holding Grupo Baluarte Gastronómico. Con una estructura vertical que les permite controlar toda la cadena de valor, desde el procesamiento de ingredientes hasta la operación de sus **15 sucursales**, la empresa ha apostado por mantener el negocio dentro de la familia, **sin franquicias** y con capital 100% propio. Hoy emplean a **más de 300 personas**.
+
+**[Julio Góngora](https://www.linkedin.com/in/julio-gongora-a4201249/?originalSubdomain=mx)**, director de operaciones de Pizzas Plaza, dijo a **Whitepaper** que actualmente están en proceso de construir un nuevo centro de distribución de 800 m², con el que buscan **escalar su operación hasta 30 sucursales adicionales** en el futuro. La compañía reporta un crecimiento anual de ventas de aproximadamente 12% **(*****Redacción Whitepaper*****).**
+
+---
+
+#### Figurando en los resultados…
+
+* “*If you look at **Mexico**, there was **a big comeback**. The country is now in growth territory and doing fairly well*” —el CFO de **Mondelez**, en la [llamada trimestral](https://www.marketscreener.com/news/transcript-mondelez-international-inc-q4-2025-earnings-call-feb-03-2026-ce7e5bd3df8df62c). La empresa detrás de **Oreo** tiene en **Monterrey** una de las fábricas de galletas más grande del mundo, y en 2022 [le compró Ricolino a Bimbo](https://www.whitepaper.mx/p/en-la-misma-repisa-oreo-picafresa?utm_source=publication-search) (***Redacción Whitepaper***).
+* **O’Reilly** reportó que el número de tiendas que tienen en México [creció](https://www.sec.gov/Archives/edgar/data/898173/000089817326000006/orly-20260204xex99d1.htm) de 87 en diciembre de 2024, **a 112** en diciembre de 2025 (***Redacción Whitepaper***).
+* “*In the second half of 2025, **Hinge** successfully launched in both **Mexico** and Brazil, where very early results have far **outpaced our expectations**. Hinge was already the second most downloaded dating app in Mexico and Brazil as of December 2025 and is clearly resonating with intentioned daters*” —el CEO de **Match Group**, durante la más reciente [llamada trimestral](https://www.marketscreener.com/news/transcript-match-group-inc-q4-2025-earnings-call-feb-03-2026-ce7e5bd3df8df623) (aunque aclaró que el proceso de **monetizar** esta operación en nuestro país “**tomará tiempo”**). A finales del año pasado [entrevistamos](https://www.whitepaper.mx/p/el-objetivo-es-que-la-borres?utm_source=publication-search) a [Justin McLeod](https://www.linkedin.com/in/justin-mcleod-b43156134/), **fundador de Hinge** (***Redacción Whitepaper***).
+
+---
+
+#### Carreteras
+
+De acuerdo con un [análisis](https://www.bmv.com.mx/docs-pub/eventoca/eventoca_1528902_2.pdf) de **HR Ratings**, la **red federal de carreteras** continúa siendo el eje principal de la movilidad de carga y pasajeros en México, concentrando más de 58% del transporte de mercancías y cerca de 94% del traslado de personas en 2024.
+
+En este contexto, el Paquete Económico 2026 plantea un mayor gasto en infraestructura: un total de $536,800 millones de pesos para proyectos prioritarios, incluyendo la conservación de más de 45,000 kilómetros de carreteras, así como la construcción y modernización de 10 corredores estratégicos (que suman 2,220 kilómetros y representan una inversión de $112,173 millones). La calificadora destaca que estas inversiones responden al crecimiento del parque vehicular, que a finales de 2024 superó 61 millones de unidades, y a factores estructurales como la expansión industrial (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** el crecimiento acelerado de los parques industriales incrementa la presión sobre el sistema de carreteras, señalan en el reporte. Según la AMPIP, México cuenta hoy con alrededor de 460 parques industriales en 28 estados, y el Plan México prevé sumar cerca de 100 adicionales.*
+
+---
+
+#### Otra que busca ser banco
+
+**Grupo Financiero Galicia**, la holding que está detrás de uno de los bancos más grandes en **Argentina**, está [tramitándole una](https://www.sec.gov/Archives/edgar/data/1114700/000111470026000014/a02042026-nxtnmexico.htm) **[licencia bancaria](https://www.sec.gov/Archives/edgar/data/1114700/000111470026000014/a02042026-nxtnmexico.htm)** a la subsidiaria que tienen en México. Tienen un neobanco llamado **Naranja X**, que [contaría](https://gfgsa-stag.s3.amazonaws.com/app/uploads/2025/11/25142445/Investor-Presentation-Nov25-1.pdf) con más de 9 millones de tarjetas de crédito en Argentina (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!_tmB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51f1fd35-5665-49aa-ad83-81e55c5dc771_1281x160.webp)](https://substackcdn.com/image/fetch/$s_!_tmB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51f1fd35-5665-49aa-ad83-81e55c5dc771_1281x160.webp)
+
+La cobranza es uno de los mayores frenos al crecimiento en México.
+
+Por eso más empresas están migrando a Savio. Hoy, más de **700 negocios** usan la plataforma para cobrar más de $4,000 millones al mes, reducir cartera vencida y mejorar flujo de efectivo.
+
+**[Savio](http://savio.mx/whitepaper)** automatiza facturación, ligas de pago y seguimiento por email y WhatsApp con IA, conectándose a los bancos para identificar pagos. Si tu empresa sigue usando Excel o procesos manuales, vale la pena conocerlo.
+
+[Agenda un demo](http://savio.mx/whitepaper) o [escríbele](mailto:hugo@savio.mx) a [Hugo](https://www.linkedin.com/in/hugomtze/), co-founder de Savio para conocer más.
+
+[![](https://substackcdn.com/image/fetch/$s_!TrZ2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac8b6def-3c3a-4e0f-bf42-d1533219e750_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!TrZ2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac8b6def-3c3a-4e0f-bf42-d1533219e750_1281x104.webp)
+
+#### ¿El siguiente BYD?
+
+**Leapmotor** está creciendo de manera **exponencial**: la armadora de China vendió 600,000 vehículos el año pasado —**dos veces más** que en 2024 y cuatro veces más que en 2023. Se especializan en modelos eléctricos e híbridos que son **más bien sencillos y de muy bajo costo**. Van por el mercado internacional, y ya en 2025 exportaron al menos 60,000 unidades ([Financial Times](https://www.ft.com/content/15e2364e-6ad0-4b28-90b7-7dc43412edd3?shareType=nongift)).
+
+> ***Comentario Whitepaper**: **Stellantis** es dueña de 20% de Leapmotor.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-bb0?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4Njc1NjM0MCwiaWF0IjoxNzc5MjE1NzM5LCJleHAiOjE3ODE4MDc3MzksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Uww-HZLMOWGP18iaxLT0hJF41QcaSSwzlEkWdMEAPTg)
+
+---
+
+#### Difícil de dimensionar
+
+**Alphabet** superó **$400,000 millones de dólares** de ingresos totales en 2025 y con ello, las **utilidades** se dispararon a **$132,000 millones.** Estos resultados se deben en gran medida al crecimiento en las ventas de **publicidad** en Google y en YouTube, así como a un extraordinario avance en su negocio de **Cloud** ([WSJ](https://www.wsj.com/tech/alphabet-q4-earnings-2025-googl-stock-fb9a4e9c?st=ReZD6G)).
+
+---
+
+#### Periódicos
+
+**Dos historias muy distintas**: por un lado, el **NY Times** [presumió](https://www.nytimes.com/2026/02/04/business/media/new-york-times-earnings.html?smid=nytcore-ios-share) que el año pasado sumó 1.4 millones de suscriptores nuevos, creciendo así su base total de suscriptores a **casi 12.8 millones**. Con ello, sus ingresos anuales superaron los $800 millones de dólares y generaron **$192 millones de utilidad**.
+
+Por otro lado —y debido a las pérdidas en las que ha venido incurriendo— el **Washington Post** estaría **despidiendo a cerca de 30% de sus empleados**. De un equipo de 800 reporteros, el recorte afectará a más de 300 integrantes (además de empleados en las áreas de negocio). “*The cuts are a sign that **Jeff Bezos**, who became one of the world’s richest people by selling things on the internet, **has not yet figured out how to build and maintain a profitable publication on the internet***”, [señaló el NY Times](https://www.nytimes.com/2026/02/04/business/media/washington-post-layoffs.html?smid=nytcore-ios-share) (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!0XIx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448ddb6d-78eb-4c29-a31f-6b6ae8c311c9_2000x299.jpeg)](https://www.deloitte.com/latam/es/industries/technology/perspectives/tech-trends-2026.html?id=mx:2or:3dn:awa_Tech-Trends-2026:Whitepaper)
+
+La transformación empresarial no sólo depende de adoptar tecnología, sino de decidir cómo escalarla para lograr un impacto real en el desempeño de los negocios. [TechTrends 2026](https://www.deloitte.com/latam/es/industries/technology/perspectives/tech-trends-2026.html?id=mx:2or:3dn:awa_Tech-Trends-2026:Whitepaper) demuestra que la ventaja competitiva está en la integración de IA, datos, nube y ciberseguridad en el *core* de la operación empresarial.
+
+El desafío para los líderes de negocio será pasar de la experimentación a la toma de decisiones estructurales, que redefinan la operación, el capital humano y la experiencia del cliente. Hoy, liderar desde la tecnología significa gestionar con claridad, velocidad y propósito.
+
+Contáctalos aquí: [centrodecontacto@deloittemx.com](mailto:centrodecontacto@deloittemx.com)
+
+[Explora TechTrends 2026](https://www.deloitte.com/latam/es/industries/technology/perspectives/tech-trends-2026.html?id=mx:2or:3dn:awa_Tech-Trends-2026:Whitepaper)

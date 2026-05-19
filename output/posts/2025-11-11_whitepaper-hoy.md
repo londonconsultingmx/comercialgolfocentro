@@ -1,0 +1,143 @@
+# Whitepaper, Hoy
+
+> TE Connectivity; el IPO de Esentia Energy; Hinge en México; Vesta Software Group; el call center de Banorte; la evolución de RH; Museo del Jamón; “vintage Lululemon”; Apollo y el Atlético; Montage
+
+**Fecha:** 2025-11-11  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-42f  
+**Word count:** 1315
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!lbGw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5623b265-7ada-400f-bbdb-3840736b515d_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+---
+
+#### Eléctricos
+
+**TE Connectivity** [construirá](https://clusterindustrial.com.mx/te-connectivity-anuncia-inversion-de-600-mdp-en-nueva-planta-en-queretaro/) en **Querétaro** una nueva planta: es un proyecto de $600 millones de pesos para fabricar conectores eléctricos, sensores y otros componentes **para vehículos eléctricos**. Será su segunda instalación en ese estado; también tiene presencia en Sonora, Chihuahua y Jalisco (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el año pasado vendieron cerca de $16,000 millones de dólares a nivel global, de los cuales $559 millones fueron en América (sin contar EUA).*
+
+---
+
+#### Otro IPO
+
+Apenas unos días después del IPO de **Aeroméxico**, ahora le toca el turno a **Esentia Energy Systems**: especializada en transporte e importación de **gas natural**, la empresa de CDMX busca obtener hasta $610 millones de dólares en una colocación **en la BMV** y simultáneamente **en EUA** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: operan un sistema de ductos de **más de 2,000 kilómetros** que transporta gas natural de Texas, al centro del país (ingresos anuales de unos $370 millones de dólares). Fue fundada en 1995 por los hermanos Calvillo, como **Fermaca**. En 2014, una firma suiza de private equity adquirió una participación mayoritaria ([aquí un artículo](https://www.whitepaper.mx/p/fertilizantes-y-data-centers?utm_source=publication-search) que publicamos en verano).*
+
+---
+
+#### *Dating* en México
+
+[![](https://substackcdn.com/image/fetch/$s_!KcXy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1ad6f68-9052-44f1-b3a8-6385ff7f8985_2440x1940.jpeg)](https://substackcdn.com/image/fetch/$s_!KcXy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1ad6f68-9052-44f1-b3a8-6385ff7f8985_2440x1940.jpeg)
+
+Fundada en 2012 por **[Justin McLeod](https://www.linkedin.com/in/justin-mcleod-b43156134/)**, Hinge fue adquirida por Match Group en 2019. **México** es su más nuevo mercado, y en entrevista con **Whitepaper** McLeod explicó que en sus tableros de indicadores comenzaron a ver que aún y cuando su app no estaba disponible aquí, había mucha gente que la estaba usando desde nuestro país (suponen que se trata de personas que la descargaron en otros países, la comunidad de **expats**, etc.). Hinge estima que el tamaño de mercado en México debiera estar muy por encima de 2 millones de personas; ellos **proyectan un millón de usuarios** en el corto plazo.
+
+[Leer el artículo completo](https://open.substack.com/pub/whitepaper/p/el-objetivo-es-que-la-borres?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Software
+
+**Apesa**, una empresa que desarrolla software para instituciones financieras mexicanas, está siendo [adquirida](https://www.vestasoftwaregroup.com/vesta-software-group-acquires-apesa-software/). Tiene 30 años de historia y [clientes](https://apesa.mx/) como **Afirme**, **Banca Mifel**, **Compartamos**, **BanBajío** y **Cetesdirecto.**
+
+La compradora es **Vesta Software Group**, con sede en UK, que se dedica justo a comprar empresas de software alrededor del mundo. Según la propia empresa, a las organizaciones adquiridas les inyecta recursos para crecer y les permite mantener su autonomía (y aseguran que nunca han vendido una de sus compañías). **Apesa** sería su primera empresa en México **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: **[Kallie Parchman](https://www.linkedin.com/in/kallie-parchman/overlay/about-this-profile/)** contó a **Whitepaper** que esta es su onceava adquisición en América Latina (la mayoría en Uruguay), con lo que cerca de la mitad de su portafolio estaría en la región.*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿A cuál y a qué destino?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-42f/comments)
+
+---
+
+#### Call centers
+
+**Banorte** [inició](https://mexicobusiness.news/finance/news/banorte-invests-mx741-million-expand-monterrey-contact-center) la **expansión** de su centro de contacto en **Monterrey**, donde invertirá más de $40 millones de dólares para prácticamente **duplicar su tamaño**. Desde ahí gestionan más de 45 millones de interacciones al año —llamadas, mensajes y correos incluidos (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!2WYO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdbd6581-ebdc-4d5b-a3e1-3351dd01ef34_1281x164.webp)](https://www.inbest.cloud/inbest-whitepaper)
+
+**Ciberseguridad, real.**
+
+**iNBest** impulsa una estrategia de ciberseguridad con **automatización e inteligencia artificial**, capaz de **detectar, responder y prevenir incidentes** antes de afectar la operación. Combina visibilidad total del entorno **multicloud** con respuestas autónomas que reducen la dependencia humana y fortalecen la resiliencia empresarial.
+
+**Oferta especial:** iNBest ofrece **una evaluación gratuita de seguridad cloud** para empresas que busquen medir el nivel real de exposición de su infraestructura digital.
+
+**[Solicita tu evaluación de seguridad gratis](https://www.inbest.cloud/inbest-whitepaper)**
+
+[![](https://substackcdn.com/image/fetch/$s_!zncH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e91c44-25ee-4f90-91f0-b8c81b7d9d44_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!zncH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e91c44-25ee-4f90-91f0-b8c81b7d9d44_1281x104.webp)
+
+#### La evolución de RH
+
+El número de personas empleadas por las áreas de RH de las empresas de EUA aumentó 64% en la última década —muy por encima del crecimiento del empleo en general. El **nivel de sueldo** de los responsables en esta área también ha aumentado de manera muy significativa.
+
+Lo anterior se explica por diversas razones, incluyendo una mayor carga regulatoria relacionada con temas laborales, pero sobre todo por el **énfasis en el talento**, así como los constantes retos que ha venido enfrentado esta función a lo largo de los últimos años ([The Economist](https://www.marketscreener.com/news/mexico-s-esentia-expects-to-raise-610-million-in-ipo-ce7d5fd8df88ff23)).
+
+> ***Comentario Whitepaper**: está muy interesante el artículo. Dice que ahora hay CEOs que antes fueron CHROs (incluyendo a quienes están a la cabeza de GM, Chanel y Dunkin’), y también habla del impacto que está teniendo en esta área la implementación de herramientas de AI.*
+
+---
+
+#### Whitepaper 10: Reportes trimestrales
+
+En el deep dive de esta semana discutimos los reportes trimestrales de algunas empresas, incluyendo Laureate Education, Santander y Walmex.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/111-whitepaper-10-deep-dive-reportes-trimestrales/id1584711514?i=1000736176134), [Spotify](https://open.spotify.com/episode/5X5Ig73OvAqK6DcGpQcnWI?si=p6-5-6HTSvWt2S8ZG48H-w), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### *Breves*
+
+* En España, **Museo del Jamón** tuvo ventas de **€30 millones de euros** el año pasado y un margen EBITDA de 12%. La siguiente generación de la familia **Muñoz Sánchez** busca más que **triplicar** los ingresos de su empresa y para ello están **expandiéndose** a ciudades como Málaga y Valencia, así como también planeando su crecimiento en otros países —**incluyendo México** ([Expansión.es](https://www.expansion.com/empresas/distribucion/2025/11/10/691119eee5fdeaf5048b45aa.html)).
+* Dentro de las plataformas especializadas en **ropa de segunda mano** están disparándose las búsquedas de “**vintage Lululemon**”: entre los integrantes de **Gen-Z** hay cada vez mayor interés por ***athleisure*** más bien ***retro*** ([NY Times](https://www.nytimes.com/2025/11/07/style/vintage-gym-outfit-workout-leggings.html?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=6f2a5d58f1feb9a86359dae83bcad8d7bd7372d8)).
+* El número de **alumnos** que llegaron a **estudiar a EUA** se redujo 19% en agosto —es el quinto mes consecutivo con una disminución, y el **número más bajo desde la pandemia**. “*The measures implemented during the summer application season have had **a chilling effect** on students eyeing the US for advance education, leading to billions of dollars in **lost revenue for US universities***” ([Bloomberg](https://www.bloomberg.com/news/articles/2025-09-22/us-student-visa-arrivals-fall-to-four-year-low-led-by-asia-drop)).
+* **SoftBank** reportó **utilidades trimestrales de $16,200 millones de dólares** —el **doble** que en el trimestre pasado— en gran medida gracias al aumento en el valor de sus inversiones en **empresas de AI** (empezando por OpenAI). Por lo pronto, ya realizó una parte de esas ganancias: obtuvo $5,800 de dólares al vender toda la participación que tenía en **Nvidia** ([FT](https://www.ft.com/content/5f04e0e2-7a9c-4885-92a3-9ed5242c7d38)).
+* **Apollo Global Management** [adquirió](https://en.atleticodemadrid.com/noticias/atletico-de-madrid-to-welcome-apollo-sports-capital-as-majority-shareholder) una participación mayoritaria en el **Atlético de Madrid** (dueño también del **Atlético San Luis**, de la **Liga MX)**. La [valuación](https://www.bloomberg.com/news/articles/2025-11-10/apollo-joins-rivals-buying-sports-teams-in-atletico-madrid-deal) habría sido de $2,900 millones de dólares. Es el primer *deal* del fondo de $5,000 millones que **Apollo** destinará exclusivamente a la industria del deporte (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-42f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3ODUxNzQyOSwiaWF0IjoxNzc5MjE1ODE4LCJleHAiOjE3ODE4MDc4MTgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Ir8OlEEu1C75W2_19hav-J9oyLHd-VWNRcxf1baavPQ)
+
+---
+
+#### *Jets*
+
+Las afectaciones en los aeropuertos de EUA, derivadas del famoso *shutdown*, están generándole un aumento de demanda a las empresas que ofrecer vuelos en **aviones privados**. En el caso de **Flexjets**, por ejemplo, su CEO dijo que en los primeros días de noviembre **creció más de 40%** el número de horas de servicio que brindaron. Un reto adicional es que los 12 aeropuertos más grandes en ese país están **restringiendo** las operaciones de este tipo ([CNBC](https://www.cnbc.com/2025/11/10/private-jet-demand-government-shutdown.html)).
+
+> ***Comentario Whitepaper**: ojo que no es nomás para aviones privados —**Hertz** también está [registrando](https://www.cnbc.com/2025/11/10/private-jet-demand-government-shutdown.html) un fuerte aumento en el número **de reservas one-way**.*
+
+---
+
+#### Más caros
+
+La **distancia** entre lo que cuestan los hoteles de lujo y el resto continúa **aumentando**, pero aún así las marcas más caras no ven una desaceleración en la demanda. Cadenas como **Montage**, por ejemplo, planean acelerar su expansión y **duplicar su** ***footprint***en los próximos tres años.
+
+“***Multigenerational trips** are more popular than in the past, with **grandparents** paying for accommodations large enough to include their children and grandchildren*” ([WSJ](https://www.wsj.com/real-estate/commercial/wealthy-travelers-are-splurging-on-luxury-hotels-like-never-before-67c25bb6?mod=wknd_pos1)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!0Vqw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb966f03e-7181-4ced-803a-65402db7bd9a_1080x195.png)](https://londoncg.com/es/contactanos-mexico)
+
+**London Consulting Group** es una empresa de consultoría enfocada en incrementar la rentabilidad de sus clientes.
+
+Con sólida presencia en México y presencia global en 26 países, se dedican a elevar la productividad y eficiencia operativa de organizaciones en diferentes giros.
+
+Su metodología se enfoca en la optimización de procesos y estrategias, con un alto enfoque en la gestión del cambio. Su implementación activa y efectiva de soluciones genera, en promedio, un retorno de inversión de 5 a 1.
+
+Visita su página web [www.londoncg.com](http://www.londoncg.com/) o contacta a Luis Ortiz -*CEO & Founder Mexico*- al [luis.ortiz@londoncg.com](mailto:luis.ortiz@londoncg.com) y comienza la transformación de tu empresa.
+
+[London Consulting Group](https://londoncg.com/es/contactanos-mexico)

@@ -1,0 +1,135 @@
+# Whitepaper, Hoy
+
+> Terminal ferroviaria; camiones; ingresos del top 5%; Norte 19; Arcos Dorados; cajas de cartón; 'clippers'; supermercado a domicilio de Amazon; Birkenstock; baterías para la casa; K-Pop en México
+
+**Fecha:** 2025-08-14  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-d6d  
+**Word count:** 1446
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!f8w7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd9fa131-fb30-4a7e-a2b5-e364a9141ec6_1094x201.webp)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+---
+
+#### Trenes
+
+**Grupo México Transportes** y **Bartlett**, una empresa agroindustrial con sede en Kansas, invirtieron $52 millones de dólares en una nueva terminal agrícola en Nuevo León. La empresa mexicana habría aportado $18 millones para un circuito ferroviario que abastecerá de maíz y trigo a la terminal de **Bartlett** ([El Norte](https://www.elnorte.com/invierten-gmexico-y-bartlett-52-mdd-en-terminal-agricola/ar3055054)).
+
+---
+
+#### Camiones
+
+Durante julio, la producción de [vehículos pesados](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/rm_raiavp/rm_riavp2025_08.pdf) en México cayó más de 55%, al pasar de 21,517 unidades en julio de 2024 a 9,668 este año. En el acumulado de los primeros siete meses, el retroceso fue de 26% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: destaca el caso de **International**, de **Traton Group**, cuya producción mensual cayó casi 75%. “Responding to the weak demand, International Motors has removed the second shift in its Mexico production plant, where Class 8 trucks are produced”, explicó su CFO en su [informe trimestral](https://traton.com/en/newsroom/press-releases/traton-group-increases-incoming-orders-significantly-in-a-mixed-first-half-of-2025.html).*
+>
+> *En cuanto a **Freightliner**, de **Daimler Trucks**, su producción en México ha disminuido cerca de 25% en lo que va del año. Entre las dos marcas concentran 85% de la producción nacional.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-d6d?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MDg5OTcyNiwiaWF0IjoxNzc5MjE1OTEyLCJleHAiOjE3ODE4MDc5MTIsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ahN-T8z9wb_yc7zD6Ies8-Q3R6kI0ALiPR0GpIbaDNg)
+
+---
+
+#### Lo que gana el top 5%
+
+El equipo de **Margin** hizo un análisis para tratar de calcular el nivel de ingresos del top 5% de la población en México (el artículo completo está [disponible aquí](https://www.margin.mx/p/el-top-5?utm_campaign=email-post&r=67640&utm_source=substack&utm_medium=email)). Entre otras cosas, estiman que el top 10% (i.e. el décimo decil) tendría un **ingreso promedio de aproximadamente $290,000 pesos mensuales** —cuatro veces más que lo que calculó la ENIGH, de INEGI, en 2022. En consecuencia, implicaría que alrededor de **56% del ingreso total del país** estaría **concentrado** en manos de dicho top 10% ([Margin](https://www.margin.mx/p/el-top-5?utm_campaign=email-post&r=67640&utm_source=substack&utm_medium=email)).
+
+[![](https://substackcdn.com/image/fetch/$s_!VfI_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaeb200f-bd0a-4153-ade1-4cf867d8b548_1620x1310.jpeg)](https://substackcdn.com/image/fetch/$s_!VfI_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaeb200f-bd0a-4153-ade1-4cf867d8b548_1620x1310.jpeg)
+
+---
+
+#### Hoteles
+
+**Norte 19** estaría **cancelando** el proyecto de su plataforma tecnológica, con lo que dejaría de gastar alrededor de $200 millones de pesos al año. En esta división habían desarrollado **Front2Go**, un sistema operativo por medio del cual gestionan 80 hoteles.
+
+El enfoque será exclusivamente en la operación hotelera. Actualmente cuentan con más de 150 hoteles, con 17,000 habitaciones, y estarían en negociaciones para operar otros nueve, ubicados en Chile, Perú y El Salvador *(**Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en el [segundo trimestre](https://norte19.com/investors) generaron $1,049 millones de pesos de ingresos, 7.7% más que el mismo periodo del año pasado (aquí [un artículo](https://www.whitepaper.mx/p/de-city-express-a-norte-19) sobre la transformación de **City Express** a **Norte 19**).*
+
+---
+
+#### Hamburguesas y nuggets
+
+*“**Mexico** had a very strong quarter with plus 12% in sales, and you know, it was the highest in the market (…) We are seeing a similar trend in the beginning of the third quarter”.*
+
+En su primera llamada con analistas como CEO de **Arcos Dorados**, **[Luis Raganato](https://www.linkedin.com/in/luis-raganato-606397b8/?originalSubdomain=br)** destacó el crecimiento de su negocio en nuestro país. Operan más de 2,400 **McDonald’s** en 21 países de América Latina y el Caribe y en total registraron $2,219 millones de dólares en el semestre, un crecimiento de poco más de 1% frente al mismo periodo del año pasado (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: México es el segundo mercado más importante para **Arcos Dorados**, después de Brasil. En 2024 vendieron $447 millones de dólares en el país (10% del total de la empresa). Dos años antes, eran $278 millones —7.6% del total.*
+>
+> *Como contexto, México es el mercado [más importante](https://www.whitepaper.mx/p/whitepaper-hoy-a9a?utm_source=post-email-title&publication_id=57583&post_id=156464272&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true) para **Carl’s Jr** fuera de EUA — representa cerca de **60% de sus ventas internacionales**. A diferencia de McDonald’s, que opera con un solo franquiciatario (Arcos Dorados), Carl’s Jr tiene más de 20 en el país.*
+
+---
+
+#### Cajas de cartón
+
+Un segmento en el que se refleja la **incertidumbre** de las empresas respecto de los **aranceles** es el de las cajas de cartón. Empresas como International Paper Co. y Smurfit Westrock Plc están reportando una **disminución** en el volumen de cajas vendidas en EUA ([Bloomberg](https://www.bloomberg.com/news/articles/2025-08-14/cardboard-box-sales-fall-in-worrying-sign-for-us-retail?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: la irlandesa Smurfit Westrock* *tiene una operación muy relevante en México. El año pasado, sus ventas en nuestro país crecieron 45%, a casi $2,000 millones de dólares. Producen cartón y papel, incluyendo cajas y bolsas, y cuentan aquí con al menos 6 plantas (incluyendo la de **CartonBox***, *una empresa especializada en empaques de cartón plegadizo de Monterrey que compraron en 2021). En el consejo de **Smurfit** está **[Lourdes Melgar](https://www.linkedin.com/in/lourdesmelgar/?originalSubdomain=mx)**, quien fuera subsecretaria en la Secretaría de Energía (y quien está también en los consejos de Cemex y de Santander México).*
+
+---
+
+#### *Clippers*
+
+“*Clipping is **one of the hottest corners of marketing**. Instead of just posting on their own accounts, creators and companies pay clippers like Cunningham to **saturate TikTok and Instagram with bite-size videos** until they are almost impossible to miss. One technique they use to grab attention on crowded social-media platforms: posting **provocative or outrageous content** (…) Anything can be clipped: a **podcast**, debate, social-media montage, even movies*”.
+
+Detrás de los millones de **videos cortos** que inundan a las plataformas de social media, hay ‘**ejércitos**’ de clippers: personas a quienes les pagan por identificar las escenas que llamarán la atención, recortarlas, y subirlas a TikTok e Instagram. Existen marketplaces especializados en conectar a las empresas con clippers, quienes por lo general, por cada 1,000 views de los mini videos que preparan y suben, reciben desde 50 centavos, hasta $2 dólares ([WSJ](https://www.wsj.com/tech/meet-the-clippers-cashing-in-on-your-social-media-feeds-f21c104a?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=perplexity-s-price-goes-up&_bhlid=a3b44778b7f73a319b2e6071d817d4a63e730244)).
+
+---
+
+#### *Breves*
+
+* El servicio de supermercado a domicilio de **Amazon**, en EUA, permitirá a clientes en **1,000 ciudades** de ese país ordenar **perecederos** que serán entregados el mismo día (incluyendo lácteos, carnes y frutas). Para los miembros de **Prime**, las órdenes de más de $25 dólares de valor no generan costo de ***delivery***. La empresa planea tener este servicio disponible en más de 2,300 comunidades para finales de año ([Reuters](https://www.reuters.com/business/retail-consumer/amazon-adds-perishable-foods-same-day-delivery-take-instacart-walmart-2025-08-13/)).
+* **Tendencias**: en Los Ángeles, las habitaciones en el **Ritz-Carlton** incluirán ahora un **minibar** pero de **productos de belleza y cuidado de la piel**; los clientes pueden incluso solicitar previamente qué productos esperan tener disponibles ([Robb Report](https://robbreport.com/travel/hotels/the-ritz-carlton-los-angeles-is-rolling-out-beauty-fridges-1236973902/?_bhlid=4165a0db63bca20c1288daba9bf162420ff0d8fe)).
+* La extraordinaria popularidad de **Birkenstock** le está permitiendo a la empresa **vender sus productos a** ***full price*** (e incluso subir algunos precios). Esto se refleja en sus resultados: en el último trimestre, la empresa alemana reportó mayores ventas y a la vez una **mejora en sus márgenes** ([Yahoo Finance](https://finance.yahoo.com/news/birkenstock-profit-beats-estimates-shoemaker-094918796.html)).
+
+---
+
+#### Whitepaper 10: Educación privada
+
+Esta semana hablamos de la conference call de **Coca-Cola FEMSA**, de las rondas de inversión en México, del turismo que visita supermercados, y de **AT&T** y **Banamex.** En el deep dive: la educación privada en México.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/90-whitepaper-10-educación-privada/id1584711514?i=1000721873509), [Spotify](https://open.spotify.com/episode/2a8aSQmHOrAAe3fBFb1o1n?si=QBwSs-rbTa-4jNKJ3vnVmQ), [Youtube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Baterías para la casa
+
+**Base Power** es una empresa de **Austin** que se especializa en comercializar y administrar baterías de respaldo para uso doméstico. Sus equipos almacenan energía eléctrica para **usarse en las casas cuando se va la luz**, y también pueden redistribuir energía a la red eléctrica cuando hay necesidades específicas. Estiman que este año generará $12 millones de dólares de ingresos y el siguiente año $70 millones —y por lo pronto, está negociando una ronda de inversión que valuaría a la empresa en **$4,000 millones de dólares** ([The Information](https://www.theinformation.com/articles/home-battery-startup-base-power-plots-4-billion-valuation?utm_source=ti_app&rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: uno de sus cofundadores es hijo de **Michael Dell**.*
+
+---
+
+#### K-Pop
+
+Según **Spotify**, **México** es **el quinto país** en el que más se escucha música K-Pop (y en el top 10, es el único de habla hispana). La popularidad de este género musical ha crecido **más de 500%** a lo largo de los últimos cinco años.
+
+“*What sets Mexican fans apart? It’s not just the hours spent streaming—especially among Gen Z—but the way they live and breathe K-Pop. Devotees in Mexico organize, create, and celebrate. **They fill concert venues**, host themed events and bazaars, and **build thriving communities**. On social media, they’re a force*” ([Spotify Newsroom](https://newsroom.spotify.com/2025-08-13/how-mexico-became-one-of-the-worlds-biggest-k-pop-hubs-on-spotify/)).
+
+---
+
+#### Presentado por:
+
+Viajar es más que llegar a un destino; es sumergirte en cada momento con la máxima comodidad, seguridad y beneficios exclusivos, por lo que con tus tarjetas HSBC Premier tu experiencia será memorable.
+
+Empieza tu viaje en el HSBC Premier | Lounge y disfruta de:
+
+* Experiencias Culinarias Exclusivas: Deleita tus sentidos con un menú especial de bocadillos y canapés, cuya selección es exclusiva del viñedo multipremiado L.A. Cetto.
+* Bar Premier: Disfruta de momentos relajantes y acogedores en nuestro Bar Premier, donde encontrarás una variedad de bebidas y aperitivos, ideal para conectar y relajarte.
+* Servicios a tu Alcance: Contamos con conexión WiFi, zona de alimentos y bebidas, sala infantil, cajeros automáticos y ejecutivos Premier a tu disposición.
+
+Te esperamos en la T2 del Aeropuerto Internacional de la Ciudad de México de 5:30 a 23:00 horas presentando una de tus tarjetas HSBC Premier.
+
+Tu mundo es Premier cuando tus viajes son de otro planeta.
+
+[![](https://substackcdn.com/image/fetch/$s_!yP_6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb130eac6-37af-4786-9fe6-fd5c76672f87_1080x1080.jpeg)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+[HSBC Premier](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)

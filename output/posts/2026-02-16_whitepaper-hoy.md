@@ -1,0 +1,115 @@
+# Whitepaper, Hoy
+
+> Mapfre en México; la planta en Silao; INVEX en FIBRAeMX; menos camiones; movimientos clave; la expansión de Sala de Despecho; 16,000 millonarios; H World; las palomitas
+
+**Fecha:** 2026-02-16  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-4bd  
+**Word count:** 1312
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+#### Seguros
+
+En México, **Mapfre** tuvo un gran año en términos comerciales, con un crecimiento de 40% en productos de *Vida* y 16.7% en *Salud y Accidentes*. Las primas totales avanzaron a casi €**2,000 millones de euros**. Sin embargo, la aseguradora española tuvo que enfrentarse a la eliminación de la **deducibilidad del IVA**, lo que le generó un **impacto negativo** de €37 millones ([MarketScreener](https://www.marketscreener.com/news/mapfre-s-a-net-result-grows-to-a-1-1-billion-a-19-6-increase-ce7e5ad2df8bf72d)).
+
+> ***Comentario Whitepaper**: la empresa estima que de no ser por el tema del **IVA**, su ganancia hubiera sido de €33.6 millones (vs una **pérdida** de €3.4 millones).*
+
+---
+
+#### Menos camiones
+
+En enero se produjeron 6,793 vehículos pesados en el país —**50% menos** que en enero del año pasado. Las dos empresas con mayor volumen, **Freightliner** e **International**, redujeron su producción en más de 50% frente al mismo mes del año anterior (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: es el desempeño mensual [más bajo](https://www.tyt.com.mx/nota/produccion-y-exportacion-de-pesados-arrancan-el-ano-con-cifras-a-la-baja) desde mayo de 2020; la producción acumula ya 14 meses consecutivos sin crecimiento.*
+
+---
+
+#### De Austria
+
+**HENN Connector Group**, una empresa de Austria que se [dedica](https://www.henn-group.com/about-us/values/?lang=en) a la producción de conectores principalmente para uso en la industria automotriz, [inauguró](https://mexico-now.com/henn-americas-opens-plant-in-silao/) una nueva planta en Silao, en la que invirtió $4 millones de dólares. A nivel global, la empresa [vendió](https://www.henn-group.com/about-us/key-figures/?lang=en) €160 millones en 2024 (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-4bd?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4ODA0OTgzOSwiaWF0IjoxNzc5MjE1NzI5LCJleHAiOjE3ODE4MDc3MjksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.pf9oEnnaVpPM-MaaKXEObvyMYwikPHJ6_2Uoqn3gYwI)
+
+---
+
+#### Autopistas
+
+**INVEX** aumentó **a 27.7%** su participación en **FIBRAeMX** por medio de una transacción en la que transfirió a esa organización el 20% que tenía en la empresa que opera “tramos clave” del corredor carretero que conecta **a CDMX con el Puerto de Veracruz**. INVEX recibió el equivalente de $3,960 millones de pesos en certificados de la fibra ([BMV](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1533227_1.pdf)).
+
+---
+
+#### Movimientos Clave
+
+* **[Isaac Cañas Davidovich](https://www.linkedin.com/in/isaac-ca%C3%B1as-davidovich-75517821/?originalSubdomain=mx)** es el nuevo CEO de **Circle K** en México. Tiene experiencia en **Rappi** y en **Klog**, una empresa tecnológica de transporte internacional de carga (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!mQDi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40724687-2315-4a4a-99b3-4355b0e8f2d2_1081x978.jpeg)](https://substackcdn.com/image/fetch/$s_!mQDi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40724687-2315-4a4a-99b3-4355b0e8f2d2_1081x978.jpeg)
+
+Isaac Cañas
+
+* **[Kyle Kinnard](https://www.linkedin.com/in/kyle-kinnard-33387b84/)**, director de operaciones de **Walmart International**, se [incorporó](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1533112_1.pdf) al consejo de administración de **Walmex**, en reemplazo de **[Karthik Raghupathy](https://www.linkedin.com/in/karthikrags/?originalSubdomain=in)** (***Redacción Whitepaper***).
+* **Philips** [nombró](https://www.philips.com.mx/a-w/about/news/archive/standard/news/press/2025/20260205-philips-appoints-negal-ciliberto-as-country-manager-for-mexico.html) a **[Negal Ciliberto](https://www.linkedin.com/in/negal-ciliberto/?locale=es_ES)** como country manager en México (***Redacción Whitepaper***).
+* **[Jesús Chillón](https://www.linkedin.com/in/jesus-chillon-93949953/?originalSubdomain=es)** es [ahora](https://globalenergy.mx/noticias/repsol-nombra-a-jesus-chillon-como-nuevo-country-manager-en-mexico/) country manager de **Repsol** en México; tiene más de 25 años en la empresa (***Redacción Whitepaper***).
+
+---
+
+#### El crecimiento de *Sala de Despecho*
+
+Pensado inicialmente para *millennials* entre los 30 y 40 años que ya no quieren ir al antro pero tampoco quieren sentarse horas en un restaurante, **Sala de Despecho** es un concepto que ha cobrado enorme popularidad en los últimos dos años. La idea es sencilla: un restaurante-bar donde ponen canciones en español con las que uno suele terminar la fiesta, que comúnmente son de desamor o despecho. No es un karaoke como tal, sino una ‘experiencia’ para desahogarse.
+
+“Despecho es algo que a todo el mundo le ha ocurrido y además todos hemos crecido con esa música: Amanda Miguel, Rocío Dúrcal, El Buki, José José,” contó a **Whitepaper** un representante de **Mandala Group**, el grupo de hospitalidad que es uno de los socios de Sala de Despecho y que se ha encargado de escalar el negocio a las **más de 20 sucursales que hoy tiene dentro y fuera de México**. “Es ahí donde [Sala de Despecho] toca al resto de las generaciones, porque los chavitos de 21 a 25 años crecieron viendo la novela, escuchando a las mamás cantando esa música, idolatrando a Luis Miguel, a Chayanne.”
+
+La primera Sala de Despecho abrió en Guadalajara en febrero de [2024](http://2024.la/). Fue creada por empresarios de **Grupo Enter** que después se aliaron con Mandala Group, quien estructuró el concepto del lugar para poder crecer hacia otras ciudades. “A la hora de querer volverlo más cantina, se le empieza a dar este *look and feel* de productos como Royal, La Costeña, Saladitas en las estanterías,” comentó el representante, refiriéndose a los *props* que hay en el lugar y que asemejan empaques de marcas populares pero están impresas con algunas frases alusivas al desamor. El objetivo es **que la gente se tome fotos con los** ***props*** **y las suba a redes**, pero no son un mecanismo formal de branding para las marcas, ni colaboran directamente con las empresas a las que pertenecen. “Al final es un *win-win* porque los empaques cobran relevancia con un público con el que quizá no estaban tan presentes,” comentó.
+
+Tras el éxito inicial en Guadalajara, la alianza con Mandala Group le permitió a Sala de Despecho encontrar ubicaciones idóneas para expandirse en el resto del país. A Ciudad de México llegó en agosto de 2024 en una ubicación estelar sobre Presidente Masaryk, y después fue creciendo hacia otros estados. Para finales de ese año, habían abierto 15 locaciones. Al aliarse con operadores en otros países, ya abrieron también en **Colombia, Costa Rica, Venezuela** y **Ecuador**. En 2025 llegaron a **EUA** (dos en Miami y una en McAllen) y a España. La de **Madrid** es la sucursal que más factura después de la de Masaryk. Según cifras del representante, a nivel global todas las Sala de Despecho **están atendiendo cerca 150,000 personas al mes**. De acuerdo con estimaciones de **Whitepaper**, el ticket promedio estaría entre los $700 pesos y $900 pesos por visita (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!I-Zk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c892966-63b2-42e6-9697-2017e7648e51_1281x160.webp)](https://substackcdn.com/image/fetch/$s_!I-Zk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c892966-63b2-42e6-9697-2017e7648e51_1281x160.webp)
+
+Monthly, Creando el CFO Digital de Empresas
+
+**[Monthly](https://monthly.la/)** es la plataforma financiera para directores de empresas que permite monitorear estados financieros, obtener *insights* con IA y analizar más de [50 métricas](https://monthly.la/metricas) a partir de finanzas reales, todo con la ayuda de un asesor financiero dedicado. Conoce su historia [aquí](https://medium.com/@jonagonzalezlarra/monthly-creando-el-cfo-digital-de-empresas-af4f3d07427a)
+
+Agenda un demo de la plataforma **[aquí](https://calendly.com/cfo-monthly/demo30)** o escríbele a su CEO en [WhatsApp](https://linke.to/monthly_jonaWA).
+
+[![](https://substackcdn.com/image/fetch/$s_!IjbV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91afa22c-7a28-434f-a683-5c3dfac31751_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!IjbV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91afa22c-7a28-434f-a683-5c3dfac31751_1281x104.webp)
+
+#### 16,000 millonarios
+
+“*The A.I. frenzy is **creating personal fortunes rarely seen in modern technology**, changing people’s attitudes about fairness and money in relationships*”.
+
+Los esperados IPOs de OpenAI, Anthropic y SpaceX por sí solos podrían “crear” **16,000 millonarios**. OpenAI, por ejemplo, está pagándole a sus empleados **más que cualquier otra empresa tech en la historia** y el año pasado el bono promedio por empleado (en acciones) habría sido de $1.5 millones de dólares ([NY Times](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)).
+
+> ***Comentario Whitepaper**: el artículo se centra en cómo esto está teniendo un impacto en las relaciones personales y **de pareja**. Hablan, por ejemplo, de cómo estos empleados están recurriendo cada vez más a figuras tipo “**prenuptial agreements**”.*
+
+---
+
+#### Hoteles de China
+
+**H World**, una cadena de hoteles creada en 2005, pasó de tener 5,600 hoteles a finales de 2019, a **12,700 propiedades**. Operan marcas económicas y de nivel medio, con la mayoría de sus hoteles ubicados en China, aunque tienen también presencia en países como Alemania, Austria, Suiza y en algunos países de Medio Oriente. Su sede está en **Shanghai;** planean crecer a unos **20,000 hoteles hacia 2030** ([Financial Times](https://www.ft.com/content/70c8b53d-31a1-42a4-98ee-1e63244fb61a)).
+
+> ***Comentario Whitepaper**: [presumen](https://chinalodginggrouplimited.gcs-web.com/static-files/6fe89eb7-5b7b-4509-89d6-0db79a1c15f0) que el año pasado 88.6% de los procesos de **check-in** les tomaron **menos de 30 segundos** y que operan con una relación de **16 empleados** por cada **100 huéspedes**.*
+
+---
+
+#### Las palomitas
+
+“*Popcorn remains **one of the most profitable consumer products**; kernels cost pennies per serving, store well, generate little waste and require minimal labor. Because corn is purchased by weight but sold by volume, **margins are unusually high**. Studios capture much of each ticket’s revenue—especially early in a movie’s run—but concessions deliver the profits that keep theaters solvent*”.
+
+Las palomitas son una **pieza crucial** en el modelo de negocios de los cines. Para algunas cadenas de EUA, las concesiones pueden llegar a representar **hasta 50% de la utilidad operativa** ([WSJ](https://www.wsj.com/arts-culture/food-cooking/movie-theater-popcorn-history-great-depression-6e5aa65a?st=Bt6oFQ)).
+
+> ***Comentario Whitepaper**: vale mucho la pena el [artículo completo](https://www.wsj.com/arts-culture/food-cooking/movie-theater-popcorn-history-great-depression-6e5aa65a?st=Bt6oFQ), que detalla la historia de las palomitas en el cine y explica cómo su popularidad detonó en la era de la **Gran Depresión**.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!J4aj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a93483-528b-4c5a-bab3-c117f30c073e_1973x1291.jpeg)](https://hq.whitepaper.mx/collections/all)
+
+Visita nuestra tienda en línea donde puedes comprar gorras y prints de algunas de nuestras ilustraciones, además de ediciones impresas de tirajes limitados.
+
+[Whitepaper Store](https://hq.whitepaper.mx/collections/all)

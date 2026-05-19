@@ -1,0 +1,127 @@
+# Whitepaper, Hoy
+
+> Fibra Danhos; Churrerías Porfirio; resultados Cydsa; Park Life; los Burger King de GES; Trox en Puebla; turismo veterinario; ¿crédito de TikTok?; Geely y Volvo; spotlight en Blank Street Coffee
+
+**Fecha:** 2026-04-01  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-2ac  
+**Word count:** 1469
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+> *Whitepaper, Hoy estará de regreso el **lunes 6 de abril***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!hmWp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf180638-54e2-431a-8feb-375b524d7768_2000x327.png)](https://bit.ly/CIBANCOARTE)
+
+---
+
+#### El *Dorito*
+
+**Fibra Danhos** reportó un crecimiento de **casi 20%** en sus utilidades anuales, para con ello superar los $5,000 millones de pesos. **Torre Virreyes** es la propiedad que más contribuyó a los ingresos totales ($680 millones, equivalentes a 13%). El patrimonio total del fideicomiso vale **$66,650 millones de pesos** ([BMV](https://www.bmv.com.mx/es/Grupo_BMV/InfoFinanciera/DANHOS-31300)).
+
+> ***Comentario Whitepaper**: [Salvador Daniel](https://www.linkedin.com/in/salvador-daniel-kabbaz-zaga-203a1451/) es el director general de Fibra Danhos; en su consejo participan como independientes Francisco Gil, José Antonio Chedraui, [Pilar Aguilar](https://www.linkedin.com/in/pilar-mar%C3%ADa-aguilar-pariente-608ba14/) y Pedro Aspe.*
+
+---
+
+#### Churros
+
+**Churrerías Porfirio** nació en 2017 como uno de los conceptos de Franquicia Master y hoy suma **alrededor 180 sucursales en México** y otras 20 en países de Centro y Sudamérica. De acuerdo con sus fundadores, José Luis Uberetagoyena y Vladimir Ramírez, la marca genera **ventas cercanas a $16 millones de dólares anuales**.
+
+En el último año, **el ticket promedio creció 25%**, impulsado en parte por eficiencias en costos y un mayor enfoque en productos complementarios de mayor valor, según los fundadores. También destacan que el modelo de franquicia ha sido clave: la inversión ronda $1 millón de pesos, con un retorno estimado de 18 meses y márgenes operativos de entre 35% y 40%. La compañía **planea abrir más de 100 nuevas sucursales en 2026.**
+
+Franquicia Master, fundada en 2015, agrupa 10 conceptos que suman en total unas 320 sucursales. Su portafolio va desde crepas y juice bars, hasta salones de fiestas infantiles (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a finales de 2023, [reportamos](https://www.whitepaper.mx/p/marcas-mexicanas-churreria-el-moro?utm_source=publication-search) sobre uno de los competidores más grandes de Churrería Porfirio: **El Moro**. En ese entonces, con 20 sucursales, la compañía estimaba ventas por alrededor de $400 millones de pesos al año. Esto implicaría ingresos promedio por local de $20 millones anuales, frente a $1.4 millones en las sucursales de Churrería Porfirio.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-2ac?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MjYzMjA1MywiaWF0IjoxNzc5MjE0OTQ2LCJleHAiOjE3ODE4MDY5NDYsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Nte468UZ7iy6ErDlecobzrF5hBWK7k74wxtwvht-zAM)
+
+---
+
+#### Sal y químicos
+
+**Cydsa** [reportó](https://www.cydsa.com/wp-content/uploads/2026/03/2025-cydsa-Informe-Anual.pdf) ingresos de $16,299 millones de pesos en 2025 —8% más que un año antes. El **negocio más grande** es el de *Cloro y Sosa Cáustica* (51% del total de ingresos y 44% de la utilidad de operación), seguido por *Sal* (27% ventas y 37% de la utilidad operativa), *Gases* (17% y 2%) y *Distribución y almacenamiento de energéticos*, que aporta apenas 5% de los ingresos totales pero **18% de la utilidad de operación**. En total, la regia generó $577 millones de pesos de utilidad neta **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: **Cydsa** nació a mediados de los 40 como **Celulosa y Derivados**, con inversión de las familias fundadoras de **Cervecería Cuauhtémoc** y de **Vidriera Monterrey**. En la década de los 80 llegó a ser una de las empresas más grandes de México, por encima de **Cemex** o **Gruma**. [En este artículo](https://www.whitepaper.mx/p/cydsa-una-aventura-de-75-aos?utm_source=publication-search&utm_medium=email) hacemos un breve repaso de esta importante empresa regia.*
+
+---
+
+#### A la Bolsa
+
+**Park Life**, una fibra especializada en renta de vivienda, presidida por **[Gustavo Tomé](https://www.linkedin.com/in/gustavotomev/)** y con **[Roberto Cayetano Jiménez](https://www.linkedin.com/in/roberto-cayetano-jimenez-a38a9910/)** como CEO, [recaudó](https://www.bmv.com.mx/docs-pub/ofertfib/ofertfib_1545309_1.pdf) $268 millones de pesos en su debut en la BMV. Iniciará con un portafolio de cuatro propiedades y cerca de 300 departamentos, con [planes](https://elceo.com/mercados/fibra-park-life-recaba-268-mdp-en-su-debut-en-la-bmv-arranca-cotizacion-en-220-pesos/) para llegar a 1,000 unidades en 2028 ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: a inicios del año [publicamos](https://www.whitepaper.mx/i/188283411/una-nueva-emisora) que **Park Life** buscaba colocar entre $280 y $336 millones de pesos.*
+
+---
+
+#### Cambio de dueños
+
+**Grupo Centaura**, una empresa de Tijuana, [vendió](https://www.linkedin.com/posts/grupo-centura-concluye-la-desinversi%C3%B3n-de-share-7443404069244649473-wxxe?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU) su portafolio de 60 restaurantes **Burger King** a **Corporativo GES**, uno de los principales franquiciatarios de la marca en el país; en su sitio web presume [operar](https://www.gruges.com.mx/cadena/burger-king/) más de 100 sucursales **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: Corporativo GES, además de **Burger King**, [opera](https://www.gruges.com.mx/nuestros-negocios/) gasolineras y restaurantes de **Church’s Texas Chicken**. Su sede está en Campeche. En cuanto a **Grupo Centaura**, [tienen](http://www.grupocentura.com/) un negocio inmobiliario y agencias automotrices.*
+
+---
+
+#### Aires acondicionados
+
+**Trox** es una empresa alemana dedicada a la producción de sistemas de ventilación y aire acondicionado. Opera comercialmente en México [desde](https://www.trox.de/en/trox-newscenter/trox-to-start-production-in-mexico-885a2528bb764af4) 2010 y, en 2019, estableció una planta en Puebla; en ese momento habría [invertido](https://www.mundohvacr.com/2019/08/trox-inaugura-planta-en-mexico/) €4 millones.
+
+Ahora, [destinará](https://puebla.gob.mx/index.php/noticias/item/22991-trox-mexico-construye-nueva-planta-en-puebla-con-inversion-de-350-mdp) $350 millones de pesos para abrir otra planta en ese estado, con lo que estaría [triplicando](https://www.milenio.com/negocios/trox-anuncia-planta-puebla-invertira-350-millones-pesos) su área de producción **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: a [nivel global](https://cdn.trox.de/d5f901a4fa06d9cf/f5c3627a14d1/TROX-NHB2024-Englisch-web-locked.pdf), la empresa registró ingresos por €687 millones en 2024.*
+
+---
+
+#### Ahora también mascotas
+
+A lo largo de los últimos 10 años, los precios de los servicios veterinarios en EUA han aumentado más de 60%. Similar a lo que ha venido sucediendo con el **turismo dental**, esta situación está ahora impulsando el **turismo veterinario**: **ciudades fronterizas en México** están recibiendo a quienes cruzan desde EUA para atender a sus mascotas ([NY Mag](https://nymag.com/intelligencer/article/pet-medical-tourism-tijuana-mexico-california-veterinarian.html)).
+
+> ***Comentario Whitepaper**: el [artículo de New York Magazine](https://nymag.com/intelligencer/article/pet-medical-tourism-tijuana-mexico-california-veterinarian.html) cuenta la historia de Emma, a quien en Los Angeles le cotizaron un procedimiento para su perro en $2,000 dólares. Terminó pagando menos de la mitad en **Tijuana**, por un procedimiento más complejo e incluyendo traslado y comidas.*
+
+---
+
+#### *Breves*
+
+* En **Brasil**, **TikTok** estaría buscando obtener una **licencia bancaria**. La plataforma de videos quiere contar con autorizaciones oficiales para permitirle a sus usuarios tener una cuenta, hacer pagos y transferencias, e incluso para poder **ofrecerles crédito** ([Reuters](https://www.reuters.com/business/finance/tiktok-seeks-brazil-fintech-license-offer-credit-2026-03-31/)).
+* La valuación de OpenAI creció a $852,000 millones de dólares gracias a su más reciente ronda de inversión, de $122,000 millones. Estaría generando ingresos cercanos a $2,000 millones de dólares al mes y continúan perdiendo dinero ([CNBC](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)).
+* **Novo Nordisk** está lanzando un programa de suscripción mensual para sus productos Wegovy: un esfuerzo por competir con Lilly, que ha venido fortaleciendo sus plataformas direct to consumer con precios más atractivos ([Bloomberg](https://www.bloomberg.com/news/articles/2026-03-31/novo-bets-subscriptions-will-offer-an-edge-in-obesity-drug-sales?srnd=phx-latinamerica)).
+* **Geely**, que está detrás de marcas como **Zeekr** y **Lynk & Co**, utilizará la capacidad instalada que tienen las **fábricas de Volvo en Europa** —Volvo es otra de sus marcas— para ensamblar los vehículos que venderá en ese continente (y sacarle la vuelta a los **aranceles**). Este año proyectan vender 3.5 millones de unidades a nivel global ([Financial Times](https://www.ft.com/content/8f5b7a2b-149c-4084-8acb-70459fad8491?syn-25a6b1a6=1)).
+* Temasek, L Catterton y Affinity Partners (de Jared Kushner) están invirtiendo $785 millones de dólares en **Playlist**, una holding dentro de la cual está **ClassPass** (un app de *fitness*), **Egym** (una empresa alemana que produce equipo especializado para gimnasios), y **Mindbody** (un SaaS para estudios y centros de *wellness*). Con esta ronda, la valuación de Playlist asciende a **$7,500 millones de dólares** ([The Information](https://www.theinformation.com/newsletters/dealmaker/unusual-fitness-deal-came-together?rc=xfuqjy)).
+
+---
+
+#### Spotlight en: Blank Street Coffee
+
+[![](https://substackcdn.com/image/fetch/$s_!tSyl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5795dd7a-05a7-4126-be96-56765662480a_1697x1202.jpeg)](https://substackcdn.com/image/fetch/$s_!tSyl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5795dd7a-05a7-4126-be96-56765662480a_1697x1202.jpeg)
+
+En menos de cuatro años, Blank Street Coffee pasó de tener un camión para vender café en Brooklyn, a 97 sucursales, ingresos anuales cercanos a $150 millones de dólares, y una valuación de $500 millones.
+
+La empresa fue fundada en 2020 por Issam Freiha y Vinay Menda, quienes venían de haber trabajado en venture capital. Desde el inicio operaron como un *venture-backed startup*, lo que les permitió abrir 50 locales en menos de dos años. Entre sus inversionistas figuran fondos como **General Catalyst** y **Tiger Global**, y uno de los cofundadores de **Warby Parker**. Hasta ahora han recibido $135 millones de dólares de inversión; al parecer [están negociando](https://www.ft.com/content/799cf820-40a2-48a4-a8a7-2b582ad211ac?syn-25a6b1a6=1) una nueva ronda, de $100 millones (que duplicaría su valuación a $1,000 millones de dólares).
+
+A pesar de ser una “cafetería”, el **matcha** representa 50% de sus ventas. Un [artículo](https://www.wsj.com/business/blank-street-coffee-gen-z-matcha-a1e249e1?gaa_at=eafs&gaa_n=AWEtsqcnqu1hTgNoGUbZ6Wjv_iKU2Vf_pvOFpApJA1A6bXH6AeTZZAtdHkOWBnSOvGg%3D&gaa_ts=69bc2abc&gaa_sig=Pc5GboSt23Gthq53elwaU3S4rG_-9nuZcaCmQffGvw0rJZzVtbH0StwP7Ct7kkjY3-NkgSxrITqZMBLifoHCZQ%3D%3D) del WSJ describe a la marca como un fenómeno entre Gen Z: desde niñas de 12 años tomando su matcha después del colegio, hasta jóvenes de 23, 25 años que van cuatro o cinco veces por semana. Tienen además una membresía “*invite-only” que cuesta* $22 dólares mensuales (y que tiene lista de espera).
+
+El modelo original priorizaba la eficiencia: locales de menos de unos 30 metros cuadrados, dos empleados por turno, y máquinas capaces de producir 700 espressos por hora. La idea es simple — entras, recoges tu café y te vas (un modelo similar al que detallamos en nuestro [artículo](https://www.whitepaper.mx/p/cafe-to-go?utm_source=publication-search) sobre el café to-go en CDMX, con casos como **Sede Café**, **The Coffee** y **Pickup Coffee)**. Sin embargo, Blank Street [anunció](https://www.bloomberg.com/news/features/2026-03-17/blank-street-bets-on-bigger-stores-matcha-drinks-to-become-gen-z-starbucks) en marzo un cambio hacia espacios más grandes, diseñados para quedarse y convivir, en un intento de convertirse en el Starbucks de la Gen Z (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### La Historia de México a Subasta
+
+Próximamente, CI Banco subastará una biblioteca con más de 8,000 volúmenes que recorren distintos momentos de la historia de México, desde el siglo XVI hasta el XXI. La colección integra libros de ediciones preservadas, destacando su valor cultural y de investigación. Además, incluye más de 150 obras de arte y objetos coleccionables de autores como Raúl Anguiano, Rafael Coronel, Saturnino Herrán, José Dávila y Joan Miró, conformando un acervo excepcional en el mercado.
+
+La subasta se realizará de forma presencial en Polanco el 16 de abril a las 16:00 hrs.
+
+Escríbenos por [WhatsApp](https://bit.ly/40QbVp7) para más información.
+
+[![](https://substackcdn.com/image/fetch/$s_!8Nn3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92813f2d-81bb-4fe5-8bcf-e654bd73b4c8_1100x800.jpeg)](https://bit.ly/40QbVp7)
+
+[Consulta el catálogo](https://bit.ly/CIBANCOARTE)

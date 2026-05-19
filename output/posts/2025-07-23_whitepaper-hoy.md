@@ -1,0 +1,144 @@
+# Whitepaper, Hoy
+
+> Sears; Televisa; América Móvil; Banorte; Volaris; Havoc; Holacasa; Oxxo en Yucatán; ZYN; bebidas saludables; meme stocks; arte; spotlight en Hims & Hers
+
+**Fecha:** 2025-07-23  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-efd  
+**Word count:** 1720
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!t-vF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F780fec28-b377-4b2e-bdc7-d0fdeb8aa00f_1522x425.jpeg)](https://www.tryjeeves.com/lp-es/tarjetas-corporativas?utm_source=whitepaper&utm_medium=paid&utm_campaign=newsletter&utm_content=email1)
+
+---
+
+#### Departamentales
+
+**Sears** tiene 96 tiendas en México y representa cerca de la mitad de los ingresos de **Grupo Sanborns**, que también opera **Sanborns**, **iShop & Mixup** y **Sanborns Café**.
+
+Aunque la empresa en EUA se declaró en Chapter 11 en 2018, en México opera de forma independiente desde 1997, cuando fue adquirida por **Grupo Carso**. Tiene un acuerdo vigente con la holding de EUA para usar la marca hasta 2026, a cambio de un pago equivalente al 1% de las ventas (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: durante el [primer semestre](https://www.carso.com.mx/wp-content/uploads/2025/07/GCarso-2T25-ESP.pdf), **Grupo Sanborns** vendió $32,614 millones de pesos, con un margen EBITDA de 7.2%. Forma parte de **Grupo Carso**, que también incluye a **Condumex**, **Cicsa**, **Elementia** y **Carso Energy**, y que en ese mismo periodo reportó ingresos por $91,227 millones de pesos.*
+
+---
+
+#### ¿Cómo les fue?
+
+* **Televisa** [vendió](https://www.televisair.com/~/media/Files/T/Televisa-IR/250722-gtv-pr-spa-2q25.pdf) 6.3% menos que el mismo trimestre del año pasado, pero reportó utilidad neta de $474.5 millones de pesos —el año pasado había perdido $25.6 millones. El margen fue de 3.2%. Su negocio de televisión de paga, **Sky**, cayó más de 16% en ventas, con 347,000 desconexiones (***Redacción Whitepaper***).
+* **América Móvil** [reportó](https://s22.q4cdn.com/604986553/files/doc_financials/2025/q2/2T25.pdf) $233,785 millones de pesos en ventas entre abril y junio, un crecimiento de casi 14% comparado con el mismo periodo del año pasado. En celulares, Brasil sumó 825,000 nuevos usuarios en el trimestre y llegó a 88.4 millones, por encima de México con 84.1 millones (***Redacción Whitepaper***).
+* **Banorte** tuvo $14,618 millones de pesos de utilidad neta en el [segundo trimestre](https://investors.banorte.com/~/media/Files/B/Banorte-IR/financial-information/quarterly-results/es/2025/2T25/2T25.pdf) y cerró con una cartera total de $1.2 billones de pesos. Es el segundo banco en México en hipotecas, nómina, crédito comercial y gubernamental, y el tercero en créditos automotrices (***Redacción Whitepaper***).
+* **Volaris** transportó 7.5 millones de pasajeros, 6% más que en el mismo trimestre del año pasado, pero sus ingresos operativos [trimestrales](https://api.mziq.com/mzfilemanager/v2/d/ea52c1bb-e8e2-457e-820a-98ca17753a37/12a490e2-212a-fc16-c78c-cce89ff738d3?origin=1) bajaron 4.5%, a $693 millones de dólares. Su programa de lealtad ya representa 16% de las ventas (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-efd?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2ODg3ODM5NCwiaWF0IjoxNzc5MjE1OTM3LCJleHAiOjE3ODE4MDc5MzcsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GucgmgcJk7QWp0lwei6_q5xbjPJRveh9XjGw7simFNU)
+
+---
+
+#### Moda personalizada
+
+[![](https://substackcdn.com/image/fetch/$s_!wIPL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe86f6dc6-6189-4da8-9e7e-1d1a0e0b2569_1536x1024.jpeg)](https://substackcdn.com/image/fetch/$s_!wIPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe86f6dc6-6189-4da8-9e7e-1d1a0e0b2569_1536x1024.jpeg)
+
+**Gerardo Morera** fundó **Morera Grosso** cuando tenía 18 años. Se hizo un smoking para él y sus amigos con un sastre en CDMX y vio en el proceso una oportunidad de negocio. Terminó formalizando lo que sería una marca de moda masculina personalizada con márgenes brutos de 65%, sin inventario, sin tiendas físicas y con un modelo de cobranza anticipada.
+
+Durante ocho años, **[Gerardo](https://www.linkedin.com/in/gerardo-morera-05516728/?originalSubdomain=mx)** escaló esa operación hasta convertirla en un negocio de $40 millones de pesos anuales. En 2017, decidió crear un concepto similar para un público más amplio. Lanzó **Havoc** como un piloto, sin grandes inversiones, con una tienda de 35 m² y con una página web sencilla. Pero la hipótesis era clara: si podía ofrecer trajes personalizados a precios desde $6,900 pesos, podría desbloquear un mercado mucho más grande.
+
+#### *Continuar leyendo al final del correo…*
+
+---
+
+#### Proptechs
+
+**Holacasa**, una *proptech* mexicana que funcionaba como bróker hipotecario digital, estaría dejando de operar. La startup se fundó en 2022 y fue parte del batch de invierno 2023 de **Y Combinator**.
+
+*“We tried B2C, real estate agents, and working with the largest property marketplace in Mexico, but we were caught between being a tech-enabled service business, software company, and marketing agency. We were also dealing with the biggest purchase most of our customers would ever make, which came with a lot of emotions in each transaction, making it almost impossible to forecast properly and maintain month-over-month growth”* explicó su CEO, **[Eric Yánez](https://www.linkedin.com/posts/activity-7353489113112559621-news?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU)** en su Linkedin (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: hace unas semanas hicimos un [artículo](https://www.whitepaper.mx/p/la-huella-de-y-combinator-en-mexico?utm_source=post-email-title&publication_id=57583&post_id=166702022&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true&utm_medium=email) sobre las startups mexicanas que han pasado por **Y Combinator**; poco menos de 20% estarían inactivas. Entre ellas, **Perfekto**, **Boitas**, **Beek**, **Orchata** y **Marco Polo**.*
+
+---
+
+#### En Yucatán
+
+**Oxxo** invertirá $1,250 millones de pesos para [abrir](https://sefoet.yucatan.gob.mx/noticia/ver/653) 250 tiendas nuevas en Yucatán durante los próximos cinco años. Este año planean inaugurar al menos 30. El proyecto generaría unos 4,000 empleos, entre directos e indirectos (***Redacción Whitepaper***).
+
+---
+
+#### Nicotina
+
+En su [conferencia](https://philipmorrisinternational.gcs-web.com/static-files/2d193857-fb5a-4d42-9fea-dad47a437159) con analistas, directivos de **Philip Morris** dijeron que su marca **ZYN** ocupa la primera posición en *nicotine pouches* en México. En el segmento de cigarros y productos de tabaco calentado, donde operan con marcas como **Marlboro** y **Chesterfield**, la empresa tendría un *market share* cercano al 60% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en México, la empresa vendería más de $25,000 millones de pesos anuales, según estimaciones.*
+
+[![](https://substackcdn.com/image/fetch/$s_!Sn4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!Sn4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)
+
+**Más de 400 empresas confían en Nufi para validar a sus clientes.** Si tu negocio otorga crédito, contrata personal o renta propiedades, el Background Check de Nufi ofrece el reporte más completo de México, con más de 100 fuentes públicas validadas. Para conocer más, platica con Juan Manuel Zapién, Director Comercial en el **[+52-81-2878- 4576](https://api.whatsapp.com/send?phone=528128784576) o [agenda aquí.](https://nufi.zohobookings.com/#/demo-bgc-wp)**
+
+[![](https://substackcdn.com/image/fetch/$s_!-EMX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!-EMX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)
+
+#### Bebidas saludables
+
+En un intento por atraer a consumidores más preocupados por su salud, las grandes empresas de alimentos y bebidas han estado ampliando su portafolio con nuevos productos y adquisiciones. **Health-Ade**, una marca de kombucha, anunció que fue [vendida](https://www.wsj.com/business/deals/health-ade-kombucha-nears-sale-to-beverage-brand-group-for-500-million-8e5eaa59?mod=Searchresults_pos1&page=1) en $500 millones de dólares a **Generous Brands**. Fundada en 2012, la empresa ofrece distintas variedades de esta bebida fermentada que ayuda a la salud digestiva.
+
+Por otro lado, **Pepsi** está [lanzando](https://edition.cnn.com/2025/07/21/food/pepsi-prebiotic-soda-launch) Pepsi Prebiotic Cola, una adición permanente a su portafolio. Llega después de su [adquisición](https://www.whitepaper.mx/i/158781286/healthier-soda) de **Poppi**, la marca de refrescos probióticos. La marca espera que esta nueva versión reactive el interés en sus productos, que han perdido relevancia ante la preferencia creciente por aguas minerales y bebidas hidratantes (***Redacción Whitepaper***).
+
+---
+
+#### Meme stocks
+
+Una nueva ola de **meme stocks** está teniendo auge en Wall Street. Acciones de empresas como el minorista **Kohl's** y la plataforma de real estate **Opendoor**, se han disparado más de 100% desde mayo. Analistas temen que el dinero destinado a este tipo de empresas con poca rentabilidad termine provocando una burbuja —tal como ocurrió en 2021, cuando las acciones de **GameStop** se dispararon y terminaron con el cierre de un hedge fund que tenía *shorted* a la compañía ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-22/kohl-s-stock-price-surges-with-opendoor-as-meme-stock-mania-takes-hold?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: En las primeras horas de operación de hoy, otras [dos acciones](https://www.bloomberg.com/news/articles/2025-07-23/dnut-krispy-kreme-gopro-gpro-shares-surge-with-markets-abuzz-about-meme-stocks) que se dispararon fueron **Krispy Kreme**, con un alza de 18%, y **GoPro**, que subió más de 50%.*
+
+---
+
+#### Arte
+
+Las ventas en subastas de obras de más de $10 millones de dólares cayeron 44% el año pasado y siguen en picada este 2025. Este cambio en el mercado fue muy evidente en una subasta de mayo en **Sotheby’s**, una escultura con precio de salida de $70 millones no recibió ni una sola oferta.
+
+Durante años se decía que el arte tenía una correlación con el mercado bursátil, pero esa relación parece haberse roto. Hoy, los grandes coleccionistas están encontrando mejores rendimientos en otros activos y están destinando menos de su portafolio al arte: 15% en 2024 contra 24% en 2022, según UBS ([WSJ](https://www.wsj.com/arts-culture/fine-art/art-market-investment-high-interest-rates-7e3ba131?mod=hp_minor_pos19&utm_source=substack&utm_medium=email)).
+
+---
+
+#### Spotlight en: Hims & Hers
+
+[![](https://substackcdn.com/image/fetch/$s_!Ivbb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7f63114-fc0d-47b3-aef5-8fc32d43aaa4_1415x885.jpeg)](https://substackcdn.com/image/fetch/$s_!Ivbb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7f63114-fc0d-47b3-aef5-8fc32d43aaa4_1415x885.jpeg)
+
+En mayo de 2025, **Hims & Hers**, que ofrece medicinas y tratamientos para hombres y mujeres a través de una plataforma digital, [reportó](https://investors.hims.com/news/news-details/2025/Hims--Hers-Health-Inc--Reports-First-Quarter-2025-Financial-Results/?utm_source=chatgpt.com) 2.4 millones de suscriptores mensuales y más de $586 millones de dólares en ingresos en el trimestre —un crecimiento de 111 % comparado con 2024.
+
+La empresa se fundó en 2017 con la intención de hacer más accesible la atención médica, ofreciendo tratamientos y medicinas para hombres en temas como caída del cabello, ansiedad, acné, salud sexual y pérdida de peso. En 2018 lanzaron **Hers**, para atender las necesidades de salud de las mujeres.
+
+Tras completar la adquisición de **[ZAVA](https://www.zavamed.com/)** este año, la marca está entrando en el mercado europeo y tiene [planes de expansión](https://investors.hims.com/news/news-details/2025/Hims--Hers-Announces-Planned-2026-Expansion-to-Canada-Following-ZAVA-Acquisition-Completion/default.aspx) a Canadá para 2026 (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+¿Cansado de perseguir facturas y guardar recibos? Con Jeeves, obtén una línea de crédito revolvente y genera facturas con una sola foto! Sube tu recibo desde la app y generamos la factura automáticamente conectándonos con el SAT. Así ahorras tiempo, recuperas 70% más facturas y evitas errores contables.
+
+Sin garantías personales y hasta 37 días para pagar. Simplifica las finanzas de tu empresa con Jeeves. Conoce más en [jeeves.com](http://jeeves.com/)
+
+[Jeeves](https://www.tryjeeves.com/lp-es/tarjetas-corporativas?utm_source=whitepaper&utm_medium=paid&utm_campaign=newsletter&utm_content=email1)
+
+---
+
+#### *Continua: Moda personalizada*
+
+La prueba funcionó: tres meses después, ya vendía más de $1.8 millones de pesos. Entre 2018 y 2019, Havoc creció 45% trimestral. **Liverpool** se acercó. Abrieron tiendas en Masaryk, Satélite y Altavista. Tomaron *venture debt* de **Anteris Capital** para escalar.
+
+Y entonces llegó la pandemia. En marzo de 2020, Havoc tenía solo seis meses de cash y seguía en números rojos. Las oficinas, bodas y eventos —principales ocasiones de uso para sus trajes— desaparecieron de un día para otro. El term sheet de su siguiente ronda de inversión se cayó. El equipo se redujo 45%. “Fue probablemente lo más doloroso que he vivido”, recuerda Gerardo. Sobrevivieron gracias a una red de inversionistas ángeles, el apoyo de su familia y reestructuraciones constantes de deuda.
+
+En 2021, regresaron las bodas y eventos. La empresa terminó ese año 40% arriba respecto a 2019. Además, la crisis post-COVID abrió oportunidades inesperadas: muchos centros comerciales antes inaccesibles los empezaron a buscar. De 3 tiendas en 2020 pasaron a 16 tiendas propias en 2023, y cerrarán 2025 con al menos 21. Hoy ya son rentables: EBITDA positivo desde 2022, flujo de caja positivo y utilidad neta desde 2024.
+
+Aunque el traje sigue siendo el canal de entrada —especialmente para eventos importantes como bodas—, la empresa ha ampliado su oferta. Ahora venden zapatos, camisas, polos, chamarras y accesorios. Todo bajo una lógica de marca propia y sin intermediarios, lo que les permite ofrecer productos de alta calidad a precios competitivos. Además, están desarrollando nuevas herramientas digitales para que el cliente pueda replicar la experiencia física, que representa todavía el 75% de las compras.
+
+Hoy en día compiten con **Gallo Azul** que nació en Monterrey y llegó a la CDMX en 2023, **Harris & Frank** en CDMX, Monterrey, Guadalajara, Querétaro y Cancún, **James & Co**, entre otros.
+
+Una vez consolidado México, Havoc quiere atacar el mercado de EUA. Morera dijo a Whitepaper que ya producen el 25% de su volumen para clientes B2B en Estados Unidos.
+
+En estos 15 años han fabricado más de 500,000 prendas a la medida. En los últimos 4 años, han aumentado 5x su volumen de ventas y este año proyectan crecer más de 50% (***Redacción Whitepaper***).

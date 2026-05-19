@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+
+# Logs (la cookie puede aparecer en outputs de debug)
+*.log
+extract.log
+
+# Secretos / credenciales (por si llegas a moverlos a .env)
+.env
+.env.*
+!.env.example
+
+# Documentos sensibles que NO van al repo
+# (PPT estratégico interno + xlsx piloto con datos del CRM)
+*.pptx
+*.xlsx

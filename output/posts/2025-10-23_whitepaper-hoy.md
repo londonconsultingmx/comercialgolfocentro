@@ -1,0 +1,142 @@
+# Whitepaper, Hoy
+
+> Resultados de Liverpool y de Compartamos; la entrevista a Mayra González; nuevas iniciativas de Sigma; Scania México; La Comer; House of Sports; promesas de Musk; Ringling Bros.; mercenarios
+
+**Fecha:** 2025-10-23  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-a3a  
+**Word count:** 1404
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!BNlr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe502755d-d2fd-47da-93bc-af73fd229a67_2250x425.jpeg)](https://www.inbest.cloud/)
+
+---
+
+#### Departamentales y tarjetas de crédito
+
+El [reporte trimestral](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../ifrsxbrl/ifrsxbrl_1500321_2025-03_1.zip#/visorXbrl) de **Liverpool** refleja bastante bien lo que estamos viendo entre las empresas grandes de este país: muy buenos resultados en lo que se refiere a **servicios financieros**, pero una **clara desaceleración** en el **retail**.
+
+* Mientras que las **ventas mismas tiendas** de Liverpool aumentaron **apenas 1.9%** en el trimestre, la empresa presumió que los [ingresos](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../ifrsxbrl/ifrsxbrl_1500321_2025-03_1.zip#/visorXbrl) de su negocio financiero **incrementaron 15.7%** (y que llegaron a 8.2 millones de tarjetahabientes).
+* En la [llamada con analistas](https://www.marketscreener.com/news/transcript-el-puerto-de-liverpool-s-a-b-de-c-v-q3-2025-earnings-call-oct-22-2025-ce7d5ddbdb8afe23), su **CFO** destacó la expansión de **Galerías Metepec**, que se está convirtiendo en uno de los centros comerciales más grandes en México. En el trimestre, dijo, **3.9 millones de vehículos** entraron a su estacionamiento (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: [hablaron](https://www.marketscreener.com/news/transcript-el-puerto-de-liverpool-s-a-b-de-c-v-q3-2025-earnings-call-oct-22-2025-ce7d5ddbdb8afe23) algo de **Nordstrom**, que dijeron que contribuyó con $1,141 millones en el período (los analistas querían saber más…pero como esa empresa es privada, no dieron más detalles). Anunciaron además que ya salieron por completo del **negocio automotriz** —la aventura de las agencias de **BYD** les duró muy poco, y al parecer éstas pasaron a manos de varios grupos operadores de agencias.*
+
+---
+
+#### Crédito grupal
+
+…y hablando de buenos resultados en el mundo de los servicios financiero, **Banco Compartamos** reportó que su **cartera** creció a más de $58,000 millones de pesos, que el número de **clientes** alcanzó 3.4 millones y que los ingresos por **intereses** aumentaron a $9,200 millones —todas, [cifras récord](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1500713_1.pdf) (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: los créditos grupales representan casi **58% de la cartera**. Por otro lado, **Compartamos** ha desarrollado un negocio muy interesante **colocando seguros** —en este último trimestre, por ejemplo, la [intermediación de seguros](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1500713_1.pdf) les generó cerca de $900 millones de pesos en comisiones.*
+
+---
+
+#### Perfiles: Mayra González
+
+[![](https://substackcdn.com/image/fetch/$s_!goFF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a3e73ae-aab3-4b70-830e-61cd047b735d_1497x1484.jpeg)](https://substackcdn.com/image/fetch/$s_!goFF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a3e73ae-aab3-4b70-830e-61cd047b735d_1497x1484.jpeg)
+
+**Mayra González** es vicepresidente de marketing y ventas para Europa de **Nissan Motor Corporation**. Fue la primera mujer en presidir una operación de la marca japonesa en todo el mundo (Nissan Mexicana) y en ser directora global de ventas de Nissan en Japón.
+
+Tiene 48 años y lleva 26 de ellos trabajando en la industria automotriz. Ha tenido responsabilidades en distintos mercados: desde EUA y Japón, hasta varios países de LATAM y Europa.
+
+Hace algunos años, una persona le le dijo que ella tenía tres pecados: ser joven, ser mujer y ser mexicana. En respuesta, ella convirtió esos “pecados” en sus principales fortalezas.
+
+[Leer artículo completo](https://open.substack.com/pub/whitepaper/p/perfiles-mayra-gonzalez?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Desarrollando otros canales y negocios
+
+**Sigma** [dijo que](https://www.sigma-alimentos.com/en/financial-information/) su nueva marca de botanas, ***Snackin For You***, está vendiendo ya más de 1 millón de unidades al mes (van desde ‘chips’ de carne seca, hasta ‘sticks’ de pepperoni). Por otro lado, planean llevar a EUA a **Grill House**, su plataforma de ***delivery*** de cortes y carnes **(*****Redacción Whitepaper*****).**
+
+> ***Comentario Whitepaper**: viene en camino una **propuesta de cambio de nombre** y de **rebranding** que refleje la desaparición de Grupo Alfa como una **holding**.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-a3a?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NjY2ODEwMSwiaWF0IjoxNzc5MjE1ODM4LCJleHAiOjE3ODE4MDc4MzgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.wSqNDgMvFKk2lPKnJFFiSN9Zkf13NGPRx2qansrgb_o)
+
+---
+
+#### Camiones
+
+**Scania México** [invirtió](https://www.scania.com/mx/es/home/about-scania/newsroom/news/2025/scania-fortalece-su-presencia-en-el-bajio-con-la-reubicacion-de-.html) cerca de $52 millones de pesos para reubicar su sede en León. Además de cubrir su operación en Guanajuato, da servicio al flujo de camiones que transita principalmente desde Ciudad de México, Guadalajara y San Luis Potosí (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: este año [inauguraron](https://www.whitepaper.mx/p/whitepaper-hoy-e3d?utm_source=post-email-title&publication_id=57583&post_id=159343159&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true) su nueva sucursal en el Edomex (una inversión de $143 millones de pesos), y ampliaron la que tienen en Sinaloa con una [inversión](https://www.whitepaper.mx/p/whitepaper-hoy-933?utm_source=post-email-title&publication_id=57583&post_id=173863440&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true). En lo que va del año han [vendido](https://www.inegi.org.mx/contenidos/datosprimarios/iavp/doc/rm_RAIAVP_2025_10.pdf) más de 1,360 camiones en México.*
+
+[![](https://substackcdn.com/image/fetch/$s_!HORD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F068c358c-3dd5-4505-9fc8-94c950d85e4e_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!HORD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F068c358c-3dd5-4505-9fc8-94c950d85e4e_1281x136.webp)
+
+[![](https://substackcdn.com/image/fetch/$s_!eWtS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47cd485-01c8-4886-a61d-ee96cb3dbd3e_1400x807.jpeg)](https://landingpage.presidenteicmonterrey.com/oferta-especial-viaje-de-negocios-monterrey?utm_source=whitepaper&utm_medium=display&utm_campaign=2025_pic-monterrey_whitepaper_alcance_ixuxy_mx&utm_content=whitepaper_branding_alwayson&utm_term=plana_imagen_na_multi)
+
+###### **Sponsored**
+
+En San Pedro, el nuevo **Hotel Presidente InterContinental Monterrey** ofrece un refugio de confort y elegancia para todo tipo de viajero. Con amplios salones para reuniones o celebraciones memorables, y propuestas gastronómicas únicas en **Lilōu** y **Chapulín**, cada momento se vuelve especial. Ya sea por negocios o descanso, cada estancia invita a descubrir Monterrey con distinción y calidez.
+
+[Conoce más](https://landingpage.presidenteicmonterrey.com/oferta-especial-viaje-de-negocios-monterrey?utm_source=whitepaper&utm_medium=display&utm_campaign=2025_pic-monterrey_whitepaper_alcance_ixuxy_mx&utm_content=whitepaper_branding_alwayson&utm_term=plana_imagen_na_multi)
+
+[![](https://substackcdn.com/image/fetch/$s_!SOs6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae1006e6-03fe-47ad-a09e-407e0cf5b9b2_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!SOs6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae1006e6-03fe-47ad-a09e-407e0cf5b9b2_1281x104.webp)
+
+#### Cambios
+
+**[Héctor de la Barreda](https://www.linkedin.com/in/hbf66/)** será el nuevo [director general](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1500602_2007-01_1.pdf) de **La Comer**, en sustitución de Santiago García, quien asumirá el cargo de vicepresidente. Ambos reportarán a **Alejandro González Zabalegui**, presidente del Consejo.
+
+Héctor ha trabajado en **PepsiCo**, **Coca-Cola Femsa**, fue CEO de **Santa Clara** y también estuvo en **Hershey’s**. Ha participado en consejos como los de **Grupo AlEn** y **Feastables** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en el último [trimestre](https://lacomerfinanzas.com.mx/wp-content/uploads/Press_Release_3T25.pdf), La Comer incrementó sus ventas 11% y su utilidad neta 10% ($11,813 millones de pesos y $641 millones, respectivamente). Las tiendas con mayor crecimiento están en el noroeste y norte del país. Tienen 90 sucursales entre City Market, Fresko, Sumesa y La Comer.*
+
+---
+
+#### *Breves*
+
+* “*We needed to build **the concept that will kill Dick’s Sporting Goods***” —el presidente ejecutivo de **Dick’s** explicó que para finales de año debieran contar con 35 sucursales de ***House of Sports***, un formato de tienda de hasta 14,000 m2 (**tres veces más** que su modelo regular de tienda), y de ahí llegar a 100 para 2027 ([CNBC](https://www.cnbc.com/2025/10/23/dicks-sporting-goods-house-of-sport-stores.html)).
+* **Elon Musk** dijo que buscarán que su servicio de **robotaxis** esté disponible en unas ocho ciudades de EUA para finales de año; hace tres meses había dicho que la meta era llegarle a la mitad de la población de ese país (actualmente están en una prueba limitada en dos ciudades). Por otro lado, ‘**pateó**’ para finales de 2026 la fecha en la que planean comenzar a fabricar **robots Optimus** ([The Information](https://www.theinformation.com/articles/musk-dials-back-near-term-robotaxi-optimus-targets?rc=xfuqjy)).
+* Después de que la **NFL** dio luz verde a varias transacciones entre sus equipos, los **Giants** se convierten en **el equipo más valioso** ($10,300 millones de dólares), la valuación de **Patriots** subió a $9,000 millones, y la de **49ers** a $8,600 millones de dólares ([Bloomberg](https://www.bloomberg.com/news/articles/2025-10-22/new-york-giants-become-most-valuable-franchise-after-koch-stake)).
+
+---
+
+#### El circo
+
+“*They have **removed** certain elements that were no longer relevant. **Full-faced makeup clowns** got the axe because of **horror movie**s, while comedy bits, high-energy musical performances and a robotic dog named Bailey were added. For the next tour, a live DJ will spin popular music*”.
+
+Después de seis años de ausencia, **Ringling Bros.** está reviviendo en EUA con un show diseñado para una generación que está más bien acostumbrada a TikTok. **Ya no hay animales**; en su lugar el énfasis está en las **acrobacias**, con un ritmo en donde “algo nuevo sucede cada tres segundos” ([CNN Business](https://edition.cnn.com/2025/10/21/business/barnum-bailey-circus-tickets-ceo-interview?utm_source=the-daily-valet&utm_medium=newsletter&utm_campaign=the-daily-valet-10-23-25-thursday&_bhlid=1c57e99fc194c45f7f7aaa606c231fcbc16702d5)).
+
+> ***Comentario Whitepaper**: una de las ideas es utilizar **YouTube** para ofrecer **videos** que le enseñen a los niños a **hacer malabares** y así comenzar a ‘conectar’ con nuevas generaciones.*
+
+---
+
+#### Whitepaper 10: Prolec, Quality Post y Amazon, IA, Harvard, Plata, recorte de empleos
+
+Esta semana hablamos de la venta de **Prolec**, del acuerdo entre **Amazon** y **Quality Post**, de las posibles nuevas fuentes de ingreso para las empresas de IA, del *endowment* de **Harvard**, de la valuación y ronda de inversión de **Plata**, y de lo que implican los recortes de empleo en EUA.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/106-whitepaper-10-prolec-quality-post-y-amazon-ia-harvard/id1584711514?i=1000733050636), [Spotify](https://open.spotify.com/episode/2r4qcubhIOQ9Sayy2dRx6t?si=a58e0c82866f4aed), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Mercenarios
+
+Conforme los gobiernos se van quedando con ejércitos más pequeños, crecen las **empresas que se especializan en servicios militares**. Algunas son ya muy grandes: **Constellis**, una empresa de EUA, emplea a 12,700 personas y el año pasado facturó cerca de $1,500 millones de dólares.
+
+“*With governments struggling to recruit soldiers, PMCs provide an **inexpensive substitute**, in part because **they do not require the same training, pensions and benefits**. Colonel Spicer says his colleagues once calculated that one American contractor was about seven times cheaper than a regular soldier, and that a British mercenary was ten times cheaper. **Colombian fighters are also a bargain***” ([The Economist](https://www.economist.com/business/2025/10/21/the-mercenary-business-is-on-the-brink-of-a-boom)).
+
+> ***Comentario Whitepaper**: el artículo explica que en el mundo de los mercenarios hay básicamente tres grandes segmentos —los que vienen de países en donde se habla **inglés** (reclutados en EUA y en Europa), los que hablan **ruso**, y el segmento de los que hablan español (que al parecer vienen sobre todo de **Colombia**).*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!Ei1q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa68cb27-4c88-4683-a1a8-46fed3f662e4_2250x425.jpeg)](https://www.inbest.cloud/)
+
+#### 30% en cloud, desde hoy.
+
+Según una encuesta de Azul a 300 directores de tecnología, solo el 2% de las empresas logran que su gasto en nube quede dentro del presupuesto. El resto —literalmente el 98%— se enfrenta a sobrecostos que erosionan márgenes y paralizan inversiones estratégicas.
+
+iNBest **reduce tu gasto en nube hasta 30% desde el primer mes**, usando algoritmos FinOps que ajustan y eliminan costos innecesarios en tiempo real. Paga solo lo justo en AWS, Azure o Google Cloud, sin sacrificar rendimiento ni disponibilidad.
+
+[![](https://substackcdn.com/image/fetch/$s_!U19N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9af8358-4adc-48e3-9779-33e325d9b136_1283x584.png)](https://www.inbest.cloud/)
+
+[Envía un Whatsapp al CEO](http://wa.me/+523335762830)

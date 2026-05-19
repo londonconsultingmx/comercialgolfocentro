@@ -1,0 +1,153 @@
+# Whitepaper, Hoy
+
+> Nu en México; Tupy; L’Oréal; seguros automotrices; se va Wrangler; inversiones de family offices; relojes; transacciones secundarias; cámaras 'vintage'; renta de ropa; update de Whitepaper
+
+**Fecha:** 2025-08-15  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-149  
+**Word count:** 1658
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!uT06!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6dd5114-af67-4b85-9cd8-c0ea78654300_1080x277.png)](http://www.tukanmx.com/)
+
+---
+
+#### Neobancos
+
+Los ingresos totales de **Nu en México** [pasaron](https://www.investidores.nu/en/financials/results-center/) de $224 millones de dólares en los primeros seis meses de 2024, a **$322 millones** en el mismo período de este año. El neobanco reportó que cuenta con 12 millones de clientes en nuestro país —algo así como **13% de los adultos**.
+
+“*We are seeing encouraging momentum and a clear path to scale. Customer growth is accelerating, and our core product, credit cards, is scaling. We reached 6.6 million credit card customers this quarter, up from 4.3 million a year ago. Over the last 12 months, we accounted for **more than 1/4 of all new credit cards issued in Mexico***”, aseguró **[David Vélez](https://www.whitepaper.mx/p/nu-lo-que-hay-detras-del-neobanco?utm_source=publication-search)**, su CEO, en la [llamada con analistas](https://www.marketscreener.com/news/transcript-nu-holdings-ltd-q2-2025-earnings-call-aug-14-2025-ce7c51d9de80ff26) (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el **ingreso promedio por cliente** continúa mejorando, pero en México está todavía en niveles muy bajos (alrededor de **$4 dólares mensuales**, que es más o menos lo que Nubank tenía en Brasil en 2021). Por lo pronto esperan que la reducción en la tasa que están pagándole a los ahorradores impacte positivamente en los resultados de su negocio en nuestro país, que está todavía lejos de llegar a números negros.*
+>
+> *En todo caso, vale la pena destacar que a nivel global prácticamente **triplicaron** sus **utilidades trimestrales** en los últimos 2 años, para superar $630 millones de dólares en Q2. El precio de su acción está [amaneciendo hoy a la alza](https://www.bloomberg.com/news/articles/2025-08-14/nubank-sees-credit-growth-continuing-as-quality-gauges-hold-up), con un aumento de 11%.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-149?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MDc0Mjk1NSwiaWF0IjoxNzc5MjE1OTEwLCJleHAiOjE3ODE4MDc5MTAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gLmm0ok9m0ND51Er9A1REEUdzrE_4lwdxRipiLYcK1I)
+
+---
+
+#### También de Brasil
+
+En 2024, **Tupy**, la empresa brasileña que fabrica componentes de hierro fundido para la industria automotriz, vendió más de $340 millones de dólares en México, equivalente a 17% de sus ingresos totales. Exportan a cerca de 40 [países](https://www.tupy.com.br/en/onde-estamos/) y operan plantas en Ramos Arizpe y en Saltillo. A esta última [estarían migrando](https://api.mziq.com/mzfilemanager/v2/d/5ab6a371-dd2f-452a-b6b2-22c97ed0abbb/2f83e32e-2a3a-b7aa-1f69-1092b514a235?origin=1) parte de su producción desde Brasil, ante la imposición de aranceles (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa [llegó](https://www.tupy.com.br/es/sobre-a-tupy/) en 2012, cuando adquirieron sus plantas en Coahuila. Hace [dos años](https://clusterindustrial.com.mx/tupy-anuncia-expansion-en-ramos-arizpe-con-inversion-de-36-8-mdd/) invirtieron cerca de $40 millones de dólares para incrementar 25% la capacidad de su planta en Ramos Arizpe.*
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!0mmG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F247ad969-9e73-404a-b507-eddbf607fafa_2784x1615.jpeg)](https://substackcdn.com/image/fetch/$s_!0mmG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F247ad969-9e73-404a-b507-eddbf607fafa_2784x1615.jpeg)
+
+> ***Comentario Whitepaper**: entre las nacionales destacaron **IPADE** y **EGADE**; de EUA, Northwestern, Babson y Stanford.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!yEXb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F377fb28f-1f87-42d6-90b6-40eff9a0baa3_3285x1949.heic)](https://substackcdn.com/image/fetch/$s_!yEXb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F377fb28f-1f87-42d6-90b6-40eff9a0baa3_3285x1949.heic)
+
+---
+
+#### Belleza
+
+En las plantas que tienen en en San Luis y en CDMX, **L’Oréal** produce más de 420 millones de unidades al año. En la primera exportan 70% a EUA; en la segunda, 20% se va a América Latina y el resto se queda en el mercado local ([El Economista](https://www.eleconomista.com.mx/empresas/l-oreal-amplia-produccion-mexico-inversion-80-mdd-20250813-772667.html)).
+
+> ***Comentario Whitepaper**: entre 2023 y 2025, la empresa [invirtió](https://www.whitepaper.mx/p/whitepaper-hoy-e11?utm_source=post-email-title&publication_id=57583&post_id=167539066&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true) más de $75 millones de dólares para modernizar ambas plantas. México es de los mercados en los que tienen más crecimiento.*
+
+---
+
+#### Seguros
+
+Durante los primeros [seis meses](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1486651_1.pdf), la prima emitida de seguros automotrices **creció 13.5%**, a $104,684 millones de pesos. Entre las cinco aseguradoras más grandes concentran más de 70% del mercado: **Quálitas** lidera con cerca de 33%, seguida de **GNP** con 16%, **Chubb** con 10%, **AXA** con 8% y **BBVA** con 6% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en el mismo periodo, la venta de unidades ligeras —autos y camiones— **decreció 0.1%**, a un total de 709,344.*
+
+---
+
+#### Se va
+
+**Wrangler de México**, propiedad de **Kontoor Brands**, [cerrará](https://heraldodemexico.com.mx/nacional/2025/8/14/wrangler-cerrara-sus-plantas-en-la-laguna-mas-de-2000-trabajadores-perderan-su-empleo-722562.html) sus cuatro plantas en Coahuila tras evaluar su cadena de suministro global. Ahí empleaban a unas 2,000 personas y operaban desde hace más de 25 años. En [2019](https://mx.fashionnetwork.com/news/Wrangler-cierra-de-forma-definitiva-sus-plantas-de-produccion-en-chihuahua,1109788.html) salieron de Chihuahua, donde tenían 7,000 empleados (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en el [trimestre](https://d1io3yog0oux5.cloudfront.net/_b9037fdc33ee9ff68b7b0d51479a4663/kontoorbrands/news/2025-08-07_Kontoor_Brands_Reports_2025_Second_Quarter_204.pdf), **Kontoor** vendió $658 millones de dólares, 8% más que el mismo periodo del año anterior. **Wrangler** creció 7% y representó poco más de 70% de los ingresos. En su portafolio también tienen a **Lee**, **Helly Hansen** y **Musto**.*
+
+---
+
+#### Inversiones de largo plazo
+
+En los últimos 10 años, el número de ***family offices*** haciendo inversiones en **activos alternativos** —como deuda privada o desarrollo de infraestructura— creció más de 500%.
+
+“*Family offices have **less need for quick cash**, so they can afford to make **illiquid private investments**, Flack said. With family offices known to **invest for decades or even generations**, private markets appeal to their long-term mindset, according to Flack, the leader of the consulting giant’s U.S. and global family office practice*” ([CNBC](https://www.cnbc.com/2025/08/15/family-offices-private-markets.html)).
+
+---
+
+#### *Breves*
+
+* **Bayer** está **llevando a EUA** la marca **Aspirina** —“*Many U.S. consumers of Hispanic origin grew up with Bayer’s Aspirina— their parents and grandparents relied on it, instilling **trust and nostalgia for the brand**. Due to those deep connections, Aspirina has a 99 percent awareness rate in Mexico*” ([MarketScreener](https://www.marketscreener.com/news/bayer-aspirin-introduces-aspirina-to-the-u-s-pain-market-ce7c51dedc8cf621)).
+* Jonathan Katz-Moses**,** un **carpintero** de EUA que creó una marca de herramientas, obtuvo **$2 millones de dólares de venture capital**. ¿La razón? Tiene un canal de **YouTube** con más de **600,000 seguidores**, y es esa misma audiencia a la que constantemente convierte en compradores de sus herramientas ([The Information](https://www.theinformation.com/articles/woodworking-creator-raised-2-million?rc=xfuqjy)).
+* El índice de relojes de **Bloomberg** —un indicador que muestra la variación en los precios de 50 modelos de relojes— avanzó más de 5% en la primera mitad del año; sería **su mejor desempeño desde 2022**. Algunos de los que más están aumentando de precio son el **Daytona** de oro y **Aquanaut**, de Patek Philippe ([Bloomberg](https://www.bloomberg.com/news/articles/2025-08-15/used-rolexes-pateks-are-bright-spot-in-struggling-watch-world?srnd=homepage-americas)).
+* Menos de una semana después de que **Trump** insistió que el **CEO de Intel** debía ser despedido de su cargo, su administración estaría ahora negociando la posibilidad de **quedarse con una participación** en esa empresa ([TechCrunch](https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/)).
+* El volumen de **transacciones secundarias** en los primeros seis meses de 2025 superó $100,000 millones de dólares —**51% más que en 2024**. Sin embargo, especialistas advierten que estos inversionistas están **comprando más caro** y por lo tanto, los retornos esperados podrían terminan siendo menores ([PitchBook](https://pitchbook.com/news/articles/private-wealth-capital-adds-pricing-pressure-for-secondaries-market?utm_medium=newsletter&utm_source=daily_pitch&sourceType=NEWSLETTER)).
+
+---
+
+#### MexMoves: New telecom rules, Western Union swallows main remittance competitor, Banamex ahead of IPO & more
+
+Mientras México avanza en el desmantelamiento de su regulador de telecomunicaciones, hablamos con **Ernesto Piedras** —uno de los principales consultores y expertos del país en economía digital— sobre lo que está en juego. También cubrimos la compra de **Intermex** por parte de **Western Union**, las consecuencias para el gigante mexicano de bebidas **Cuervo** tras el rechazo de Canadá a los licores fabricados en EUA, la posible adquisición del control de **Banamex** por parte de **Chico Pardo** y más.
+
+*Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/31-new-telecom-rules-western-union-swallows-main-remittance/id1792066671?i=1000722010493), [Spotify](https://open.spotify.com/episode/2l5eT5CE5T1mnNphQ8LRXW?si=HTQ1IS8LTTui6BH3ZqoWsw) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+> ***MexMoves** es un podcast de **Whitepaper**, en inglés, de temas de negocios relevantes tanto para EUA, como para México.*
+
+---
+
+#### Reviviendo
+
+[![](https://substackcdn.com/image/fetch/$s_!QDBs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75a3d7af-b01d-4c9e-886c-82da89e609fa_1310x720.jpeg)](https://substackcdn.com/image/fetch/$s_!QDBs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75a3d7af-b01d-4c9e-886c-82da89e609fa_1310x720.jpeg)
+
+**StockX**, el marketplace para comprar y vender *sneakers*, ropa y coleccionables, abrió la categoría de cámaras tipo *power shot* en agosto del año pasado, y desde entonces sus ventas han [crecido](https://stockx.com/about/sx-market-insights/big-facts-brands-making-moves-2025/) casi todos los meses. En promedio, se venden en más de $1,000 dólares —un *premium* de 28% sobre su precio de retail. Son populares entre Gen Z, especialmente las **Canon** (***Redacción Whitepaper***).
+
+---
+
+#### Ropa rentada
+
+En 2019, **Urban Outfitters** lanzó **Nuuly**, un servicio para rentar ropa basado en un modelo de **suscripción**. Sus clientes pueden rentar seis prendas cada mes por $98 dólares; ese precio incluye los gastos de envío y el servicio de lavandería (y pueden también elegir quedarse con alguna prenda, a un precio con descuento). Está creciendo rápidamente: en los últimos 12 meses avanzó 53% para llegar a **380,000 suscriptores** e ingresos de más de $500 millones de dólares anuales ([WSJ](https://www.wsj.com/business/retail/how-urban-outfitters-nuuly-stole-the-show-from-rent-the-runway-58ac80fc?mod=lead_feature_below_a_pos1)).
+
+> ***Comentario Whitepaper**: el artículo del WSJ **[compara Nuuly con Rent the Runway](https://www.wsj.com/business/retail/how-urban-outfitters-nuuly-stole-the-show-from-rent-the-runway-58ac80fc?mod=lead_feature_below_a_pos1)**, que es considerada la empresa que creó este modelo de negocio. Mientras que Nuuly es ya un negocio rentable, explican, Rent the Runway **se quedó muy atrás** y no ha logrado generar flujo. “Rent the Runway **showed there was demand** for an online clothing rental service. But it seems hard to make it work on a stand-alone basis. Tapping the scale and economics of a bigger clothing group seems essential to making the numbers add up”.*
+
+---
+
+#### ***Update Whitepaper***
+
+> *Llevamos poco más de cinco años desde que **Whitepaper** debutó como la empresa que busca transformar el segmento de la información de negocios en México.*
+>
+> *De comenzar con un solo mail semanal, hoy nuestro portafolio de productos incluye resúmenes diarios, artículos de análisis, ‘deep dives’ en temas específicos, entrevistas en video, artículos de invitados, diferentes opciones de podcasts, cursos especializados y también eventos.*
+>
+> *Cada mes, la suma del número de veces que se abren los correos, más las descargas de los podcasts superan fácilmente la cifra de 1.5 millones. Nos enorgullece saber que la información que les llevamos ha servido para tomar decisiones estratégicas, para innovar, y para hacer más fuertes a las empresas de este país.*
+>
+> *A partir de la siguiente semana, ajustamos el precio de la suscripción de **Whitepaper —**aunque **solamente la opción mensual** (a $189 pesos mensuales). El precio de la suscripción anual **se mantiene igual** que como ha estado durante los últimos **dos años** ($1,590 pesos anuales). Quiero agradecerles por sus recomendaciones y sugerencias, y sobre todo por habernos dado la oportunidad de acompañarlos todos los días. Espero que sigan encontrando en nuestro trabajo datos relevantes, ideas valiosas e incluso inspiración que les ayude a crecer sus propias organizaciones.*
+>
+> *Estoy a su disposición,*
+>
+> ***Rene Lankenau H***
+>
+> *rene@whitepaper.mx*
+>
+> *PD: si quieres que te **ayudemos a pasar** de una suscripción mensual a una anual, mándale un mensaje a Manuel (**manuel@whitepaper.mx**).*
+
+---
+
+##### Presentado por:
+
+**Tukan** es la plataforma de datos más completa para el sistema financiero en México.
+
+Sus servicios de información permiten dar seguimiento recurrente a todos los actores regulados del sistema financiero, monitorear más de 500 industrias para análisis de riesgos y consultar decenas de indicadores sociodemográficos y económicos estandarizados para todos los municipios de México.
+
+Conoce más sobre Tukan en [www.tukanmx.com](http://www.tukanmx.com/); ó escríbele directo a [Miguel](mailto:miguel@tukanmx.com), su fundador, para agendar una llamada.
+
+[![](https://substackcdn.com/image/fetch/$s_!lLd0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e0410cb-146e-4cb3-ab32-e1a8ef16dbd9_2040x978.png)](https://substackcdn.com/image/fetch/$s_!lLd0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e0410cb-146e-4cb3-ab32-e1a8ef16dbd9_2040x978.png)
+
+[Conoce más](http://www.tukanmx.com)

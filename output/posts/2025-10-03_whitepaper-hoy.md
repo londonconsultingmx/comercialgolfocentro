@@ -1,0 +1,131 @@
+# Whitepaper, Hoy
+
+> América Móvil en Chile; World Gym Corporation; el negocio de Sigma; IDEI; WP Pulse; criptomonedas en LATAM; eléctricos en EUA; 'bailout' para agricultores; The Free Press; la caída de Hollywood
+
+**Fecha:** 2025-10-03  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-671  
+**Word count:** 1439
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+#### Telefonía
+
+**América Móvil** y **Entel** harían una propuesta conjunta para adquirir el negocio de **Telefónica** en **Chile**. Actualmente, la empresa mexicana ya opera ahí a través de Claro, y estaría interesada en quedarse con el negocio de celulares, mientras que Entel va por las líneas fijas.
+
+En celulares, el líder del mercado es **Entel**, con más de 33%, seguido de **Movistar** (de **Telefónica)**, con 23%, y **Claro**, con 21% ([Bloomberg](https://www.bloomberg.com/news/articles/2025-10-02/america-movil-entel-make-joint-bid-for-telefonica-s-chile-unit)).
+
+---
+
+#### Gimnasios
+
+**World Gym Corporation** [firmó](https://www.prnewswire.com/news-releases/world-gym-corporation-advances-global-growth-with-mexico-mfa-and-australia-expansion-302572296.html) un *master franchise* en México con el que buscarán abrir al menos **30 nuevas sucursales** en el país. Actualmente tienen unas 10.
+
+La empresa fue fundada en 1976 en Venice Beach por **Joe Gold**, y más adelante fue [dirigida](https://www.latimes.com/archives/la-xpm-1992-05-03-we-2093-story.html) por **Arnold Schwarzenegger**. Creció especialmente en Taiwán, al grado que el año pasado su subsidiaria en ese país [pagó](https://www.marketscreener.com/quote/stock/WORLD-GYM-CORPORATION-162282840/news/World-Fitness-Services-Ltd-acquired-World-Gym-International-LLC-for-9-million-48186063/?utm_source=chatgpt.com) $9 millones de dólares para adquirir a su matriz.
+
+Hoy, con sede en Taiwán, la empresa opera alrededor de 270 sucursales en 10 países y [facturó](https://investor.worldgymtaiwan.com/en/financial-monthly-statements?y=2024) alrededor de $320 millones de dólares el año pasado (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a la cabeza de la operación en México estaría [Iván Galván](https://www.linkedin.com/in/ivan-galvan/).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-671?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NDg1MzA4MiwiaWF0IjoxNzc5MjE1ODU5LCJleHAiOjE3ODE4MDc4NTksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GSyu-h0WJ3UWPwgNY44ywWKD9a_UM_Wqde4tNVrWFPI)
+
+---
+
+#### Jamones y yogurt
+
+Este año es el primero en el que **Sigma/ALFA** opera exclusivamente como una empresa de alimentos. [Tiene](https://www.sigma-alimentos.com/presentacion-corporativa/) presencia en **17 países**, con cerca de 190 CEDIS y 64 centros de producción. Al menos **16 de sus marcas** generan más de $100 millones de dólares anuales —cada una— y por medio de sus 8,800 vehículos distribuyen sus productos en más de 640,000 puntos de venta (de los cuales 360,000 están en México). A la cabeza de Sigma está **Rodrigo Fernández Martínez**, quien fue [nombrado CEO](https://www.sigma-alimentos.com/wp-content/uploads/2019/03/Sigma_anuncia_sucesion_en_su_Direccion_General-1.pdf) en 2019 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en dólares, las ventas de **Sigma** serían de algo así como $8,750 millones. En el mismo periodo, **Gruma** [vendió](https://www.gruma.com/media/729234/reporte_anual_gruma_2024_ingl_s_-_versi_n_final_con_anexos.pdf) $6,487 millones, **[Conagra Brands](https://www.conagrabrands.com/news-room/news-conagra-brands-reports-fourth-quarter-results-prn-122930)** $11,600 millones, **[Smithfield Foods](https://investors.smithfieldfoods.com/sec-filings/sec-filings/content/0000091388-25-000017/smf-20241229.htm)** (con marcas como **Nathan’s** y **Eckrich**), $14,142 millones, y **Bimbo** más de $22,000 millones.*
+
+[![](https://substackcdn.com/image/fetch/$s_!hoEK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1231c51-1060-4b8a-8165-4ad7de6eb4c5_2449x3520.jpeg)](https://substackcdn.com/image/fetch/$s_!hoEK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1231c51-1060-4b8a-8165-4ad7de6eb4c5_2449x3520.jpeg)
+
+---
+
+#### Edificios y centros comerciales
+
+De los más de $5,000 millones de pesos de ingresos que registró **Internacional de Inversiones** entre junio de 2024 y junio de 2025, **sólo 12% correspondieron a escrituración de viviendas y arrendamientos** —el restante 88% provino de las operaciones de **desinversión de activos**.
+
+La desarrolladora “enfrenta un **perfil de vencimientos complejo”**, que incluye amortizaciones de cerca de $480 millones en lo que resta de 2025 y casi $540 millones en 2026. En consecuencia, **Moody’s** está bajándole la calificación y la mantiene en perspectiva negativa ([BMV](https://www.bmv.com.mx/docs-pub/eventoca/eventoca_1496854_2.pdf)).
+
+> ***Comentario Whitepaper**: la calificadora explica que **el balance general se ha contraído** (resultado del plan de desinversión de activos), y añade que esto **afecta su escala** y capacidad de generación de ingresos futuros. En todo caso, destacan que hasta el momento IDEI **ha cumplido puntualmente** con el pago de intereses relacionados con su emisión IDEI 23+V.*
+
+---
+
+#### Whitepaper Pulse
+
+Dentro de la comunidad de suscriptores a Whitepaper están CEOs, consejeros y varios de los accionistas principales de muchas **de las empresas más grandes en este país**. Para conocer qué perspectiva tienen, todos los meses les hacemos dos o tres preguntas; esta segunda versión se la enviamos a **119 suscriptores**, que son quienes sabemos que están liderando empresas muy grandes (incluyendo a varias de las top 20). La muestra es pequeña, pero las empresas que representan, juntas, tienen un peso muy significativo en la economía de este país.
+
+En esta ocasión les pedimos que nos compartieran **qué les parece la idea de imponer aranceles** a lo que importamos desde **China**. Más de la mitad respondió que le parece que **es una medida positiva**: “*México tiene que apoyar a la industria local y frenar la competencia desleal de China, cuya cultura disruptiva destruye el desarrollo local*”, añadió uno de ellos, mientras que otro dijo que “*a este nivel y de la forma como se plantea hacerlo es correcto*”. Por otro lado, 24% contestó que no, **que le preocupan las consecuencias** para México. Finalmente, otro 24% dijo no estar seguro sobre el tema.
+
+La segunda pregunta fue sobre **seguridad**: en lo que va del año, ¿tu empresa se ha visto afectada directamente por algún incidente de seguridad? En este caso, **57% respondió que sí** han tenido que enfrentarse a temas de inseguridad; 43% dijo que no.
+
+> *¿Sugerencias para las preguntas que les haremos el siguiente mes?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-671/comments)
+
+---
+
+#### Cripto
+
+Según [Chainalysis](https://www.chainalysis.com/blog/latin-america-crypto-adoption-2025/), entre julio de 2022 y junio de 2025 se realizaron transacciones con **criptomonedas** por cerca de $1.5 trillones de dólares en América Latina (en el sentido americano del término).
+
+El principal mercado es Brasil, con $318,800 millones de dólares; le siguen Argentina, con $93,900 millones, y luego México, con $71,200 millones. Después están Venezuela y Colombia, con poco más de $44,000 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: ayer el [precio](https://www.bloomberg.com/news/articles/2025-10-02/bitcoin-hits-120-000-for-first-time-since-reaching-record-high) de un **bitcoin** superó $120,000 dólares; su máximo histórico fue hace alrededor de un [mes](https://www.forbes.com/sites/digital-assets/2025/08/13/bitcoin-prices-reach-fresh-all-time-high-above-124000/) (más de $124,000).*
+
+[![](https://substackcdn.com/image/fetch/$s_!GAHZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe749c646-e196-4751-90d3-e2f40bfabd47_1281x173.webp)](https://ctz6y04.na1.hs-sales-engage.com/Ctc/2J+23284/ctz6Y04/JkM2-6qcW6N1vHY6lZ3lfVYTCk73KR1y-W49NkLC23TGKTW7Pskst28gnd4W3b7pCr7JFBsFW7PldFl7kpNfnVrBckj4bX-XsW36S7xx2wZ_-rW7qRGPC4vf9NSW3y0jhg5G5KTHW67fkWw1XryJmVr8klM3bSTBLN7zP9L3qXnJ2VxdN5v1H3D14W4G634J29c6LFW4vZxVy4wXfFJW8c4sCx4h-lDCW15mqBg2smWjHW3ljg892kXCvfW7GpbHZ24_5QHW80X69S3zfFz8W969GFQ6F6cfBV7z7v-6jGLK3f4qhBBl04)
+
+**En México, los millonarios invierten 27% menos en acciones que en Estados Unidos.**
+
+Este año se realizó el **primer estudio nacional sobre HNWI**, este revela cómo los grandes patrimonios construyen, protegen y disfrutan su riqueza.
+
+Elaborado por **Invested Multi Family Office**, ofrece una visión estratégica para líderes y empresarios que buscan claridad en decisiones de crecimiento, seguridad y legado.
+
+**[Descarga Wealth Pulse 2025](https://ctz6y04.na1.hs-sales-engage.com/Ctc/2J+23284/ctz6Y04/JkM2-6qcW6N1vHY6lZ3lfVYTCk73KR1y-W49NkLC23TGKTW7Pskst28gnd4W3b7pCr7JFBsFW7PldFl7kpNfnVrBckj4bX-XsW36S7xx2wZ_-rW7qRGPC4vf9NSW3y0jhg5G5KTHW67fkWw1XryJmVr8klM3bSTBLN7zP9L3qXnJ2VxdN5v1H3D14W4G634J29c6LFW4vZxVy4wXfFJW8c4sCx4h-lDCW15mqBg2smWjHW3ljg892kXCvfW7GpbHZ24_5QHW80X69S3zfFz8W969GFQ6F6cfBV7z7v-6jGLK3f4qhBBl04)**
+
+[![](https://substackcdn.com/image/fetch/$s_!9X7e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8022a4a-46d2-4e4d-bf36-3bbf85ee8d45_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!9X7e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8022a4a-46d2-4e4d-bf36-3bbf85ee8d45_1281x104.webp)
+
+#### Eléctricos
+
+En EUA está por llegar a su fin un **incentivo federal** para adquirir vehículos eléctricos. Esto está **disparando sus ventas**: los clientes interesados en este tipo de vehículos están **apresurándose** a comprarlos antes de perder un subsidio de hasta $7,500 dólares. **GM** y **Hyundai**, por ejemplo, están [duplicando sus ventas de eléctricos](https://www.cnbc.com/2025/10/01/third-quarter-us-auto-sales.html) en el trimestre, mientras que en el caso de **Ford** estas ventas habrían [avanzado 30%](https://www.cnbc.com/2025/10/01/third-quarter-us-auto-sales.html). Incluso **Tesla**, que llevaba dos trimestres consecutivos presentando retrocesos, [creció 7%](https://www.wsj.com/business/autos/tesla-sales-q3-2025-844e1394?mod=lead_feature_below_a_pos3) en estos últimos tres meses (***Redacción Whitepaper***).
+
+---
+
+#### *Breves*
+
+* La administración del presidente **Trump** estaría evaluando un plan de ‘***bailout***’ **para agricultores de EUA** que se han visto perjudicados por la entrada en vigor de los **aranceles**. Contemplan apoyarlos con más de **$10,000 millones de dólares**, y dichos fondos vendrían precisamente de los ingresos que **generan los aranceles** ([WSJ](https://www.wsj.com/politics/policy/trump-explores-bailout-of-at-least-10-billion-for-u-s-farmers-258d2975?mod=hp_lead_pos3)).
+* La de la semana: en una transacción que podría ascender a **$40,000 millones de dólares**, una empresa controlada por **BlackRock** busca [quedarse con Aligned Data Centers](https://www.bloomberg.com/news/articles/2025-10-03/gip-nears-deal-to-buy-aligned-data-centers-for-about-40-billion?srnd=homepage-americas). Con sede en Texas, Aligned administra **78 data centers** —incluyendo al menos **cuatro en [Querétaro](https://aligneddc.com/mexico/)** (***Redacción Whitepaper***).
+* **Paramount** estaría en proceso de adquirir a **The Free Press**; estiman que será un *deal* de más de **$150 millones de dólares**. Creada en 2021 como un **newsletter**, en muy poco tiempo se convirtió en uno de los medios de comunicación de mayor influencia en EUA. Su fundadora, **Bari Weiss**, podría ser nombrada *editor in chief* en **CBS News** ([NY Times](https://www.nytimes.com/2025/10/02/business/media/paramount-free-press-bari-weiss-deal.html)).
+
+---
+
+#### MexMoves: Mexico & Robots, Capital One Bets on Data, Slim’s Pemex Ties, and the $100K H1-B Visa Twist
+
+**Nikolaj Lippmann**, estratega de acciones para América Latina en **Morgan Stanley**, explica qué tan realista es que México desarrolle una industria local de manufactura de robots durante la próxima década. Los planes de inversión de **Capital One** en México, no en finanzas sino en centros de datos; la relación cada vez más cercana de Carlos Slim con Pemex; y la decisión del presidente Trump de cobrar $100,000 dólares por cada visa H1-B. Además, lo más reciente del tequila en los titulares de negocios—entre otros temas.
+
+*Disponible en [Apple Podcasts](https://podcasts.apple.com/mx/podcast/38-mexico-robots-capital-one-bets-on-data-slims-pemex/id1792066671?i=1000729795197), [Spotify](https://open.spotify.com/episode/0LD5jWdttXEGmDrVdrslgO?si=qD1wdVzTRrahGIhgKWvODw) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+> ***MexMoves** es un podcast de **Whitepaper**, en inglés, de temas de negocios relevantes tanto para EUA, como para México.*
+
+---
+
+#### Hollywood
+
+Entre 2022 y 2024, el número de personas empleadas por la **industria del cine** en **Los Ángeles** bajó de 142,000, a cerca de 100,000. La razón es que **Hollywood** está haciendo **menos contenido**: las producciones con presupuestos de más de $40 millones de dólares **cayeron 30%** en esos dos años (y la tendencia continúa **a la baja en 2025**).
+
+“*TV production was booming in the 2010s and early 2020s as companies tried to **jump-start streaming services**, but in 2022, investors saw streaming growth was slowing and decided what actually matters is **profitability**. Entertainment companies, which plan productions many months in advance, cut spending dramatically when the **strikes** ended the following year*” ([WSJ](https://www.wsj.com/business/media/los-angeles-entertainment-economy-downturn-7879105c?mod=hp_lead_pos7)).
+
+[![](https://substackcdn.com/image/fetch/$s_!3v-D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab19f26-1e84-441f-9274-1965563216e2_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!3v-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab19f26-1e84-441f-9274-1965563216e2_1281x136.webp)
+
+[![](https://substackcdn.com/image/fetch/$s_!vms6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc934d7c-0699-45b0-8fa5-6b09d334176b_1686x1339.jpeg)](https://www.cervezarrey.com/products/noreste-lager)
+
+###### **Sponsored**
+
+Ligera, refrescante y dorada, muy al estilo del atardecer del norte. Esta Lager de **Cerveza Rrey** es la cheve perfecta para el calorón, las carnes asadas y cualquier plan bajo el sol. Utiliza el código: **NORESTE20** y obtén un descuento de 20% en 12 y 24 packs.
+
+[Comprar](https://www.cervezarrey.com/products/noreste-lager)

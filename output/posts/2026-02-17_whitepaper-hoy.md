@@ -1,0 +1,126 @@
+# Whitepaper, Hoy
+
+> $300M para Kavak; L’Oréal; la ronda de EFEX; Bafar; lo que se gasta en viajes; Elastomer Solutions; cambiando al CEO; los Cisneros; todos hacia AI (incluyendo a Toto); el nuevo negocio de Ford
+
+**Fecha:** 2026-02-17  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-277  
+**Word count:** 1402
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!FcNm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0848e94-8b65-41ec-b19d-42c632049fdc_2250x425.jpeg)](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)
+
+---
+
+#### La más grande de las startups
+
+**Kavak** obtuvo **$300 millones de dólares de inversión** en una nueva ronda que fue liderada por **Andreessen Horowitz**. En entrevista con **Whitepaper**, [Carlos García](https://www.linkedin.com/in/carlosjuliogarciaottati/) dijo que el año pasado vendieron **más de 120,000 vehículos**, que proyectan crecer 40% en 2026, y también que la empresa alcanzó la **rentabilidad** desde hace algunos meses (***Redacción Whitepaper)***.
+
+> ***Comentario Whitepaper**: el fundador y CEO de Kavak explicó que están creciendo no solamente en número de transacciones en sus propias tiendas, sino también gracias a la incorporación de un modelo de **marketplace** por medio del cual hay muchos otros vendedores beneficiándose de la plataforma creada por Kavak, y sobre todo como consecuencia de los avances en sus **servicios financieros**. Cerca de 60% de las transacciones llevan financiamiento (Kavak origina los créditos) y están ofreciendo además **alternativas de liquidez** sin necesidad de vender el vehículo.*
+>
+> *Esto es importante. Kavak es seguramente la startup **más grande en México** —en total han recibido **más de $2,000 millones de dólares de inversión**— y a lo largo de sus casi 10 años de historia han tenido una serie de ‘ups & downs’. Hoy son una startup con una escala única y un modelo de negocio bastante completo; **García** está convencido que están apenas en las “primeras etapas” del valor que podrá alcanzar su empresa ([en esta entrevista](https://www.whitepaper.mx/p/kavak-una-radiografia-a-su-modelo?utm_source=publication-search) detalla su modelo y su visión).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-277?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4ODE5NzU0NCwiaWF0IjoxNzc5MjE1NzI3LCJleHAiOjE3ODE4MDc3MjcsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.tGtJUWzyWhTrW_tutOgcPo79DzYi09iD7p5vHfsuzBU)
+
+---
+
+#### Cosméticos y belleza
+
+Para **L’Oréal**, los mercados emergentes representan 17% de sus ingresos —pero **40% de su crecimiento**. En 2025, **México** fue el sexto país que más [contribuyó](https://www.loreal-finance.com/system/files/2026-02/Mr%20Nicolas%20Hieronimus%2C%20Chief%20Executive%20Officer.pdf) al aumento en ventas, registrando aquí un avance superior a 9%. La empresa [vendió](https://www.loreal-finance.com/eng/press-release/2025-annual-results) €44,052 millones, de los cuales €3,280 millones correspondieron a América Latina (***Redacción Whitepaper***).
+
+---
+
+#### Transferencias internacionales
+
+**EFEX**, una fintech con sede en México y EUA, cerró una ronda semilla de $8 millones de dólares liderada por **PayPal Ventures** y **Floodgate**. EFEX está enfocándose en el corredor comercial entre México y EUA para facilitar pagos transfonterizos y flujos de tesorería para empresas medianas (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: EFEX se enfoca en empresas que mueven entre $1 y $50 millones de dólares en ingresos al año. “No sólo es ayudarles con el tipo de cambio, sino cuándo hacen los pagos, si tienen liquidez, si tienen desfase entre cuentas por cobrar,” [Dimitri Zaninovich](https://www.linkedin.com/in/dimitri-zaninovich/), CEO y cofundador de EFEX, dijo a **Whitepaper**. También destacó que para esta ronda, su empresa se enfocó en inversionistas en EUA ya que en términos de operaciones financieras, “la reputación y solidez de la plataforma de pagos se vuelve fundamental, y queríamos tener el respaldo de empresas americanas para este proceso de expansión.”*
+
+---
+
+#### Red de distribución
+
+El CAPEX de **Grupo Bafar** en 2025 [ascendió](https://grupobafar.s3.us-east-1.amazonaws.com/CentroReportes/ReportesTrimestrales/4T25/GB_PR_4T25.pdf) a más de $5,670 millones de pesos. Más de 50% se destinó a fortalecer las capacidades logísticas de su negocio de alimentos: hicieron **nuevos centros de distribución** en El Paso y en Baja California Sur, y ampliaron el que tenían ya en **Chihuahua** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:*** ***Bafar** registró ingresos de **$32,699 millones de pesos** el año pasado; sería un crecimiento de 15% frente al año anterior. El segmento de alimentos representa 90% de sus ingresos; el resto es de **Fibra Nova** y de sus divisiones agroindustrial, financiera e inmobiliaria.*
+
+---
+
+#### Lo que se gasta en viajes
+
+El gasto total acumulado de los 78 millones de residentes mexicanos **que viajaron al extranjero** el año pasado fue de **$13,655 millones de dólares** —20% más que en 2024.
+
+En cuanto al gasto promedio, quienes salieron por **vía aérea** desembolsaron $970 dólares por persona, frente a $253 dólares de quienes viajaron por **vía terrestre**. Los excursionistas —es decir, aquellos que no pasaron la noche fuera del país— gastaron en promedio menos de $70 dólares por salida (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!q7Tv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48564a5e-dab9-4d47-b7ec-bf459656a7d4_2319x2822.jpeg)](https://substackcdn.com/image/fetch/$s_!q7Tv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48564a5e-dab9-4d47-b7ec-bf459656a7d4_2319x2822.jpeg)
+
+---
+
+#### En Zacatecas
+
+**Elastomer Solutions,** una empresa de Alemania, [invirtió](https://www.tyt.com.mx/nota/elastomer-solutions-duplica-operaciones-en-mexico-con-nueva-planta-en-zacatecas) $15 millones de dólares en una nueva instalación en **Zacatecas**, con lo que duplicará su operación en México. La empresa se dedica al diseño y manufactura de componentes para la industria automotriz, con [clientes](https://mexicoindustry.com/noticia/elastomer-solutions-invierte-15-mdd-para-duplicar-su-operacion-automotriz-en-mexico) como BMW, Audi, Volkswagen, Mercedes-Benz y Nissan (***Redacción Whitepaper***).
+
+---
+
+Loading...
+
+> *¿De qué marca?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-277/comments)
+
+---
+
+#### Cambiando al CEO
+
+De las **1,500 empresas** públicas más grandes en EUA, alrededor de **11% cambiaron de CEO en 2025** —el porcentaje más alto desde 2010. Este ritmo **no está desacelerándose en 2026**: tan solo en enero y en lo que va de febrero, llegaron nuevos CEOs a empresas como Walmart, Procter & Gamble y Lululemon, y se anunciaron además relevos en Disney, PayPal, HP y Kroger.
+
+“*The result is a grand experiment in leadership as companies grapple with the swift rise of artificial intelligence, the unraveling of long-established trade practices and **an unsettled economy and geopolitical order***” ([WSJ](https://www.wsj.com/business/c-suite/new-ceo-replacements-age-young-5c503b88?mod=hp_lead_pos7)).
+
+> ***Comentario Whitepaper**: el artículo explica que **va a la baja la edad promedio** de quienes están asumiendo el de CEO en este tipo de empresas (de 56 años un año antes, a 54 años ahora).*
+>
+> *Por cierto, en 2025 también cambiaron de CEO varias de las empresas **más grandes en México**, incluyendo a Cemex, Coppel, Walmex, El Palacio de Hierro, Bimbo y Femsa.*
+
+---
+
+#### *Breves*
+
+* Desde Miami, la familia **Cisneros** está desarrollando un fondo de más de $1,000 millones de dólares **para invertir en Venezuela**. Suponen que ese país vivirá una ola de **privatizaciones**, lo que presentará una serie de oportunidades de inversión en telecomunicaciones, logística y energía (entre otros). A la cabeza está [Adriana Cisneros](https://www.linkedin.com/in/adrianacisneros/), de 46 años ([Bloomberg](https://www.bloomberg.com/news/articles/2026-02-17/venezuela-s-cisneros-to-raise-1-billion-for-reconstruction-fund?srnd=homepage-americas)).
+* Con retornos de alrededor del 20% en lo que va de 2026 —muy por encima de los principales mercados desarrollados— las **bolsas de LATAM** están impulsando los resultados de los **fondos** dedicados a invertir en esa región ([Expansión.es](https://www.expansion.com/mercados/fondos/2026/02/14/699079f9468aebdb448b4572.html)).
+* En los últimos 12 meses, el precio de las acciones de **empresas de software** enfrentó **la peor caída de los últimos 30 años**. Esto está generándoles una **crisis de identidad** y en consecuencia, las empresas de software están intentando **cambiar su posicionamiento** con el objetivo de ser catalogadas como **empresas de AI** ([NY Times](https://www.nytimes.com/2026/02/14/business/dealbook/software-companies-ai.html?smid=nytcore-ios-share)).
+* …y hablando de empresas que quieren “mudarse” al mundo del AI: **Toto**, la famosa marca japonesa de baños tiene un **negocio de cerámicos** que juegan un rol en la **cadena de suministro de semiconductores** (y que de hecho le generan a la empresa 40% de la utilidad operativa). Sus acciones acumulan un aumento de 60% en el último año; hay un ‘activist investor’ presionándolos para priorizar este negocio ([Financial Times](https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e)).
+
+---
+
+#### Otro negocio
+
+**Ford** utilizará una planta que cerró el año pasado en Kentucky para comenzar a **producir baterías** destinadas a ser utilizadas en **data centers** y en aplicaciones industriales.
+
+“***Decades ago, Ford owned many businesses**, including rubber plantations and iron and coal mines. More recently, it has stuck mainly to cars and trucks. But some experts say **automakers should be entrepreneurial** because car sales are flat and profits thin (…) Ford’s advantages — it’s big and has been around since the beginning of the 20th century —**may give customers confidence** that it will be able to service its products*” ([NY Times](https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html)).
+
+> ***Comentario Whitepaper**: es una estrategia similar a lo que hizo **Tesla**, que ahora tiene un negocio de baterías para **uso residencial y comercial** (y que de hecho es importante para la empresa **en México**, en donde hasta **hoteles** están incorporando este tipo de baterías en sus instalaciones).*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!imQx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc045799f-677b-440f-a98f-607b6cccc8b2_1500x811.png)](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)
+
+La diferencia entre “trabajar con AI” y operar como una compañía AI-First es lo que va a definir quién gana en 2026.
+
+En [Arkham](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper) lo vemos a diario. Grandes retailers ya trabajan con nosotros para incrementar ventas, reducir stock-outs y ganar verdadero control operativo.
+
+Mientras muchos siguen invirtiendo horas en consolidar datos de sistemas fragmentados para poder tomar decisiones (o implementando chatbots que no mueven la aguja), las empresas que trabajan con nosotros integran AI en el corazón de su operación y construyen una ventaja competitiva real y sostenible.
+
+Nuestra plataforma de Datos & AI, junto con nuestro modelo de implementación, está diseñada para eso: operar con datos confiables, generar ROI real y construir la base sobre la que se ejecutará el futuro de tus operaciones.
+
+Y en tu empresa, ¿qué resultados concretos vas a acelerar este trimestre con AI?
+
+[Agenda tu demo](https://www.arkham.tech/whitepaper?utm_source=WP+hoy&utm_medium=WP+hoy&utm_campaign=WP+hoy&utm_id=Whitepaper)

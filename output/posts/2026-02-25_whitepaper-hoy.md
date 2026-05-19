@@ -1,0 +1,121 @@
+# Whitepaper, Hoy
+
+> Resultados de Mercado Libre; Grupo Diagnóstico Aries en Florida; Volaris; venture capital en México; Humand; GA y ByteDance; fundador de Shein; spotlight en Rhode Beauty
+
+**Fecha:** 2026-02-25  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-f7f  
+**Word count:** 1445
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!HS6L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4365dbd3-bb20-4b78-bef2-0c368cd83a2a_1456x266.webp)](https://mendel.com/es-mx/mx/#contacto)
+
+---
+
+#### + $100,000 millones
+
+Los ingresos totales de **Mercado Libre** pasaron de $2,100 millones de dólares en el cuarto trimestre de 2021, a casi $8,800 millones en Q4 2025. Sus **operaciones en México** contribuyeron con [poco más de $2,000 millones](https://investor.mercadolibre.com/sec-filings#) —68% de e-commerce y el resto de los servicios de **Mercado Pago** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: con este resultado, **Mercado Libre en México** debe estar superando los $100,000 millones de pesos anuales de ingresos —más que lo que venden empresas como **Aeroméxico** o **Alsea**.*
+>
+> *Destaca además el crecimiento de **Mercado Pago** en nuestro país, que **multiplicó por cuatro** sus ingresos entre 2022 y 2025 y por sí solo es un negocio con ingresos anuales cercanos a $40,000 millones de pesos. En la [llamada trimestral](https://www.marketscreener.com/news/transcript-mercadolibre-inc-q4-2025-earnings-call-feb-24-2026-ce7e5cdad081f02c) presumieron que la implementación de AI a su estrategia de **prospección** en México tuvo como resultado un crecimiento de **50% en TPVs**, y también que están especialmente contentos con los **márgenes** en sus productos de crédito —“the margins in Argentina and Mexico are extremely high”, [comentó](https://www.marketscreener.com/news/transcript-mercadolibre-inc-q4-2025-earnings-call-feb-24-2026-ce7e5cdad081f02c) su [CFO](https://www.linkedin.com/in/martin-de-los-santos-287ab730/).*
+
+---
+
+#### Sangre por correo
+
+Este año, los ingresos totales de **Grupo Diagnóstico Aries** debieran estar superando $8,000 millones de pesos. La organización creada por **Ernesto López Clariond** comenzó adquiriendo cadenas de laboratorios en 2015 y ahora cuenta con **casi 350 sucursales** distribuidas por todo el país, un equipo de más de 5,500 personas y un portafolio de marcas que incluyen desde **Laboratorios Moreira** y **Olab**, hasta **Jenner** y **Lister**.
+
+En verano de 2023, en una transacción de más de $100 millones de dólares, Aries adquirió el control de **Access Labs**. Ubicada en Jupiter, Florida, Access había venido creciendo con un modelo de exámenes médicos a distancia: los médicos envían por correo las pruebas de sus pacientes, para recibir los resultados al día siguiente.
+
+En entrevista con **Whitepaper**, López Clariond explicó que ellos creían que el modelo de Access Labs era ideal para escalarlo y aprovechar el enorme potencial de crecimiento que hay en EUA.
+
+[![](https://substackcdn.com/image/fetch/$s_!uY3c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F002f323b-cf13-4e8a-a3e0-8f6754d4be5a_3806x2800.jpeg)](https://substackcdn.com/image/fetch/$s_!uY3c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F002f323b-cf13-4e8a-a3e0-8f6754d4be5a_3806x2800.jpeg)
+
+#### *Continuar leyendo al final del correo…*
+
+---
+
+#### Venture capital en México
+
+De acuerdo con [Finnovista](https://www.finnosummit.com/radar/finnovista-fintech-radar-mexico-2026/), el año pasado las firmas de venture capital hicieron **107 transacciones en México**, que sumaron en total $1,427 millones de dólares. Es el tercer año consecutivo en el que **disminuye la cantidad de operaciones**, aunque incrementa el valor total: en 2023 fueron $1,143 millones de dólares en 156 operaciones, y en 2024 $1,175 millones en 126 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: algunas de las principales rondas de startups mexicanas en 2025 fueron las Series A y B de [Plata](https://www.whitepaper.mx/i/176067891/neobancos), que sumaron $410 millones de dólares; la ronda de [Klar](https://www.whitepaper.mx/i/167200790/fintech) por $170 millones de dólares; la de [Kapital](https://www.whitepaper.mx/i/172107250/regresan-los-unicornios) por $86 millones de dólares; y la de [Kavak](https://www.whitepaper.mx/i/161118069/el-unicornio-original), por $127 millones de dólares (que justo la [semana pasada](https://www.whitepaper.mx/i/188197544/la-mas-grande-de-las-startups) obtuvo otros $300 millones de dólares en una nueva ronda).*
+
+---
+
+#### Tarifas y servicios
+
+Los ingresos por tarifas de **Volaris** retrocedieron más de 14% [durante el año](https://api.mziq.com/mzfilemanager/v2/d/ea52c1bb-e8e2-457e-820a-98ca17753a37/73f0bb8c-8de8-28b0-0855-fe5e47d4f579?origin=2) (la tarifa base promedio por pasajero bajó de $51 dólares a $42 dólares), lo que provocó que sus ingresos operativos disminuyeran 3%, para llegar a $3,038 millones de dólares. Por otro lado, destacaron **mayores ingresos por servicios adicionales** por pasajero, que incrementaron cerca de 2% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: 31 millones de pasajeros [volaron](https://api.mziq.com/mzfilemanager/v2/d/ea52c1bb-e8e2-457e-820a-98ca17753a37/73f0bb8c-8de8-28b0-0855-fe5e47d4f579?origin=2) en la aerolínea en 2025 —esto es, 5% más que en 2024— y Volaris concluyó el año con 155 aviones (sumó otros 12 durante el año). Un dato importante es que ya les quedan menos aviones en tierra (los que estaban siendo inspeccionados por el famoso tema de los motores).*
+
+---
+
+#### HR Tech
+
+**Humand**, una startup argentina que desarrolló una plataforma para centralizar la gestión de recursos humanos, obtuvo $66 millones de dólares en su más reciente ronda de inversión (con inversionistas como **Kaszek**, Goodwater Capital, Y Combinator, [Marcos Galperin](https://www.linkedin.com/in/marcosgalperin/?originalSubdomain=ar) y [Sebastián Mejía](https://www.linkedin.com/in/sebastianmejia/)**)**. Parte de los recursos se destinarán a **acelerar su expansión en México**.
+
+Operan en 51 países y aseguran que más de 1.6 millones de empleados, en 1,500 empresas, utilizan su plataforma. Sus fundadores, [Nicolás Benenzon](https://www.linkedin.com/in/benenzon/) y [Gerónimo Maspero](https://www.linkedin.com/in/geronimomaspero/?locale=es_ES), se reubicaron en México en 2021, aunque en la actualidad no tienen una base fija en ningún país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: México es su segundo mercado más grande en cuanto a número de clientes. Representa 25% del total y entre sus clientes están Femsa, Viva Aerobus, Premium Restaurant Brands, Centro Médico ABC, Tracsa y Flecha Amarilla.*
+
+---
+
+#### ¿Una buena inversión?
+
+**General Atlantic** estaría en proceso de vender una participación en **ByteDance** en una transacción que valúa a la empresa detrás de **TikTok** en $550,000 millones de dólares. La firma invirtió por primera vez en esa empresa en 2017, cuando su valuación era de unos $20,000 millones ([Reuters](https://www.reuters.com/world/china/bytedance-valued-550-billion-proposed-share-sale-by-general-atlantic-sources-say-2026-02-25/)).
+
+> ***Comentario Whitepaper**: **GA** está muy activo en México —es uno de los nuevos accionistas en **Banamex** y es también el [nuevo dueño](https://www.whitepaper.mx/p/whitepaper-hoy-7ec) del 49% de **Grupo Águilas**. En su portafolio están desde Clip, Kavak y Klar, hasta Grupo Axo y Hospitales Mac* *(eran también inversionista en Jüsto, que hace poco anunció que dejará de operar)*. *En mayo del año pasado [entrevistamos a Bill Ford](https://www.whitepaper.mx/p/desde-hospitales-hasta-seminuevos), quien dirige a la firma desde hace más de 15 años; la oficina en México está a cargo de [Luis Cervantes](https://www.linkedin.com/in/luis-cervantes-7a2b9814?originalSubdomain=mx).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-f7f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4ODkxNTE5OCwiaWF0IjoxNzc5MjE0OTgxLCJleHAiOjE3ODE4MDY5ODEsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.rUtzjIjbyvBaXexMFtIRALeWw1AfMSsTmZgous3tEc4)
+
+---
+
+#### Enigmático
+
+El fundador de **Shein** apareció en público —algo **extraordinariamente raro**— para prometer una inversión de $1,500 millones de dólares en la provincia de **Guangdong**, en China.
+
+“*In a short speech, Xu said that Guangdong is where Shein has its roots . The remarks marked a departure from Shein’s attempt to deemphasize its China ties in the last few years as it sought to expand to the U.S. and other countries*” ([The Information](https://www.theinformation.com/briefings/shein-founder-makes-rare-public-appearance-chinese-government-forum?rc=xfuqjy)).
+
+---
+
+#### Spotlight en: Rhode Beauty
+
+[![](https://substackcdn.com/image/fetch/$s_!EUmA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2908dc2-d328-4db8-be7c-6b0de276407d_2604x1552.jpeg)](https://substackcdn.com/image/fetch/$s_!EUmA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2908dc2-d328-4db8-be7c-6b0de276407d_2604x1552.jpeg)
+
+En un mundo lleno de marcas de celebridades, Rhode, creada por Hailey Bieber —esposa de Justin Bieber— [provocó](https://www.nytimes.com/2024/06/24/style/hailey-bieber-makeup-rhode.html) filas de hasta 14 horas en LA, lanzó un *smoothie* viral en Erewhon y se convirtió en una obsesión para *Gen Alpha*. El resultado: en agosto de 2025, e.l.f. Beauty [la compró](https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607) en $1,000 millones de dólares (la adquisición más grande en su historia).
+
+Fundada en 2022 por Bieber, Rhode mezcló belleza con *wellness* y vendió un look minimalista que conectó muy bien con nuevas generaciones. “*People are buying into the entire brand, the entire lifestyle and products*,” así lo [señaló](https://www.nytimes.com/2025/05/29/style/hailey-bieber-rhode-elf-beauty.html) el CEO de e.l.f., [Tarang Amin,](https://www.linkedin.com/in/tarang-amin-2945507/) después de concretar la adquisición. En su último año fiscal, Rhode generó [$212 millones de dólares](https://fortune.com/2025/05/28/elf-acquires-hailey-bieber-rhode-deal/#:~:text=Retail%20cosmetics-,E.l.f.'s%20acquisition%20of%20Hailey%20Bieber's%20Rhode%20is%20a%20$1,having%20%E2%80%9Creal%20staying%20power.%E2%80%9D) en ventas con un margen EBITDA de 34%. No tenía más de 10 productos en el portafolio.
+
+La marca entró a Sephora en octubre de 2025 y [vendió](https://www.globalcosmeticsnews.com/rhodes-sephora-debut-hits-us15-million-outpaces-rare-beauty-and-fenty/) $15 millones de dólares en su primera semana, superando a marcas como Rare Beauty (de Selena Gomez) y Fenty (de Rihanna). Fue además uno de los regalos de navidad más buscados en *Google’s “Holiday 100” list* en 2025. Hoy Rhode es clave en el crecimiento de e.l.f. y proyecta aumentar 70% sus ventas este año (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+¿Tu cierre mensual se alarga por falta de comprobantes o datos incompletos? Con [Mendel](https://mendel.com/es-mx/mx/#contacto), los equipos pueden tener **movimientos y facturas listos para contabilizar**, sin capturar información a mano. Eso ayuda a acelerar el cierre (en algunos casos, hasta **8 veces más rápido**) y a mantener trazabilidad del gasto. Si quieres ver el proceso de punta a punta —*desde el gasto hasta contabilidad*—, **[agenda tu demo](https://meetings.hubspot.com/camila-bernstein)**y lo revisamos con tu operación.
+
+[![](https://substackcdn.com/image/fetch/$s_!nyAO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff06a5045-c1ac-4f88-add9-b70ef0bbcddc_2000x864.jpeg)](https://meetings.hubspot.com/camila-bernstein)
+
+[Agenda tu demo](https://meetings.hubspot.com/camila-bernstein)
+
+---
+
+#### *Continúa: Sangre por correo*
+
+“Es un laboratorio que no tiene sucursales como tal”, dice el empresario. “El cliente no es el paciente sino el doctor, y funcionan a nivel *nationwide*, con operaciones en Colorado, en California, en Texas. Reciben sangre que les mandan de Oregon, de Wisconsin, de todos lados. Es un negocio muy cargado a la parte logística”.
+
+Aries fue fortaleciendo el equipo —tres años más tarde, Access tiene el doble de empleados— y sobre todo impulsando la institucionalización de las operaciones y acelerando los esfuerzos comerciales.
+
+El resultado, añade, es que proyectan para este año lograr un EBITDA de $50 millones de dólares. Cuando lo compraron generaba un poco más de $10 millones.
+
+“En Estados Unidos hay una cosa diferente, que es que allá se ha hecho muy popular la medicina funcional. Más que solamente curarse, la gente se preocupa por prevenir y por estar saludable. Hay esa tendencia de estar mejor, de vivir mejor, de ser más longevo, y eso hace que la gente necesite más chequeos, periódicos. Y eso hace que ese mercado crezca más rápidamente. Es tremendo el crecimiento por eso” (***Redacción Whitepaper***).

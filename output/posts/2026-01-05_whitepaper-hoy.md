@@ -1,0 +1,109 @@
+# Whitepaper, Hoy
+
+> Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta
+
+**Fecha:** 2026-01-05  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-667  
+**Word count:** 1377
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+#### Crédito automotriz
+
+Para finalizar 2025, **Bepensa** [vendió el negocio de crédito](https://www.globenewswire.com/news-release/2025/12/26/3210667/0/en/Bepensa-Capital-Completes-the-Full-Sale-of-FinBe-USA-and-Strengthens-Its-Focus-on-Mexico-as-Part-of-Its-Portfolio-Strategy.html) que tenían en EUA. Con operaciones en los 32 estados de ese país, **FinBe USA** se especializa principalmente en crédito automotriz para clientes *subprime* (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: FinBe es la empresa que antes era **Crédito Real USA Finance**. En 2023 Bepensa [se quedó con ella](https://bepensa.com/ingles/bepensa-capital-suma-oficialmente-a-la-empresa-credito-real-dentro-de-su-operacion/) después de que Crédito Real enfrentara un proceso judicial de bancarrota (habría sido una transacción de más de $60 millones de dólares). Al parecer se trata de una operación que ha venido [generando pérdidas](https://www.fitchratings.com/research/non-bank-financial-institutions/sale-of-finbe-inc-does-not-affect-ratings-of-bepensa-bepensa-capital-30-12-2025) pero que **no representa** una parte muy significativa dentro de la cartera total de **Bepensa Capital**.*
+
+---
+
+#### Con muchas ventajas
+
+“*The **unexpected winner** of rising American tariffs **Is Mexico*** **(…)** *Producers seeking a foothold in the U.S. have said that **Mexico still has all the inherent advantages it had before tariffs**—proximity to the U.S., a low-cost manufacturing industry and a frayed but intact free-trade agreement (…) Mexico’s effective tariff rate is 4.7%, compared with 37.1% for China. The overall effective rate for the world is about 10%*”.
+
+Las exportaciones desde México a EUA **avanzaron 9%** entre enero y noviembre de 2025; el comercio bilateral entre los dos países se espera que en 2026 tenga un valor cercano a los $900,000 millones de dólares ([WSJ](https://www.wsj.com/economy/trade/mexico-exports-us-trump-tariffs-e891510a?mod=Searchresults&pos=2&page=1)).
+
+---
+
+#### Trenes
+
+**Alstom**, una empresa francesa especializada en trenes, firmó un contrato con el gobierno mexicano por $20,200 millones de pesos [para proveer](https://www.alstom.com/es/press-releases-news/2025/12/alstom-suministrara-47-trenes-y-el-mantenimiento-asociado-para-nuevos-corredores-ferroviarios-en-mexico) **47 unidades** que serán utilizadas en los corredores México–Querétaro–Irapuato y Saltillo–Monterrey–Nuevo Laredo. El contrato incluye también mantenimiento por cinco años.
+
+Cerca de 80% del contenido de estos trenes se fabricará en México, en su planta de Hidalgo, la más grande que tienen en América y la tercera a nivel mundial (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Alstom [llegó](https://www.alstom.com/es/alstom-en-mexico) a México hace más de 50 años. Ha participado en proyectos como el Metro de la CDMX y el Tren Maya. Reporta [ventas](https://www.alstom.com/sites/alstom.com/files/2025/05/13/20250514_Alstom_FY_%202024_25_Annual_Results_Management_Report_EN.pdf) anuales por €18,500 millones de euros, de las cuales 10% provienen de América (sin contar EUA). **[Maite Ramos](https://www.linkedin.com/in/maite-ramos-723149107/?originalSubdomain=mx)** es la managing director para México, Panamá, República Dominicana y Colombia.*
+
+---
+
+#### Recortes
+
+2025 fue un año en el que las empresas más grandes de este país **ajustaron** sus plantillas para adaptarse a una **desaceleración** en el consumo y una economía más **incierta**. Las empresas destacadas en esta gráfica, por ejemplo, empleaban a 1,632,011 personas a finales de 2024. Para el tercer trimestre de 2025, ese número se redujo **2.3%,** a 1,594,914 personas (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!tr9q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42d8f1e7-52f4-4eef-859e-4755541b41ca_2522x3550.jpeg)](https://substackcdn.com/image/fetch/$s_!tr9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42d8f1e7-52f4-4eef-859e-4755541b41ca_2522x3550.jpeg)
+
+---
+
+#### Águilas
+
+**Emilio Azcárraga Jean** adquirió 25 millones de CPOs de Ollamani ([BMV](https://bmv.com.mx/docs-pub/eventemi/eventemi_1520484_1.pdf)).
+
+> ***Comentario Whitepaper**: si bien Azcárraga **ya tenía el control de Ollamani**, con esta transacción —que implicaría haber comprado **más de $100 millones de dólares** de títulos— está afianzado su posición en su empresa. Como contexto, hay poco menos de [120 millones de CPOs](https://ollamani.com.mx/wp-content/uploads/2025/05/Folleto-Informativo.pdf) de Ollamani, y su precio pasó de unos $34 pesos en enero del año pasado, a [más de $75 pesos el pasado viernes](https://es-us.finanzas.yahoo.com/quote/AGUILASCPO.MX/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHbqeWQOgCOV3sZN2bc2V_kOiNmEmaLmJ1zI2LDqZykrGmHbwL-fF30tg92NkrUqmcBDawMBPOroJosT6n1JcSDjHYOHCqa-HzU07HFa2nO6qcYjro2Y5ulHsfBw27EbTtgowXJaHygJFx5QwU0ppnifpyCDJ0grObxlPKcHKJRy).*
+
+---
+
+#### Conoce a: Valentina Ibarra
+
+[![](https://substackcdn.com/image/fetch/$s_!UuBG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65b10cdb-17d1-478f-ad8c-b4d84afc3c47_1333x1107.jpeg)](https://substackcdn.com/image/fetch/$s_!UuBG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65b10cdb-17d1-478f-ad8c-b4d84afc3c47_1333x1107.jpeg)
+
+**[Valentina](https://www.linkedin.com/in/valentina-ibarra-975b9718/?originalSubdomain=mx)** entró a **McKinsey** en 2011, después de cinco años como abogada en **SAI Consultores**, un despacho especializado en consultoría financiera y económica. Se volvió *partner* en 2018 y hoy [se enfoca](https://www.mckinsey.com/mx/our-people/valentina-ibarra) en la industria de petróleo y energía.
+
+Estudió Derecho y Economía en el CIDE y tiene un MBA por la Universidad de Virginia (***Redacción Whitepaper***).
+
+---
+
+#### Terminarán siendo bancos
+
+Las fintech nacieron intentando posicionarse como los ***no-bancos***: empresas basadas en tecnología, obsesionadas por el cliente y retando la forma de operar de los bancos. Varias así lograron llegar a una escala muy significativa, como el caso de **Nu**.
+
+El neobanco brasileño arrancó operaciones en México en 2019 y en 2022 se convirtió en SOFIPO. Así creció hasta 13 millones de clientes, y en 2025 obtuvo la aprobación para convertirse en banco; comenzará a operar como tal en 2026. En septiembre, **Klar** le compró **Bineo** a **Banorte**, accediendo de forma directa a una licencia bancaria. **Ualá** y **Kapital** tomaron esa misma ruta hace un par de años, comprando [ABC Capital](https://www.uala.mx/la-cnbv-autoriza-a-la-compania-de-tecnologia-uala-la-adquisicion-del-banco) y [Banco Autofin](https://forbes.com.mx/ad-kapital-inversion-50mdp-banco-autofin-mexico/), respectivamente. **Plata Card**, por su parte, empezó operaciones en 2023 como SAPI y [recibió](https://www.eleconomista.com.mx/sectorfinanciero/plata-card-autorizado-cnbv-banco-mexico-20241210-737735.html) su autorización para volverse banco a finales de 2024.
+
+Fuera de las fintechs que se han convertido en banco, varias siguen sin obtener licencia, como es el caso de **Stori**, una fintech mexicana liderada por [Sherman He](https://www.linkedin.com/in/shermanhe/?originalSubdomain=mx) que nació en 2020 operando como SOFOM y en 2024 se [volvió](https://www.eleconomista.com.mx/sectorfinanciero/Stori-se-fusiona-con-su-Sofipo-y-anuncia-inversion-por-7000-millones-de-pesos--20240702-0041.html) SOFIPO mediante su fusión con **Savvi Financieros** (estatus con el cual sigue operando hoy).
+
+La adición más nueva al ecosistema en México sería **Revolut**, que recientemente estrenó aquí un programa beta. A diferencia de las demás, este equipo eligió no ofrecer el acceso a su plataforma sino hasta contar con la licencia bancaria —un proceso que les tomó al menos tres años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en agosto [publicamos un artículo analizando el impacto que han tenido los neobancos en México](https://www.whitepaper.mx/p/una-amenaza-que-resulto-no-serlo), visto desde la perspectiva de los bancos. En todo caso, lo interesante es destacar cómo los emprendedores terminaron llegando a la conclusión que para lograr construir organizaciones rentables y con mayor posibilidad de permanecer en el tiempo necesitarían **convertirse formalmente en aquello que querían reinventar** —esto es, convertirse en un banco.*
+
+---
+
+#### Pizza
+
+“*Pizza’s dominance in American restaurant fare is **declining**, however. Among different cuisines, **it ranked sixth** in terms of U.S. sales in 2024 among restaurant chains, **down from second place during the 1990s** (…) Major pizza players are rethinking their businesses. Pizza Hut, Papa John’s and the parent of Papa Murphy’s are **considering potential sales**, or other strategic moves. Midsize chains including Blaze Pizza and Mod Pizza have closed locations over the past two years as they work to turn around their brands*”.
+
+En EUA, mientras que año con año **crecen** las cadenas de restaurantes **especializadas en comida mexicana** y también las cafeterías/panaderías, quienes ceden participación son las pizzerías ([WSJ](https://www.wsj.com/business/hospitality/pizza-sales-popularity-down-98e8b064?mod=wknd_pos1)).
+
+> ***Comentario Whitepaper**: de acuerdo con el artículo, una de las causas podría ser el hecho de que las **apps de delivery** han facilitado a los clientes **más y más opciones de comida para pedir a domicilio**.*
+
+---
+
+#### *‘Timeless style, rather than fleeting trends’*
+
+Los ingresos trimestrales de **Aritzia** aumentaron 32%, a casi $600 millones de dólares, en gran medida gracias a un fuerte crecimiento de su negocio online. El EBITDA, de $90 millones, implica una mejora de 122%. En 2025 el precio de su acción avanzó 120% y con ello, el market cap de la empresa canadiense de ropa para mujeres se disparó a **$10,000 millones de dólares** ([MarketScreener](https://www.marketscreener.com/news/aritzia-glamour-and-growth-ce7d50d3da81fe27)).
+
+> ***Comentario Whitepaper**: la zona de **Vancouver** está resultando ser **altamente exitosa** como base para el lanzamiento de marcas de moda populares entre nuevas generaciones. Además de Aritzia, de esa región han salido marcas como Lululemon, Arc’teryx, Kit and Ace, Herschel Supply e Indochino.*
+
+---
+
+#### Menos vehículos; más baterías
+
+**Tesla** vendió 1.64 millones de vehículos en 2025 —**9% menos** que en 2024— y retrocede por segundo año consecutivo en esta métrica. La **caída** es mucho más significativa —de **más de 50%**— en las ventas de **Cybertruck**, Model S y Model X ([The Information](https://www.theinformation.com/briefings/tesla-deliveries-fell-16-fourth-quarter-worsening-2025-decline?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: sin embargo, a los inversionistas no les espanta este resultado y el viernes el precio de las acciones de Tesla **subía ligeramente**. Ayuda quizás que su negocio de baterías [creció casi 50%](https://www.bloomberg.com/news/articles/2026-01-02/tesla-surrenders-ev-crown-to-byd-after-8-6-annual-sales-decline?srnd=homepage-americas) en el año. Por otro lado, [The Information predice](https://www.theinformation.com/articles/predictions-2026-tesla-will-acquire-xai?rc=xfuqj) que en 2026 Tesla —que tiene algo así como $40,000 millones de dólares en caja— se va a quedar con xAI. Así, alegan, **Musk blinda el futuro** de su plataforma de AI, ‘pegándosela’ a su negocio más rentable. El [WSJ, por su parte, cree](https://www.wsj.com/tech/elon-musk-net-worth-trillionaire-2026-c4300aa3?mod=hp_lead_pos7) que en 2026 Musk se va a convertir en **el primer ‘trillonario’ en la historia** —y esto sin considerar el plan de compensación que le aprobaron los accionistas de Tesla hace unos meses.*
+
+---
+
+#### La apuesta atinada
+
+En **Polymarket**, una cuenta creada hace unos días apostó más de $30,000 dólares a que **Nicolás Maduro** sería removido de su cargo antes de enero de 2026. **Ganó $408,000 dólares al día siguiente**, cuando trascendió que el gobierno de Trump se había metido a Venezuela para arrestar a su presidente ([The Verge](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture)).

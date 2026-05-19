@@ -1,0 +1,137 @@
+# Whitepaper, Hoy
+
+> Fastenal; exportaciones de Jalisco; ventas por m2; Café Azúcar Morena; movimientos clave; MSSC MFG Mexicana; Medvi; jóvenes emprendedores; vibe coding; TBPN y OpenAI
+
+**Fecha:** 2026-04-06  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-379  
+**Word count:** 1389
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!zh6b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0da76db-8511-4351-8576-7a1c05efcb97_2476x511.jpeg)](https://www.bridge.xyz/guide-the-stablecoin-playbook-moving-from-strategy-to-executing-your-first-transaction?utm_source=newsletter&utm_medium=paid&utm_campaign=202604_whitepapermx&utm_content=stablecoin-playbook)
+
+---
+
+#### Herramientas y equipo
+
+**Fastenal**, que se especializa en herramientas y suministro de equipo industrial, [pasó](https://s23.q4cdn.com/591718779/files/doc_financials/2025/Q4/Q4-2025-Investor-Presentation_Final-no-headers.pdf) de tener 71 sucursales en México a finales de 2024, a 77 para diciembre de 2025. La empresa de Minnesota ha venido creciendo además con un **modelo onsite**: el año pasado [instalaron](https://s23.q4cdn.com/591718779/files/doc_financials/2025/Q4/Q4-2025-Investor-Presentation_Final-no-headers.pdf) otros 26 puntos de distribución dentro de las instalaciones de sus clientes, para llegar así a una red total de **236 ubicaciones** en nuestro país. Acaban de [cumplir](https://www.marketscreener.com/news/fastenal-celebrates-25-years-in-mexico-ce7e51d9df8af021) **25 años en México** (***Redacción Whitepaper***).
+
+---
+
+#### Exportaciones
+
+Según datos del [INEGI](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/exporta_ef/etef2026_03.pdf), durante el cuarto trimestre del año pasado Jalisco [superó](https://www.eleconomista.com.mx/estados/jalisco-consolidan-polo-exportador-pais-20260331-806813.html) a Coahuila, Nuevo León y Baja California para posicionarse como el segundo principal exportador en ese periodo, solo por detrás de Chihuahua. En total, representó 12% de las exportaciones, que sumaron $166,433 millones de dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: crecieron más de 200% en comparación con el mismo trimestre del año anterior en la categoría de “fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos”, que representó más de 80% de las exportaciones del estado.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-379?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5Mjg2NzMwMywiaWF0IjoxNzc5MjE0OTQ1LCJleHAiOjE3ODE4MDY5NDUsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.aqaZ81blnds2Jgg8oJQQ0x5pPVmrBedqe6jamWh5Kkc)
+
+---
+
+#### Ventas por m2
+
+Walmex [terminó](https://mirandam5.sg-host.com/pdf/Esp_Walmart_IA25.pdf) 2025 con 3,316 sucursales en México; casi 2,700 de estas son de Bodega Aurrerá. Por su parte, La Comer [tiene](https://lacomerfinanzas.com.mx/wp-content/uploads/BMV_4T25.pdf) 92 tiendas, y de su formato más pequeño —Sumesa— solo cuenta con 13. Farmacias Guadalajara [abrió](https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/empresa/modulos/12/pdf/441-modulo_itm.pdf) 142 puntos de venta en el año para superar las 3,000 tiendas (***Redacción Whitepaper**, vía **[Tukan](https://tukanmx.com/)***).
+
+[![](https://substackcdn.com/image/fetch/$s_!r_C9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F705abd83-f89e-4720-ac10-797576e47d21_1600x1253.jpeg)](https://substackcdn.com/image/fetch/$s_!r_C9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F705abd83-f89e-4720-ac10-797576e47d21_1600x1253.jpeg)
+
+> ***Comentario Whitepaper**: Para **Tiendas 3B**, **Fragua** y **FEMSA** se estimó la superficie de ventas con base en referencias a tamaño de tiendas promedio en los reportes anuales de las emisoras o llamadas con analistas. En el caso de **Liverpool**, ese dato incluye Liverpool y Suburbia —si fuera solamente las tiendas Liverpool, la cifra se va a unos $87,500 pesos anuales por m2 (que por cierto, es bastante similar a lo que reporta **Nordstrom**).*
+
+---
+
+#### En corporativos, universidades y hospitales
+
+Antes de la pandemia, **Café Azúcar Morena** llegó a tener ocho sucursales. Sin embargo, ante las medidas de aislamiento su situación se volvió crítica y la marca regia de café se vio en la necesidad de cerrar siete de los puntos de venta y prácticamente tener que limitarse a vender café en línea.
+
+Ahora están creciendo nuevamente: cuentan ya con 24 sucursales, todas dentro de corporativos y universidades, y también han comenzado a instalarse dentro de hospitales. Por lo pronto están además duplicando el tamaño de su CEDIS —de 350 a 800 m2— y además del tostado del café, su proceso de empacado, y de la producción de alimentos, este centro funcionará como panadería. Cuentan con un equipo de 85 personas y presencia en Monterrey y Saltillo (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: detrás están [Adrián Ofelio Leal](https://www.linkedin.com/in/aofelio/) y [Gabriel Pérez Marcos](https://www.linkedin.com/in/gabriel-p%C3%A9rez-marcos-47520914/), quienes abrieron la primera sucursal en 2013.*
+
+---
+
+#### Movimientos clave
+
+* Tras poco más de un año como CEO de Pizza Hut en México, [Germán Morales](https://www.linkedin.com/posts/german-morales-c_despu%C3%A9s-de-un-a%C3%B1o-enriquecedor-al-frente-ugcPost-7444231338565488640-4z-6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU) deja el puesto (***Redacción Whitepaper***).
+* [Fausto Sainz](https://www.linkedin.com/in/fausto-sainz-400127183/) es el nuevo country manager de Fintoc en México; se integró a la startup chilena de pagos en 2022 (***Redacción Whitepaper***).
+* Gordon Kao [será](https://www.eleconomista.com.mx/empresas/chirey-motor-mexico-nombra-gordon-kao-nuevo-vicepresidente-ejecutivo-20260319-805004.html) ahora el vicepresidente de Grupo Chirey en México; estará a cargo de las marcas Chirey, Omoda y Jaecoo (***Redacción Whitepaper***).
+* [Iván Canales](https://www.linkedin.com/in/canalesivan/), ex country manager de Nu en México, se estaría uniendo a PayJoy para encabezar sus mercados internacionales ([El Financiero](https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/03/31/los-pendientes-del-mundial/)).
+* [Salomon Amkie](https://www.linkedin.com/in/salomon-amkie-b15ba02a/) es el nuevo director de Banca Corporativa de Citi México; está en la empresa desde 2011 (***Redacción Whitepaper***).
+
+---
+
+#### Autopartes
+
+**MSSC MFG Mexicana**, una empresa controlada por Mitsubishi que fabrica componentes para suspensiones en una planta que tienen en **Aguascalientes**, está siendo **adquirida** por Hwaway Technology. La empresa de China estaría pagando $6.6 millones de dólares para quedarse con esta operación ([MarketScreener](https://www.marketscreener.com/news/hwaway-technology-to-acquire-mexican-auto-parts-maker-shares-down-9-ce7e51ddde8afe2c)).
+
+[![](https://substackcdn.com/image/fetch/$s_!0Bgk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f352d3a-c201-4f7d-8cf1-b9554ba4d83a_1281x156.webp)](https://eightsleep.com/whitepaper)
+
+**Eight Sleep** acaba de lanzar el Pod 5, una vez más redefiniendo el descanso al mejorar tu sueño de forma dinámica.
+
+El nuevo Pod 5 es el primer sistema que ajusta automáticamente la temperatura, la inclinación y el sonido para una mejor calidad de sueño, analizando y mejorando tu recuperación noche tras noche. Si quieres llevar tu descanso al siguiente nivel, visita [eightsleep.com/whitepaper](https://eightsleep.com/whitepaper) para obtener hasta $7,000 MXN de descuento.
+
+[![](https://substackcdn.com/image/fetch/$s_!2zhj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bce74ca-cbde-4352-ae9e-0e756cbfe0f2_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!2zhj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bce74ca-cbde-4352-ae9e-0e756cbfe0f2_1281x104.webp)
+
+#### Medicamentos online
+
+En Los Angeles, un emprendedor creó una **tienda online** para vender medicamentos **GLP-1** a finales de 2024. **Trabajando solo**, utilizó una serie de herramientas de AI para desarrollar la empresa completa, incluyendo la estrategia y ejecución de los planes de marketing, las funciones de servicio al cliente y toda su operación logística. En 2025 habría generado ingresos de más de $400 millones de dólares y **utilidades netas de $65 millones** ([NY Times](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=09a80fa93c159fd85f5d801e3b3df17fa354fd6b)).
+
+> ***Comentario Whitepaper**: según el **NY Times**, esta empresa (**Medvi**) proyecta ingresos de casi $2,000 millones de dólares para 2026 y **cuenta solamente con dos empleados** (el fundador y su hermano). En todo caso, [el artículo ha resultado controversial](https://x.com/anothercohen/status/2039757777044680854?s=20&utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=de7b6ea2bc03993abead2b26ed8c76a34043d6d0) —hay quienes están [cuestionando](https://x.com/slotkinjr/status/2040474029253964280) los números y [también](https://x.com/aaditsh/status/2040001023465685356) el concepto de ser realmente una “empresa de AI” operada por dos empleados.*
+
+---
+
+#### Dejando de estudiar…para emprender
+
+La obsesión por AI está ocasionando que algunos estudiantes en las mejores universidades de EUA **decidan dejar sus estudios para emprender**. Para firmas de VC, esto implica ya no solamente invertir en sus startups sino involucrarse en la vida diaria de los emprendedores para que no tengan que preocuparse por nada más que sus proyectos: están **consiguiéndoles dónde vivir**, sus comidas y hasta quién **les lave la ropa**.
+
+“*During this blisteringly fast phase of AI development, it’s no longer enough for venture capital firms to invest in companies. They’re buying apartments and workplaces, Ikea furniture and dishes, and providing housekeeping **for their teenage and 20-something founders**. The logic: fewer responsibilities mean more waking hours for working (…) While young founders have long **dropped out of college to chase startup dreams** during past technological booms, this time, their financial backers are **funding housing for them and ensuring their daily needs**, from changing sheets, taking out the trash and booking travel, are met*” ([WSJ](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7?st=9X6Hzy)).
+
+> ***Comentario Whitepaper**: de acuerdo con el artículo, la edad promedio de los fundadores de unicornios de AI cayó de 40 años en 2020, a 29 años en 2024.*
+
+---
+
+#### *Vibe coding*
+
+A lo largo de la última década, el número de **apps nuevas** que llegaban a la **App Store** fue reduciéndose. Pero esto cambió en 2025, cuando los lanzamientos de nuevas aplicaciones crecieron 30%, y en lo que va de 2026 han aparecido en la tienda de Apple **84% apps nuevas**. De acuerdo con expertos, esto está relacionado con el uso de **plataformas de AI** para fácilmente crear aplicaciones ([The Information](https://www.theinformation.com/articles/vibe-coding-effect-apples-app-store-saw-84-jump-new-apps-quarter?rc=xfuqjy)).
+
+---
+
+#### Los nuevos medios de comunicación
+
+[![](https://substackcdn.com/image/fetch/$s_!oUFs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde713c28-0b04-4f26-9dce-ecf0dcf7cf05_1816x1246.png)](https://substackcdn.com/image/fetch/$s_!oUFs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde713c28-0b04-4f26-9dce-ecf0dcf7cf05_1816x1246.png)
+
+**TBPN** es un programa de negocios que se transmite en **YouTube** y en el que sus co hosts entrevistan diariamente a fundadores de startups. Fue creado en 2024 y rápidamente [se convirtió en un competidor](https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=bded3203f48d88802186c17c904e58e03110ff8e) para programas similares en **CNBC** o **Bloomberg**; cuenta con un equipo de 11 personas y en 2026 estiman generar cerca de $30 millones de dólares de ingresos (vendiendo publicidad).
+
+En un movimiento inesperado, **OpenAI** [estaría pagando](https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e?_bhlid=aa7c6b42164a691d0d70975a285a72c2713477d8&utm_campaign=svc-beehiiv&utm_medium=newsletter&utm_source=newsletter.strictlyvc.com&syn-25a6b1a6=1) “cientos de millones de dólares” para **comprar** esta nueva empresa de medios (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: TBPN es un **referente** en el mundo del new media —aunque no tiene una audiencia tan grande, sí es considerado un canal **que le llega a los líderes en el ecosistema emprendedor**. “This acquisition brings a team with strong editorial instincts, deep audience understanding, and a proven ability to convene influential voices across tech, business, and culture”, dijo **OpenAI** [en un comunicado](https://openai.com/index/openai-acquires-tbpn/), añadiendo que sus hosts serán ahora asesores de comunicación y estrategia para la empresa.*
+
+---
+
+#### Resultados de la encuesta
+
+> *¿Qué vas a leer durante estos días de vacaciones?*
+
+[![](https://substackcdn.com/image/fetch/$s_!fVOx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21592d6-cc0d-4b10-9f7e-3ccff59f9eff_2759x1430.jpeg)](https://substackcdn.com/image/fetch/$s_!fVOx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21592d6-cc0d-4b10-9f7e-3ccff59f9eff_2759x1430.jpeg)
+
+---
+
+##### Presentado por:
+
+Todos han escuchado hablar de las *stablecoins* pero pocos saben realmente qué hacer con ellas. Los CFOs que se están anticipando, no están apresurándose están actuando con intención:
+
+* Saben definir casos de uso para stablecoins y aprovecharlas como palanca de expansión global
+* Integrar stablecoins en la experiencia de usuario
+* Navegar las principales obligaciones regulatorias y de licenciamiento
+
+Este playbook aborda las decisiones clave antes de que sean urgentes.
+
+[![](https://substackcdn.com/image/fetch/$s_!sQ9j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0437a911-b3cf-45a7-b56d-cff9c3656261_3690x3240.jpeg)](https://www.bridge.xyz/guide-the-stablecoin-playbook-moving-from-strategy-to-executing-your-first-transaction?utm_source=newsletter&utm_medium=paid&utm_campaign=202604_whitepapermx&utm_content=stablecoin-playbook)
+
+[Descarga el playbook](https://www.bridge.xyz/guide-the-stablecoin-playbook-moving-from-strategy-to-executing-your-first-transaction?utm_source=newsletter&utm_medium=paid&utm_campaign=202604_whitepapermx&utm_content=stablecoin-playbook)

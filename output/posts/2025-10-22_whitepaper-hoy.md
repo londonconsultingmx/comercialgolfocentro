@@ -1,0 +1,131 @@
+# Whitepaper, Hoy
+
+> La venta de Prolec GE; Chedraui; WeShip; más sucursales de Nutrisa; Alsea en Jalisco; Heineken; Travis Kelce y Six Flags; Vector; acciones de Beyond Meat; robots en Amazon; spotlight en Swig
+
+**Fecha:** 2025-10-22  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-e80  
+**Word count:** 1255
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!YePK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81fb9e4d-ed77-4ce6-a825-badd63ed8b20_2646x894.jpeg)](https://www.monarcaresidencialsantiago.com/)
+
+---
+
+#### Una transacción extraordinaria
+
+**Xignux** está vendiéndole a GE Vernova el 50% de Prolec GE: la regia recibirá a cambio **$5,275 millones de dólares** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Prolec GE, que se especializa en la manufactura de transformadores eléctricos, **nació hace 30 años** como un joint venture creado por Xignux y GE. Tiene siete plantas alrededor del mundo, incluyendo cinco en EUA, y unos **10,000 empleados**. Esta transacción será uno de los mayores eventos de **liquidez** en la historia de **Monterrey**.*
+>
+> *De los casi $5,200 millones de dólares de ingresos que registra **Xignux** en los primeros nueve meses del año, **Prolec contribuyó con $2,000 millones**. En un mundo que demanda más y más capacidad de generación de electricidad, una empresa de este tipo se vuelve sumamente valiosa. Como contexto, en los últimos cinco años Prolec prácticamente duplicó sus ventas; GE estima que las duplicará nuevamente hacia 2028 (y por ello está pagando un **múltiplo de 13.9X EBITDA**).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-e80?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NjY2ODA1NiwiaWF0IjoxNzc5MjE1ODM5LCJleHAiOjE3ODE4MDc4MzksImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ._IVQXbPhYH5BnPuRu5fCErfD5QBha0-k6BOirbBOHAY)
+
+---
+
+#### Paisanos
+
+En su [informe trimestral](https://inversionistas.grupochedraui.com.mx/wp-content/uploads/2025/10/INFORME-DE-RESULTADOS-AL-3er-TRIMESTRE-DE-2025-GCCH.pdf), **Chedraui** reportó que las ventas mismas tiendas en EUA bajaron 2% debido a un menor tráfico de clientes; en formatos como **El Super** y **Fiesta Mart** está viéndose afectada por las políticas migratorias en ese país.
+
+En México, en cambio, los ingresos crecieron poco más de 5%. En conjunto, los ingresos trimestrales sumaron $71,768 millones de pesos, 0.2% menos que el año pasado (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa opera 1,002 tiendas —618 en México y 384 en EUA (55% de los ingresos los genera en EUA).*
+
+---
+
+#### Hacia EUA
+
+**WeShip** es un agregador logístico: comercializan guías de paquetería y ofrecen un software para la gestión de envíos. Fundada en 2021, la empresa tiene unos 1,000 clientes y un CAGR superior a 120% desde entonces. Este año esperan vender alrededor de $2.2 millones de dólares, y a partir de enero comenzarán a operar en EUA (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: sus founders son **[Adrián Galán](https://www.linkedin.com/in/agalangtz/)**, ex Softtek, y **[Luis Alanís](https://www.linkedin.com/in/luis-alanis-39b29b30/)**, quien antes fundó X8BIT. Otros jugadores en este segmento son **Envia.com**, **Skydropx** y **Yoloenvio**.*
+
+---
+
+#### Creciendo el footprint
+
+**Nutrisa** proyecta sumar unas 60 tiendas cada año, durante los próximos cinco años. Entre sus cuatro marcas —Nutrisa, Moyo, Cielito Querido Café y Chilim Balam— suman más de 660 tiendas, de las cuales unas 270 están en la CDMX ([El Economista](https://www.eleconomista.com.mx/empresas/nutrisa-invertira-150-millones-pesos-ano-nuevas-tiendas-20251021-782737.html#:~:text=Grupo%20Nutrisa%20invertir%C3%A1%20hasta%20150,Querido%20Caf%C3%A9%20y%20Chilim%20Balam.)).
+
+> ***Comentario Whitepaper**: hace unas semanas [hicimos un artículo](https://www.whitepaper.mx/p/en-todas-las-despensas) sobre la reconfiguración de **Herdez** y el spinoff de **Grupo Nutrisa**.*
+
+---
+
+#### Estructura directiva
+
+**Quálitas** está **separando** la presidencia del consejo y la dirección general: **José Antonio Correa** se mantiene como presidente del consejo (y será además presidente ejecutivo), mientras que **[Bernardo Risoul](https://www.linkedin.com/in/bernardo-risoul-b2437929/?originalSubdomain=mx)** será el director general a partir del primero de enero ([BMV](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1500372_1.pdf)).
+
+---
+
+#### En Jalisco
+
+**Alsea** inauguró un nuevo centro de operaciones en Guadalajara desde el cual distribuirán productos de seis de sus marcas —incluidas **Domino’s** y **Starbucks**— a más de 300 sucursales en 10 estados. Habrían invertido más de $800 millones de pesos ([el año pasado](https://www.whitepaper.mx/i/148191372/ensamblando-sandwiches), cuando comenzó la construcción, [estimaban](https://sedeco.jalisco.gob.mx/prensa/noticias/invierte-alsea-650-millones-de-pesos-en-jalisco-g-3038) una inversión de $650 millones).
+
+Por otro lado, contemplan una inversión de $270 millones de pesos para abrir 15 tiendas en Jalisco (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!162E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e5ef61d-d100-4b24-94bb-3e0f30470d46_1281x218.webp)](https://docs.google.com/forms/d/e/1FAIpQLSf7wd9JP5_2Wl55UmLyM-5fYglBF-6bI8di5012gnsEqitvjA/viewform)
+
+**Estudia con beca en una de las mejores escuelas de negocios de Europa**
+
+**ESCP Business School**, fundada en 1819, es la quinta más importante de Europa, y ahora lanza nuevas becas para estudiantes mexicanos. En alianza con **FUNED**, ofrece descuentos de hasta 40% en programas de **Master** en management, hospitalidad, bienes raíces y transformación digital y becas de 15,000 euros en su **MBA.**
+
+Para conocer más, te invitamos a un evento presencial en CDMX el 13 de noviembre [inscríbete aquí](https://docs.google.com/forms/d/e/1FAIpQLSf7wd9JP5_2Wl55UmLyM-5fYglBF-6bI8di5012gnsEqitvjA/viewform)
+
+[![](https://substackcdn.com/image/fetch/$s_!4agP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6a94ea6-5077-43e9-a06b-5b8d004ae12b_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!4agP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6a94ea6-5077-43e9-a06b-5b8d004ae12b_1281x104.webp)
+
+#### El activista
+
+**Travis Kelce** está aliándose con el grupo de ***activist investors*** que está presionando al equipo directivo de **Six Flags** para que le hagan una serie de cambios a la organización, incluyendo medidas para mejorar la asistencia y modernizar sistemas (y quizás cambiar a una parte del organigrama). Las acciones de Six Flags, que en lo que va del año **habían perdido cerca de 50% de su valor**, se se dispararon ayer **18%** después de este anuncio.
+
+“***Kelce** shared videos of himself enjoying Cedar Point rides as a child o**n his Instagram account** Tuesday afternoon. ‘I have some exciting news!!!’ he wrote of his investment in Six Flags*” ([WSJ](https://www.wsj.com/business/deals/travis-kelce-teams-up-with-investor-for-activist-campaign-at-six-flags-cb1d9369?st=8oX3Fz)).
+
+---
+
+#### *Breves*
+
+* Aún y cuando disminuyeron las ventas en cuanto a volumen, **Heineken** aseguró que están **ganando participación de mercado en México**; el CFO destacó en la llamada trimestral el desempeño de **Tecate** y de ***Miller High Life*** ([MarketScreener](https://www.marketscreener.com/news/transcript-heineken-holding-n-v-q3-2025-sales-trading-statement-call-oct-22-2025-ce7d5ddadf81f622)).
+* **Insigneo Financial Group**, con sede en Miami, [adquirió](https://insigneo.com/press-release-en/insigneo-acquire-vectorglobal/) las cuentas de **Vector Global GWM** en una transacción que implicaría la transferencia de más de $4,000 millones de dólares en activos. El acuerdo también contempla un contrato de referencia de tres años con **Finamex**, para las cuentas internacionales que la firma mexicana conservó tras la salida de Vector (***Redacción Whitepaper***).
+* En los últimos dos días, el precio de las acciones de **Beyond Meat** pasó de poco más de **50 centavos de dólar, a $3.6 dólares**. Sucedieron dos cosas: la empresa anunció que sus productos se venderán en unas 2,000 tiendas de **Walmart**…y a la vez su acción se incluyó en un índice de ***meme stocks*** ([Yahoo Finance](https://finance.yahoo.com/news/why-beyond-meat-stock-is-up-about-600-in-3-days-093158667.html)).
+* En EUA, **Amazon** proyecta que podrá **dejar de contratar 160,000 personas adicionales** que necesitarían hacia 2027 (debido al crecimiento de sus operaciones), gracias a las iniciativas para incorporar **más robots en bodegas** ([NY Times](https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html)).
+* El responsable de banca de inversión en Latinoamérica de **Citi** señaló que está **“abriéndose una ventana”** para **IPOs** en **México** ([Bloomberg](https://www.bloomberg.com/news/articles/2025-10-22/citi-predicts-brazil-s-four-year-ipo-drought-will-end-in-2026)).
+
+---
+
+#### Spotlight en: Swig
+
+[![](https://substackcdn.com/image/fetch/$s_!e6EY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be0e84d-5d64-41f5-a8c4-1d0a1936a5e8_1448x648.jpeg)](https://substackcdn.com/image/fetch/$s_!e6EY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be0e84d-5d64-41f5-a8c4-1d0a1936a5e8_1448x648.jpeg)
+
+**Swig** es una cadena de bebidas [pionera](https://www.qsrmagazine.com/growth/fast-casual/qsrs-breakout-brand-of-2024-swig-pioneers-a-beverage-revolution/) en *dirty sodas* —refrescos combinados con crema, leche o jarabes— y que ahora cadenas como **Taco Bell** y **McDonald’s** también están [incorporando](https://www.cnbc.com/2025/09/27/dirty-soda-swig-taco-bell-pepsico.html) a sus menús. Fue fundada en 2010 en Utah, donde se volvió muy [popular](https://www.newyorker.com/magazine/2024/10/28/the-unexpected-pleasures-of-a-dirty-soda) por su aceptación entre la comunidad mormona (que por lo general no consume café).
+
+En 2017, **Four Foods**, un grupo que también operaba sucursales de **Little Caesar’s**, [adquirió](https://www.fsrmagazine.com/industry-news/four-foods-group-buys-swig-pioneer-dirty-drinks/) las 17 tiendas que tenía **Swig**. Luego, en [2022](https://www.lhm.com/press-releases/the-larry-h-miller-company-acquires-majority-stake-in-nationally-expanding-swig/), **The Larry H. Miller Company** compró una participación mayoritaria cuando la empresa ya contaba con 45 sucursales.
+
+Actualmente tienen más de 140 puntos de venta entre tiendas propias y franquicias, presencia en 16 estados de EUA y [ventas](https://swigdrinks.com/franchising) promedio de $1.2 millones de dólares anuales por unidad (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### Invierte en naturaleza, confort y plusvalía a solo 45 minutos de Monterrey
+
+[![](https://substackcdn.com/image/fetch/$s_!QYmK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d917f9b-7a9f-428f-bc30-f104e9b04773_1800x1200.jpeg)](https://www.monarcaresidencialsantiago.com/)
+
+**Monarca Residencial Santiago** es un desarrollo rodeado de naturaleza, diseñado para quienes buscan invertir en patrimonio, bienestar y tranquilidad. Con lotes desde **800 m²**, ofrece un entorno exclusivo con alta proyección de valor.
+
+Ubicado en Santiago, N.L, con 1 km de frente y acceso directo al Río San Juan, Monarca combina la paz del entorno natural con la cercanía a Los Cavazos, Parque Cielo Mágico y el Malecón Presa La Boca, y preserva 300 sabinos centenarios, que brindan carácter y belleza al desarrollo.
+
+Respaldado por **Grupo Inmobiliario Gariza, Gama Capital, Eitharea Consultores**, el **Arq. Patricio Stern** y **Elevo Grupo Inmobiliario** en la comercialización, el proyecto garantiza calidad, planeación y visión a largo plazo.
+
+Monarca ofrece amenidades como alberca, canchas de pádel y pickleball, área de asadores, **Pet Park** y gran terraza, ideales para disfrutar en familia.
+
+Descubre una inversión que une naturaleza y plusvalía.
+
+Más información en [www.monarcaresidencialsantiago.com](https://www.monarcaresidencialsantiago.com/) o [ventas.monarca@gariza.com.mx](mailto:ventas.monarca@gariza.com.mx)
+
+[Monarca Residencial](https://www.monarcaresidencialsantiago.com/)

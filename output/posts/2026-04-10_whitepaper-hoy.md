@@ -1,0 +1,118 @@
+# Whitepaper, Hoy
+
+> VC en LATAM; Bupa en México; la planta de Constellation; conoce a Jimena González de Cossío; Dentalia; San Miguel de Allende; SpaceX; Unilever y Grüns; publicidad en ChatGPT; jets en Augusta
+
+**Fecha:** 2026-04-10  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-9c6  
+**Word count:** 1135
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!WbD3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac5e2091-b765-4cc9-9e44-bb19a98ac043_1456x171.webp)](https://elevenlabs.io/agents?utm_source=whitepaper&utm_medium=newsletter&utm_campaign=latam_tofu_whitepaper-newsletter&utm_content=latam_icp1.2-convai_newsletter_airead)
+
+---
+
+#### Venture capital
+
+Las startups de América Latina recibieron **más de $1,000 millones de dólares** en rondas de inversión durante el primer trimestre —12% más que en el mismo periodo de 2025.
+
+En la región, México fue el país que más recursos obtuvo: $404 millones. Como contexto, las startups de Brasil recibieron $240 millones de dólares en este periodo ([Crunchbase](https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/)).
+
+> ***Comentario Whitepaper**: aunque de lo que se registró como inversión para startups en México, [la ronda](https://www.whitepaper.mx/i/188197544/la-mas-grande-de-las-startups) de $300 millones de dólares que hizo **Kavak** acaparó como 75% del monto total (y [ARQ](https://www.whitepaper.mx/i/189679315/cuentas-en-dolares), también con sede en nuestro país, presumió una ronda de $70 millones).*
+
+---
+
+#### Aseguradoras
+
+**Bupa** generó ingresos de **€280 millones de euros en México** el año pasado. A nivel global la aseguradora registró un crecimiento de 14% en los ingresos; las utilidades ascendieron a €533 millones, lo que implica una mejora de 9% ([Expansión.es](https://www.expansion.com/empresas/2026/04/09/69d7932de5fdea4e0e8b458f.html)).
+
+> ***Comentario Whitepaper**: en México, el costo de la siniestralidad en el que incurrió Bupa en 2024 habría representado alrededor de 57% de los ingresos que generó ese año por medio de las primas; las comisiones para los agentes fueron de casi $1,000 millones de pesos (equivalente a 18% de los ingresos).*
+>
+> *En el **top 10% de los siniestros que se presentaron en México el año pasado**, Bupa dijo que pagó casi $38 millones de pesos por concepto de cáncer de próstata con metástasis, $7.7 millones en Leucemia y $8.9 millones por quemaduras graves.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-9c6?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MzM3NjQ4OSwiaWF0IjoxNzc5MjE0OTQwLCJleHAiOjE3ODE4MDY5NDAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.L8f_7eTTSlEkCh875ReELAuOtCkWgslvnffyuru4ENY)
+
+---
+
+#### Retrasada
+
+En la [llamada](https://www.investing.com/news/transcripts/earnings-call-transcript-constellation-brands-beats-q4-2026-forecasts-93CH-4605600) con analistas, el CFO de **Constellation Brands**, afirmó que su planta en Veracruz comenzará a operar hacia finales de agosto de este año; [estaba](https://www.axisnegocios.com/breves.phtml?id=147580) previsto que arrancaría operaciones a principios de este año ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper:** la planta inicialmente iba a estar en Mexicali pero [fue cancelada](https://forbes.com.mx/negocios-cancelacion-mexicali-constellation-brands-construira-planta-veracruz/) durante el gobierno de AMLO. En Veracruz, la inversión ha sido [aún mayor](https://www.whitepaper.mx/i/113134213/cerveza) a lo inicialmente presupuestado. El año pasado [anunciaron](https://www.whitepaper.mx/i/160353863/sin-cambio-en-sus-planes) que planeaban invertir $2,000 millones de dólares en las plantas que tienen en México hacia 2027.*
+>
+> *Ojo que **Constellation** no está pasando por su mejor momento. Sus resultados se han visto **perjudicados** tanto por la tendencia hacia un **menor consumo de alcohol** entre nuevas generaciones, como también por el efecto de las **redadas de ICE** en EUA (que han desacelerado el consumo entre los hispanos que están en ese país).*
+
+---
+
+#### Conoce a: Jimena González de Cossío
+
+[Socia, Chevez Ruiz Zamarripa](https://www.linkedin.com/in/jimena-gonz%C3%A1lez-de-coss%C3%ADo-7323b2152/)
+
+[![](https://substackcdn.com/image/fetch/$s_!xOaB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a55406-0671-4ae2-b116-7f2f3eaa40b6_1354x1412.jpeg)](https://substackcdn.com/image/fetch/$s_!xOaB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a55406-0671-4ae2-b116-7f2f3eaa40b6_1354x1412.jpeg)
+
+**Jimena** pasó una década como socia en Forastieri Abogados, rol que mantuvo tras la fusión de la firma con Ernst & Young en 2016. En 2021 se incorporó a Chevez. Es asesora en M&A, deuda y financiamientos complejos, con presencia en los sectores de infraestructura y energía. También asesora a family offices en la estructuración de inversiones patrimoniales y planeación sucesoria. Además de su práctica legal, es Corredora Pública de la CDMX.
+
+Figura en el listado de las 100 mujeres más poderosas de los negocios 2026 de Expansión, y ha sido reconocida por Legal 500 y Chambers & Partners. Estudió Derecho en la Universidad Iberoamericana y tiene una maestría en Derecho Bancario y Financiero de Boston University (***Redacción Whitepaper***).
+
+---
+
+#### Dientes
+
+**Dentalia** hoy cuenta con alrededor de **60 sucursales propias** y habría atendido a cerca de 190,000 personas en 2025. Su CEO, [Armando García Berumen](https://www.linkedin.com/in/armando-garcia-berumen/?originalSubdomain=mx), contó a **Whitepaper** que el segmento B2B suma cerca de 400 cuentas corporativas, de donde provienen más de tres cuartas partes de sus pacientes.
+
+De acuerdo con García, su empresa tuvo un crecimiento de doble dígito año con año, alcanzando cifras récord en ingresos y pacientes. Como referencia, en 2021 [reportó](https://www.whitepaper.mx/p/whitepaper-hoy-8f7?utm_source=publication-search) ventas por $700 millones de pesos, y para 2028 esperan duplicar el negocio (***Redacción Whitepaper).***
+
+> ***Comentario Whitepaper:** México ha tenido varias start-ups en el sector dental, como **Moons**, que en 2021 [recibió](https://www.whitepaper.mx/p/whitepaper-hoy-b81?utm_source=publication-search) $9 millones de dólares en una ronda liderada por DILA Capital, o **Aliwell**, especializada en alineadores similares a Invisalign.*
+
+---
+
+#### Hotel
+
+En **San Miguel de Allende**, IHG Hotels & Resorts y Desarrollos Almatierraestán invirtiendo$520 millones de pesos para construir un nuevo **Holiday Inn**; [proyectan](https://neta-comunicacion.prowly.com/453403-ihg-hotels-resorts-y-desarrollos-almatierra-anuncian-y-colocan-primera-piedra-de-un-nuevo-holiday-inn-en-san-miguel-de-allende) su apertura para finales del próximo año ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper: IHG Hotels & Resorts** [nombró](https://www.ihgplc.com/en/news-and-media/news-releases/2026/ihg-hotels-and-resorts-announces-michael-hoe-knudsen-as-new-managing-director-for-mexico-latin-america-and-caribbean) recientemente a **[Michael Hoe Knudsen](https://www.linkedin.com/in/michael-hoe-knudsen-1b6a396)** como managing director para América Latina y el Caribe, donde tienen **295 hoteles operando** y **más de 100 en desarrollo**. Abrieron su primer hotel en México hace más de 50 años, en Acapulco. El año pasado [publicamos](https://www.whitepaper.mx/i/173105198/mas-y-mas-hoteles) que en México están abriendo hoteles de la marca **voco**.*
+
+---
+
+#### Entre cohetes, satélites y AI
+
+A pesar de haber logrado ingresos de más de $18,000 millones de dólares en 2025, **SpaceX** está registrando una **pérdida total de casi $5,000 millones**. Esto sería resultado no de sus operaciones espaciales ni mucho menos de su servicio de internet satelital: la pérdida habría sido ocasionada por las inversiones que han venido haciendo en la infraestructura de **inteligencia artificial** que están desarrollando para **xAI** ([The Information](https://www.theinformation.com/articles/spacex-posted-nearly-5-billion-loss-last-year-ai-spending?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: por lo pronto, la empresa [está desarrollando una fábrica](https://www.reuters.com/business/autos-transportation/spacex-begins-installing-equipment-texas-facility-eyes-year-end-production-2026-04-10/) en las afueras de **Austin** para producir los **microprocesadores** que necesitan sus satélites.*
+
+---
+
+#### *Breves*
+
+* Como parte de sus iniciativas en torno a temas de ***wellness***, Unilever está adquiriendo a **Grüns**, una marca de **vitaminas en gomita** que fue creada hace no más de tres años, y que aseguran genera ventas anuales cercanas a $300 millones de dólares ([Financial Times](https://www.ft.com/content/0a22049c-78de-4020-a5c3-d03e925cea66?syn-25a6b1a6=1)).
+* **OpenAI** proyecta este año ingresos de $2,500 millones de dólares por concepto de **ventas de publicidad** —y también que en 2030, ese negocio contribuirá con **más de $100,000 millones** de ingresos ([Reuters](https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/)).
+
+---
+
+#### *The Masters*
+
+Aún más que Davos, el Super Bowl, Cannes o el Kentucky Derby, **the Masters** se ha vuelto el evento que genera más **entradas y salidas de aviones privados** (en parte, porque hay una semana entera de actividades).
+
+“*The swarm of **Gulfstreams**, **Phenoms** and **Challengers** is straining **Augusta Regional Airport** (…) **NetJets**, the industry leader, expects more than 775 flights into and out of Augusta, marking a 35% to 40% increase from last year, the company said. **Flexjet** is projecting about 350 to 400 flights, and **Vista** projects over 20 flights a day*” ([CNBC](https://link.cnbc.com/public/45117331)).
+
+---
+
+##### Presentado por:
+
+Cuando un cliente llama fuera de horario, cuando el equipo de ventas no da abasto, cuando un proceso de cobranza depende de que alguien marque — ahí es donde **ElevenLabs** entra.
+
+Con **ElevenLabs** construyes agentes de voz que hablan español, se conectan a los sistemas de tu empresa y resuelven: califican *leads,* cobran, atienden, escalan. En tu página, por teléfono o en WhatsApp.
+
+No es una herramienta de productividad. Es infraestructura de negocio. Ya opera en empresas de México y América Latina.
+
+Si quieres conocer más entra a [elevenlabs.io/agents](https://elevenlabs.io/agents?utm_source=whitepaper&utm_medium=newsletter&utm_campaign=latam_tofu_whitepaper-newsletter&utm_content=latam_icp1.2-convai_newsletter_airead)
+
+[Conoce ElevenLabs](https://elevenlabs.io/agents?utm_source=whitepaper&utm_medium=newsletter&utm_campaign=latam_tofu_whitepaper-newsletter&utm_content=latam_icp1.2-convai_newsletter_airead)

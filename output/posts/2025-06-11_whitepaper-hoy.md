@@ -1,0 +1,118 @@
+# Whitepaper, Hoy
+
+> Mascotas: Petco, Farmacias del Ahorro y Similares; Miguel Quintana Pali y Xcaret; resultados de Jaguar Land Rover; BYD y Liverpool; impacto de YouTube; Nerds; Live Nation; La Perla; spotlight en IMAX
+
+**Fecha:** 2025-06-11  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-f68  
+**Word count:** 1113
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+#### Mascotas…
+
+En el [primer trimestre](https://ir.petco.com/static-files/d3d4930c-7f61-4a87-a5b8-25a69a341d13) el *joint venture* con **Grupo Gigante** le generó a **Petco** un EBITDA de $10.2 millones de dólares, poco más del 11% del total de la empresa (aunque una cifra ligeramente inferior a la del año pasado). En México operan 145 tiendas, **56 de ellas abiertas en los últimos cinco años** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** **[Alejandro Ahuad](https://www.linkedin.com/in/alejandro-ahuad-a1b468a5/?originalSubdomain=mx)** es CEO de la empresa en México y Chile. [Aquí un análisis](https://www.whitepaper.mx/p/donde-le-compras-la-comida-a-tu-perro?utm_source=publication-search) del negocio que han venido construyendo en nuestro país.*
+
+---
+
+#### …todo mundo quiere estar en el segmento
+
+Tanto **Farmacias del Ahorro** como **Farmacias Similares** van tras este mercado: la primera [instalará](https://expansion.mx/empresas/2025/06/10/farmacias-del-ahorro-entra-al-negocio-de-las-mascotas) módulos en algunas de sus sucursales para vender comida, accesorios y medicinas, y también lanzará un *e-commerce* y ofrecerá consultas en línea. **Farmacias Similares**, por su parte, [inaugurará](https://www.instagram.com/p/DKBWzfINrdJ/?utm_source=ig_web_copy_link&igsh=dXgyMDhxYjMxaXIy) su primera clínica veterinaria esta misma semana (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** en México [hay alrededor](https://www.gob.mx/profeco/documentos/adultos-mayores-y-mascotas-algo-mas-que-compania?state=published) de 80 millones de mascotas; 55% son perros, 20% gatos y el resto incluyen peces, cuyos y hamsters.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-f68?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2NTM2NDA1OSwiaWF0IjoxNzc5MjE1OTgzLCJleHAiOjE3ODE4MDc5ODMsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.2ndZwg8F1YPjqISLFvFf0nj6dZKjQH2VbkbMhA_Af9U)
+
+---
+
+#### Range Rovers
+
+Los ingresos de **Jaguar Land Rover** en **México** pasaron de $3,618 millones de pesos en 2023, a $3,413 millones en 2024. Alrededor de 5% de esta cifra corresponde a la venta de refacciones (el resto son las camionetas que venden a su red de agencias). La utilidad retrocedió 30%, a $75.5 millones de pesos ([MarketScreener](https://www.marketscreener.com/quote/stock/TATA-MOTORS-LIMITED-46728680/news/Tata-Motors-Jaguar-Land-Rover-Mexico-S-A-P-I-de-C-V-50211385/)).
+
+> ***Comentario Whitepaper**: esto podría reflejar la ausencia de productos nuevos de parte de **Jaguar**. El año pasado, el director general de la marca en México [nos explicó que](https://www.whitepaper.mx/p/spotlight-en-jaguar-land-rover-mexico?utm_source=publication-search) **aquí les va mejor en la gama más alta** —**Defender** y **Range Rover** son los modelos que más volumen les generan.*
+
+---
+
+#### Perfiles: Miguel Quintana Pali
+
+[![](https://substackcdn.com/image/fetch/$s_!WXyH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6e9f61c-7a4e-4c93-b088-e7edea778369_1204x1019.jpeg)](https://substackcdn.com/image/fetch/$s_!WXyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6e9f61c-7a4e-4c93-b088-e7edea778369_1204x1019.jpeg)
+
+Todo el mundo lo conoce como el arquitecto Quintana, pero “que no se enteren en la Asociación de Arquitectos porque ¡no lo soy! Solo estudié dos años en la Ibero. Eso sí, me considero un arquitecto descalzo, un autodidacta”, confiesa con una sonrisa que detona la herencia de su familia materna hawaiana. Y sí, anda descalzo todo el día, algo que suele *shockear* a quienes lo visitan en su oficina en medio de la selva en Cancún.
+
+Hoy los parques de su consorcio —Xcaret, Xel-Há, Xplor, Xenotes, Xoximilco, Xenses, y Xavage— reciben hasta 10,000 visitantes por día.
+
+[Leer perfil completo](https://open.substack.com/pub/whitepaper/p/perfiles-miguel-quintana-pali?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Terminando la alianza
+
+Después de 3 años como distribuidor de **BYD**, **Liverpool** [concluyó](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1471411_1.pdf) su alianza con la automotriz china. Afirmaron que están gestionando la transición hacia un nuevo distribuidor, aunque sin revelar su nombre. En [2022](https://www.elpuertodeliverpool.mx/sala-prensa/eventos-institucionales/incursiona-negocio-movilidad-electrica/index.html#:~:text=El%20Puerto%20de%20Liverpool%20incursiona%20en%20el,divisi%C3%B3n%20en%20el%20primer%20trimestre%20de%202023.), **Liverpool** invirtió $100 millones de pesos en sus primeros puntos de venta y centros de servicio en CDMX ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper:** el último informe trimestral en el que **Liverpool** habló sobre **BYD** fue el del [tercer trimestre de 2024](https://www.elpuertodeliverpool.mx/docs/informes-trimestrales/2024/3TXBRL2024-Espanol.pdf). Entonces reportaron la venta de 1,300 unidades en tres meses, es decir, unas 14 por día.*
+
+---
+
+#### Aguascalientes
+
+La japonesa **Tokaikogyo** [invertirá](https://www.linkedin.com/posts/esa%C3%BA-garza-de-vega-7513b51bb_aguascalientes-japaejn-tokaikogyo-activity-7338354502644760576-2_MM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU) $100 millones de pesos para expandir su línea de producción en Aguascalientes. Fabrican componentes de plástico para la industria automotriz ***(Redacción Whitepaper).***
+
+---
+
+#### Moviendo producción hacia EUA
+
+**General Motors** invertirá $4,000 millones de dólares en sus plantas en EUA durante los próximos 2 años. La producción de algunos modelos, como la **Equinox**, pasaría de sus plantas en México a EUA ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-10/gm-to-invest-4-billion-in-us-factories-over-next-two-years?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper:** GM tiene casi 90 años en México, más de 25,000 empleados y plantas en Ramos Arizpe, Silao, San Luis Potosí y Toluca. El Secretario de Economía [afirmó](https://x.com/m_ebrard/status/1932578347701223897) que estas continúan operando con normalidad y que, por ahora, no se prevén cierres ni despidos.*
+
+---
+
+#### Nerds
+
+Desde que **Ferrara** compró el negocio de dulces de **Nestlé** en 2018 (una transacción de casi $3,000 millones de dólares), la marca **Nerds** ha crecido exponencialmente. Este año proyecta ventas por $900 millones, **un salto de 1,700%** frente a los $50 millones que generaba cuando se integró a Ferrara. Esto se debe a los Nerds Gummy Clusters, una innovación que colocó a la marca como el dulce más vendido del mercado, por encima incluso de los **Skittles** ([Food Dive](https://www.fooddive.com/news/how-nerds-gummy-clusters-became-the-candy-aisles-biggest-hit/748865/?utm_source=substack&utm_medium=email)).
+
+---
+
+#### Streaming
+
+Según **YouTube**, hay casi **medio millón de personas** en EUA cuyos **trabajos** están directamente relacionados con la plataforma —**25% más que en 2022**— y el año pasado, su “ecosistema de creadores” contribuyó con el equivalente de $55,000 millones de dólares al PIB de ese país ([TechCrunch](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/)).
+
+> ***Comentario Whitepaper**: el reporte que publicaron asegura que entre 2021, 2022 y 2023, la plataforma le pagó más de $70,000 millones de dólares a los creadores de contenido.*
+
+---
+
+#### $1,000 millones de dólares…
+
+* …para construir en EUA **18 nuevos recintos para conciertos**. Ese es el tamaño de la inversión que anunció ayer **Live Nation** ([MarketScreener](https://www.marketscreener.com/quote/stock/LIVE-NATION-ENTERTAINMENT-13449/news/Live-Nation-to-invest-1-billion-in-US-music-venues-50206034/)).
+* …para desarrollar series y películas, en **España**, entre 2025 y 2028. **Netflix** cumplió 10 años en ese país —presumen tener **más de 1,000 títulos españoles** en su catálogo— y quieren acelerar en la producción de contenido ([Forbes](https://www.forbes.com/sites/veronicavillafane/2025/06/10/netflix-will-invest-1-billion-for-original-productions-in-spain/)).
+
+---
+
+#### Lencería
+
+La famosa marca italiana de lencería, **La Perla**, está siendo adquirida por el ex CEO de Expedia en una transacción que asciende a **€25 millones de euros**, más el compromiso de inyectarle otros €30 millones antes de 2027 para fortalecer la empresa ([Business of Fashion](https://www.businessoffashion.com/news/luxury/former-expedia-ceo-buys-troubled-luxury-lingerie-brand-la-perla/)).
+
+---
+
+#### Menos tráfico
+
+“*The AI armageddon is here for **online news publishers**. Chatbots are replacing Google searches, **eliminating the need to click on blue links** and tanking referrals to news sites. As a result, traffic that publishers relied on for years is **plummeting***”.
+
+Los sitios de **Business Insider**, **Huffington Post** e incluso del **Washington Post** están registrando **caídas** significativas en el número de visitas. Esto es un reflejo de cómo **Google** está evolucionando a ofrecer respuestas, gracias a su **chatbot de AI**, en lugar de ser una plataforma que redirige a otros sitios ([WSJ](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)).
+
+---
+
+#### Spotlight en: IMAX
+
+[![](https://substackcdn.com/image/fetch/$s_!PcbS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19ed19e6-7d46-433e-bbf4-7963515e1a73_1280x850.jpeg)](https://substackcdn.com/image/fetch/$s_!PcbS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19ed19e6-7d46-433e-bbf4-7963515e1a73_1280x850.jpeg)
+
+En [1994](https://www.deseret.com/1994/1/13/19086670/toronto-based-imax-finds-investors-in-u-s/#:~:text=The%20plan%20is%20to%20further,facility%20as%20much%20as%20anything.%22), unos inversionistas de EUA adquirieron **IMAX Corporation**, entonces una empresa canadiense especializada en pantallas gigantes para museos y eventos culturales. Bajo su nueva administración, comenzaron a trabajar con estudios de Hollywood y cadenas de cine, a quienes les interesaba la posibilidad de ofrecer una experiencia superior a una pantalla tradicional.
+
+[Actualmente](https://imaxcorporation.gcs-web.com/static-files/db9a763c-5f22-49c4-a798-fa4a480a3212) hay más de 1,730 pantallas IMAX, ubicadas en 90 países. El año pasado, las películas proyectadas en sus salas [generaron](https://www.statista.com/statistics/1440839/imax-total-annual-box-office-revenue-worldwide/#:~:text=Box%20office%20revenue%20of%20IMAX,crossed%20the%20billion%20dollar%20mark.) más de $900 millones de dólares en taquilla; este año [esperan](https://www.nytimes.com/2025/05/23/business/media/imax-movie-theaters.html) superar $1,200 millones. Sus ingresos provienen principalmente de la venta o renta de sus sistemas a cines y de una participación en la taquilla de las películas que se exhiben en sus salas. En 2024, IMAX tuvo ingresos por $352 millones de dólares y utilidades de $32 millones **(*****Redacción Whitepaper*****).**

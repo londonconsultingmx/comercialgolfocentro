@@ -1,0 +1,141 @@
+# Whitepaper, Hoy
+
+> Iconn y Shell; carga en el AIFA; el crecimiento de Bosch en México; microcréditos de Tala; el reto de DPI; resultados Temu; costo del iPhone; campañas de Nespresso; Bimbo en Revisionist History
+
+**Fecha:** 2025-05-27  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-921  
+**Word count:** 1690
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!E4Fe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6d6bae5-d449-4a95-b66c-8880e258c530_1400x237.jpeg)](https://uavi.mx/es/)
+
+---
+
+#### Gasolineras
+
+**Grupo Iconn**, que está detrás de **7-Eleven** en México, estaría adquiriendo el negocio de gasolineras que tiene **Shell** en el país ([Energy21](https://energy21.com.mx/shell-vende-negocio-gasolinero-a-grupo-iconn-en-mexico/)).
+
+> ***Comentario Whitepaper: Shell** abrió su primera gasolinera en México en 2017, [con la promesa](https://expansion.mx/empresas/2017/09/05/shell-preve-invertir-1-000-mdd-en-el-mercado-mexicano-de-gasolineras) de invertir $1,000 millones de dólares en los próximos 10 años —todavía en 2020 [señalaron](https://www.bloomberg.com/news/articles/2020-01-08/shell-brings-fuel-to-mexico-in-push-for-15-retail-market-share) que su objetivo era contar con unas 1,500 estaciones para 2025 y quedarse con una participación de mercado de 15%.*
+>
+> *Según [Petrointelligence](https://petrointelligence.com/files/fotografias_del_sector_gasolinero_en_mexico/abril_2025.pdf), actualmente son la octava marca de gasolina más usada en México, con **214** estaciones. En primer lugar está **Pemex**, con 8,697 (y entre las cuales se incluyen las **562** de [Oxxo Gas](https://femsa.gcs-web.com/static-files/7e664b5c-7b17-4dcc-b27d-a2817ea22729) y las **287** de [Petro Seven](https://www.petro-7.com.mx/estaciones/)).*
+
+---
+
+#### En el AIFA
+
+Una empresa **peruana** de servicios aeroportuarios, **Talma**, invertirá $9 millones de dólares para construir un segundo almacén de carga en el **AIFA**, con lo que duplicarán su capacidad instalada en México *(**Redacción Whitepaper**).*
+
+> ***Comentario Whitepaper**: esta inversión es parte de un plan de $50 millones de dólares para ampliar su capacidad en los mercados que opera (Perú, Colombia, Ecuador y México). **[Vladimir Muñoz](https://www.linkedin.com/in/vladimir-mu%C3%B1oz-barbieri-6b834b52/?originalSubdomain=pe)** es su CEO en nuestro país.*
+
+---
+
+#### Desde refrigeradores, hasta bujías: Bosch en México
+
+Bosch llegó a México en 1955 —la empresa alemana está cumpliendo 70 años de operar en nuestro país. Tienen aquí 16 ubicaciones y cerca de 20,000 empleados, y en 2024 generaron casi $76,500 millones de pesos de ingresos.
+
+> ***Comentario Whitepaper**: como contexto, en ventas es más grande que Kimberly Clark y no está tan lejos de Alsea. Nemak y Mabe, por su parte, reportaron ventas por encima de $90,000 millones de pesos.*
+
+Fundada en Stuttgart en 1886, es una de las 10 empresas más grandes de Alemania. El 94% de sus acciones pertenecen a una organización de beneficencia, pero ésta no tiene derecho a voto en la empresa. El resto de las acciones está en manos de los descendientes del fundador, la familia Bosch, quienes tienen también 7% de los derechos de voto. Sin embargo, quien efectivamente controla la empresa es una entidad distinta, que tiene 93% de los votos aunque no tiene participación, y que es la que nombra un consejo para supervisar y dirigir la empresa.
+
+> #### *Seguir leyendo al final de este correo…*
+
+---
+
+#### Encuesta
+
+Si pudieras quedarte con cualquier empresa mexicana, ¿cuál elegirías y por qué?
+
+[Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-921/comments)
+
+---
+
+#### Prestando
+
+**Tala,** una startup de **microcréditos** con sede en California, aseguró que en **México** han otorgado hasta ahora más de **15 millones de préstamos** y que cuentan con 3 millones de clientes (equivalentes al 30% del total de la empresa). Según la propia fintech, en el primer trimestre sus ingresos aumentaron 80% y con ello, proyectan que este año debieran alcanzar un ***ARR*** **de $300 millones de dólares** a nivel global ([El Economista](https://www.eleconomista.com.mx/sectorfinanciero/tala-crecio-80-primer-trimestre-2025-pese-entorno-economico-adverso-20250525-760678.html)).
+
+> ***Comentario Whitepaper**: [hace unos meses](https://www.whitepaper.mx/i/159343132/apuntando-a-mexico) cerraron una línea de crédito de $150 millones de dólares para acelerar su crecimiento en México; antes habían [adquirido](https://www.whitepaper.mx/p/whitepaper-hoy-19c?open=false#§continua-el-m-and-a) a la mexicana **Jefa**, una fintech de productos financieros. Su country manager es **[David Lask](https://substack.com/redirect/55b1cddf-ae83-469d-b682-afc4cb2f40c5?j=eyJ1IjoiMWdlZGZwIn0.KqGN-Y10cGmeqUvnIgxKcLs2BrS-p7qAA9tU0zcIyTA)**.*
+
+[![](https://substackcdn.com/image/fetch/$s_!4F4Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c6ad7f4-faa7-49a6-ba1a-9730ce263ec1_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!4F4Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c6ad7f4-faa7-49a6-ba1a-9730ce263ec1_1281x136.webp)
+
+*¿Sabes si está funcionando tu inversión en marketing? ¿Te cuesta conectar tus campañas de awareness con ventas reales?* — **Entropy** es la herramienta para medir el impacto de la inversión publicitaria en tu negocio. Trabajan con marcas como **Office Depot, Petco y Waldo’s** para medir la incrementalidad real de sus inversiones en marketing offline y digital de manera clara, objetiva y con *insights* accionables. Sus clientes crecen 2X el promedio de industria. Platica con su CEO, Arturo Díaz en el [+52 55 4731 8444](http://wa.me/+525547318444) o [agenda aquí.](https://cal.com/arturodzg/30min)
+
+[![](https://substackcdn.com/image/fetch/$s_!zLEs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d7c2de-6e92-4560-a105-060e2d29a8b8_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!zLEs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d7c2de-6e92-4560-a105-060e2d29a8b8_1281x104.webp)
+
+#### Sin salidas
+
+En los últimos 2 años, los fondos de **private equity** han regresado a sus propios inversionistas el 3.3% del valor de las inversiones cada trimestre —**una cifra por debajo del promedio histórico** (5.6%). La realidad es que este tipo de firmas de inversión, junto con **VCs**, han **batallado mucho** para vender sus participaciones desde 2022, cuando los bancos centrales comenzaron a subir las tasas. Esto está impulsándolas a buscar todo tipo de estrategias para trata de **mejorar su liquidez**.
+
+“*Tactics deployed include: **continuation funds**, where funds sell assets to themselves; **net-asset-value loans**, where a fund borrows against its value to pay dividends or allow investors to cash out; and even **collateralised-fund obligations**, where pools of illiquid positions in funds are smashed together in the hope of creating something more appealing. Only naive or delusional institutional investors see these developments as anything other than signs of **distress***” ([The Economist](https://www.economist.com/special-report/2025/05/23/what-it-means-to-be-illiquid)).
+
+> ***Comentario Whitepaper**: si bien esto es un tema delicado a nivel global, es **especialmente complicado** para las firmas de inversión **en nuestro país**. El venture capital estaba apenas ganándose un espacio en el ecosistema empresarial, y ahora todo lo invertido ahí está **prácticamente atorado**. Para los VCs, implica que su capacidad para regresarle dinero a sus inversionistas está sumamente limitada (o es inexistente), lo que a su vez se convierte en un obstáculo a la hora de tratar de crear nuevos fondos. Y sin nuevos fondos, **no hay management fees**…*
+
+---
+
+#### *Breves*
+
+* Las utilidades trimestrales de PDD Holdings —la empresa detrás de **Temu**— **cayeron 47%**, a $2,000 millones de dólares ([Reuters](https://www.reuters.com/world/china/temu-owner-pdd-holdings-misses-quarterly-revenue-estimates-2025-05-27/)).
+* …y hablando del efecto de los **aranceles**: según **Morgan Stanley**, aún y cuando Trump le impusiera a Apple un arancel de 25% por sus **iPhones**, a la empresa aún así **le convendría seguirlos produciendo en otros países**. “*A 25% import tariff on some $450 of materials amounts to $110 per device. Apple could raise prices by less than 5% globally to fully offset the tariff*” ([MarketWatch](https://www.marketwatch.com/story/even-with-a-25-tariff-iphones-would-be-cheaper-to-make-abroad-than-u-s-says-morgan-stanley-fcc3c402?mod=newsviewer_click)).
+* Buscando llegarle a otras generaciones de consumidores, **Nespresso** está lanzando nuevas campañas de marketing con ***The Weeknd***, y destacando café con hielos —en lugar de **George Clooney** tomándose su expreso ([WSJ](https://www.wsj.com/articles/nespresso-lightens-up-its-marketing-to-win-gen-zs-cold-coffee-drinkers-1ddaeee4?mod=hp_minor_pos1)).
+
+---
+
+#### Recomendación
+
+El más reciente [episodio de](https://podcasts.apple.com/us/podcast/revisionist-history/id1119389968?i=1000709349613) **[Revisionist History](https://podcasts.apple.com/us/podcast/revisionist-history/id1119389968?i=1000709349613)**, el podcast de **Malcom Gladwell**, narra la historia de **Bimbo Bakeries USA** vs **Botticella**: un caso en donde la subsidiaria de la empresa mexicana demanda el cumplimiento de un acuerdo de ***non-compete*** cuando uno de sus ejecutivos clave —alguien que tenía acceso a una de las recetas más secretas que tienen en ese país— pretendía irse a trabajar con un competidor. Es un caso que terminaría convirtiéndose en un referente en el sistema judicial de ese país (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: no es común ver empresas mexicanas en medios de EUA, y mucho menos en un caso que sucedió **hace más de 15 años**. Pero es interesante, y sobre todo por cómo trata una situación que terminaría siendo trascendental para el ‘**trademark law**’.*
+
+---
+
+##### Presentado por:
+
+**UAVI**, en Punta de Mita, es la reinvención del lujo frente al mar.
+
+Sólo 44 departamentos de 3, 4 y 5 recámaras, TODOS con alberca privada o jacuzzi y vista al mar. Con **más de diez amenidades de lujo** (*beach club, spa, kids club, concierge)* pensadas para que disfrutes de un estilo de vida único y exclusivo frente al mar, diseñadas para mejorar tu salud y bienestar, y conectar con tu creatividad. Todo esto siendo parte de una **comunidad de golf.**
+
+**UAVI** es una obra de arte — literalmente. Esculturas se integran en cada espacio, formando parte de la experiencia de vivir aquí. Diseño minimalista, con carácter dentro de un fraccionamiento con seguridad.
+
+Pensado para gustos exigentes, pero versátiles. Y para quienes también lo ven como inversión: alta plusvalía, desde US$1.9M
+
+¿Quieres conocer **UAVI**? Mándale un mensaje a Fernanda Kepka [fkepka@cimbracapital.com](mailto:fkepka@cimbracapital.com) / [5539838159](https://wa.me/525539838159)
+
+[![](https://substackcdn.com/image/fetch/$s_!n_l_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0efc685-a537-4bb6-898b-983965950686_2250x2164.jpeg)](https://uavi.mx/es/)
+
+[UAVI](https://uavi.mx/es/)
+
+---
+
+#### Continuación…
+
+En su informe anual hablan de esto. “*The special ownership structure of Robert Bosch GmbH guarantees the entrepreneurial freedom of the Bosch Group, making it possible for the company to plan over the long term and to undertake significant upfront investments in the safeguarding of its future*”, señalan.
+
+> ***Comentario Whitepaper**: en Europa hay varios casos similares, en donde técnicamente los dueños de algunas de las empresas más grandes son fundaciones. Ikea, Rolex, Novo Nordisk y Lego son algunos ejemplos. Aún así, el caso de **Bosch** llama la atención por su estructura de control.*
+
+La empresa tiene 4 grandes líneas de negocio: movilidad (componentes para todo tipo de vehículos), bienes de consumo (herramientas y electrodomésticos), tecnología industrial (sistemas de automatización de fábricas, de seguridad), y energía y tecnología para edificaciones (que incluye aires acondicionados, calentadores de agua, etc.). Todas estas divisiones están en México: en la planta de Toluca, por ejemplo, fabrican autopartes, mientras que una nueva fábrica en Monterrey —una inversión de más de $250 millones de dólares— es para armar refrigeradores.
+
+[![](https://substackcdn.com/image/fetch/$s_!6Kba!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4926566-7804-428a-b979-b90ed3682f05_1456x2131.webp)](https://substackcdn.com/image/fetch/$s_!6Kba!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4926566-7804-428a-b979-b90ed3682f05_1456x2131.webp)
+
+Mientras que grupos industriales similares suelen destinar alrededor de 3% de sus ingresos a iniciativas de R&D, en Bosch este porcentaje es mucho más alto —8.6% en 2024. A nivel global, el año pasado la empresa registró ingresos totales de más de €90,000 millones de euros, con la división de componentes y autopartes aportando casi 62%.
+
+[![](https://substackcdn.com/image/fetch/$s_!5Gie!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde1335f0-1c72-4eff-a4c5-af35ccfcaa5d_2485x3432.heic)](https://substackcdn.com/image/fetch/$s_!5Gie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde1335f0-1c72-4eff-a4c5-af35ccfcaa5d_2485x3432.heic)
+
+Fuente: informe anual
+
+---
+
+El presidente de Bosch en México, [Alexander Firsching](https://www.linkedin.com/in/alexander-firsching-8b5315227/?originalSubdomain=mx) explicó en entrevista que las operaciones que tienen en nuestro país están completamente integradas a nivel regional. La mayor parte de lo que producen se exporta —en gran medida, a EUA. El tema de los aranceles es muy relevante, aunque aclaró que su producción suele cumplir con las reglas de origen.
+
+“México es más como pareja con Estados Unidos, juntos hacemos un equipo exitoso”, dijo.
+
+Firsching habló también del programa para aprendices que han venido implementando —actualmente hay unas 800 personas enroladas y preparándose para crecer dentro de la organización, y destacó que en Guadalajara cuentan con un centro de ingeniería en donde 1,300 ingenieros de software trabajan en implementación de proyectos.
+
+En verano de 2024, Bosch llegó a un acuerdo con Johnson Controls y con Hitachi para comprarles sus operaciones de aires acondicionados y calefacciones. Sería una transacción de más de $8,000 millones de dólares —la más grande en su historia— y con ello, acelerarían en sus planes de diversificación.
+
+De acuerdo con Firsching, esto es una de sus prioridades: están haciendo especial énfasis en el desarrollo de productos relacionados con *smart homes*, por ejemplo.

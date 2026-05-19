@@ -1,0 +1,140 @@
+# Whitepaper, Hoy
+
+> OCN; Walmart en Tabasco; compras en el extranjero; Vilore Foods y Tía Lupita; motos de India; Marea Group; Fagor Ederlan; entregas por robots, aranceles, proteína
+
+**Fecha:** 2025-07-22  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-fb4  
+**Word count:** 1289
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!A34-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23445a68-a199-4fdb-a851-7f66ea1b2f0e_2448x277.jpeg)](https://www.bancoazteca.com.mx/institucional/comunicacion-institucional-publicaciones.html)
+
+---
+
+#### Movilidad
+
+**OCN**, una startup de CDMX que renta autos a choferes y repartidores de apps de movilidad y delivery, invertirá $150 millones de dólares en los próximos 18 meses para expandirse en CDMX, Monterrey, Guadalajara, Tijuana y Querétaro. Buscan triplicar su flota de 5,000 a 15,000 vehículos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el [año pasado](https://www.whitepaper.mx/p/whitepaper-hoy-a4f?utm_source=post-email-title&publication_id=57583&post_id=146558017&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true) obtuvieron $86 millones de dólares en una ronda que combinó equity y deuda. Detrás de la startup están **[Mairon Sandoval](https://substack.com/redirect/64c9664f-df9d-426f-9194-dc9528095606?j=eyJ1IjoiMWdlZGZwIn0.KqGN-Y10cGmeqUvnIgxKcLs2BrS-p7qAA9tU0zcIyTA)** y **[Manuel Cangas](https://substack.com/redirect/e7dcdf1f-f85d-498b-ab81-a8e4bad78ee9?j=eyJ1IjoiMWdlZGZwIn0.KqGN-Y10cGmeqUvnIgxKcLs2BrS-p7qAA9tU0zcIyTA)**, ambos de 23 años.*
+
+---
+
+#### Tabasco
+
+**Walmart** ya tiene 38 tiendas en Tabasco, con una inversión acumulada de $4,000 millones de pesos. Hacia 2027 [abrirán](https://www.walmartmexico.com/sala-de-prensa/2025/07/invertiremos-mas-de-990-millones-de-pesos-en-tabasco) otras siete, con una inversión cercana a $1,000 millones de pesos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: tras anunciar [hace unos meses](https://www.whitepaper.mx/p/whitepaper-hoy-bfc) los $6,000 millones de dólares que invertirán en México en 2025, ahora Walmart ha venido anunciando inversiones por estado; en mayo fue [Yucatán](https://www.walmartmexico.com/sala-de-prensa/2025/050/invertira-walmart-de-mexico-mas-de-mil-900-millones-de-pesos-en-) con $1,900 millones de pesos y en marzo [Tamaulipas](https://www.walmartmexico.com/content/walmart-mexico/es_mx/sala-de-prensa/2025/03/invertira-walmart-de-mexico-2-mil-500-millones-de-pesos-en-el-es.html/) con $2,500 millones de pesos.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-fb4?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2Nzc1MDUwMSwiaWF0IjoxNzc5MjE1OTM4LCJleHAiOjE3ODE4MDc5MzgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.e-KxIcgWMNmxvnhCAkacrnAO57YXlBnp8EqD-YFTEYM)
+
+---
+
+#### Compras en el extranjero
+
+El número de transacciones de tarjetas mexicanas en el extranjero habría aumentado 21% anual durante 2024, superando 340 millones de transacciones en el año, según datos del Banco de México (***Redacción Whitepaper, vía [Tukán](https://tukanmx.com/)***).
+
+> ***Comentario Whitepaper**: De acuerdo con la documentación del Banco de México, estas cifras incluirían también transacciones en comercios digitales.*
+
+[![](https://substackcdn.com/image/fetch/$s_!m8xP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F594664b0-3d7e-4dde-a57c-d13bad6a757e_3498x2598.png)](https://substackcdn.com/image/fetch/$s_!m8xP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F594664b0-3d7e-4dde-a57c-d13bad6a757e_3498x2598.png)
+
+---
+
+#### Nota
+
+**Vilore Foods**, con sede en San Antonio, distribuye en EUA marcas mexicanas como **Jumex**, **Totis** y **La Costeña**. Ahora, [adquirió](https://www.prnewswire.com/news-releases/vilore-foods-expands-portfolio-with-acquisition-of-tia-lupita-foods-302508926.html?tc=eml_cleartime.)) **Tía Lupita**, fundada por **[Héctor Saldívar](https://www.linkedin.com/posts/hector-sald%C3%ADvar-16a34a_i-have-exciting-news-to-share-tia-lupita-activity-7353046110929629185-tVNr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTEYmYBL3c7CtCgBMXFwjZ7sUMhRWBJ_dU)**, originario de Monterrey, quien arrancó la marca en 2018 en San Francisco, vendiendo salsas con la receta de su mamá.
+
+En [2023](https://www.whitepaper.mx/p/whitepaper-hoy-9f6?utm_source=publication-search), **Santatera Capital** y **GBM Ventures** participaron en una ronda de inversión de cerca de $3 millones de dólares en **Tía Lupita** *(**Redacción Whitepaper**).*
+
+> ***Comentario Whitepaper**: además de salsas, también venden productos como chips y tortillas de nopal. Sus productos están en más de 4,000 puntos de venta en EUA. [Hablamos de ellos en 2023](https://www.whitepaper.mx/p/para-conquistar-los-paladares-en?utm_source=publication-search), en un artículo sobre emprendedores e inversionistas mexicanos que buscan transformar cómo se come en EUA.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!uZhv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F281b67ca-ca48-415d-a33f-92ab4dc9da9c_1164x457.png)](https://substackcdn.com/image/fetch/$s_!uZhv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F281b67ca-ca48-415d-a33f-92ab4dc9da9c_1164x457.png)
+
+---
+
+#### Motos de India
+
+En 2018, **MotoDrive**, una empresa mexicana, obtuvo la distribución maestra en el país de **Bajaj**, una marca de la India. Hoy tienen más de 300 distribuidoras desde donde venden el 70% de sus motos; el resto, en cadenas como **Liverpool**, **Sears**, **Coppel**, **Walmart** o **Mercado Libre**.
+
+En 2024 vendieron 125,000 unidades y esperan crecer 15% este año. Su CEO, **[Olaf Sarabia](https://www.linkedin.com/in/olaf-sarabia-25377134/?originalSubdomain=mx)**, afirmó a Whitepaper que son el tercer lugar en ventas en el segmento y el cuarto en unidades vendidas. El líder es **Italika**, de **Elektra**, con [alrededor del 55% del mercado](https://www.grupoelektra.com.mx/api/pdfEkt/4026).
+
+**MotoDrive** ensambla las motos de **Bajaj** en una planta en Toluca con capacidad para producir hasta 200,000 unidades al año (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: según [datos del INEGI](https://www.inegi.org.mx/programas/vehiculosmotor/#tabulados), el parque vehicular de motocicletas en México pasó de poco más de 1.8 millones en 2013 a 7.8 millones en 2023, un crecimiento de más de 300%. En contraste, el de automóviles creció 59% en el mismo periodo.*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿A cuál club perteneces?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-fb4/comments)
+
+---
+
+#### Inversiones
+
+**Marea Group** es un holding de capital permanente fundado en 2023, enfocado en empresas mexicanas de manufactura y servicios. Acaban de anunciar su primera inversión: adquirieron una participación mayoritaria en **Lease for U**, una arrendadora de equipo médico fundada en 2014 por **[Ariel Fainsod](https://www.linkedin.com/in/ariel-fainsod-0403553/recent-activity/all/)** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: fondos como **PC Capital**, **Novadvice Alternative Investment** y **Asymetric Capital** habrían participado en la operación. El managing partner de Marea es **[Kike Lanza](https://www.linkedin.com/in/enrique-lanza-19850423201108132013100220161209/)** y **[Mauricio Baillères](https://www.linkedin.com/in/mauricio-bailleres-4bb290126/overlay/about-this-profile/)** su chief of staff.*
+
+---
+
+#### Automotriz
+
+**Fagor Ederlan**, una empresa española con operaciones en México, adquirió la mayoría de **Regen Aluminum**, una compañía de EUA dedicada a la fabricación de aluminio. Más de 90% de los nuevos proyectos en su planta de San Luis Potosí están enfocados en vehículos eléctricos de marcas como **Tesla**, **Ford**, **GM** y **BMW** ([Cluster Industrial](https://clusterindustrial.com.mx/fagor-ederlan-mexico-ampliara-su-portafolio-tras-adquirir-empresa-en-ee-uu-con-integracion-vertical-aluminio-verde-y-enfoque-en-vehiculos-electricos/)).
+
+> ***Comentario Whitepaper**: Fagor Ederlan es parte de **Grupo Mondragón**, un holding del País Vasco que también tiene un [joint venture](https://www.fagorederlan.com/en/global/gisederlan) con **Grupo Industrial Saltillo**, dedicado a la industria automotriz.*
+
+[![](https://substackcdn.com/image/fetch/$s_!Sn4i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!Sn4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224f75fc-c067-467f-86eb-d8aef6bd1a76_1281x136.webp)
+
+**Escalar sin control financiero es solo crecer con más problemas.**
+
+Con PRM, automatizas desde el primer cobro hasta la conciliación bancaria, eliminando errores y retrasos que frenan tu operación.
+
+**Toku** ayuda a las empresas a liderar su recaudación, no a sobrevivirla.
+
+Descubre el poder del PRM de Toku [aquí.](https://trytoku.info/4nAZsjj)
+
+[![](https://substackcdn.com/image/fetch/$s_!-EMX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!-EMX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aacf8b1-09b1-4181-b685-2139b7e10884_1281x104.webp)
+
+#### Entregas por robots
+
+Desde 2019, las empresas de robótica para envíos han recibido unos $3,500 millones de dólares, según PitchBook, con la promesa de hacer entregas más rápidas, eficientes y baratas. **Coco Robotics**, por ejemplo, ha realizado más de 500,000 entregas en ciudades como Chicago, Los Ángeles, Helsinki y Miami. Sus carritos autónomos incluyen compartimentos con cerradura, cámaras en vivo y alarmas. Aunque operan solos, siempre hay un operador humano supervisando. También están los drones de **Zipline** y **Wing**. Wing entrega en menos de cinco minutos en distancias de hasta cuatro millas. Zipline, que apenas está entrando al negocio de delivery, estima que su servicio costará entre $7 y $10 dólares. Ya tiene acuerdos con Chipotle, Jet’s Pizza y Panera Bread ([WSJ](https://www.wsj.com/tech/ai/food-delivery-robots-241fa069)).
+
+---
+
+#### Aranceles
+
+* **Stellantis** reportó una pérdida preliminar de €2,300 millones de euros en el primer semestre del año. El grupo, dueño de marcas como **Jeep**, **Ram**, **Peugeot** y **Fiat**, aseguró que los aranceles le han costado ya €300 millones, tras recortar envíos y ajustar producción. Anticipa que el impacto será aún mayor en la segunda mitad del año, pues los aranceles entraron en vigor a mitad del periodo ([Reuters](https://www.reuters.com/business/autos-transportation/stellantis-sees-greater-tariff-impact-after-27-bln-first-half-loss-2025-07-21/)).
+* Las utilidades de **General Motors** cayeron en el segundo trimestre, afectadas por un impacto de $1,100 millones de dólares derivado de los aranceles. La utilidad neta bajó 35%, a $1,900 millones, frente a los $2,900 millones del mismo periodo del año pasado. Aún así, la empresa anticipa que la caída en utilidades no será tan marcada en la segunda mitad del año. Estima poder compensar hasta un tercio de su exposición total a aranceles ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-22/gm-s-profit-falls-after-trump-tariffs-add-1-1-billion-in-costs?srnd=homepage-americas)).
+
+---
+
+#### Proteína
+
+**YouBar** empezó como una pequeña fábrica de barras de proteína. Hoy es un jugador clave en una industria obsesionada con los productos altos en proteína. La empresa opera bajo un modelo B2B y afirma que más de 100 productos desarrollados en sus líneas están presentes en aeropuertos, gasolineras y tiendas como **Target** y **Whole Foods**, a través de las marcas de sus clientes.
+
+Solo el mercado de *whey protein* se estima en entre $5,000 y $10,000 millones de dólares. YouBar no publica cifras específicas, pero asegura que sus ingresos crecieron 85% entre 2022 y 2024. En los últimos 12 meses, habrían fabricado más de 1,000 millones de gramos de proteína ([NY Times](https://www.nytimes.com/2025/07/21/well/youbar-protein-bar-lab.html)).
+
+---
+
+##### Presentado por:
+
+#### El motor silencioso: la clase media dinámica y el rol de Banco Azteca en su expansión
+
+Sin duda, la clase media dinámica es el motor silencioso del crecimiento económico de México. Son millones de personas que con esfuerzo, acceso al financiamiento y movilidad social transforman su entorno. En Banco Azteca entendemos este fenómeno y lo impulsamos: otorgamos crédito, promovemos el ahorro e integramos a más familias al sistema financiero formal. Nuestra red y soluciones digitales permiten que más mexicanos eleven su calidad de vida y consoliden su patrimonio. Impulsar a esta clase media es fortalecer la estabilidad, el consumo y la inclusión, pilares fundamentales para el desarrollo económico del país.
+
+Ese es nuestro compromiso. México necesita instituciones que crean en su gente, nosotros lo hacemos, por ello estamos hombro a hombro con nuestros usuarios y aquí seguiremos.
+
+[Banco Azteca](https://www.bancoazteca.com.mx/institucional/comunicacion-institucional-publicaciones.html)

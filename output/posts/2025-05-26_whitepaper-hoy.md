@@ -1,0 +1,113 @@
+# Whitepaper, Hoy
+
+> Productos de belleza; camiones; Miniso; conoce a Renata Arvizu; Tetra Pak; plataformas de streaming; JP Morgan; unicornios subsidiados; precios de BYD; autismo en EUA
+
+**Fecha:** 2025-05-26  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-cbf  
+**Word count:** 1086
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!tfR0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e2f6b86-f4b0-4fc8-aebb-3c2c80409778_2242x465.jpeg)](https://join.whitepaper.mx/podcasts-live-2)
+
+---
+
+#### Maquillaje
+
+En México, el mercado de **productos de belleza** pasó de $10,400 millones de dólares en 2020 a más de $16,200 millones el año pasado. Esto está beneficiando a retailers grandes, como **Sephora** y **El Palacio de Hierro** —en el caso de Sephora, por ejemplo, desde 2021 han venido abriendo entre 7 y 10 tiendas nuevas al año— pero también ha permitido a **marcas independientes** crecer con sus propias tiendas dentro de **TikTok** ([Business of Fashion](https://www.businessoffashion.com/articles/beauty/mexican-mexico-beauty-brands/)).
+
+> ***Comentario Whitepaper**: el artículo destaca el caso de **Sarelly Sarelly**, una marca mexicana que está incluso ganando participación en EUA gracias a su contenido en **TikTok** (el año pasado [hablamos de esta marca](https://www.whitepaper.mx/p/whitepaper-hoy-aec?utm_source=publication-search) en Whitepaper).*
+
+---
+
+#### **Camiones**
+
+**Sinomex** invertirá $150 millones de pesos para un nuevo centro de servicio en Nuevo León. La empresa es el distribuidor exclusivo en México de la marca de camiones **Ankai**; tienen 8 años en el país y unos 850 camiones en circulación, principalmente en Monterrey. La empresa la dirige **[Diego Dignowity](https://www.linkedin.com/in/diego-dignowity-47683020/?originalSubdomain=mx)** ([El Financiero](https://www.elfinanciero.com.mx/monterrey/2025/05/23/sinomex-invierte-en-el-transporte-urbano-de-nuevo-leon/)).
+
+---
+
+#### Desde termos y almohadas, hasta snacks
+
+**Miniso** vendió $610 millones de dólares a nivel global en los primeros tres meses del año, de los cuales al menos $220 millones vinieron de las tiendas que tienen **fuera de China**. En su llamada con analistas presumieron específicamente **sus avances en México** ([MarketScreener](https://www.marketscreener.com/quote/stock/MINISO-GROUP-HOLDING-LIMI-113151597/news/Transcript-MINISO-Group-Holding-Limited-Q1-2025-Earnings-Call-May-23-2025-50049853/)).
+
+> ***Comentario Whitepaper**: el año pasado debieron haber vendido alrededor de $10,000 millones de pesos en México. Llegaron aquí hace unos 9 años y tienen más de 350 puntos de venta. [En este artículo](https://www.whitepaper.mx/p/historias-de-emprendedores-miniso) contamos **su historia**.*
+
+---
+
+#### Conoce a: Renata Arvizu
+
+[Country Manager Amazon Marketplace Mexico](https://www.linkedin.com/in/renataarvizu/)
+
+[![](https://substackcdn.com/image/fetch/$s_!cdOb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67156c08-af7d-4c84-bd84-f0fbe9ea2d2a_1199x1074.jpeg)](https://substackcdn.com/image/fetch/$s_!cdOb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67156c08-af7d-4c84-bd84-f0fbe9ea2d2a_1199x1074.jpeg)
+
+**Renata** lidera **Amazon Marketplace** en México, donde se encarga de desarrollar estrategias que beneficien tanto a los vendedores como al crecimiento de la tienda. Antes de Amazon, donde está desde hace 7 años, estuvo en American Express en el departamento de marketing durante más de 2 años y anteriormente 8 años en Microsoft. Tiene un MBA del IPADE (***Redacción Whitepaper***).
+
+---
+
+#### Maquinaria
+
+**Tetra Pak,** la empresa sueca que produce empaques para la industria de los alimentos, inauguró un nuevo centro de procesamiento y manufactura en el Estado de México. La inversión fue de €10 millones de euros y fabricarán equipos de procesamiento de alimentos con el objetivo de mejorar la cadena de suministro de la región ([T21](https://t21.com.mx/tetra-pak-mexico-inaugura-nuevo-centro-de-procesamiento-y-manufactura-en-edomex/)).
+
+> ***Comentario Whitepaper:** en México, el managing director de la empresa es **[Ramiro Ortiz](https://www.linkedin.com/in/ramiroortizdavila/?originalSubdomain=mx)**. A nivel global [venden](https://www.tetralaval.com/content/dam/tetra-laval/tetra-laval/documents/tetra-laval-2024-2025.pdf) cerca de €13,000 millones de euros.*
+
+---
+
+#### Streaming
+
+Existen ya **23 plataformas de streaming** que tienen **más de 500,000 suscriptores** y en EUA, el hogar promedio paga **casi 5 suscripciones** de este tipo (en 2019 el promedio estaba por debajo de 2 suscripciones por hogar). En cuanto a **retención**, ninguna se acerca al nivel de **Netflix**: tiene un ritmo de cancelaciones mensuales de entre 2% y 3%, mientras que **Disney** está más cerca de 5%, y **Max** y **Paramount** debieran estar promediando entre 7% y 8% de *churn* mensual ([WSJ](https://www.wsj.com/business/media/streamers-are-finally-making-money-for-consumers-its-getting-messier-5aa54c8f?mod=hp_lead_pos8)).
+
+[![](https://substackcdn.com/image/fetch/$s_!4F4Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c6ad7f4-faa7-49a6-ba1a-9730ce263ec1_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!4F4Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c6ad7f4-faa7-49a6-ba1a-9730ce263ec1_1281x136.webp)
+
+**Notion** es el sistema operativo ideal para startups: una herramienta todo-en-uno para documentar, planear, colaborar y crecer. Documentación, *fundraising, onboarding,* gestión de proyectos, notas automáticas, CRM, y más — centraliza tu operación en un espacio conectado, personalizable y potenciado con IA. Ahorra tiempo, reduce costos y escala con estructura.
+
+Algunas de las startups más reconocidas de México como **Clara** y **Konfío** construyen con **Notion (**y **Whitepaper** también!**).**
+
+**[Obtén 3 meses gratis aquí](https://ntn.so/whitepaper.mx)**.
+
+[![](https://substackcdn.com/image/fetch/$s_!zLEs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d7c2de-6e92-4560-a105-060e2d29a8b8_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!zLEs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d7c2de-6e92-4560-a105-060e2d29a8b8_1281x104.webp)
+
+#### Banco *trillonario*
+
+Con un market cap de $730,000 millones de dólares, **JP Morgan** no está tan lejos de convertirse en **el primer banco** que pudiera llegar a valer **$1** ***trillón*** **de dólares**. Este año tienen un presupuesto de $18,000 millones de dólares para invertir en **tecnología** —muchísimo más que cualquier competidor— y en la última década se volvieron además un banco extraordinariamente eficiente.
+
+“*JPMorgan has stayed efficient because its businesses have remained **complementary**. It has avoided both becoming a conglomerate made up of unrelated **silos** and falling into zero-sum internal competition (…) Mr Dimon’s **“fortress” balance-sheet** helps. Large reserves, low leverage and plentiful capital serve JPMorgan well in times of stress, allowing it to snap up firms*” ([The Economist](https://www.economist.com/finance-and-economics/2025/05/22/will-jamie-dimon-build-the-first-trillion-dollar-bank)).
+
+> ***Comentario Whitepaper**: el gran tema es **la sucesión** de **Jamie Dimon**. El artículo de **The Economist** incluye breves entrevistas con las personas consideradas como quienes podrían reemplazarlo a partir del siguiente año.*
+
+---
+
+#### Unicornios subsidiados
+
+De todas las startups de EUA que superaron $1,000 millones de dólares de valuación entre 2003 y 2023, **1 de cada 4** se benefició en algún momento de **apoyos gubernamentales**. Estos apoyos pueden haber sido desde contratos de servicio, hasta algún tipo de inversión, crédito o incluso apoyos directos para subsidiar las iniciativas de R&D ([PitchBook](https://pitchbook.com/news/articles/us-government-helped-create-24-venture-unicorns-study?utm_medium=newsletter&utm_source=daily_pitch&sourceType=NEWSLETTER)).
+
+> ***Comentario Whitepaper**: en otras noticias relacionadas, **Masayoshi Son** estaría proponiéndole a la administración de Trump una especie de **joint venture de EUA y Japón** [para crear un fondo soberano entre los dos países](https://www.theinformation.com/briefings/softbanks-son-proposes-joint-u-s-japan-sovereign-wealth-fund?rc=xfuqjy) —de unos $300,000 millones de dólares— y cuya función sería invertir en empresas de tecnología y en el desarrollo de infraestructura.*
+
+---
+
+#### En oferta
+
+El precio de las acciones de las **armadoras de China** se **desplomó** hoy en la mañana después de que **BYD** —la más grande— anunció una serie de **descuentos** e incentivos en más de 20 modelos que venden en ese país ([Reuters](https://www.reuters.com/business/autos-transportation/china-auto-shares-sink-after-byd-offers-trade-in-incentives-2025-05-26/)).
+
+> ***Comentario Whitepaper**: son descuentos muy **significativos** —**Seal**, por ejemplo, tiene [una reducción de 34%](https://www.bloomberg.com/news/articles/2025-05-26/byd-leads-china-ev-stocks-lower-on-steeper-price-cuts?srnd=homepage-americas). Como contexto, este modelo se vende en México en un precio de lista de unos $780,000 pesos (sería como si le redujeran el precio a $515,000 pesos).*
+
+---
+
+#### Autismo
+
+En EUA, el número de personas **de más de 18 años** que han sido diagnosticadas con autismo **pasó de 4.2 por cada 1,000, en 2011, a 9.5 por cada 1,000 personas**. Aunque una parte de este aumento es simplemente por los niños con autismo que llegan a la mayoría de edad, también están creciendo de manera muy significativa los **diagnósticos de personas que ya son mayores de edad** (sobre todo entre 26 y 34 años) y en muchos casos se trata de **mujeres**. “*Some adults welcome the diagnosis as a way to make sense of the challenges they have faced all their lives*” ([WSJ](https://www.wsj.com/science/adult-autism-diagnosis-surge-aab176d5?mod=hp_listc_pos2)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!RsLg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d8c65a-af5e-45f6-9621-4a9ef5562278_1920x1491.jpeg)](https://join.whitepaper.mx/podcasts-live-2)
+
+Acompáñanos el **martes 3 de junio** en la grabación en vivo de dos episodios de nuestros podcasts “Whitepaper 10” con Karla Berman y René Lankenau, y “Arquitectura de los Negocios” con Susana Sáenz y con invitados especiales.
+
+[REGISTRO](https://join.whitepaper.mx/podcasts-live-2)

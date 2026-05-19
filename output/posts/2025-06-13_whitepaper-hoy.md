@@ -1,0 +1,127 @@
+# Whitepaper, Hoy
+
+> Pringles en Querétaro y autopartes en Aguascalientes; Ollamani; Airbnb y el Mundial; Demo Day; el fondo soberano de Noruega; Scale AI y Meter; el IPO de JBS; maratón de Chicago
+
+**Fecha:** 2025-06-13  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-bd9  
+**Word count:** 1128
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!5xnt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd122ca90-e717-4a98-a8df-4386dc57f99e_2250x425.jpeg)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+---
+
+#### Papitas
+
+En Querétaro, **Kellanova** está inaugurando **una nueva fábrica de Pringles**. La empresa suma una inversión acumulada de $660 millones de dólares en México a lo largo de los últimos tres años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Kellanova es un **spin off** de Kellogg, que el año pasado habría sido adquirida por **Mars**. **[Víctor Marroquín](https://www.linkedin.com/in/victor-marroquin-16207367/?originalSubdomain=mx)** es presidente de **Kellanova** para América Latina. Se [estima](https://expansion.mx/empresas/2025/06/12/kellanova-va-por-una-mordida-mas-grande-del-mercado-con-nueva-planta-de-pringles) que **Pringles** tiene una participación de entre 3% y 7% del mercado de botanas en México, y en esta nueva planta proyectan producir 150 millones de latas al año.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-bd9?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2NTM2NDEyMSwiaWF0IjoxNzc5MjE1OTgwLCJleHAiOjE3ODE4MDc5ODAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.eNRVDnUPtGtHJCX_-JQ4qXxByvR7bVRaYqiYhfrYDD0)
+
+---
+
+#### De Japón
+
+**Advanced Composites**, una empresa japonesa, [invertirá](https://informacion.aguascalientes.gob.mx/news/advanced-composites-anuncia-nueva-inversi%C3%B3n-por-250-millones-de-pesos-para-expandir-su-planta-en-aguascalientes) $250 millones de pesos para ampliar su planta en **Aguascalientes** y construir un nuevo CEDIS. Con más de 30 años en México, se especializan en fabricar componentes para la industria automotriz (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** en [2024](https://www.economia.gob.mx/datamexico/es/profile/country/japon#:~:text=En%20el%20periodo%20Enero%20a,Aguascalientes%20(US$411M).), **Japón** fue **el segundo mayor inversor extranjero** en México, con $4,825 millones de dólares en IED. Guanajuato recibió $1,784 millones, CDMX $775 millones y Aguascalientes $411 millones.*
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!NDkI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0317bcc-7c4c-4076-be26-28220b1bd5fa_2784x1665.jpeg)](https://substackcdn.com/image/fetch/$s_!NDkI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0317bcc-7c4c-4076-be26-28220b1bd5fa_2784x1665.jpeg)
+
+> ***Comentario Whitepaper**: como es de esperarse, quienes respondieron estar por debajo de lo esperado mencionaron sobre todo la política arancelaria de Trump y la incertidumbre que esto ha generado en los mercados.*
+
+---
+
+#### Para el Azteca
+
+Desde marzo de 2024, **Ollamani** ha [invertido](https://ollamani.com.mx/modernizacion-e-historia-asi-sera-la-nueva-era-del-estadio-banorte/) $3,000 millones de pesos en la modernización del **Estadio Azteca** —ahora rebautizado como **Estadio Banorte**. Esto incluye la renovación de la cancha, más de 2,200 metros de pantallas LED, 1,200 antenas de WiFi, zonas *hospitality*, un nuevo sistema de audio y cámaras de seguridad (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a un año del Mundial, el tema pendiente es el de los **palcos**. Los dueños argumentan que el contrato firmado en 1966 les garantiza el uso de su palco por 99 años para cualquier tipo de evento, mientras que **FIFA** exige disponer de todos los espacios durante la Copa del Mundo. **[Félix Aguirre](https://www.linkedin.com/in/felix-aguirre-56ba4a149/?originalSubdomain=mx)**, director general del estadio, [asegura](https://www.reforma.com/cerca-de-solucionar-el-tema-de-palcos-y-plateas-del-azteca/ar3020528?utm_source=facebook&utm_medium=social&utm_campaign=robotgr&utm_content=@reforma&utm_regla=LoMasVisto-Regla6-3020528) que están cerca de resolverlo.*
+
+---
+
+#### …y más del mundial
+
+Un [estudio](https://airbnb.app.box.com/s/riy8ulen3labs1ykhfo863hrs57nuesi) de **Deloitte** y **Airbnb** estima que 591,000 turistas visitarán México durante el Mundial de 2026. De éstos, la proyección es que unos 90,000 se hospedarían en un Airbnb, con una estancia promedio de seis noches. Sumando EUA y Canadá, la plataforma espera alojar a 380,000 personas, con un impacto económico estimado de $3,600 millones de dólares en las ciudades sede (***Redacción Whitepaper***).
+
+---
+
+#### Demo Day
+
+**Y Combinator** tuvo el demo day de su *spring batch*. De las 144 startups que participaron, 47% [se especializan](https://pitchbook.com/news/articles/y-combinator-is-going-all-in-on-ai-agents-making-up-nearly-50-of-latest-batch) en “AI agents” —en el *batch* anterior habían sido 36%. Según su [directorio](https://www.ycombinator.com/companies?batch=Spring%202025), en esta edición no hubo startups de América Latina (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: al parecer, desde 2023 no han ido **startups mexicanas**. Ojo que antes había un buen número de representantes de nuestro país (México es el [quinto lugar](https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic) en cuanto al número de startups que han ido a Y Combinator). Aunque claro, algunas de las que pasaron por ahí en años anteriores —como Beek, Grin o Perfekto— ya no están en operación.*
+
+---
+
+#### Noruega
+
+En Noruega, los activos de su **fondo soberano** le generan **más ingresos al país** que su industria petrolera y aún y cuando distribuye no más de 3% cada año, estas aportaciones terminan representando **más de 20% del presupuesto nacional** (importante destacar que Noruega tiene servicios de salud sin costo y todo tipo de beneficios sociales para sus habitantes).
+
+Es el fondo soberano **más grande del mundo**, y tiene **participaciones en 8,700 empresas** a nivel global —con ello, es dueño de cerca de 1.5% de todas las acciones listadas en el mundo ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-12/norway-s-sovereign-wealth-fund-how-it-works-and-how-it-s-changing?srnd=homepage-americas)).
+
+---
+
+#### Detrás de AI
+
+**Scale AI**, la empresa en la que **Meta** acaba de [invertir $14,300 millones de dólares](https://www.theinformation.com/briefings/meta-finalizes-14-3-billion-deal-scale-ai?rc=xfuqjy) (por menos de 50%), administra **un equipo de [más de 100,000 personas](https://www.wsj.com/tech/ai/scale-ai-gets-meta-investment-that-values-it-at-more-than-29-billion-abeefc2f?st=5ejDyB)** en todo el mundo que se dedican a **etiquetar** imágenes y que **escriben oraciones** e historias cortas para **ayudar a los chatbots a “hablar” como seres humanos**. Le brinda estos servicios a las plataformas de AI, incluyendo a OpenAI y a Google.
+
+Por otro lado, **[Meter](https://www.nytimes.com/2025/06/12/business/dealbook/meter-networking-fundraise.html?smid=nytcore-ios-share&referringSource=articleShare)** [obtuvo $170 millones de dólares de inversión](https://www.nytimes.com/2025/06/12/business/dealbook/meter-networking-fundraise.html?smid=nytcore-ios-share&referringSource=articleShare) en una ronda que valúa a la startup de San Francisco en más de $1,000 millones de dólares. **Microsoft**, **General Catalyst** y **Sequoia** son algunos de los inversionistas. Se dedican a desarrollar y comercializar equipos de redes (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: son 2 ejemplos —enormes— de negocios que están creciendo **alrededor de AI** (o para darle soporte a las plataformas de AI).*
+
+---
+
+#### Mucha carne
+
+Hoy debuta en el **NYSE** la empresa de alimentos **que más ingresos generó** en 2024: con ventas de $78,000 millones de dólares, **JBS** superó a Nestlé, PepsiCo y Tyson. Es una empresa fundada en 1953, en las afueras de Brasilia, y controlada por 2 de los hijos del fundador ([The Economist](https://www.economist.com/business/2025/06/12/the-worlds-biggest-food-company-plans-to-beef-up-in-america)).
+
+> ***Comentario Whitepaper**: están detrás de **Pilgrim’s México** (aquí tienen cerca de 11,000 empleados). En Brasil, la familia fundadora se ha visto envuelta en varios [escándalos de corrupción](https://www.economist.com/business/2025/06/12/the-worlds-biggest-food-company-plans-to-beef-up-in-america).*
+
+---
+
+#### 42K
+
+La edición 2024 del **Maratón de Chicago** generó un impacto económico de **$683 millones de dólares para la ciudad** —un máximo histórico. El aumento de **22%** frente al año anterior se atribuye a un mayor número de participantes y a los visitantes internacionales (tienden a quedarse más tiempo y a gastar más). En total, 52,150 corredores terminaron la carrera, incluyendo corredores de más de 140 países ([Crain’s Chicago Business](https://www.chicagobusiness.com/sports/chicago-marathon-2024-generated-record-683-million)).
+
+---
+
+#### MexMoves: Educating Mexico
+
+¿Cómo puede México cerrar su enorme brecha educativa? Hablamos en exclusiva con **Aurelio Nuño**, exsecretario de Educación, y **Juan Rebolledo**, de **Lottus Education**, para analizar qué está en juego y qué se puede hacer. Luego: **GM** mueve producción de México a EUA; **Heineken México** detalla sus planes de inversión; y los **hispanos** en EUA reducen su gasto.
+
+*Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/22-educating-mexico-failure-fuels-deeps-problems-and/id1792066671?i=1000712657941) y [Spotify](https://open.spotify.com/episode/5F1e5kuXvWdJrkmJ3BvTbu?si=YguzZBdmTAec3kxV6wQLrg).*
+
+> ***MexMoves** es un podcast de **Whitepaper**, en inglés, de temas de negocios relevantes tanto para EUA, como para México.*
+
+---
+
+##### Presentado por:
+
+Al elegir y ser parte de **HSBC Premier,** abres la puerta a un mundo de soluciones para crecer tu patrimonio, hacer de tus viajes una experiencia única, contar con coberturas de salud para ti y tu familia, y el acompañamiento global que **HSBC** te da.
+
+Para que comiences a disfrutar de la experiencia, solo debes obtener tu nueva **Tarjeta de Débito HSBC Premier Infinite** con la que podrás disfrutar debeneficios exclusivos alrededor del mundo, como:
+
+* Acceso ilimitado a salas VIP en aeropuertos.
+* Servicio de *concierge.*
+* Máxima protección y asistencia en tus viajes.
+
+Siéntete respaldado a donde vayas. **Tu mundo es Premier cuando tu banco lo es.**
+
+[HSBC Premier](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+[![](https://substackcdn.com/image/fetch/$s_!8Gyn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02b176e9-36cb-45f2-b728-f654351c74b6_1080x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!8Gyn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02b176e9-36cb-45f2-b728-f654351c74b6_1080x1080.jpeg)

@@ -1,0 +1,153 @@
+# Whitepaper, Hoy
+
+> Cemex Ventures; Vitro en EUA; Netafim; Gas Natural; Sabadell; movimientos clave; Uber y Getir; OpenAI para empresas; Hermès en Rodeo Drive; DeBeers; HBR y el impacto de AI en el trabajo
+
+**Fecha:** 2026-02-10  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-3b4  
+**Word count:** 1852
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!ewDk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90f5450a-0e94-4ce1-9f39-db2a485f6dc5_1584x164.jpeg)](https://www.udem.edu.mx/es/negocios)
+
+---
+
+#### Corporate venture capital
+
+**Cemex Ventures** es uno de los inversionistas en la [ronda](https://www.eu-startups.com/2026/02/exclusive-barcelonas-wtenergy-raises-e10-million-to-drive-energy-recovery-of-industrial-waste-and-biomass/) de €10 millones de **WtEnergy**, una startup de **Barcelona** que [desarrolló](https://www.cemexventures.com/es/projects/wtenergy/) un proceso que convierte biomasa y residuos no reciclables en una solución energética con menos emisiones de carbono y que, en el corto plazo, buscan que pueda utilizarse como alternativa a los combustibles fósiles *(**Redacción Whitepaper**).*
+
+> ***Comentario Whitepaper**: el brazo de CVC de Cemex tiene inversiones en cerca de 20 startups; [Jesús Ortiz de la Fuente](https://www.linkedin.com/in/jesus-ortiz-de-la-fuente-2b7a0020/?originalSubdomain=mx) está a la cabeza de Cemex Ventures desde hace dos meses.*
+
+---
+
+#### Competencia de China
+
+La **llegada a EUA** de empresas de **China** que producen **vidrio** está impactando las operaciones de **Vitro** en ese país: desde 2019, la regia ha **cerrado tres plantas** de vidrio para vehículos en Pennsylvania, Indiana y Michigan, y el futuro de la fábrica que tienen en Ohio es **incierto**. Su volumen de operaciones ha **retrocedido 50%** en los últimos siete años.
+
+“*Leaders at the Vitro factory say **they have done everything possible to wring efficiencies** out of their decades-old plant, such as installing new equipment and reducing the number of employees. But **they still can’t match Fuyao’s prices***” ([WSJ](https://www.wsj.com/business/tariffs-china-trump-trade-4495c2a4)).
+
+---
+
+#### Ecommerce
+
+A un año de lanzamiento en México, **TikTok Shop** se ha convertido en una plataforma clave para muchas marcas y creadores. TikTok Shop es particularmente fuerte en artículos tecnológicos, hogar, belleza, moda y suplementos. **Birdman**, la empresa mexicana de proteínas y suplementos, gestionó 1,200 pedidos durante la temporada del Buen Fin, y otras marcas como **L’Oréal** ya tienen una fuerte inversión en creadores y presencia en la plataforma (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la particularidad de TikTok Shop es que, como comprador, no necesitas salir de la app para realizar una compra del anuncio que ves en ella. Se estima que ya tiene el tamaño de Ebay en cuanto a ventas. El año pasado hicimos un [deep dive](https://www.whitepaper.mx/p/la-apuesta-de-tiktok-shop) de su crecimiento en México.*
+
+---
+
+#### Sistemas de riego
+
+Hace [unos meses](https://www.whitepaper.mx/i/176067770/en-israel), un medio de **Israel** publicó que **Netafim**, la subsidiaria de **Orbia** especializada en sistemas de riego, estaría en proceso de venderse por un monto de entre $1,300 y $1,500 millones de dólares. Ahora, el [mismo medio](https://www.calcalistech.com/ctechnews/article/rk8ffprw11x) afirma que un billonario chino, **Haoyu Wang**, detrás de la empresa **Dayu**, sería quien estaría negociando para adquirir la compañía (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en 2025 **Netafim** tuvo un EBITDA de $135 millones de dólares; **Orbia** pagó $1,895 millones de dólares por 80% de la empresa en 2017. Por lo pronto Orbia es **una de las grandes ganadoras en el IPC** —el precio de sus acciones acumula un aumento de **casi 38%** en lo que va de 2026.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-3b4?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4NzQxNDYzNSwiaWF0IjoxNzc5MjE1NzM1LCJleHAiOjE3ODE4MDc3MzUsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.0utlv7lvfYlcZlL3T19FgQamkHEQLAN04F1bDMK-5IY)
+
+---
+
+#### Gas natural licuado
+
+El gas natural es conocido como el “combustible de transición”: aunque sigue siendo un combustible fósil, [produce](https://www.eia.gov/environment/emissions/co2_vol_mass.php) entre 30% y 45% menos CO2 que otras fuentes fósiles y actualmente representa [cerca](https://www.iea.org/world/energy-mix) de 20% de la generación eléctrica mundial ([alrededor](https://energia.conahcyt.mx/planeas/electricidad/capacidad-generacion) de 60% en México). Dentro de este mercado, el segmento que muestra un crecimiento más acelerado es el gas natural licuado (GNL).
+
+EUA es por mucho el productor y exportador mas grande de Gas Natural en el mundo. Ese país [cuenta](https://www.eia.gov/todayinenergy/detail.php?id=66384) con una capacidad de exportación de GNL de 15,400 millones de pies cúbicos diarios —casi el doble del consumo total de México (que [ronda](https://www.pemex.com/saladeprensa/mix_energetico/Paginas/me_2025-06.aspx) los 8,400 millones).
+
+Un ejemplo claro de la escala del GNL en Estados Unidos es **la terminal Rio Grande LNG de NextDecade**, uno de los proyectos más grandes de GNL en EUA. Está construyéndose en **Brownsville**, [tendrá](https://www.next-decade.com/our-business/rio-grande-lng/) capacidad inicial de 48 millones de toneladas anuales y la inversión total estimada es de cerca de **$31,800 millones de dólares**.
+
+[![](https://substackcdn.com/image/fetch/$s_!IUhp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39af50e7-91f7-48e7-a4b2-634336af30aa_2174x1723.jpeg)](https://substackcdn.com/image/fetch/$s_!IUhp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39af50e7-91f7-48e7-a4b2-634336af30aa_2174x1723.jpeg)
+
+Rio Grande LNG
+
+En México está en desarrollo la terminal **Saguaro Energía de Mexico Pacific**, con una [capacidad](https://mexicopacific.com/saguaro-energia/) de 15 MTPA. Ubicada en Sonora, [tiene](https://ieefa.org/resources/mexico-pacific-limited-retrasos-conflictos-y-errores-en-el-proceso-de-obtencion-de) una inversión proyectada de **$15,000 millones de dólares** y busca suministrar al mercado asiático. Según la compañía, la mayor parte de su capacidad ya [está](https://mexicopacific.com/customers/) contratada por siete empresas, entre ellas Woodside, Shell y ExxonMobil. El proyecto obtendrá sus 2,800 millones de pies cúbicos por día de gas del Permian Basin a través del gasoducto Sierra Madre, un proyecto de 800 kilómetros que alimentará directamente la planta (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** más allá de Saguaro, México [tiene](https://geocomunes.org/Visualizadores/GNL-Mexico-2/) actualmente nueve proyectos de GNL en distintas etapas de desarrollo. Sin embargo, solo uno se encuentra en operación: Altamira I, en Tamaulipas, con una capacidad de 1.4 MTPA y una [inversión](https://www.reuters.com/business/energy/new-fortress-expects-lng-mexico-altamira-export-plant-by-year-end-2023-11-08/) aproximada de $1,000 millones de dólares. El siguiente en entrar en operación [sería](https://iea.blob.core.windows.net/assets/f746c0aa-03f3-47ba-a0d9-b45c3c758150/GasMarketReport%2CQ1-2026.pdf) Energía Costa Azul, de Sempra Infrastructure (en Ensenada) que prevé iniciar operaciones en la primavera de este año con una [inversión](https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-7-de-marzo-de-2025?idiom=es) de $3,000 millones de dólares y una capacidad inicial de 3.25 MTPA.*
+
+---
+
+#### Banca
+
+La utilidad del negocio de **Sabadell** en Mexico [creció](https://www.grupbancsabadell.com/corp/es/accionistas-e-inversores/informacion-economico-financiera.html) casi 13% el año pasado —de €57 millones en 2024 a €64 millones. Esto, a pesar de que los ingresos por intereses bajaron 6.1% (***Redacción Whitepaper***).
+
+---
+
+#### Movimientos clave
+
+* **Crediclub** nombró a **[Marcelino Herrera Vegas](https://www.linkedin.com/in/marcelino-herrera-vegas-9741924/?originalSubdomain=mx)** como director general. Cuenta con más de 25 años de experiencia en tecnología, con trayectoria en Mercado Libre, Scotiabank y Walmart de México y Centroamérica **(*****Redacción Whitepaper*****).**
+* **Bitso** reforzó su equipo ejecutivo con el nombramiento de **[Imran Ahmad](https://www.linkedin.com/in/imran-ahmad-0121ba/)** como COO y general manager de Bitso Business; **Steven Geller** como CTO, y **Timothée Basquin** como CMO **(*****Redacción Whitepaper*****).**
+* **[Claudia Alva](https://www.linkedin.com/in/claudiaalva/?originalSubdomain=mx)** fue nombrada VP and Country Manager de México para **Despegar**. Antes estuvo dos años y medio en **Nu México**, donde su último rol fue GM *Head of Product* Mexico **(*****Redacción Whitepaper*****).**
+* **[Kevin Nichols](https://www.linkedin.com/in/kevinnicholsa/)** fue nombrado Global Head of Comms and Content para la categoría de tequila en **Pernod Ricard**, a nivel global. Estuvo en **DiDi** en México y antes ocupó cargos como global marketing and innovation director de Don Julio y de Smirnoff en el país ***(Redacción Whitepaper).***
+
+* **[Hernando Cortés](https://www.linkedin.com/in/hernando-cortes-983b488/)** fue designado *Head of Mexico* para **Uber Advertising**. Llega tras seis años en Amazon, donde su último cargo fue *Sales Consumables & Branded Entertainment* **(*****Redacción Whitepaper*****).**
+
+---
+
+#### Empaques
+
+**Paktech** es una empresa de **Oregon** especializada en la fabricación de **anillos de plástico** para productos como latas u otros empaques del segmento de **alimentos y bebidas**. Ahora, [abrirán](https://mexicoindustry.com/noticia/paktech-elige-a-mexico-como-base-para-su-expansion-en-latinoamerica-con-empaquetado-circular) un almacén logístico en el país, aunque no detallaron la inversión del proyecto. La empresa, fundada en 1991, tiene entre sus principales [clientes](https://www.milenio.com/negocios/paktech-busca-empaque-circular-industria-cervecera#:~:text=La%20firma%20estadunidense%20PakTech%20anunci%C3%B3,Ley%20General%20de%20Econom%C3%ADa%20Circular.) en México a cerveceras (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!B1Rw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05d21040-399c-4ff0-9031-c0aceca40b53_1281x160.webp)](https://substackcdn.com/image/fetch/$s_!B1Rw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05d21040-399c-4ff0-9031-c0aceca40b53_1281x160.webp)
+
+¿Tu negocio crece pero los procesos no siguen el ritmo? En [Danu Analítica](http://danuanalitica.com) usamos datos e IA para darte estructura y dirección. Diseñamos AI Agents en Google Cloud que automatizan tareas, ordenan la información y mejoran la toma de decisiones para escalar mas rápido y con control.
+
+Reserva tu consultoría personalizada [aquí](https://meetings.hubspot.com/danuanalitica/danu-wp-feb26) y hablemos de tu estrategia
+
+[![](https://substackcdn.com/image/fetch/$s_!Cf8H!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5896be6e-c230-495c-8e3c-0dec2e408061_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!Cf8H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5896be6e-c230-495c-8e3c-0dec2e408061_1281x104.webp)
+
+#### Entregas ‘súper rápidas’
+
+**Uber** [anunció](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001543151/9f1a838c-b869-4a56-9231-2db4db796e15.pdf) que está comprándole a **Getir** su negocio de **comida a domicilio** en una transacción que valúa a ese negocio en específico en **$335 millones de dólares**, y que además invertirá otros $100 millones para quedarse con una participación de 15% en el negocio de **delivery de productos de supermercado** que tiene esa plataforma.
+
+La startup de **Turquía**, que se especializa en servicio a domicilio, en 2022 vio su valuación dispararse a casi **$12,000 millones de dólares**; estaban entonces expandiéndose a países como UK, España e Italia y terminarían hasta quedándose con ***Gorillas*** (que fue de las pioneras en las entregas ‘súper rápidas’). Sin embargo, para 2023 la valuación de Getir se había [desplomado](https://www.theguardian.com/business/2023/sep/08/getir-value-drops-to-25bn-as-shoppers-move-away-from-convenience#:~:text=Getir%20value%20'drops%20to%20$2.5,image%20Previous%20image%20Toggle%20caption) a cerca de $2,500 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: seguimos viendo consolidación en este espacio —**Uber** y **Amazon** son quienes pareciera que tienen especial interés en quedarse con una mayor participación. Justo [hace unos días](https://www.aboutamazon.com/news/retail/amazon-prime-same-day-next-day-delivery-2025) **Amazon** presumió específicamente su crecimiento en las **entregas en el mismo día** (y por ello en México han venido haciendo alianzas con empresas como **[Rappi](https://www.whitepaper.mx/p/whitepaper-hoy-98f)** y **[Quality Post](https://www.whitepaper.mx/p/whitepaper-hoy-01d)**).*
+
+---
+
+#### Encuesta
+
+> *¿Qué empresa no mexicana te gustaría dirigir?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-3b4/comments)
+
+---
+
+#### Breves
+
+* **OpenAI** está **contratando** a “cientos” de vendedores para acelerar la **venta a corporativos**. “*The company wants these deals to boost the portion of its revenue that comes from business customers from roughly 40% in January to 50% by year-end, amounting to about $15 billion in 2026*” ([The Information](https://www.theinformation.com/articles/openai-hiring-hundreds-ai-consultants-boost-enterprise-sales?rc=xfuqjy)).
+* La venta de **DeBeers** está ya “muy avanzada” —se espera que la empresa de **diamantes**, cuya sede está en Londres, termine siendo adquirida por un **consorcio** en el que estarían participando inversionistas privados junto con los gobiernos de países como Botswana, Angola y Namibia ([Financial Times](https://www.ft.com/content/68836ab8-1fde-4923-ae63-450574ad85bd)).
+* **Mr Beast** está adquiriendo a Step Mobile, una **fintech** de EUA que ofrece servicios financieros básicos para **adolescentes**, incluyendo una cuenta. Es una startup que en 2021 llegó a estar valuada en más de $900 millones de dólares (aunque como la mayoría de las fintech, su valuación debe haber retrocedido considerablemente) y que presume **siete millones de usuarios** ([TechCrunch](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/)).
+* **Hermès** habría pagado **$400 millones de dólares** para quedarse con un **par de edificios** comerciales ubicados en **Rodeo Drive**, y en donde están ubicadas boutiques de marcas como Moncler, Balenciaga y Tom Ford ([WSJ](https://www.wsj.com/real-estate/commercial/hermes-revealed-as-buyer-of-record-400-million-beverly-hills-property-cb6e116b?mod=hp_featst_pos3)).
+
+---
+
+#### Un trabajo más “intenso”
+
+De acuerdo con un nuevo estudio elaborado por **Harvard Business Review**, la incorporación de **herramientas de AI** en las oficinas no necesariamente disminuye el tiempo que se destina a trabajar, sino que lo “**intensifica**”.
+
+“*We found that employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so (…) On their own initiative workers did more because AI made “doing more” feel possible, accessible, and in many cases intrinsically rewarding*” ([HBR](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)).
+
+> ***Comentario Whitepaper**: el análisis de los resultados [advierte](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) que más allá de lo atractivo que un escenario así podría resultar para algunas empresas, **subsisten dudas** sobre qué tan sostenible es y acerca de consecuencias en el futuro —“Once the excitement of experimenting **fades**, workers can find that their workload has quietly grown and **feel stretched from juggling everything that’s suddenly on their plate**. That workload creep can in turn lead to cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to **lower quality work**, turnover, and other problems”, [añaden](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it).*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!ntck!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a2e56a5-065e-4fc1-93e4-9cc98473bc76_1584x164.jpeg)](https://www.udem.edu.mx/es/negocios)
+
+[Escuela de Negocios UDEM](https://www.udem.edu.mx/es/negocios), inspirando una visión global de los negocios.
+
+La Escuela de Negocios de la Universidad de Monterrey ofrece una formación con excelencia académica orientada al ejercicio responsable de los negocios, con una visión global y comprensión del entorno económico y social.
+
+Sus programas de nivel profesional y maestría incorporan experiencias internacionales y vínculo constante con la industria, integrando la toma de decisiones con base ética y el compromiso con la sociedad.
+
+La Escuela se encuentra entre las cinco mejores de América Latina y cuenta con acreditaciones de alto nivel y presencia en rankings internacionales, formando personas que ven en los negocios una vía para generar impacto e influir positivamente en su entorno.
+
+[Conoce más](https://www.udem.edu.mx/es/negocios)

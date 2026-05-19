@@ -1,0 +1,135 @@
+# Whitepaper, Hoy
+
+> La ronda de Sofía; Bimbo en EUA; Grupo México; remesas; Elis en México; ASML; la nueva planta de SpaceX; short sellers en Nike; Don Julio Blanco; podcasts de Vox Media; spotlight en Kemo Sabe
+
+**Fecha:** 2026-05-06  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-071  
+**Word count:** 1369
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!0cYv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffa1ba77-b8f7-41ef-ad1c-46a10adc44e2_1080x195.png)](https://londoncg.mx/growth-stories)
+
+---
+
+#### Seguros
+
+**Sofía** obtuvo **$21 millones de dólares** en una ronda de inversión liderada por **Kfund**, y en la que participaron también fondos como Index Ventures, Kaszek, BID Lab y Kayyak Ventures. En total, **la startup mexicana** ha recibido hasta ahora $46 millones de dólares de inversión desde su fundación, en 2018 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la startup que dirige [Arturo Sánchez Correa](https://www.linkedin.com/in/arturo-sanchez-correa/) está creciendo a buen ritmo —emitió el [año pasado](https://sofia-public-assets.s3.us-east-2.amazonaws.com/Estados+Financieros/Diciembre/Diciembre+2025/Estados+Financieros+Diciembre+2025.pdf) **primas** por cerca de **$330 millones de pesos** (vs $200 millones en 2024 y $100 millones en 2023)— aunque está todavía lejos de llegar a números negros. Por lo pronto presumen estar atendiendo a más de 1,300 clientes, incluyendo a empresas como Rappi y Clara.*
+
+---
+
+#### En EUA
+
+**Bimbo** [invertirá](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1556427_1.zip#/visorXbrl) $1,000 millones de dólares en EUA hacia 2028. Destinará los recursos a desarrollo de nuevos productos, mantenimiento de operaciones y alianzas con proveedores (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el año pasado, casi 45% de los ingresos totales de Bimbo vinieron de la operación que tienen en EUA ([Greg Koehrsen](https://www.linkedin.com/in/greg-koehrsen/) está a la cabeza). En todo caso, llama la atención que ese país está creciendo más lentamente que en otras regiones.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!PXtv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bc7b4e0-f7c5-49ff-9916-dbdecfaae6f0_2363x1947.jpeg)](https://substackcdn.com/image/fetch/$s_!PXtv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bc7b4e0-f7c5-49ff-9916-dbdecfaae6f0_2363x1947.jpeg)
+
+---
+
+#### La más valiosa
+
+Impulsado por el aumento en los precios del cobre y la plata, **Grupo México** creció más de 30% sus ingresos durante el [primer trimestre](https://www.gmexico.com/GMDocs/Home/Esp/Reporte_1er_Trimestre_2026.pdf) —superó los $5,500 millones de dólares— mientras que la **utilidad neta** avanzó 62.5%, a $1,638 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: de acuerdo con la propia empresa, están en el primer lugar en pago de **impuestos** en México y también en **PTU**. En lo que va del año, el precio de su acción acumula una ganancia de 13% —con un **market cap de $84,450 millones de dólares**, es la empresa más valiosa en México.*
+>
+> *Ojo —como contexto, la utilidad neta que reportó Grupo México en este trimestre es **mayor** que la que registraron empresas como **Starbucks**, **Nike** y **Spotify**, juntas, en ese mismo período.*
+
+---
+
+#### Remesas
+
+En marzo, los mexicanos que están fuera del país hicieron [12.9 millones de transacciones](https://www.banxico.org.mx/publicaciones-y-prensa/remesas/%7B0800CDC2-6DA8-AE35-9E14-1682468DDA44%7D.pdf) para enviarle a sus familias un total de $**5,400 millones de dólares** (un poco menos que las ventas de Grupo México en el primer trimestre). Esa cifra representa un **avance anual de casi 5%**: fueron menos transferencias, pero el monto promedio aumentó 10%, a $417 dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: aunque 99% de las remesas se envían por medio de **canales digitales**, 47% se terminan [cobrando en efectivo](https://www.banxico.org.mx/publicaciones-y-prensa/remesas/%7B0800CDC2-6DA8-AE35-9E14-1682468DDA44%7D.pdf).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-071?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5NjQ0NzcyNCwiaWF0IjoxNzc5MjE0OTE1LCJleHAiOjE3ODE4MDY5MTUsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ww8OF1pCxO9sVyZpjowSN9IEuGGQ8wcP1BkpFE2JHU0)
+
+---
+
+#### Batas y uniformes
+
+**Elis** es una empresa **francesa** que ofrece servicios de limpieza, así como uniformes y equipo para hospitales y hoteles (entre otros). Durante el [trimestre](https://ml-eu.globenewswire.com/Resource/Download/e80a2a61-31cc-4c5d-a6f0-f30b1bde7799) generó ingresos por €1,181 millones, de los cuales 10% provinieron de América Latina. La compañía destacó que en México creció más de 16% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en [2025](https://fr.elis.com/sites/fr.elis.com/files/2026/04/30/Elis%20-%202025%20Universal%20Registration%20Document.pdf) registró ventas por €123 millones en el país, que es su décimo mercado más relevante y el segundo en la región, por detrás de Brasil. [Tiene aquí](https://lavartex.com/elis-sobre-nosotros/) 14 plantas de lavado, 15 centros de distribución y una planta de corte y confección. [Llegó](https://ml-eu.globenewswire.com/Resource/Download/19c61264-4459-4ba4-803d-4f2777960ae9) en 2022 a través de una adquisición.*
+
+---
+
+> ***Por si prefieres escuchar en lugar de leer…***
+>
+> [![](https://substackcdn.com/image/fetch/$s_!G852!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f4bcc6d-83bd-4918-93a1-6d32dfc09afe_5389x748.jpeg)](https://substack.com/redirect/b4e2e5b8-299d-4273-a110-0da0fc8ed8c1?j=eyJ1IjoiNjc2NDAifQ.I6lsXTDt08jvWNvjjqrL4Y-IO2oUipnKjveBUcGLtS0)
+>
+> *Este correo —junto con el resto de nuestro contenido diario, artículos principales, entrevistas y otras producciones exclusivas— está también **disponible en formato** de **audio** para suscriptores en nuestros canales de **Whitepaper Access** (en Spotify y Apple Podcasts).*
+>
+> *[Conecta tu membresía a los canales de ambas plataformas aquí.](https://substack.com/redirect/b4e2e5b8-299d-4273-a110-0da0fc8ed8c1?j=eyJ1IjoiNjc2NDAifQ.I6lsXTDt08jvWNvjjqrL4Y-IO2oUipnKjveBUcGLtS0)*
+
+---
+
+#### La que está hasta atrás
+
+Con sede en **Holanda**, **ASML** es la empresa que **controla** el mercado de equipos para manufacturar los **microprocesadores** que se utilizan para **AI**. Son máquinas enormes, como del tamaño de un autobús, y con precios unitarios que oscilan entre $200 y $400 millones de dólares. Este **monopolio** convierte a la compañía en **la más valiosa en Europa**: de tener un market cap de $40,000 millones de dólares hace 10 años, ahora vale más de $550,000 millones ([TechCrunch](https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/)).
+
+> ***Comentario Whitepaper**: **ASML** le [vende](https://finance.yahoo.com/sectors/technology/articles/tsmc-says-asml-latest-chipmaking-095255944.html) esos equipos a **TSMC**, por ejemplo, que luego le manufactura los chips a **Nvidia**, que luego se los vende a Microsoft, Meta, **OpenAI**, etc.*
+
+---
+
+#### Breves
+
+* …y relacionado con este mismo tema: **SpaceX** estaría tramitando un permiso para construir ***Terafab***, una mega fábrica de **semiconductores** al noroeste de **Houston** y que representa una potencial inversión de **$55,000 millones de dólares** tan solo en la primera etapa ([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/spacex-proposes-55-billion-to-begin-terafab-project-in-texas)).
+* El 4.67% de las acciones de **Nike** están “**prestadas**”, lo que implica que el número de ***short sellers*** que están apostando en contra de la empresa aumentó **11 veces** desde que cambiaron de CEO en octubre de 2024 ([Reuters](https://www.reuters.com/business/bets-surge-against-nike-heaping-pressure-ceo-hill-2026-05-05/)).
+* **Diageo** [superó](https://www.reuters.com/business/diageo-posts-surprise-sales-growth-europe-latin-america-offset-us-weakness-2026-05-06/) las expectativas en el último trimestre, aunque también reconoció que [en México tuvo menores ventas](https://www.diageo.com/pdf-viewer.aspx?gid=307336661&src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-Corp%2Fpress-release%2F2026%2Fdiageo-issues-fiscal-2026-q3-trading-statement.pdf) y que nuestro país fue el único de la región [que no contribuyó](https://www.marketscreener.com/news/transcript-diageo-plc-q3-2026-sales-trading-statement-call-may-06-2026-ce7f58ddde8bf126) en términos de ***price/mix***. El CFO dijo que buscarán [reposicionar](https://www.marketscreener.com/news/transcript-diageo-plc-q3-2026-sales-trading-statement-call-may-06-2026-ce7f58ddde8bf126) Don Julio Blanco (***Redacción Whitepaper***).
+
+---
+
+#### La siguiente temporada
+
+**James Murdoch** estaría negociando la adquisición de ***New York Magazine*** y de un portafolio de **podcasts** operados por **Vox Media**; habría [ofrecido](https://www.bloomberg.com/news/articles/2026-05-05/james-murdoch-makes-300-million-offer-for-ny-magazine-podcasts) alrededor de $300 millones de dólares por estas propiedades. Los [podcasts](https://www.nytimes.com/2026/05/05/business/media/james-murdoch-vox-media.html), entre los cuales está ***Pivot*** (de Scott Galloway y Kara Swisher), generan ingresos anuales cercanos a los $80 millones de dólares; [la revista por sí sola](https://www.ft.com/content/0ee80994-794e-4cc8-baa9-1583381ea8fe?syn-25a6b1a6=1) habría alcanzado ventas de unos $100 millones el año pasado y opera en números negros (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el hijo de **Rupert Murdoch**, quien recibió miles de millones de dólares de la venta de Fox a Disney y luego otro tanto de lo que le pagó su papá para deshacer el fideicomiso de control, es ya dueño de **Art Basel** y ha venido invirtiendo en distintos medios con el objetivo de [desarrollar una plataforma más bien liberal](https://www.ft.com/content/0ee80994-794e-4cc8-baa9-1583381ea8fe?syn-25a6b1a6=1) (y pareciera que está dándole material a los **escritores de Succession** para que se **animen a crear** una nueva temporada…).*
+
+---
+
+#### Spotlight en: Kemo Sabe
+
+[![](https://substackcdn.com/image/fetch/$s_!KHo2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F106f8697-36a4-44a9-88ae-9ee98514efb7_1278x618.jpeg)](https://substackcdn.com/image/fetch/$s_!KHo2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F106f8697-36a4-44a9-88ae-9ee98514efb7_1278x618.jpeg)
+
+El NYT [la llamó](https://www.nytimes.com/2024/03/18/style/aspen-kemo-sabe-cowboy-hat-alix-earle.html?searchResultPosition=1) *the most famous cowboy hat in the world right now*. Kemo Sabe nació en 1990 en Aspen, y desde 2020 es liderada por Wendy Kunkle, quien comenzó como empleada en 2005 y eventualmente terminaría adquiriendo la marca.
+
+Se enfocan principalmente en sombreros personalizados, que pueden costar desde $350 hasta varios miles de dólares. También venden botas, cintos, joyería y ropa western, con pares que superan los $1,800 dólares y pulseras de $18,000 dólares.
+
+Beyoncé, Rihanna y Jeff Bezos —quien incluso llevó su sombrero al espacio, usándolo en una misión de Blue Origin— figuran entre sus clientes frecuentes. No suelen invertir en publicidad, pero una aparición en *The Real Housewives of Beverly Hills* y un TikTok de Alix Earle en 2024 les dieron visibilidad masiva.
+
+En 2025, la marca extendió su portafolio con el lanzamiento de Original Grit Tequila —blanco, reposado y añejo—, que cuesta entre $100 y $130 por botella, y que es producido junto a la familia Partida (tequileros de quinta generación en México). Kemo Sabe opera hoy seis ubicaciones, incluyendo Aspen, Vail, Jackson Hole y Park City (***Redacción Whitepaper***).
+
+---
+
+> ##### *Fe de erratas*
+>
+> *El día de ayer [publicamos](https://www.whitepaper.mx/i/196446939/recoleccion-de-residuos) que, de acuerdo con nuestras estimaciones, **Red Ambiental** debería estar generando ingresos por alrededor de $5,500 millones de pesos. Sin embargo, la empresa aclaró a **Whitepaper** que cerró 2025 con ingresos de $6,550 millones de pesos y un EBITDA de $2,040 millones.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!Bwq8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcff6f249-24d4-428e-970b-4b60f3a2b980_1080x195.png)](https://londoncg.mx/growth-stories)
+
+**London Consulting Group** es una empresa de consultoría enfocada en incrementar la rentabilidad de sus clientes.
+
+Con sólida presencia en México y presencia global en 26 países, se dedican a elevar la productividad y eficiencia operativa de organizaciones en diferentes giros.
+
+Su metodología se enfoca en la optimización de procesos y estrategias, con un alto enfoque en la gestión del cambio. Su implementación activa y efectiva de soluciones genera, en promedio, un retorno de inversión de 5 a 1.
+
+Visita su página web [www.londoncg.com](https://londoncg.mx/growth-stories) o contacta a Luis Ortiz -*CEO & Founder Mexico*- al [luis.ortiz@londoncg.mx](mailto:luis.ortiz@londoncg.mx) y comienza la transformación de tu empresa.
+
+[London Consulting Group](https://londoncg.mx/growth-stories)

@@ -1,0 +1,140 @@
+# Whitepaper, Hoy
+
+> Farmacias Guadalajara; Movistar; Conoce a Sofía Escamilla; reportes de Grupo Posadas y Cementos Chihuahua; impuestos en Europa; Palantir; Oura; Alpha Schools; Salinas Pliego vs Astor Capital
+
+**Fecha:** 2025-07-28  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-f65  
+**Word count:** 1460
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!LBpd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e16d292-aafe-4ace-8264-c5c36f3175a0_1094x201.webp)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+---
+
+#### En más ciudades
+
+En los pasados [tres meses](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../ifrsxbrl/ifrsxbrl_1481837_2025-02_1.zip#/visorXbrl), **Farmacias Guadalajara** llegó a **10 ciudades nuevas**. Abrieron 47 sucursales (frente a 39 en el segundo trimestre de 2024) y suman ya **más de 2,900 tiendas** y más de 63,000 empleados. Como referencia, **Elektra** [tiene](https://www.grupoelektra.com.mx/api/pdfEkt/4024) 70,000 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:*** *las ventas del trimestre fueron de $32,805 millones de pesos, un crecimiento de más de 11%. Las ventas mismas tiendas avanzaron 7.5%.*
+
+---
+
+#### Telecomunicaciones
+
+**Telefónica**, dueña de **Movistar**, estaría negociando con **Beyond ONE** —la operadora de **Virgin Mobile México**— para venderle su operación en el país. Según estimaciones, el negocio de Telefónica en México valdría más de $600 millones de dólares ([Reuters](https://www.reuters.com/business/media-telecom/telefonica-exclusive-talks-sell-its-mexican-unit-beyond-one-sources-say-2025-07-25/)).
+
+---
+
+#### Conoce a: Sofía Escamilla
+
+[LATAM & TR Americas Director at Charlotte Tilbury](https://www.linkedin.com/in/sofiaescamilla/)
+
+[![](https://substackcdn.com/image/fetch/$s_!Xe5U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77b03f9b-3925-4ae5-94cd-d9b235e4d4aa_1199x1069.jpeg)](https://substackcdn.com/image/fetch/$s_!Xe5U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77b03f9b-3925-4ae5-94cd-d9b235e4d4aa_1199x1069.jpeg)
+
+Sofía tiene experiencia en marcas de lujo y tecnología: trabajó en **Estée Lauder**, **Palacio de Hierro** y también en **Facebook**. El año pasado dejó su puesto como country manager de México en **The Body Shop** para convertirse en **Directora de Travel Retail para LATAM** en **Charlotte Tilbury**, con la tarea de liderar su expansión en América Latina. La marca [lanzó en México](https://www.businessoffashion.com/news/beauty/charlotte-tilbury-mexico-launch/?utm_source=linkedin&utm_medium=post&utm_campaign=beauty) hace apenas dos meses.
+
+Es ingeniera por el **Tec de Monterrey** y tiene un MBA de **The Kellogg School of Management** (***Redacción Whitepaper***).
+
+---
+
+#### Hoteles
+
+**Grupo Posadas** reportó ingresos de $2,849 millones de pesos en el trimestre —10% más que el mismo periodo del año anterior. La empresa que dirige **[José Carlos Azcárraga](https://www.linkedin.com/in/jose-carlos-azcarraga-543b933/?originalSubdomain=mx)** opera 200 hoteles y más de 30,000 cuartos entre México y República Dominicana (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: hace unos 15 años, **Grupo Posadas** decidió enfocarse en operar hoteles, deshaciéndose de la mayoría de sus propiedades y adoptando un modelo ‘asset light’. Su crecimiento ha estado muy ligado al de las FIBRAS: actualmente, cerca de la mitad de sus hoteles pertenecen a vehículos como **Fibra Hotel**, **Fibra Uno** o **Fibra Dahnos** (el resto está en manos de otros inversionistas o family offices).*
+>
+> *En el pipeline vienen 32 hoteles, hacia 2026, con una inversión proyectada de más de $1,000 millones de dólares. Representarían 5,000 cuartos adicionales.*
+>
+> *[Mauricio Elizondo](https://www.linkedin.com/in/mauricio-elizondo-318b0320/?originalSubdomain=mx), VP corporativo de desarrollo, dijo a **Whitepaper** que más del 60% de esos cuartos nuevos estarán en **destinos de playa** —los más demandados por turistas americanos. Hoy, solo el 14% de sus habitaciones están en playas.*
+
+---
+
+##### *Opinión*
+
+#### La guerra contra el fentanilo y el futuro del sistema financiero
+
+**[Juan E. Pardinas](https://www.linkedin.com/in/juan-e-pardinas-b8b56014/)** y **[Carlos Montaño](https://www.linkedin.com/in/carlos-montano-estratega-finanzas-data-science/)** explican la situación en EUA que llevó a las autoridades de ese país a tomar medidas en contra de **CI Banco**, **Intercam** y **Vector**, detallan la “**asimetría entre el pecado y la penitencia**” y sugieren **medidas preventivas** para el resto de las instituciones financieras en México.
+
+[Leer artículo](https://open.substack.com/pub/whitepaper/p/la-guerra-contra-el-fentanilo-y-el?r=67640&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Cemento
+
+**Grupo Cementos Chihuahua** mejoró 8% sus [ventas trimestrales](https://cdn.investorcloud.net/gcc/InformacionFinanciera/InformacionTrimestral/GCC-2T2025.pdf) en EUA, a $272 millones de dólares. En México, en cambio, los ingresos retrocedieron 15%, a $92 millones de dólares. En total, vendieron prácticamente lo mismo que en el segundo trimestre del año pasado (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: su CEO [Enrique Escalante](https://www.linkedin.com/in/enrique-escalante-147356a/?originalSubdomain=mx) dijo en la [llamada con analistas](https://cdn.investorcloud.net/gcc/InformacionFinanciera/InformacionTrimestral/ConferenceCall/GCC-Q2-2025-Call-Transcript-.pdf) que esperan una mejora en los márgenes cuando entre en operación su planta en Odessa, Texas.*
+
+---
+
+#### Cigarros y alcohol
+
+En **Irlanda**, una **cajetilla de cigarros** cuesta €18 euros —80% de ese precio es de los impuestos al tabaco— mientras que en **Suecia** una botella de **Absolut** tiene que pagar €14 euros de impuestos (más de la mitad de su precio final). En Europa, los impuestos al tabaco y al alcohol generan más de €100 millones de euros al año.
+
+“*Such ‘**sin taxes**’ allow European politicians to indulge in their two great passions: **nannying the public** and **filling public coffers**. Alas the two are in opposition, seeing that pricey sinning makes for fewer sinners (…) The downside of sin taxes is that government finances suffer when bad habits get kicked. Smoking and drinking have both declined markedly in recent decades*” ([The Economist](https://www.economist.com/europe/2025/07/24/cigarettes-booze-and-petrol-bankroll-europes-welfare-empire)).
+
+> ***Comentario Whitepaper**: el artículo explica que las nuevas generaciones están fumando y bebiendo menos, y eso comienza a reflejarse en los ingresos que este tipo de impuestos le generan a los gobiernos.*
+
+---
+
+#### *Breves*
+
+* **Palantir** cerró el viernes con un market cap de $375,000 millones de dólares: la empresa de data analytics estaría así **colándose al top 20** de las empresas más valiosas de EUA, incluso por encima de Home Depot, Coca-Cola o Bank of America. Su valuación se ha más que duplicado en lo que va del año —implica un múltiplo de **273 veces** ***forward earnings*** ([CNBC](https://www.cnbc.com/2025/07/25/palantir-jumps-to-all-time-high-becomes-20th-most-valuable-us-firm-.html)).
+* La ocupación en los **hoteles de Las Vegas** disminuyó 14.6% en junio, en comparación con 2024, mientras que los ingresos promedio por habitación **retrocedieron casi 20%** ([WSJ](https://www.wsj.com/business/hospitality/where-did-all-the-las-vegas-tippers-go-4c385684?mod=hp_lead_pos9)).
+* Para sacarle provecho al **escándalo**: **Astronomer**, la startup que saltó a la fama hace unos días después de que su CEO y su Chief People Officer aparecieron abrazados en las pantallas de un concierto de **Coldplay**, contrató a **Gwyneth Paltrow** como ‘vocera temporal’ y está lanzando un video promoviendo sus productos ([TechCrunch](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/)).
+* Los ingresos anuales de **Oura** aumentaron **más de 120%** el año pasado, para con ello superar **$500 millones de dólares.** *“One of the **accelerants**: more adoption by **women** after adding cycle-tracking”* ([The Information](https://www.theinformation.com/briefings/oura-revenue-doubled-last-year?rc=xfuqjy)).
+
+---
+
+#### Jets
+
+**L Catterton**, la firma de private equity ligada a **LVMH**, está liderando una ronda de inversión de $800 millones de dólares en **Flexjet**, una empresa de EUA que opera una flota de **318 aviones privados** ([CNBC](https://www.cnbc.com/2025/07/21/lvmh-l-catterton-flexjet-stake.html?__source=newsletter%7Cinsidewealth%7C20250724)).
+
+> ***Comentario Whitepaper**: es otro ejemplo de cómo las marcas de lujo están buscando participar más activamente en el mundo de las **experiencias** (buscarían potenciar colaboraciones con las **marcas en el portafolio de LVHM**).*
+
+---
+
+#### AI en el colegio
+
+**Alpha Schools** tiene actualmente sucursales en Austin, Miami y **Brownsville**, pero para el siguiente ciclo escolar, esta marca de colegios privados estará abriendo **nuevos planteles** en **más de doce ciudades** de EUA, incluyendo en Nueva York y en Orlando.
+
+Su principal diferenciador es un modelo educativo completamente basado en AI: los alumnos dedican solamente **dos horas diarias a materias ‘core’** —lectura y matemáticas, por ejemplo— y el resto del tiempo se utiliza para desarrollar habilidades prácticas, incluyendo **hablar en público**, finanzas y desarrollo de proyectos ([NY Times](https://www.nytimes.com/2025/07/27/us/politics/ai-alpha-school-austin-texas.html?smid=nytcore-ios-share&referringSource=articleShare)).
+
+> ***Comentario Whitepaper**: la **colegiatura** asciende a unos $40,000 dólares anuales y en lugar de maestros, contratan “guías” que “acompañen” a los alumnos en el proceso de aprendizaje (que sucede completamente por medio de un software diseñado a partir de AI).*
+
+---
+
+#### Salinas Pliego vs Astor Capital Fund
+
+“*It turns out **the superrich are susceptible to deception**, just like the rest of us. In a frenzied few years, Sklarov took control of three quarters of a billion dollars worth of stock from borrowers including **Salinas Pliego**, the founder of TV Azteca, one of the Spanish language world's largest television producers; and other wealthy executives in the U.S., U.K. and Asia*”.
+
+El **Wall Street Journal** publicó el fin de semana un [comprehensivo artículo](https://www.wsj.com/finance/scam-billionaire-astor-bf8ce715?mod=hp_lead_pos7) que detalla cómo fue que un ucraniano logró que Salinas Pliego contratara con su firma un crédito de $100 millones de dólares, dejándole como colateral poco más de $400 millones en acciones de **Elektra**, para después vender esas acciones y negarse a regresarle la garantía. Es un asunto que actualmente se encuentra en tribunales ([WSJ](https://www.wsj.com/finance/scam-billionaire-astor-bf8ce715?mod=hp_lead_pos7)).
+
+> ***Comentario Whitepaper**: aunque ya se ha publicado mucho sobre el tema, [este artículo](https://www.wsj.com/finance/scam-billionaire-astor-bf8ce715?mod=hp_lead_pos7) del WSJ es **el que mejor recuenta qué fue lo que sucedió**. Parece un caso digno de una serie de Netflix, en donde el ucraniano creó una serie de empresas a las que bautizó con nombres relacionados con los apellidos de familias muy reconocidas en EUA, como **Vanderbilt** y **Astor**.*
+
+---
+
+##### Presentado por:
+
+Viajar es más que llegar a un destino; es sumergirte en cada momento con la máxima comodidad, seguridad y beneficios exclusivos, por lo que con tus tarjetas HSBC Premier tu experiencia será memorable.
+
+Empieza tu viaje en el HSBC Premier | Lounge y disfruta de:
+
+* Experiencias Culinarias Exclusivas: Deleita tus sentidos con un menú especial de bocadillos y canapés, cuya selección es exclusiva del viñedo multipremiado L.A. Cetto.
+* Bar Premier: Disfruta de momentos relajantes y acogedores en nuestro Bar Premier, donde encontrarás una variedad de bebidas y aperitivos, ideal para conectar y relajarte.
+* Servicios a tu Alcance: Contamos con conexión WiFi, zona de alimentos y bebidas, sala infantil, cajeros automáticos y ejecutivos Premier a tu disposición.
+
+Te esperamos en la T2 del Aeropuerto Internacional de la Ciudad de México de 5:30 a 23:00 horas presentando una de tus tarjetas HSBC Premier.
+
+Tu mundo es Premier cuando tus viajes son de otro planeta.
+
+[![](https://substackcdn.com/image/fetch/$s_!2utQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9aeea1e-6a05-4fcd-a8f4-246c4ac07a83_626x626.jpeg)](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)
+
+[Conoce más](https://www.hsbc.com.mx/premier/?cid=AFF_HBMX_ORG_IG_0053)

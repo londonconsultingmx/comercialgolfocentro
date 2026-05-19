@@ -1,0 +1,137 @@
+# Whitepaper, Hoy
+
+> IPC; TelevisaUnivision y ViX; la ronda de TESS; Estado Natural; jugadores en Codere; movimientos clave; Bloomingdale’s; The Sphere; BYD en China; Steve Schwarzman y David Zaslav; VCs
+
+**Fecha:** 2026-03-02  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-427  
+**Word count:** 1768
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!dGer!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F271ac790-b02e-4c3d-bab1-60fb0abfa26b_2568x511.jpeg)](https://bridge.xyz/spotlight-nine-ways-companies-are-using-stablecoins-and-crypto-to-grow?utm_source=newsletter_ad&utm_medium=paid&utm_campaign=202602_nine_ways_spotlight&utm_content=whitepaper_mx_newsletter_feb26_ES_AMER_US)
+
+---
+
+#### Los primeros dos meses
+
+El **IPC** cierra febrero con una ganancia acumulada de **11.14%** desde el primero de enero. Destacan, hasta ahora, los avances de empresas como Orbia (+30.83%), Megacable (+29%), Grupo México (+28.82%), Banco del Bajío (+26%) y Sigma Foods (+22.94%). En el otro extremo, las que más retroceden son Becle (-15%), Chedraui (-10.44%), Quálitas (-10%) y GAP, que acumula una bajada de -5% (***Redacción Whitepaper***).
+
+---
+
+#### *Streaming*
+
+Los ingresos anuales de **TelevisaUnivision** disminuyeron 5%, a $4,800 millones de dólares, aunque el EBITDA mejoró 2%, a $1,600 millones.
+
+**Alfonso de Angoitia** presumió en la [llamada trimestral](https://www.marketscreener.com/news/transcript-grupo-televisa-s-a-b-q4-2025-earnings-call-feb-27-2026-ce7e5cdfdd89fe24) que **ViX** contribuyó con casi 1/4 de los ingresos totales de esa empresa y que gracias los **márgenes** con los que opera esta plataforma, representa ya **cerca de 20% del EBITDA de TelevisaUnivision**. El Co CEO de la empresa dijo también que los ingresos por **venta de publicidad en México** crecieron 6% y que este año producirán más de **300 micronovelas** —y también que algunas de ellas serán **producidas completamente por medio de AI** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** **Televisa** como tal tuvo [ingresos](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1537194_1.pdf) de $58,878 millones de pesos (vs $62,261 millones en 2024). La disminución se atribuye principalmente a la caída en los ingresos por **servicios satelitales**, que bajaron cerca de 18%*. *La empresa está **suspendiendo los dividendos** este año, anticipándose a la posibilidad de **adquirir ‘algo’** en el segmento de telecomunicaciones (desde hace algunos meses [se rumora](https://www.milenio.com/negocios/grupo-televisa-explora-oportunidades-sector-telecom) que están explorando la posibilidad de quedarse con las operaciones en México de **AT&T**).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-427?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4ODkxNTU3MiwiaWF0IjoxNzc5MjE0OTc2LCJleHAiOjE3ODE4MDY5NzYsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.oMtLLbFtJCjz9n-4U6qaluRngokafbLJOj9qSrd71yE)
+
+---
+
+#### *AI Agents*
+
+**Hi Ventures** está liderando una ronda de inversión de **$5 millones de dólares** en **TESS**, una startup basada en California pero creada por fundadores **brasileños**. TESS se especializa en **agentes autónomos de AI** que los empleados de sus clientes pueden utilizar para automatizar tareas. La empresa asegura que sus clientes reportan estar cancelando entre cuatro y cinco suscripciones de herramientas tipo SaaS, gracias a que los agentes de TESS se hacen cargo de esas funcionalidades. En la ronda también participó **DYDX Capital** (***Redacción Whitepaper***).
+
+---
+
+#### A granel
+
+La venta a granel, durante mucho tiempo fue sinónimo de mercado tradicional (y también de dulcería), se está reposicionado como una alternativa asociada a salud, calidad y menor desperdicio.
+
+En 2013, José Manuel Moller fundó **Algramo** en Chile con la idea de llevar este formato a una escala más estructurada. A pesar de alianzas con grandes retailers, sus ingresos [nunca lograron](https://www.chileus.org/algramo-cierra-sus-operaciones-tras-casi-15-anos-en-el-mercado/#:~:text=En%20una%20entrevista%20con%20Diario,experiencia%20y%20prop%C3%B3sito%20que%20nunca%E2%80%9D.)) superar $8 millones de dólares anuales y la empresa terminaría cerrando en 2025. De acuerdo con su fundador, cuando varios socios redujeron sus metas de reutilización tras la guerra en Ucrania, el modelo perdió viabilidad y la escala nunca llegó.
+
+En México, el formato sigue dominado por jugadores pequeños, muchos con apenas una o dos sucursales. Sin embargo, uno de los jugadores más grandes en este segmento es **Estado Natural**, fundada en 2017 por [Arturo Goldberg](https://www.linkedin.com/in/arturogoldberg/) y [Stephanie Katz](https://www.linkedin.com/in/stephanie-katz-36417340/). Su idea inicial era consolidar tiendas de abarrotes bajo una sola marca, pero tras analizar el mercado decidieron construir su propio concepto, enfocado en productos naturales y de buena calidad.
+
+[![](https://substackcdn.com/image/fetch/$s_!bTqj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c21f20-a189-4c83-99dc-973eb9c0019d_1660x1024.jpeg)](https://substackcdn.com/image/fetch/$s_!bTqj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c21f20-a189-4c83-99dc-973eb9c0019d_1660x1024.jpeg)
+
+En 2018 tenían dos tiendas; a finales de 2025 operaban 46. Solo de 2024 a 2025 abrieron siete sucursales nuevas (y pasaron de 15 empleados en 2018 a casi 200 en 2025).
+
+En volumen, vendieron 16 toneladas en 2018; para 2022 ya habían multiplicado esa cifra más de diez veces y en 2025 superaron las 350 toneladas en el año. El número de tickets refleja un crecimiento similar: de 24,000 en su segundo año a más de 800,000 en 2025, un alza de más de 3,300% en siete años. Su programa de lealtad, lanzado en 2020 con 40,000 clientes, hoy supera 250,000 usuarios.
+
+#### *Continuar leyendo al final del correo…*
+
+---
+
+#### Muchos jugadores
+
+En el último trimestre, **Codere** [alcanzó](https://s29.q4cdn.com/160319267/files/doc_financials/2025/q4/Codere-Online-Q4-2025-Press-Release.pdf) cerca de 100,000 jugadores activos promedio en México —40% más que en el mismo periodo del año pasado. Sus operaciones en nuestro país generaron ingresos por juego de €119 millones en 2025, un aumento de 12% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **México es el principal mercado** para **Codere**, tanto en ingresos como en usuarios, por encima de España.*
+
+---
+
+#### Movimientos clave
+
+* [Kyle Kinnard](https://www.linkedin.com/in/kyle-kinnard-33387b84/), director de operaciones de **Walmart International**, fue [nombrado](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1537193_1.pdf) presidente del consejo de administración de Walmex (***Redacción Whitepaper***).
+* [Rodrigo Garcia Jacques](https://www.linkedin.com/in/rodrigo-garcia-jacques-99b4a1a6/), quien está en Femsa desde 2012, es el nuevo CEO de **Spin**. [Juan Carlos Guillermety](https://www.linkedin.com/in/jguillermety/), quien ocupaba el cargo desde 2023, pasará a un rol de asesor (**Redacción Whitepaper**).
+* [Cristian Capellino](https://www.linkedin.com/in/cristian-capellino-mba-400a4477/) [asumirá](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1536547_1.pdf) como CFO de **Orbia** a partir del 15 de marzo. Reemplaza a [Jim Kelly](https://www.linkedin.com/in/jim-kelly-2677012/), quien estaba en la empresa desde 2021 (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!aIgB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83a8a3c0-7617-4531-b20c-d9393f8f6af7_1133x1024.jpeg)](https://substackcdn.com/image/fetch/$s_!aIgB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83a8a3c0-7617-4531-b20c-d9393f8f6af7_1133x1024.jpeg)
+
+Cristian Capellino
+
+* [Ana Clarisa Victoria Magallanes](https://www.linkedin.com/in/ana-clarisa-victoria-magallanes-04847b17/) [dejará](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1537733_1.pdf) su puesto como CFO de **Farmacias Benavides** y como consejera de la empresa. Aún no han anunciado quién tomará su lugar (***Redacción Whitepaper***).
+* **Farmacias Guadalajara** [propuso](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1537652_1.zip#/visorXbrl) a **Paula Arroyo Navarro** como integrante de su consejo de administración. El presidente del consejo es Javier Arroyo Chávez, mientras que **Javier Arroyo Navarro** es el **CEO** (***Redacción Whitepaper***).
+* [Luis Brossier](https://www.linkedin.com/in/luis-brossier/?originalSubdomain=mx) es el nuevo presidente del consejo de **Citi México**. Releva en ese cargo a [Álvaro Jaramillo](https://www.linkedin.com/in/alvaro-jaramillo-24701347/?originalSubdomain=mx) (***Redacción Whitepaper***)
+
+---
+
+#### La departamental que va bien
+
+Bloomingdale’s lleva **cinco trimestres consecutivos** reportando un **aumento en sus ingresos**, incluyendo un avance de 9% en el cuatro trimestre de 2025. Esto contrasta con los resultados de las otras grandes cadenas de tiendas departamentales en EUA.
+
+“*Bloomingdale’s is renovating stores and adding salespeople. It is **wooing brands by discounting their goods less often and less steeply**, and giving brands more control over how their merchandise is displayed within Bloomingdale’s stores, even letting them design the space. It is also **sharing more granular sales data with suppliers***” ([WSJ](https://www.wsj.com/business/retail/bloomingdales-department-stores-saks-bankruptcy-bf1801f9?mod=hp_featst_pos3)).
+
+> ***Comentario Whitepaper**: el artículo [explica](https://www.wsj.com/business/retail/bloomingdales-department-stores-saks-bankruptcy-bf1801f9?mod=hp_featst_pos3) que la cadena está creando una **extraordinaria relación con sus proveedores**, beneficiándose de la crisis que enfrentan sus competidores (**Saks**, por ejemplo, habría dañado muchísimo su relación con las marcas que venden en sus tiendas en los últimos años). Hay **32 tiendas Bloomingdale’**s en EUA*
+
+---
+
+#### *Breves*
+
+* 2025 no fue un buen año para Las Vegas —pero sí lo fue para ***The Sphere***. En el cuarto trimestre, sus ingresos se [dispararon 62%](https://investor.sphereentertainmentco.com/press-releases/news-details/2026/Sphere-Entertainment-Co--Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx), a $275 millones de dólares, y con ello su pérdida en el período se redujo a $6.5 millones (el año pasado perdieron $108 millones de dólares en el cuarto trimestre). El precio de las acciones de la empresa que está detrás de este recinto se [multiplicó por tres](https://finance.yahoo.com/quote/SPHR/) en los últimos 12 meses (***Redacción Whitepaper***).
+* Las ventas internacionales de **BYD** siguen creciendo y en febrero la armadora vendió en otros países más de 100,000 unidades (incluyendo lo que vende en México). Sin embargo, a nivel local es otra historia: en febrero **sus ventas dentro de China se desplomaron 65%**. Sería el **sexto mes consecutivo** en el que retroceden dentro de su país ([Reuters](https://www.reuters.com/business/autos-transportation/byd-february-vehicle-sales-fall-steepest-pace-since-pandemic-2026-03-01/)).
+* En el famoso tema de **Warner Bros.** y Paramount/Netflix, el gran ganador termina siendo **David Zaslav**. Paramount le va comprar al CEO de Warner las acciones que tiene en su empresa en [casi $800 millones de dólares](https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html). En todo caso, **esto es poco comparado** con lo que ganó en 2025 **Steve Schwarzman**, el CEO de **Blackstone**. Considerando su plan de compensación y los dividendos que le pagó la firma de inversión que fundó hace 40 años, se habría [llevado a su casa $1,240 millones de dólares](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-s-schwarzman-reaped-near-record-1-24-billion-in-2025?srnd=homepage-americas) (***Redacción Whitepaper***).
+
+---
+
+#### Los más grandes…se hacen más grandes
+
+Para la gran mayoría de las firmas de venture capital, los últimos años no han sido sencillos y les ha resultado muy difícil conseguir los recursos para crear sus nuevos fondos. Pero contrario a esta tendencia, algunas de las firmas más grandes —Thrive Capital, Andreessen Horowitz, Founders Fund y Coatue, por ejemplo— están siendo sumamente exitosas en términos de fundraising.
+
+“*For some VC firms, fundraises from just the past three or so years add up to **more than all the money the firms had previously raised** (…) the recent funds raised by Thrive, Andreessen Horowitz and Lightspeed amount to $34 billion, or **half of all the money U.S. VC funds raised last year**. Overall venture fundraising sank 34% in 2025 to just under $68 billion and has plummeted almost 70% from the fundraising frenzy of 2022”* ([The Information](https://www.theinformation.com/articles/thrive-andreessen-horowitz-head-fastest-growing-vc-firms?rc=xfuqjy)).
+
+---
+
+##### Presentado por:
+
+#### Las *stablecoins* ofrecen una forma más rápida y económica de hacer transacciones globales.
+
+**[Lee aquí](https://bridge.xyz/spotlight-nine-ways-companies-are-using-stablecoins-and-crypto-to-grow?utm_source=newsletter_ad&utm_medium=paid&utm_campaign=202602_nine_ways_spotlight&utm_content=whitepaper_mx_newsletter_feb26_ES_AMER_US)** cómo han ayudado a 9 empresas a aumentar sus ingresos y expandirse globalmente mientras enfrentan desafíos técnicos y regulatorios con las herramientas de **Bridge** *(una empresa de Stripe).*
+
+Empresas como **Shadeform, Cenoa** y otras han logrado crecer en nuevos mercados, reducir las comisiones por transacciones internacionales en un 80% y ampliar el acceso a servicios financieros en regiones desatendidas.
+
+**Sobre Bridge:** Bridge es la plataforma líder de infraestructura de *stablecoins* para transferencias internacionales. Las empresas utilizan **Bridge** para recibir, almacenar, convertir, emitir y utilizar *stablecoins* de manera eficiente, lo que les permite operar en nuevos mercados y mover el dinero de forma más rápida y con menores costos transfronterizos.
+
+[![](https://substackcdn.com/image/fetch/$s_!00Yx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd9cbc55-b6d3-4df6-a532-e45897c8336d_1640x1356.png)](https://bridge.xyz/spotlight-nine-ways-companies-are-using-stablecoins-and-crypto-to-grow?utm_source=newsletter_ad&utm_medium=paid&utm_campaign=202602_nine_ways_spotlight&utm_content=whitepaper_mx_newsletter_feb26_ES_AMER_US)
+
+[Leer el artículo completo](https://bridge.xyz/spotlight-nine-ways-companies-are-using-stablecoins-and-crypto-to-grow?utm_source=newsletter_ad&utm_medium=paid&utm_campaign=202602_nine_ways_spotlight&utm_content=whitepaper_mx_newsletter_feb26_ES_AMER_US)
+
+---
+
+#### *Continúa: A granel*
+
+Aunque el formato a granel ayuda a reducir residuos y permite comprar solo lo necesario —ya sea por volumen o por precio—, Arturo insiste en que el enfoque está en la calidad, lo saludable y la curaduría de la oferta. De hecho, su producto más vendido representa apenas 2.3% de las ventas totales, lo que habla de una oferta altamente pulverizada.
+
+Existen otras cadenas y tiendas similares en zonas de alto poder adquisitivo, e incluso marcas establecidas han adoptado el formato. **Mora Mora**, por ejemplo, incorporó productos a granel con la apertura de sus Mora Mora Markets en 2021. Aunque este segmento representa alrededor de 5% de sus ventas, para Daniel Navas, cofundador de Mora Mora, ofrecer esta opción les permite brindar una experiencia más completa y esperan que siga creciendo dentro de la compañía.
+
+Además, sobre el futuro de las tiendas enfocadas en productos saludables, naturales y más conscientes con el medio ambiente —los enfoques que tienen muchas compañías de venta a granel—, Daniel explica que el verdadero “premio” está en algo más grande. En México aún no existe un “natural organic grocer” de escala comparable a **Whole Foods** o **Erewhon** en EUA, en parte por falta de un ecosistema mas desarrollado. Hoy predominan compañías mas pequeñas, con propuestas de nicho, que utilizan la venta a granel como un formato más especializado dentro de su modelo (***Redaccióon Whitepaper***).

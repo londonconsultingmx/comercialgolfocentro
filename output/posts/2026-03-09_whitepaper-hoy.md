@@ -1,0 +1,125 @@
+# Whitepaper, Hoy
+
+> Serviacero; Saint-Gobain y Cemix; movimientos clave; botanas; Sephora; Zacua Ventures; los millonarios de Roblox; Apollo y el Atlético de Madrid; AI y las consultoras; de la historia -cuando llegó HEB
+
+**Fecha:** 2026-03-09  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-aee  
+**Word count:** 1269
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!td6D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07b9d4-2daa-4530-86ab-8fe598aa8444_1692x493.webp)](https://beechcraft.txtav.com/kingair?utm_source=WhitepaperMX&utm_medium=newsletter&utm_campaign=txtav-latam&utm_term=TXTAV_2025_LATAM_Whitepaper_DirectDigital_Newsletter&utm_content=kingair)
+
+---
+
+#### En EUA
+
+**Serviacero** [comenzará](https://finance.yahoo.com/news/gulf-inland-logistics-park-sells-140000932.html) a operar su primer sitio de manufactura en EUA, dentro de un parque logístico cerca de **Houston** ***(Redacción Whitepaper).***
+
+> ***Comentario Whitepaper**: la empresa es originaria de León y fue fundada en 1966. Se dedica a fabricar, procesar y vender acero a distintas industrias. Tiene además un joint venture con **Worthington Industries**, de Ohio, que [superó](https://www.whitepaper.mx/i/182214554/acero) los $500 millones en ingresos en 2025.*
+
+---
+
+#### Adhesivos, boquillas y recubrimientos
+
+*“The resounding success of the **Cemix** integration can be seen in growth of over 15% in local currencies, driving growth across the Group’s solutions in Mexico and Central America.”*
+
+En la presentación de sus resultados anuales, **Saint-Gobain** destacó los resultados de **Cemix**, la empresa de Monterrey por la que [pagaron](https://www.whitepaper.mx/i/147375585/m-and-a) $815 millones de dólares hace un par de años. En total, la francesa tuvo ingresos por €46,483 millones, de los cuales 28% fueron gracias a sus operaciones en América (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Cemix [tiene](https://www.cemix.com/oficinas-y-plantas/) 10 plantas en México, tres en Centroamérica y dos en EUA, además de nueve CEDIS en el país; **[Camille Harrissart](https://www.linkedin.com/in/camille-harrissart-29785021?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAASTBpMBpaLz5gw8tcN0aW-pXInkgYzMlTU)** está al frente como CEO de **Saint-Gobain** en América Latina. Entre su portafolio de productos se encuentran recubrimientos, concreto decorativo y premezclado e impermeabilizantes, entre otros.*
+
+---
+
+#### Movimientos clave
+
+* **[Fernando Ramírez](https://www.linkedin.com/in/fernandoeramirezmdelc/)** es el nuevo **VP y general manager de México** para **The Clorox Company**. Tiene experiencia en empresas como Bachoco y Conagra Brands (***Redacción Whitepaper***).
+* **Kueski** [nombró](https://finance.yahoo.com/news/kueski-appoints-pablo-baragiola-former-130000343.html) a **[Pablo Baragiola](https://www.linkedin.com/in/pablo-baragiola-b61b743/)** como *vice president of fraud*. Antes ha ocupado puestos similares en empresas como Robinhood, Rappi, Nubank y Capital One (***Redacción Whitepaper***).
+* **[Enrique Salgado](https://www.linkedin.com/in/enrique-salgado-liz%C3%A1rraga-62120b5b/?originalSubdomain=mx)**, quien lleva más de **20 años en Femsa**, ahora liderará la operación de **Oxxo** en Chile (***Redacción Whitepaper***).
+* **PesoRama**, una empresa canadiense que opera tiendas de dólar en México, [nombró](https://finance.yahoo.com/news/pesorama-announces-appointment-eduardo-fernandez-213000714.html) a **[Eduardo Fernández](https://www.linkedin.com/in/eduardo-fernandez-959b94107/?originalSubdomain=mx)** como CFO. Tiene experiencia en Kraft Heinz, Lingo Leasing y, más recientemente, como CFO de WeWork en el país (***Redacción Whitepaper***).
+
+---
+
+#### Botanas
+
+Según cifras del INEGI, la producción de botanas —papas fritas, cacahuates, churritos, chicharrones, etcétera— habría alcanzado un valor de producción de más de $104,000 millones de pesos durante 2025, un 0.1% menos que lo reportado en 2024.
+
+Como contexto, este monto sería un tercio de lo que vendió **OXXO** en México el año pasado y cerca de lo que venden anualmente empresas como **Lala**, **Gruma** y **Aeroméxico** (***Redacción Whitepaper**, vía **[Tukan](https://tukanmx.com/)***).
+
+> ***Comentario Whitepaper**: este valor corresponde a las ventas que generan los fabricantes al venderle a los distribuidores; por lo tanto, no representa el tamaño del mercado de botanas en México hacia el consumidor final.*
+
+[![](https://substackcdn.com/image/fetch/$s_!DbWi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd72e5fd-5703-47ae-929b-2c949e2b93e0_2868x1764.png)](https://substackcdn.com/image/fetch/$s_!DbWi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd72e5fd-5703-47ae-929b-2c949e2b93e0_2868x1764.png)
+
+---
+
+#### Maquillaje
+
+**México** es el segundo mercado con mayor nivel de crecimiento para **Sephora**. En 2026 planean sumar 13 tiendas adicionales para finalizar el año con 65 sucursales; estiman **crecer a 90 puntos de venta** rumbo a 2028 ([Expansión](https://expansion.mx/empresas/2026/03/05/jugada-sephora-mexico-por-que-abrir-13-tiendas-fisicas)).
+
+---
+
+#### VC para la industria de la construcción
+
+En lo que va de 2026, **Zacua Ventures** ha cerrado ya tres inversiones y con ello, suman **26 empresas** en su portafolio. El año pasado hicieron 18 inversiones, con un capital total invertido de **$24 millones de dólares**. El **70%** de las startups respaldadas se enfocan en productividad, con AI y Vertical SaaS liderando con **seis de las 18 inversiones**.
+
+[Mauricio Tessi Weiss](https://www.linkedin.com/in/mauricioweiss/), founding partner de Zacua, explica que este año la atención del fondo está puesta en **robótica**. Esa apuesta tomó forma en febrero con un acuerdo con Dubai Municipality para desarrollar un proyecto residencial totalmente robotizado (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: [Tessi Weiss](https://www.linkedin.com/in/mauricioweiss/?ref=whitepaper.com.mx) y [Juan Nieto](https://www.linkedin.com/in/juannietovillamandos/?ref=whitepaper.com.mx), dos de los tres fundadores de Zacua Ventures, trabajaron antes en **Cemex Ventures**.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-aee?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MDI5MzUzNCwiaWF0IjoxNzc5MjE0OTcwLCJleHAiOjE3ODE4MDY5NzAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.XxLpHaogIUQG3ZTFHoN8-IqQvs-I3hTd1MYUDHFn9iw)
+
+---
+
+#### Juegos online
+
+“***Roblox** is minting **lots of kid millionaires**. Its users are the creators and players in the rapidly growing Roblox universe, a sort of digital mall offering access to millions of games. From their phones, consoles and computers, they invent, play and chat about what they’re playing. Some games, made in a matter of weeks, earn hundreds of thousands of dollars monthly from fans buying digital items — like a cute hat or an anime greatsword. **A truly successful title can reap a teen creator enough money to never work again***”.
+
+El año pasado **Roblox** le pagó $1,500 millones de dólares a quienes desarrollaron juegos dentro de esa plataforma. Los 1,000 desarrolladores más exitosos recibieron en promedio $1.3 millones de dólares, cada uno; el ***top 10*** **ganó en promedio $39 millones** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: …y hablando de videojuegos, **Palmer Lucky** está [creando una empresa](https://www.ft.com/content/77e330a5-8e59-4a36-b08b-c18010a2383b) para desarrollar nuevas versiones de las consolas de los 90s (tipo el **Game Boy**). El fundador de **Anduril** —la empresa que actualmente se dedica al ‘armamento inteligente’— estaría ya negociando con inversionistas potenciales y buscando una [valuación de $1,000 millones de dólares](https://www.ft.com/content/77e330a5-8e59-4a36-b08b-c18010a2383b) para esta nueva startup (Anduril vale $60,000 millones).*
+
+---
+
+#### *Breves*
+
+* **Apollo** estaría adquiriendo 55% del **Atlético de Madrid** en un *deal* que valúa al equipo español en cerca de $2,900 millones de dólares ([Reuters](https://www.reuters.com/business/apollo-close-acquisition-atletico-madrid-stake-this-week-says-expansion-2026-03-09/)).
+* **OpenAI** está haciendo acuerdos con **McKinsey, Boston Consulting Group, Accenture** y **Capgemini** para promover el uso de su plataforma entre sus clientes. **Anthropic**, por su parte, hizo su propio deal con **Deloitte** (y con otras firmas de consultoría). “*Artificial intelligence initially threatened to replace consultants. Now, it is **giving them a boost**—at least for a little while (…) getting AI deeper into business operations is where the big money is*” ([WSJ](https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9?mod=hp_lead_pos7)).
+* Después de que **Anne Wojcicki** pagó $300 millones de dólares para quedarse con **23andMe**, que estaba en quiebra, **la relanzó como una** ***non profit*** ([The Information)](https://www.theinformation.com/articles/anne-wojcickis-plan-revive-23andme-rich-donors-improved-tests-maybe-maha?rc=xfuqjy).
+* El nuevo plan de compensación de **Sundar Pichai** contempla que el CEO de **Alphabet** podría [ganar casi $700 millones de dólares](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/) durante los siguientes tres años (vale la pena destacar que desde que se hizo cargo de la empresa, en 2025, su market cap se ha [multiplicado siete veces](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)). Por otro lado, el dueño del **Inter de Miami** dijo que [le está pagando a Mesi](https://www.bloomberg.com/news/articles/2026-03-06/messi-is-paid-up-to-80-million-a-year-by-inter-miami-mas-says?srnd=homepage-americas) entre $70 y $80 millones de dólares al año (***Redacción Whitepaper***).
+
+---
+
+#### Del Archivo: cuando llegó HEB
+
+[![](https://substackcdn.com/image/fetch/$s_!X55J!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98cbe02-103f-41ca-b352-e1ecc38a25dc_2250x1843.jpeg)](https://substackcdn.com/image/fetch/$s_!X55J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98cbe02-103f-41ca-b352-e1ecc38a25dc_2250x1843.jpeg)
+
+El primer **HEB** en México abrió en febrero de **1997**; poco más de un año después, el Wall Street Journal [publicó](https://www.wsj.com/articles/SB889572207681522500) que invertirían $12 millones de dólares en su segunda tienda (ajustados por inflación serían hoy unos $25 millones). Como contexto, el año pasado anunciaron que construirán su tienda más grande en Nuevo León, que implica [una inversión](https://retailers.mx/heb-construira-su-tienda-mas-grande-en-nl-inversion-de-800-mdp/) cercana a $45 millones de dólares.
+
+En ese momento, la empresa tenía **245 tiendas** y ventas por $6,000 millones de dólares. Actualmente suma **más de 455 tiendas** entre EUA y México, casi el doble que en 1997, pero sus ingresos ascienden a $50,000 millones de dólares —**ocho veces** **más**.
+
+El año pasado las tiendas que tienen en nuestro país habrían generado ventas cercanas a $66,000 millones de pesos y con ello, estarían contribuyendo con **cerca de 7% de los ingresos totales** de la empresa (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+Fabricados artesanalmente según los más altos estándares, los icónicos turbohélices King Air® ofrecen potencia, comodidad y versatilidad notables.
+
+**Una experiencia de vuelo digna de un rey**
+
+* **Potencia y versatilidad.** Reduzca la carga de trabajo del piloto con el acelerador automático IS&S ThrustSense.
+* **Cabina espaciosa y de primera calidad.** Admira la belleza y la comodidad de los diseños interiores que combinan con tu estilo.
+* **Comodidad y lujo.** Llegue a su destino sintiéndose relajado y renovado.
+
+Impulsada por el diseño y la innovación, la familia de turbohélices King Air® gobierna el cielo.
+
+[![](https://substackcdn.com/image/fetch/$s_!b3hv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbff5a3d0-06f2-480b-94e5-7a63273c7648_1500x600.jpeg)](https://beechcraft.txtav.com/kingair?utm_source=WhitepaperMX&utm_medium=newsletter&utm_campaign=txtav-latam&utm_term=TXTAV_2025_LATAM_Whitepaper_DirectDigital_Newsletter&utm_content=kingair)
+
+[Air King](https://beechcraft.txtav.com/kingair?utm_source=WhitepaperMX&utm_medium=newsletter&utm_campaign=txtav-latam&utm_term=TXTAV_2025_LATAM_Whitepaper_DirectDigital_Newsletter&utm_content=kingair)

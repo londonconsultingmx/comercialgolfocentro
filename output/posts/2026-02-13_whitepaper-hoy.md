@@ -1,0 +1,128 @@
+# Whitepaper, Hoy
+
+> Coca-Cola Zero; gasto en publicidad; crece Tim Hortons; Conoce a Paulina Campos; inversiones automotrices; Ab InBev y Corona Cero; Erewhon; camiones autónomos; family offices muy activas
+
+**Fecha:** 2026-02-13  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-738  
+**Word count:** 1173
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!kHiQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b881a62-caa6-444c-8549-484547be7752_2250x425.jpeg)](https://www.inbest.cloud/inbest-whitepaper)
+
+---
+
+#### Sin azúcar
+
+Dentro del portafolio de **Arca Continental**, **Coca-Cola Zero** en México registra un crecimiento anual compuesto de 15.8% en los últimos cinco años, impulsado por un aumento de más de 18% en el último trimestre del año pasado. En EUA, en ese mismo periodo, creció cerca de 11% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: “**Coca-Cola Zero** is probably the biggest innovation we’ve had in the portfolio and in the Coca-Cola system in recent years”, dijo el CEO de **Arca** en su [conference call](https://www.marketscreener.com/news/transcript-arca-continental-s-a-b-de-c-v-q4-2025-earnings-call-feb-12-2026-ce7e5ad3da8fff20). Además, destacó que es un producto muy rentable para la empresa.*
+
+---
+
+#### Muchos anuncios
+
+Según **[Similarweb](https://www.similarweb.com/corp/es/reports/ranking-digital-latam-q4-2025-reportes-por-pais/#mexico)**, las marcas con mayor inversión en publicidad digital —después del gobierno— fueron **Coppel**, **Liverpool** y **Caliente**. En total, durante el último trimestre del año pasado, las empresas en el país habrían invertido $1,392 millones de dólares en este rubro, una cifra similar a la de Brasil (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-738?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4NzQxNTE0NSwiaWF0IjoxNzc5MjE1NzMwLCJleHAiOjE3ODE4MDc3MzAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.0NXgz9x9tJjkKksxwxEiHFN3sjHBsLvWGw24QizVEGY)
+
+---
+
+#### Pan y café
+
+En su [llamada](https://finance.yahoo.com/quote/QSR/earnings/QSR-Q4-2025-earnings_call-394942.html) con analistas, **[Josh Kobza](https://www.linkedin.com/in/joshkobza/)**, CEO de **Restaurant Brands International**, afirmó que en México **Tim Hortons** superó $100 millones de dólares en ventas anuales.
+
+[Aquí tienen](https://timhortonsmx.com/es/sucursales.php) más de 190 sucursales, lo que implicaría ventas promedio de al menos $9 millones de pesos anuales por unidad (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: además de **Tim Hortons**, [en México](https://s26.q4cdn.com/317237604/files/doc_financials/2025/ar/RBI-Global-Store-Counts-Across-Brands-by-Market-Final.pdf) hay más de 465 **Burger King**, unos 50 **Popeyes** y poco menos de 20 **Firehouse Subs** —todas marcas de **RBI**. Hablamos con **Kobza** el año pasado, cuando visitó a los socios y al equipo de **Tim Hortons** en Monterrey. [Aquí un artículo](https://www.whitepaper.mx/p/tim-hortons-ganandose-su-propio-espacio) sobre cómo esta marca está ganándose su propio espacio mientras compite con **Starbucks**.*
+
+---
+
+#### Conoce a: Paulina Campos
+
+*[Vice President CDMX, Tec de Monterrey](https://www.linkedin.com/in/paulina-campos-a588103/)*
+
+[![](https://substackcdn.com/image/fetch/$s_!iEEE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a0756c-06ee-48e7-9c23-f524e55e1620_1286x1302.jpeg)](https://substackcdn.com/image/fetch/$s_!iEEE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a0756c-06ee-48e7-9c23-f524e55e1620_1286x1302.jpeg)
+
+**[Paulina](https://www.linkedin.com/in/paulina-campos-a588103/)** se graduó del **ITAM** e hizo una maestría en Políticas Públicas en Harvard. Inició su carrera en **S&P**; después estuvo cinco años en el **Infonavit** y otros cuatro en **Fundación Hogares**, donde fue CEO. En 2016, mientras lideraba Fundación Hogares, fue nombrada Fellow por **Ashoka**, considerada la organización internacional de emprendimiento social más grande del mundo.
+
+En 2017 comenzó a trabajar en el **Tec de Monterrey**, donde fue la [encargada](https://www.infobae.com/educacion/2024/11/06/paulina-campos-del-tec-de-monterrey-las-personas-que-siguen-en-un-aprendizaje-continuo-viven-mas-con-mas-calidad-y-motivacion/) de liderar la estrategia de reapertura a nivel nacional tras la pandemia. Desde 2024 es vicepresidenta de los campus de la Ciudad de México. Dentro del Tec también ha sido decana de la Facultad de Ciencias Sociales y Gobierno, y es profesora del Departamento de Economía desde 2018 (***Redacción Whitepaper***).
+
+---
+
+#### Inversión automotriz
+
+En 2025 [hubo](https://d25ltszcjeom5i.cloudfront.net/314615/soemddmfsl/INVERSIONES_4T_2025.pdf) un total de **204 inversiones automotrices** en México: 135 fueron nuevas inversiones, 66 ampliaciones y el resto adquisiciones o *retoolings*. El monto total habría superado $9,260 millones de dólares; más de 50% sería de origen mexicano, seguido de China con 11%, EUA con 10.5% y Corea con poco más de 7% ([Cluster Industrial](https://d25ltszcjeom5i.cloudfront.net/314615/soemddmfsl/INVERSIONES_4T_2025.pdf)).
+
+---
+
+#### Cerveza
+
+**Ab InBev** [presumió](https://cdn.builder.io/o/assets%2F2e5c7fb020194c1a8ee80f743d0b923e%2F5b144c216baa4ad098ca7d21fcde66fb?alt=media&token=b632cd1c-5f46-4c1f-9134-676a84168510&apiKey=2e5c7fb020194c1a8ee80f743d0b923e) que en 2025 ganó participación de mercado en **México**, impulsada por el crecimiento de marcas como **Modelo** y **Pacífico**. Además, aseguró ser líder en la categoría de cerveza sin alcohol con **Corona Cero** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **TaDa Delivery**, su plataforma direct to consumer, [completó](https://cdn.builder.io/o/assets%2F2e5c7fb020194c1a8ee80f743d0b923e%2F5b144c216baa4ad098ca7d21fcde66fb?alt=media&token=b632cd1c-5f46-4c1f-9134-676a84168510&apiKey=2e5c7fb020194c1a8ee80f743d0b923e) 4.2 millones de órdenes en México el año pasado (3% más que un año antes). En [marzo](https://www.whitepaper.mx/i/158047211/de-salida) del año pasado, **Glup**, el app de entrega a domicilio de cerveza de **Heineken**, anunció que dejaría de operar; tenía 400,000 usuarios registrados.*
+
+---
+
+#### Resultados de la encuesta
+
+*¿Qué empresa **no mexicana** te gustaría dirigir?*
+
+[![](https://substackcdn.com/image/fetch/$s_!aPC1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e9983b-cb8e-4d31-a11a-5961c4374dfc_2759x1488.jpeg)](https://substackcdn.com/image/fetch/$s_!aPC1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e9983b-cb8e-4d31-a11a-5961c4374dfc_2759x1488.jpeg)
+
+---
+
+#### *Breves*
+
+* **Aurora**, que se especializa en **camiones autónomos**, aseguró que a sus vehículos le toma apenas **15 horas** ir **de Fort Worth a Phoenix** (una ruta de 1,000 millas). Esto es considerablemente **menos tiempo** que el que toma recorrer esa ruta con choferes, quienes por regulación necesitan tener ***breaks***. Planean crecer la flota de 30 vehículos que tienen a **200 unidades** para finales de este año ([TechCrunch](https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=15c41e45eb51a5dfa57de7330f11ba12b01222ce)).
+* **Anthropic** [obtuvo $30,000 millones de dólares](https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/) en su más reciente ronda de inversión, y con ello la empresa de AI estaría alcanzando una valuación de **$380,000 millones** —más que lo que valen empresas como Netflix, Toyota o LVMH (***Redacción Whitepaper***).
+* Desde Los Ángeles, **[Erewhon](https://www.whitepaper.mx/p/spotlight-en-erewhon)** continúa consolidándose como el supermercado **más exclusivo** de EUA. Tienen solamente **10 tiendas**, y vienen **seis adicionales** en camino —pero todas en esa misma ciudad. “*The retailer has benefited from a shift in luxury spending away from big-ticket items such as handbags towards smaller indulgences. But much of its success is down to canny strategy*” ([The Economist](https://www.economist.com/business/2026/02/12/americas-hottest-grocery-store-is-also-its-priciest)).
+* **Citi** le mejoró el plan de compensación a **Jane Fraser**, su CEO, a **$42 millones de dólares** —apenas $1 millón menos que **Jamie Dimon**. El precio de las acciones del banco **aumentó 66%** en 2025, conforme el plan de reestructuración (y de **desinversiones**) de **Fraser** ha ido avanzado ([Financial Times](https://www.ft.com/content/02c7a976-0289-4ffe-88b5-b40ff2b5dd5f)).
+
+---
+
+#### MexMoves: *Proof of Human in an AI world, Cash-to-Digital Payments, Crime Hits Investment*
+
+**[Martin Mazza](https://www.linkedin.com/in/martin-mazza-69160423/)**, de **Tools for Humanity** —la empresa de Sam Altman que está detrás del proyecto **World**— nos explica por qué México y América Latina son mercados clave para las herramientas de *Proof of Human* en un mundo dominado por la inteligencia artificial. También conversamos con **[Tomás Mindlin](https://www.linkedin.com/in/tomas-mindlin/)**, CEO y cofundador de **Tapi**, tras la Serie B de US$27 millones. Como siempre, Eduardo y Damián arrancan con su lectura de algunas de las principales historias de negocios de la semana: los secuestros y asesinatos vinculados a Vizsla en Sinaloa y el interés de OEMs chinos en México, entre otros temas.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/55-proof-of-human-in-an-ai-world-cash-to/id1792066671?i=1000749507049), [Spotify](https://open.spotify.com/episode/3mpmTxLiaTI9OqwCNrGzrg?si=7133256776a04a68) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+---
+
+#### Family offices
+
+**CNBC** hizo un *ranking* de f**amily offices** a partir del número de **transacciones** públicas que hicieron en 2025. En primer lugar aparece el family office de **Eric Schmidt**, con 15 *deals*. Le siguen el de **Jeff Bezos**, luego el de **Laurene Powell Jobs**, el de **Jim Pallotta** y en quinto lugar el family office de **Lukas Walton** (11 inversiones el año pasado).
+
+“*For 2025, the dominant investment theme was **AI**. In a recent survey from JPMorgan, 65% of family offices cited AI as their top investment priority, far outpacing any other sector. AI, tech and software (comprising the broader AI trade) accounted for **more than a third of all deals disclosed by family offices** on CNBC’s list. Healthcare was the next largest sector, followed by biotech*” ([CNBC](https://link.cnbc.com/public/44072242)).
+
+---
+
+##### Presentado por:
+
+#### ¿Tu gasto en cloud está fuera de control?
+
+¿Sientes que tu factura de cloud no deja de subir… y nadie sabe exactamente por qué?
+
+El crecimiento del cloud trajo agilidad y escalabilidad, pero también un costo oculto: estudios revelan que el **94% de las empresas** gastan más de lo necesario debido a recursos infrautilizados, configuraciones ineficientes y servicios sin supervisión.
+
+En **[iNBest](https://www.inbest.cloud/inbest-whitepaper)** transformamos ese gasto desbordado en **eficiencia operativa** mediante:
+
+* Visibilidad financiera en tiempo real
+* Monitoreo inteligente
+* Automatización para eliminar desperdicios
+
+El resultado: recuperas presupuesto y lo inviertes en innovación, no en facturas infladas.
+
+**Reduce hasta un 30% tu gasto en cloud desde hoy.**
+
+[![](https://substackcdn.com/image/fetch/$s_!drqb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb74ba86a-276a-4b7b-abb3-c5c2331bea75_1100x501.jpeg)](https://www.inbest.cloud/inbest-whitepaper)
+
+[Aceptar oferta](https://www.inbest.cloud/inbest-whitepaper)

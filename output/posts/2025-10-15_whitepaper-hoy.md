@@ -1,0 +1,121 @@
+# Whitepaper, Hoy
+
+> Resultados de América Móvil; tiendas de Holcim; Deacero; dmX; Acapella; paquete económico vs PyMEs online; parques industriales; REI; Walmart y OpenAI; Netflix y Spotify; spotlight en Don Quijote
+
+**Fecha:** 2025-10-15  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-370  
+**Word count:** 1255
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!OONV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34f93b80-bf39-45f6-a3fd-93cd6d0935d5_1590x279.jpeg)](https://www.avocadoblock.com/)
+
+---
+
+#### Regresan los reportes
+
+Mejores ingresos y una importante **reducción** en su costo integral de financiamiento (en parte derivada de tipo de cambio) impulsaron los [resultados de](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1498878_1.pdf) **[América Móvil](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1498878_1.pdf)**: la **utilidad neta** se disparó de $6,427 millones de pesos en el tercer trimestre de 2024, a $22,700 millones en los últimos tres meses (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: reportan haber agregado poco más de **tres millones de clientes de postpago** en el período, de los cuales **Brasil** contribuyó con la mitad (y México con ‘apenas’ 98,000). En todo caso, tienen en nuestro país 84.3 millones de clientes (15.8 millones en planes de postpago y 68.5 millones en prepago), así como 22.5 millones de accesos a líneas fijas —e ingresos trimestrales de $85,500 millones de pesos.*
+
+---
+
+#### Material para construcción
+
+**Holcim** busca crecer la red de 200 sucursales de **Disensa** que tienen actualmente en México, a unos **[2,500 puntos de venta](https://www.holcim.com.mx/holcim-mexico-anuncia-la-expansion-de-su-red-disensa-para-impulsar-la-autoconstruccion-sostenible)** para 2030. Para ello planean inversiones en nuestro país de unos 20 millones de francos suizos —poco más de **$460 millones de pesos**. Enfocadas en autoconstrucción y pequeños contratistas, estas tiendas operan a través de franquiciatarios (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: hoy menos de 10% de las tiendas de Disensa en América Latina están en México; su plan implicaría que ese porcentaje supere el 50%. En [2024](https://www.holcim.com/investors/publications/annual-report-2024) **Holcim** vendió cerca de $37,000 millones de pesos en nuestro país (alrededor de $610,000 millones a nivel global). Su CEO en México es **[Christian Dedeu](https://www.linkedin.com/in/christiandedeu/)**; [detrás](https://www.holcim.com.mx/estructura-organizacional) de **Disensa** está **Rafael Ayala**.*
+
+---
+
+#### Crédito
+
+Al cierre del tercer trimestre, la utilidad operativa acumulada de **dmX** supera $1,000 millones de pesos —**41% más que en 2024**. De acuerdo con su CEO, el *deployment* de algoritmos de propensión y **agentes de AI** está ayudándoles a mejorar de manera significativa la productividad de sus **más de 7,000 asesores financieros** y estaría incluso reflejándose ya en su capacidad de **análisis de riesgo** (***Redacción Whitepaper***).
+
+---
+
+#### Moda mexicana
+
+**[Hugo Martínez](https://www.linkedin.com/in/hugomtze/)** y **[Ricardo Coronado](https://www.linkedin.com/in/ricardocoronado/es/?originalSubdomain=mx)** fundaron **Acapella** en 2013, en ese momento con *t-shirts* gráficas que se volvieron especialmente populares entre jóvenes de entre 15 y 20 años. Con el paso del tiempo, sus productos han venido evolucionando.
+
+*“Hacemos ropa para el diario que puedas usar en la noche y el fin de semana”*, dice Hugo Martínez. *“Ya como una marca más madura, no queremos ser fast fashion ni una marca de moda pasajera”*, añade.
+
+Hoy tienen 13 tiendas físicas y un e-commerce que representa 17% de sus ingresos. Aunque aún venden *graphic t-shirts*, lo hacen a través de otra marca: *Custom* by Acapella, con la que han colaborado con **Topo Chico**, **Petro Seven** o **Tigres**.
+
+El crecimiento en ventas mismas tiendas fue de 60% durante el último año; hasta ahora acumulan más de 200,000 órdenes desde que arrancaron. Por lo pronto, añade, buscarán crecer a **50 tiendas físicas** (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-370?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NjA2NzY0NywiaWF0IjoxNzc5MjE1ODQ3LCJleHAiOjE3ODE4MDc4NDcsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.SaVqxD8jh3zH65VnQBfJGrUqdDZ9UG2IcqptIljw3-s)
+
+---
+
+#### Paquete económico
+
+**Mercado Libre** se pronunció **en contra** del incremento a las tasas de retención para PyMEs que venden en línea, propuesto por Hacienda en el **Paquete Económico 2026**. La medida contempla aumentos en las retenciones sobre ingresos brutos e ISR. La empresa advirtió que esto *“representa una carga desproporcionada para emprendedores que operan con márgenes reducidos, afectando su capacidad para invertir, sostener empleos y crecer”* (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: apenas el mes pasado, MeLi publicó un reporte señalando que en 2024, las PyMEs representaron 45% de los vendedores en su marketplace y que para muchas de ellas, esa es su principal fuente de ingresos. En su comunicado, la empresa también advierte que la medida **afectaría la liquidez de estos negocios**. Considerando que una parte importante de esas PyMEs usa soluciones de pago o financiamiento ofrecidas por MeLi, un golpe a sus finanzas sin duda preocupa a la empresa argentina.*
+
+---
+
+#### Parques
+
+Según datos de **[AMPIP](https://www.ampip.org.mx/storage/es/AMPIP%20Parques%20industriales%20y%20manufactura.pdf)**, hay 477 parques industriales en operación, distribuidos en 28 estados, además de unos **100 proyectos en desarrollo**. Del total de empresas en estos parques, 44% [serían](https://mexicoindustry.com/noticia/mexico-suma-103-nuevos-parques-industriales-y-fortalece-su-atraccion-de-inversiones) de **EUA**, 29% mexicanas y el resto de países como Japón, Corea, Alemania o Italia (***Redacción Whitepaper***)*.*
+
+---
+
+#### En Sonora
+
+Además de la planta de reciclaje que empezaron a construir [hace unas semanas](https://www.whitepaper.mx/p/whitepaper-hoy-7c7?open=false#%C2%A7en-ciudad-juarez) en Ciudad Juárez —en la que invertirán $250 millones de pesos— **Deacero** [destinará](https://clusterindustrial.com.mx/deacero-proyecta-planta-de-reciclaje-en-sonora-con-inversion-de-119-mdp/) otros $119 millones para una nueva planta en Sonora (***Redacción Whitepaper***).
+
+---
+
+[![](https://substackcdn.com/image/fetch/$s_!_sli!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd53fdf85-914e-42a5-831c-90d8fa9d3313_2250x2648.jpeg)](https://join.whitepaper.mx/wollef)
+
+[Comprar boletos](https://join.whitepaper.mx/wollef)
+
+---
+
+#### Retrocediendo
+
+Algunos de los retailers especializados en ropa y productos de ***outdoors***, incluyendo a **Orvis**, **Eddie Bauer** y **REI,** están **cerrando tiendas**. Ésta última anunció esta semana que planean cerrar tres sucursales muy grandes, ubicadas en Nueva York, New Jersey y Boston.
+
+“*The planned closures come amid **declining demand for outdoor goods in the wake of the pandemic**, along with **weakening** discretionary spending trends among consumers*” ([CoStar](https://expansion.mx/empresas/2025/10/15/quienes-son-los-10-empresarios-mas-importantes-mexico)).
+
+---
+
+#### Alianzas importantes
+
+* En EUA, los usuarios de **ChatGPT** pronto podrán **comprar** productos de **Walmart** directamente desde la plataforma. Estarán disponibles prácticamente todos los productos, salvo comida fresca. “*Walmart is making a big concession: By allowing the transaction to happen within ChatGPT, **the retailer is sharing access to purchase data** (…) OpenAI will now have access to that data for Walmart’s sales on ChatGPT*” ([WSJ](https://www.wsj.com/business/retail/chatgpt-walmart-shopping-3e411e83?mod=hp_lista_pos2)).
+* **Spotify** está aliándose con **Netflix** para llevar versiones en video de sus podcasts a la plataforma de streaming. Los 16 shows incluidos en esta primera etapa son producidos por Spotify Studios y The Ringer. El acuerdo **prohíbe** que estos programas se transmitan en **YouTube**, su principal competidor ([NY Times](https://www.nytimes.com/2025/10/14/business/media/netflix-spotify-podcast-deal.html)).
+* **WPP** hizo un acuerdo con **Google**: la gigantesca agencia se comprometió a comprarles $400 millones de dólares de servicios, sobre todo de Google AI, y juntas a ‘co-desarrollar’ productos para sus propios clientes ([The Information](https://www.theinformation.com/briefings/ad-agency-wpp-commits-spend-400-million-google-ai?rc=xfuqjy)).
+
+---
+
+#### Spotlight en: el Don Quijote de Japón
+
+[![](https://substackcdn.com/image/fetch/$s_!UWAo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F770df934-91b6-43d8-963c-a1e0b42f9415_1282x628.jpeg)](https://substackcdn.com/image/fetch/$s_!UWAo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F770df934-91b6-43d8-963c-a1e0b42f9415_1282x628.jpeg)
+
+Con apenas 24 años, **Yusaku Yasuda** está por heredar la mayoría de las acciones de **PPIH**, un grupo japonés especializado en tiendas de descuento que venden desde maquillaje y relojes hasta comida, electrónicos y ropa. La empresa fue [fundada](https://ppih.co.jp/en/corp/founder/) en 1978 por **Takao Yasuda**.
+
+**PPIH** [opera](https://ppih.co.jp/en/search/) cerca de 780 tiendas, de las cuales más de 650 están en Japón, unas 80 en EUA (sobre todo en California) y el resto en otros países de Asia. Son dueños de marcas como **Don Don Donki** y **Don Quijote**, inspiradas en la novela de Cervantes. Según [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-21/don-don-donki-s-gen-z-heir-in-focus-as-21-billion-empire-s-succession-looms), sus tiendas son populares entre turistas; entrar a una sucursal es como una especie de *“treasure hunt”*.
+
+El grupo [vendió](https://ppih.co.jp/en/ir/pdf/2025/FY2025_full_en.pdf) cerca de $15,000 millones de dólares el año pasado —equivalente a **Chedraui**— y estaría [valuado](https://www.bloomberg.com/news/articles/2025-09-21/don-don-donki-s-gen-z-heir-in-focus-as-21-billion-empire-s-succession-looms) en $21,000 millones de dólares. Hoy ocupa el sexto lugar en el ranking [Japan’s 50 Richest](https://www.forbes.com/lists/japan-billionaires/) de **Forbes** (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!LFJA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecb494ce-8f4c-4d8e-99b7-3a7e47db42f1_1590x279.jpeg)](https://www.avocadoblock.com/)
+
+La innovación no distingue industrias: hoy cualquier empresa puede dar un salto hacia el futuro integrando **Blockchain**, **Web3** e **Inteligencia Artificial**. En [Avocado Blockchain Services](https://www.avocadoblock.com/) acompañamos a las organizaciones en el diseño y desarrollo de soluciones tecnológicas que fortalecen procesos, mejoran la conexión con sus audiencias y abren nuevas oportunidades de negocio. Nuestro enfoque combina estrategia, creatividad y tecnología para que los proyectos no se queden en ideas, sino que se traduzcan en resultados medibles. Desde programas de fidelidad digitales y experiencias gamificadas, hasta plataformas de análisis en tiempo real, construimos herramientas que generan comunidades más activas y negocios más inteligentes. La innovación ya no es opcional: es el motor que define la competitividad en el presente y el futuro.
+
+[Agenda una llamada](https://www.avocadoblock.com/contact-us) y comienza a construir el futuro de tu negocio.
+
+[Agenda una llamada](https://www.avocadoblock.com/contact-us)

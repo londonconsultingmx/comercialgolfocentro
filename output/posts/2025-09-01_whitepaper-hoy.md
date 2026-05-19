@@ -1,0 +1,151 @@
+# Whitepaper, Hoy
+
+> Turistas canadienses; exportación de computadoras; La Moderna; conoce a Delice Cruz; AI en Taco Bell; Builder.ai; acciones del S&P 500; Walgreens; Cadillac eléctricos; apuestas en la NFL; podcasts
+
+**Fecha:** 2025-09-01  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-c0b  
+**Word count:** 1414
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!3nDv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b9fe423-9e27-4586-9f58-2489e60461b0_1080x218.png)](mailto:info@alemarine.mx)
+
+---
+
+#### Los canadienses
+
+De acuerdo con **Airbnb**, en la primera mitad del año **México creció “a doble dígito”** como destino para **turistas de Canadá**. A los nacionales de ese país les interesan sobre todo destinos como **Los Cabos** y **Bahía de Banderas** ([MarketScreener](https://www.marketscreener.com/news/airbnb-domestic-travel-continued-to-boom-as-canadians-ventured-further-abroad-ce7c50d9da80ff22)).
+
+> ***Comentario Whitepaper**: este es un tema interesante. Los canadienses dejaron de viajar a EUA, como una especie de **boicot a Trump**. Tan solo en junio, por ejemplo, el número de autos que cruzaron en la frontera con ese país [se desplomó más de 30%](https://www.economist.com/graphic-detail/2025/08/26/have-foreign-tourists-really-avoided-america-this-year). Para **México**, representa una buena oportunidad para captar más turistas.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-c0b?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MjEwNzIxMiwiaWF0IjoxNzc5MjE1ODk0LCJleHAiOjE3ODE4MDc4OTQsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ._JHCKLgKBhLV9lpQFCRqcrmPiS8plPH5gLQkfzb4dxQ)
+
+---
+
+#### Exportación
+
+Según datos de **[Banco de México](https://www.banxico.org.mx/CuboComercioExterior/ValorDolares/seriesproducto?utm_source=chatgpt.com)**, en junio las exportaciones a EUA de la categoría que incluye CPUs y computadoras de escritorio —sin laptops— superaron incluso a las de automóviles de pasajeros. Este rubro sumó poco más de $4,600 millones de dólares, mientras que los envíos de autos estuvieron apenas arriba de $4,270 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: empresas como **Dell**, **HP** y **Lenovo** tienen plantas en México, además de fabricantes de componentes como **Jabil**, **Flex**, **Samina**, **Plexus** y **Foxconn**.*
+
+[![](https://substackcdn.com/image/fetch/$s_!_1_E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78d19376-c578-4a76-a8d0-12b19bf78b1f_2817x2425.jpeg)](https://substackcdn.com/image/fetch/$s_!_1_E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78d19376-c578-4a76-a8d0-12b19bf78b1f_2817x2425.jpeg)
+
+---
+
+#### Cargadores
+
+**Ampure**, una empresa que fabrica cargadores de autos eléctricos para empresas como **Ford**, **Audi**, **Mercedes** y **Toyota**, invirtió $4 millones de dólares en una nueva línea de producción para la planta que tienen en Guanajuato (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: es parte de [Transom Capital Group](https://transomcap.com/portfolio/), que el año pasado [adquirió](https://transomcap.com/news/ampure-formerly-webasto-charging-systems-and-transom-capital-group-pioneering-the-future-of-electric-vehicle-and-industrial-charging/) **Webasto Charging Solutions** y le cambió el nombre. En 2023, **Webasto** [había invertido](https://www.somosindustria.com/articulo/inaugura-webasto-nueva-planta/) más de $50 millones de dólares en Guanajuato.*
+
+---
+
+#### Pasta
+
+[![](https://substackcdn.com/image/fetch/$s_!-dP_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb268b656-af21-4b94-b280-ee90c0e94407_1926x479.jpeg)](https://substackcdn.com/image/fetch/$s_!-dP_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb268b656-af21-4b94-b280-ee90c0e94407_1926x479.jpeg)
+
+**La Moderna** cumple 105 años de operación y de acuerdo con **Expansión**, sus ventas en 2024 superaron **$18,000 millones de pesos**. Iniciaron fabricando pastas, pero con la compra de un molino en Toluca en la década de los 70s se expandieron a galletas y harinas; hoy producen también sopas, salsas y *pellets*.
+
+Desde 1990 tienen presencia en EUA, cuando crearon Interamerican Foods Corporation. Sus primeras ventas en ese país: pastas a granel para el sistema penitenciario. En 2018 inauguraron una planta en Cleburne, Texas —el estadio de ligas menores de esa ciudad lleva hoy el nombre de *La Moderna Field*.
+
+Hicieron un IPO en 1987, para deslistarse después, en 2010. Actualmente casi todas las acciones pertenecen a los descendientes de Eduardo Monroy Cárdenas, uno de sus fundadores (***Redacción Whitepaper***).
+
+---
+
+#### Carne de Brasil
+
+Entre el 1ero y el 25 de agosto, México [importó](https://www.marketscreener.com/news/mexico-overtakes-us-as-second-largest-destination-for-brazilian-beef-in-august-abiec-says-ce7c50ded189f222?utm_source=chatgpt.com) $58.8 millones de dólares en carne de Brasil, y se convierte así en el segundo mayor destino para la carne brasileña, solo detrás de China (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: esto está sucediendo debido a que EUA le impuso aranceles de 50%.*
+
+---
+
+#### Conoce a: Delice Cruz
+
+[Directora de Finanzas y Estrategia CFSO](https://www.linkedin.com/in/delicecruz/?originalSubdomain=mx)
+
+[![](https://substackcdn.com/image/fetch/$s_!ycuP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f421bc0-9a00-4570-b1b3-8d1baf838d87_1070x987.jpeg)](https://substackcdn.com/image/fetch/$s_!ycuP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f421bc0-9a00-4570-b1b3-8d1baf838d87_1070x987.jpeg)
+
+**Delice** es Chief Financial & Strategy Officer en **Telefónica** en México desde 2021. Entró a la empresa en 2003, después de seis años en **PwC**. En más de 25 años de carrera ha ocupado roles en finanzas, estrategia, marketing y áreas comerciales.
+
+Es Licenciada en Contaduría Pública por la **Universidad La Salle**, tiene un MBA y un diploma del EGADE sobre el rol de las mujeres en consejos de administración. Es miembro de The 1% Finance Leaders (***Redacción Whitepaper***).
+
+---
+
+#### Opinión
+
+*En junio pasado el Departamento del Tesoro anunció acciones en contra de tres instituciones financieras mexicanas: CIBanco, Intercam y Vector. Esta **no es la primera vez** que el gobierno de EUA actúa en contra de instituciones financieras extranjeras, **por la “preocupación” de cooperar con organizaciones terroristas*** —un artículo de **[Estefania Medina](https://www.linkedin.com/in/estefania-medina-ruvalcaba-991b5b166/)** y **[Juan E Pardinas](https://www.linkedin.com/in/juan-e-pardinas-b8b56014/)**.
+
+[Pena capital, sin juicio, ni defensa](https://www.whitepaper.mx/p/las-leyes-contra-el-terrorismo-en)
+
+---
+
+#### AI
+
+* Del total de ingresos que registró **Nvidia** en el segundo trimestre, **39% vino de solamente dos clientes**. “*The concentration of revenue among such a small group of customers does present a significant risk*” ([Fortune](https://fortune.com/2025/08/29/nvidia-revenue-anonymous-customers-chips-ai-china/)).
+* En medio del hype por las empresas de AI, el caso de **Builder.ai** ha pasado casi desapercibido. La startup alcanzó el año pasado una **valuación de $1,500 millones de dólares**, pero apenas unos meses después tendría que **enfrentar la quiebra** y un proceso de liquidación. Resultó que su CEO estaba **inflando los números**; la empresa está siendo además acusada de haber estado **simulando** una plataforma de inteligencia artificial, que en realidad consistía en un equipo de 700 programadores en call centers de India. “*At Builder, **‘A.I.’ meant ‘Actually, Indians**’*” ([NY Times](https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html)).
+* **Taco Bell** implementó una solución de AI para atender a los clientes de ***drive thru*** en más de 500 de sus restaurantes. Su *Chief Digital and Technology Officer* reconoció que **la experiencia ha sido “mixta”** y que están impulsando a los managers para que ellos decidan cuándo sí prefieren activar el AI, o mejor tener a **personas** tomando las órdenes ([TechCrunch](https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/)).
+
+---
+
+#### Más caras que en la era de las punto-com
+
+Las 10 empresas más grandes en el S&P 500 representan **casi 40% del valor total** del índice; **nueve** de éstas tienen un market cap de **más de $1 trillón de dólares**.
+
+“*Investors are now paying **more than ever** for each dollar of revenue the index’s members produce. The benchmark traded at 3.23 times sales on Thursday, a **record high***” ([WSJ](https://www.wsj.com/finance/stocks/stock-market-valuation-highs-ac291e72?mod=hp_lead_pos1)).
+
+---
+
+#### ¿Y Benavides?
+
+Ahora que **Sycamore Partners** ya [tomó el control](https://www.sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-walgreens-boots-alliance) de **Walgreens**, surge la duda de qué querrán hacer con **Farmacias Benavides**. Por lo pronto, la firma de private equity ya puso un nuevo CEO y dijo que el negocio adquirido será [administrado](https://www.bloomberg.com/news/articles/2025-08-28/walgreens-replaces-ceo-and-splits-up-after-sycamore-acquisition) como cinco empresas independientes (sin especificar dentro de cuál de esas queda Benavides).
+
+Como contexto, en 2024 las farmacias que tiene **Walgreens** en EUA le [generaron](https://investor.walgreensbootsalliance.com/static-files/6ff421c2-4c3c-4da6-bc84-158a9be81e61) ingresos de $116,000 millones de dólares, mientras que **Benavides** [reportó](https://assets.ctfassets.net/pcz6cf5u0j0b/huD9o6mTWoAZjBLWe8LxH/ce26112808fac4e9700ef97a9b9850d3/Press_Release_Q4_2024.pdf) haber vendido el equivalente de unos $950 millones de dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Benavides es una marca muy fuerte en este país, con más de 1,300 puntos de venta.*
+
+---
+
+#### Breves
+
+* Casi **25%** de los vehículos nuevos que vende **Cadillac** en EUA son **eléctricos**. Mientras que **Tesla retrocedió** 11% sus ventas en los primeros 7 meses del año, Cadillac duplicó el número de eléctricos que vendió en ese país y en esta categoría **está por encima** de BMW, Mercedes-Benz, Audi y Porsche ([NY Times](https://www.nytimes.com/2025/08/29/business/cadillac-electric-vehicles-trump.html)).
+* **Freddy’s**, una cadena de unos **600 restaurantes** de **hamburguesas** de EUA que fue fundada en 2022, está siendo adquirida por una firma de private equity en un ***deal*** cercano a **$700 millones de dólares**. En 2024 tuvieron ingresos totales de casi $1,000 millones; es **la cadena #14 en ese país** ([QSR](https://www.qsrmagazine.com/story/report-freddys-to-be-sold-for-700-million/)).
+* Tan solo dentro de EUA, la siguiente temporada de la **NFL** estaría motivando más de $30,000 millones de dólares de **apuestas**. Los jugadores más grandes en este espacio son **FanDuel** y **DraftKings**, aunque enfrentan cada vez más competencia por parte de empresas como BetMGM y Caesars ([CNBC](https://www.cnbc.com/2025/08/29/american-sports-betting-2025-nfl-season-football.html)).
+
+---
+
+#### Podcasts
+
+“*Established media companies **watched in awe** as independent podcasters drew star guests and **drove the news cycle** during the 2024 presidential election. And with artificial intelligence tools changing the way people consume information and **audiences hungry for authenticity**, outletsfrom Fox to the New York Timesare eager to create content that can’t easily be replicated by a chatbot. For many, that means building out rosters of distinctive human voices*”.
+
+Las grandes empresas de medios en EUA están apresurándose a cerrar acuerdos con ***podcasters***: algunos ejemplos reciente son el caso de **Fox**, que llegó a un acuerdo de licenciamiento con un podcast de temas políticos llamado *Ruthless*, o **The Athletic**, que negoció un pago de “siete dígitos” para quedarse con los derechos de *Pablo Torre Finds Out* ([WSJ](https://www.wsj.com/business/media/podcast-creators-goldrush-b948a175?mod=lead_feature_below_a_pos1)).
+
+> ***Comentario Whitepaper**: el consumo de podcasts entre personas de más de 13 años [pasó](https://www.wsj.com/business/media/podcast-creators-goldrush-b948a175?mod=lead_feature_below_a_pos1) de 170 millones de horas en 2015, a un estimado de cerca de 773 millones de horas en 2025 (en EUA).*
+
+---
+
+##### Presentado por:
+
+Navega el lujo en Puerto Vallarta en el Regina 470.
+
+**ALE MARINE** trae a Puerto Vallarta el impresionante **Regina 470**, un yate de fabricación italiana (FIM) diseñado para el máximo disfrute. Con su innovadora terraza desplegable en la popa, este yate te ofrece el espacio perfecto para relajarte y vivir una experiencia única en el mar.
+
+Con el programa **Share at Sea**, la propiedad de un yate de lujo está ahora a tu alcance.
+
+Navega con libertad, sin preocupaciones. Vive la experiencia.
+
+¡Último espacio disponible!
+
+Descubre el lujo de compartir.
+
+Más información en **[info@alemarine.mx](mailto:info@alemarine.mx)**
+
+[Ale Marine](mailto:info@alemarine.mx)

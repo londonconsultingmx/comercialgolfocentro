@@ -1,0 +1,130 @@
+# Whitepaper, Hoy
+
+> Inversiones de farmacéuticas; AT&T México; movimientos clave; Finsus y Anticipa; TelevisaUnivision; AI y la creación de 'billonarios'; el segmento affluent en el turismo; trailer de The Paper
+
+**Fecha:** 2025-08-08  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-33d  
+**Word count:** 1325
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!EVDU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83c9e433-15af-4bd9-9e04-35362fda68ba_600x154.jpeg)](https://eaglepropertycapital.com/)
+
+---
+
+#### Farmacéuticas
+
+Durante [la mañanera](https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-agosto-de-2025?idiom=es) se anunciaron cuatro inversiones de empresas farmacéuticas, por un total de $12,000 millones de pesos.
+
+* **Bayer**, empresa alemana con más de 100 años en México, invertirá $3,000 millones de pesos en los próximos cinco años para expandir la capacidad de su planta en Orizaba y agregar líneas de producción en el Edomex.
+* **Carnot Laboratorios**, mexicana, destinará $3,500 millones en cinco años para construir una planta en Hidalgo.
+* **Boehringer Ingelheim**, también de Alemania, haría una inversión de $3,500 millones para hacer de su planta de tabletas en Xochimilco la más grande de la empresa.
+* **AstraZeneca**, de UK, invertirá $2,000 millones en dos años para investigación clínica, ampliar su Centro de Innovación y Tecnología y expandir su manufactura en el Edomex (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en [julio](https://www.whitepaper.mx/p/whitepaper-hoy-91f?utm_source=post-email-title&publication_id=57583&post_id=167203716&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true), ya se había anunciado otra ronda de inversiones farmacéuticas en el país: **Laboratorios Kener**, con $5,180 millones para triplicar la capacidad de su planta hacia 2027; **Genbio**, especializada en derivados de la sangre, con $4,000 millones para una planta de fraccionamiento de plasma; **Alpharma BioGenTec**, con $800 millones para infraestructura y desarrollo de medicamentos; y **Neolsym**, con $500 millones para producir materias primas e insumos.*
+
+---
+
+#### ¿En venta?
+
+De acuerdo con un nota publicada ayer en **Bloomberg**, **AT&T** estaría **explorando** la posibilidad de **vender su negocio en México**; buscarían a cambio recibir “más de $2,000 millones de dólares”. AT&T tiene en nuestro país una participación cercana a 18%, mientras que Telcel controla 64% ([Bloomberg](https://www.bloomberg.com/news/articles/2025-08-07/at-t-said-to-seek-more-than-2-billion-for-mexico-mobile-unit)).
+
+> ***Comentario Whitepaper**: ojo que el **P/E ratio** de **AT&T** es como de **16x** (tiene un market cap de $200,000 millones de dólares), mientras que **América Móvil** cotiza a un P/E de **20x** (market cap de más de $57,000 millones y por cierto, ayer la **acción** subió más de 5%). En México, AT&T ha venido creciendo significativamente en los últimos cinco años: en 2024 alcanzó ingresos de $4,232 millones de dólares y un EBITDA de casi $700 millones.*
+>
+> [![](https://substackcdn.com/image/fetch/$s_!OGB7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca48b573-cd7b-4581-83bb-19dc99f349b6_1281x1497.heic)](https://substackcdn.com/image/fetch/$s_!OGB7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca48b573-cd7b-4581-83bb-19dc99f349b6_1281x1497.heic)
+>
+> [![](https://substackcdn.com/image/fetch/$s_!1r_x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92468950-7f43-44b1-98db-57c8f1003e23_1281x1508.heic)](https://substackcdn.com/image/fetch/$s_!1r_x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92468950-7f43-44b1-98db-57c8f1003e23_1281x1508.heic)
+
+---
+
+#### Movimientos clave
+
+* **[Ramón Leal](https://www.linkedin.com/in/ramon-leal-investment/)** es el nuevo CEO de **Empresas Aries**. Ha ocupado posiciones financieras en **Pulsar**, **Vitro**, **Alfa** y **Grupo México**. Su último rol fue como *managing partner* en **Eztellum**, una firma boutique especializada en cumplimiento ESG (***Redacción Whitepaper***).
+* **[John Farrell](https://www.linkedin.com/in/jfarrelld/?originalSubdomain=mx)** fue [nombrado](https://corporate-televisaunivision-com.cdn.ampproject.org/c/s/corporate.televisaunivision.com/press/2025/08/01/televisaunivision-appoints-john-farrell-as-head-of-partnerships/amp/) *head of partnerships* en **TelevisaUnivisión**, una nueva posición. Antes fue *country director* de **Google** en México y director de **YouTube** para América Latina. También es *venture partner* en **DILA Capital**, **Yaax Capital** y **Bai Capital** (***Redacción Whitepaper***).
+* **Russ Miller**, quien era VP y COO de **Costco** en México y EUA, anunció que se retirará en febrero. Su lugar lo ocupará **Caton Frates** ([SEC](https://www.sec.gov/Archives/edgar/data/909832/000090983225000064/cost-20250804.htm)).
+
+---
+
+#### SOFIPOs
+
+**Finsus** [adquirirá](https://finsus.mx/finsus-adquiere-la-tecnologia-de-anticipa-para-impulsar-el-acceso-a-liquidez-digital-de-las-pymes-mexicanas/) **Anticipa**, una empresa mexicana fundada en 2017 que otorga anticipos sobre ventas futuras a PyMEs, por un monto no revelado.
+
+En 2024 compraron **Pulpi**, especializada en adelanto de nómina, y en 2023 **LlaveCredit**, una SOFOM que daba créditos a propietarios de inmuebles en venta o renta (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: según la CNBV, **Finsus** [tenía](https://portafolioinfo.cnbv.gob.mx/PUBLICACIONES/Boletines/Paginas/SOFIPOS.aspx) 395,100 clientes en marzo de este año, frente a poco menos de 125,000 en el mismo mes de 2024. Hace [unos meses](https://finsus.mx/finsus-proyecta-licencia-bancaria-para-fin-de-ano-y-comenzar-a-operar-en-2026/), su CEO, **[Carlos Marmolejo](https://www.linkedin.com/in/carlosmarmolejo1/?originalSubdomain=mx)**, afirmó que alcanzaron la rentabilidad en el primer trimestre de 2025 —cerca de $22 millones de pesos— y que esperan obtener la licencia bancaria en 2026.*
+
+---
+
+#### Resultados de la encuesta
+
+¿A qué **empresario** de la **historia de México** te hubiera gustado conocer?
+
+> ***Comentario Whitepaper**: Eugenio Garza Sada fue, por mucho, el empresario más mencionado, seguido por Lorenzo Zambrano e Issac Garza Garza.*
+
+[![](https://substackcdn.com/image/fetch/$s_!av1R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94bd6b8b-9ea4-4e00-b3fe-90719661b99c_4381x3184.jpeg)](https://substackcdn.com/image/fetch/$s_!av1R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94bd6b8b-9ea4-4e00-b3fe-90719661b99c_4381x3184.jpeg)
+
+---
+
+#### Streaming
+
+¿Cómo se comparan las principales plataformas de streaming, desde una perspectiva de ingresos? En el segundo trimestre, **Netflix** generó ventas de $11,000 millones de dólares, **Disney** $6,200 millones, **Warner** $2,800 millones, **Paramount** $2,200 millones y **Peacock** alrededor de $1,200 millones. En términos de **utilidades**, mientras que Netflix registró $3,800 millones de dólares en el trimestre, esa cifra fue de $157 millones para Paramount; Peacock todavía está perdiendo dinero ([The Information](https://www.theinformation.com/articles/openais-apple-like-moment?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: como contexto, **TelevisaUnivision** reportó $1,210 millones de dólares de ingresos en ese mismo período, de los cuales $815 millones fueron por sus operaciones en EUA, y $395 millones de México. La empresa no desglosa los ingresos que aporta **ViX**, pero en el apartado de “suscripciones y licencias” aparecen ingresos de $443 millones de dólares.*
+
+---
+
+#### El verdadero impacto de AI
+
+*“How many companies have created **five billionaires** and a centibillionaire in less than two years? And **made three-quarters of its employees millionaires**? With a market cap of over $4 trillion, **Nvidia** has become **the supernova of wealth creation**”.*
+
+…y no es solamente Nvidia. Hay **498 startups de AI** con una valuación de más de $1,000 millones de dólares —100 de éstas tienen menos de 2 años— y otras 1,300 startups valen más de $100 millones de dólares cada una ([CNBC](https://link.cnbc.com/public/41024037)).
+
+> ***Comentario Whitepaper**:…y si bien las fortunas de los fundadores suelen estar en papel, la aceleración de mercados secundarios está permitiéndole a muchos —y a sus empleados— convertir sus acciones en dinero. Un indicador que refleja esto es el número de casas de más de $20 millones de dólares que se vendieron el año pasado en San Francisco —una cifra récord. Justo **OpenAI** [está por pagarle un](https://www.theinformation.com/briefings/openai-pays-bonuses-ranging-millions-dollars-1-000-researchers-engineers?rc=xfuqjy) **[bono](https://www.theinformation.com/briefings/openai-pays-bonuses-ranging-millions-dollars-1-000-researchers-engineers?rc=xfuqjy)** a cerca de una tercera parte de sus empleados; algunos recibirán “miles de dólares”, otros “**millones de dólares**” (y el bono lo pueden cobrar en acciones o en efectivo).*
+
+---
+
+#### MexMoves: AmCham’s Carlos García on USMCA Outlook; Raúl Livas on Pemex Rescue, plus AT&T’s Rumored Exit & more…
+
+Entrevistamos a **Carlos García**, presidente de **AmCham México**, sobre el estado actual de las relaciones comerciales entre México y EUA rumbo a la revisión clave del T-MEC en 2026. **Raúl Livas**, ex COO de **Pemex**, detalla el nuevo plan del gobierno para rescatar a la petrolera. **AT&T** buscaría salir de México. **MercadoLibre** reporta una fuerte recuperación en México durante el segundo trimestre. **Walmex** anuncia un inesperado cambio de CEO y más.
+
+*Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/30-amchams-carlos-garc%C3%ADa-on-usmca-outlook-ra%C3%BAl-livas/id1792066671?i=1000721116246), [Spotify](https://open.spotify.com/show/2NRQLgFpozCqIJcSMcYgLE?si=sjYpUS2xSGCdcFEUhJA7yw) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+> ***MexMoves** es un podcast de **Whitepaper**, en inglés, de temas de negocios relevantes tanto para EUA, como para México.*
+
+---
+
+#### Detrás del turismo
+
+A pesar de la desaceleración de la economía global, el segmento ***affluent*** no para de viajar. Para los hogares con ingresos de más de $200,000 dólares anuales —especialmente en ***emerging countries***— viajar es algo cada vez más importante, y **más de 80%** planean viajar en los siguientes 12 meses. Por lo pronto, los destinos favoritos son ciudades como **Londres** y **Tokyo** ([PYMTS](https://www.pymnts.com/travel-payments/2025/visa-data-shows-affluent-travelers-propel-global-tourism-spending/)).
+
+> ***Comentario Whitepaper**: de acuerdo con un estudio de [Visa](https://usa.visa.com/content/dam/VCOM/regional/na/us/partner-with-us/economic-insights/documents/vbei-global-travel-insight-july-2025.pdf), el país en el que los **affluent más viajan**, en comparación con los clientes “no-affluent” es…**México**.*
+
+---
+
+#### ¿Un nuevo The Office?
+
+Ya está disponible un [primer](https://www.youtube.com/watch?v=c5v4LJJkvUU) *[trailer](https://www.youtube.com/watch?v=c5v4LJJkvUU)* de ***The Paper***, una nueva serie de **Peacock**, desarrolladora por los creadores de ***The Office***. Es la misma fórmula, con personajes muy similares, pero ahora se trata de un pequeño periódico regional (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### Diversifica tu patrimonio invirtiendo en Multifamily en dólares.
+
+**Eagle Property Capital** es una administradora de fondos de inversión especializada en Multifamily (vivienda en renta) en EE.UU. (TX y FL). Desde su fundación en 2011, ha adquirido y reposicionado más de **10,400 departamentos**, actualmente administra más de **$1,330 MM USD** en activos.
+
+Los retornos objetivo de los fondos son de **12.0% a 15.0%** **anual en dólares** y un múltiplo de capital de 1.7x a 2.0x.
+
+Dentro de las ventajas de invertir en *Multifamily* están las distribuciones trimestrales, inversión en dólares, apreciación de las propiedades y cobertura contra inflación, en una de las clases de activos más resilientes.
+
+Contacta a **Marcelo Margáin Zambrano** por teléfono o WhatsApp [+52 81 8020 1416](http://wa.me/+528180201416), o por mail [marcelo.margain@epcinvest.com](mailto:marcelo.margain@epcinvest.com) para conocer más sobre Eagle Property Capital y su nuevo Fondo VI.
+
+[![](https://substackcdn.com/image/fetch/$s_!iPI8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7e3629d-3ebc-4037-9b35-ee9886264c0f_1700x1133.jpeg)](https://substackcdn.com/image/fetch/$s_!iPI8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7e3629d-3ebc-4037-9b35-ee9886264c0f_1700x1133.jpeg)
+
+[Eagle Property Capital](https://eaglepropertycapital.com/)

@@ -1,0 +1,116 @@
+# Whitepaper, Hoy
+
+> Sigma post inundaciones; Pabellón Zibatá; las ventas de los retailers; Tiendanube; Ivan Espinosa; dark stores; OpenAI vs Office; Polymarket; 'AI Slop'; OnlyFans; spotlight en Tracy Anderson
+
+**Fecha:** 2025-06-25  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-6e2  
+**Word count:** 1124
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!gwls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e9f82e2-6a35-48e7-bfda-2621eb5bd71c_1281x234.jpeg)](https://trytoku.info/4lhHbpb)
+
+---
+
+#### Después de las inundaciones
+
+**Sigma** invertirá **€134 millones de euros** en la planta que tienen en **Valencia**, más otros €23 millones de euros en la fábrica de La Bureba (en Burgos). Los proyectos serían fondeados mayormente a través de **reembolsos de seguros** e incentivos gubernamentales; esto les permitirá **recuperar permanentemente** la capacidad de producción que tenían en ese país ([BMV](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1474495_1.pdf)).
+
+> ***Comentario Whitepaper**: en octubre del año pasado, fuertes lluvias en **España** ocasionaron **inundaciones repentinas** en la región de Valencia, que terminaron convirtiéndose en un **desastre** para toda la zona. **Sigma** fue directamente **afectada**, con daños significativos a su planta en Torrente (en donde estaba cerca de 10% de su capacidad instalada en Europa).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-6e2?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2NjI4MzIyNywiaWF0IjoxNzc5MjE1OTY3LCJleHAiOjE3ODE4MDc5NjcsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Xb6YWAVpq6P79Wqo9_FRwRUHYI5sQLl25vNj64nlc2A)
+
+---
+
+#### Para eventos y conciertos
+
+En Querétaro, **IDN Desarrollos** —la empresa detrás de **Pabellón M**, en Monterrey— está arrancando la construcción de un nuevo desarrollo que incluye un **auditorio** para 6,500 personas, **centro de convenciones**, y áreas comerciales y de usos mixtos. Bautizado como **Pabellón Zibatá**, es un proyecto de más de **$3,000 millones de pesos**, que están haciendo en conjunto con **Conecto Desarrollos** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa fundada por **Salomón Marcuschamer** quiere que su nuevo proyecto se convierta en un referente en el **Bajío**; están aprovechando la experiencia que han venido desarrollando a lo largo de los 10 años que tienen de operar Pabellón M, en donde han sido anfitriones de casi 3,000 eventos, con **más de 3 millones de asistentes**.*
+
+---
+
+#### Lo que venden las grandes cadenas
+
+[![](https://substackcdn.com/image/fetch/$s_!2aYj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4103dd77-6182-4a9d-898f-f0b1e707416c_2342x3793.jpeg)](https://substackcdn.com/image/fetch/$s_!2aYj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4103dd77-6182-4a9d-898f-f0b1e707416c_2342x3793.jpeg)
+
+---
+
+#### De República Checa
+
+Una empresa checa, **ClimatePro,** invirtió $50 millones de pesos para abrir una planta en Tlaxcala, donde fabricarán persianas exteriores de alto rendimiento ([Mexico Industry](https://mexicoindustry.com/noticia/climatepro-invierte-50-mdp-en-tlaxcala-para-nueva-planta-de-persianas-con-tecnologia-europea)).
+
+---
+
+#### Ecommerce
+
+**Tiendanube** invertirá más de $100 millones de pesos para impulsar su negocio en México: la prioridad es desarrollar **Pago Nube**, su sistema propio para recibir pagos ([Axis Negocios](https://www.axisnegocios.com/breves.phtml?id=139739)).
+
+> ***Comentario Whitepaper:** en enero, **[Alejandro Vázquez](https://www.linkedin.com/in/aavazquez/)**, fundador de Tiendanube, nos dijo que en 2024 su negocio [creció](https://www.whitepaper.mx/i/155275317/e-commerce) 55% en número de transacciones y que duplicaron la cantidad de tiendas mexicanas activas en su plataforma. Serían unas 150,000 tiendas, con un ticket promedio de $1,468 pesos.*
+
+---
+
+#### El CEO mexicano
+
+“*For roughly three hours, **investors grilled Espinosa** about decisions mostly made before he was promoted in April, airing their **grievances** and rehashing the myriad missteps that led to the elimination of 20,000 jobs and closure of seven of its 17 manufacturing sites”*.
+
+**Ivan Espinosa** se enfrentó una audiencia más bien **hostil** en su primera asamblea de accionistas como CEO de Nissan. Aún así, la gran mayoría de los accionistas —y también las *proxy advisory firms*— reconfirmaron su nombramiento ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-23/nissan-ceo-ivan-espinosa-faces-tough-investor-questions-on-turnaround-strategy)).
+
+> ***Comentario Whitepaper**: Espinosa, de 46 años, llegó a Nissan en un momento de **crisis** —las utilidades se **desplomaron**, los costos siguen aumentando (le perjudican los **aranceles**) y vienen vencimientos importantes el siguiente año.*
+
+---
+
+#### *Breves*
+
+* **OpenAI** está desarrollando herramientas para permitir a sus clientes colaborar en documentos, chatear, y guardar archivos —o sea, soluciones que podrían terminar siendo **competencia directa** de **Office** y de **Google Docs** ([The Information](https://www.theinformation.com/articles/openai-quietly-designed-rival-google-workspace-microsoft-office?rc=xfuqjy)).
+* **Career Builder + Monster,** la plataforma que en algún momento fue la líder en reclutamiento online, va a ***Chapter 11*** ([Reuters](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)).
+* En EUA, **Walmart** está probando un formato de **dark stores** para acelerar el crecimiento de su negocio online. La primera está en **Dallas**; viene una más en Bentonville ([PYMTS](https://www.pymnts.com/walmart/2025/walmart-testing-dark-stores-to-provide-faster-delivery-to-customers/#:~:text=Dark%20stores%20are%20smaller%20warehouses,the%20pandemic%2C%20per%20the%20report.)).
+* **Polymarket**, la plataforma digital creada para **apostar sobre predicciones futuras** (resultados de elecciones, nombramiento del siguiente papa, de qué tamaño serán los aranceles, etc.) estaría **obteniendo $200 millones de dólares** en una ronda de inversión que valúa a la empresa en $1,000 millones de dólares. **Founder’s Fund** liderará la ronda ([Reuters](https://www.reuters.com/technology/polymarket-nears-200-million-raise-over-1-billion-valuation-source-says-2025-06-24/)).
+* **Hilton** está aprovechando su marca **Waldorf Astoria** para crear una **nueva línea de cruceros**: se estrenarán en 2026 con un barco de 29 suites, que navegará por el Río Nilo. **Four Seasons**, **Aman** y **Orient Express** son otras marcas de hoteles que también estarán lanzando cruceros en los próximos 2 años; Marriott lo hizo en 2022 con barcos de **Ritz-Carlton** ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-24/waldorf-astoria-s-new-nile-cruise-ship-an-exclusive-first-look?srnd=homepage-americas)).
+* “*All spam is now AI content*” —**[John Oliver](https://www.youtube.com/watch?v=TWpg1RmzAbc)**, de **HBO**, hace una dura (pero muy entretenida) [crítica](https://www.youtube.com/watch?v=TWpg1RmzAbc) a cómo las plataformas de AI se están utilizando para generar contenido genérico (y mucha **basura**). **Muy recomendable** (***Redacción Whitepaper***).
+
+---
+
+#### Redefiniendo una industria
+
+Por más que la **pornografía** está omnipresente y tiene un alcance inigualable, la realidad es que **no ha sido un gran negocio**. **OnlyFans**, por otro lado, creó un modelo de negocio que ha demostrado ser **sumamente rentable**: en 2023 la plataforma registró ingresos de $1,300 millones de dólares, con márgenes que se estima que debieran estar **por encima de 50%** (mejores que los de Alphabet, Meta o Microsoft). Además, le repartió alrededor de $5,300 millones de dólares a las ‘creadoras de contenido’ ([The Economist](https://www.economist.com/business/2025/06/24/how-onlyfans-transformed-porn)).
+
+> ***Comentario Whitepaper**: fundada en 2016, **OnlyFans está a la venta**, a un precio estimado de $8,000 millones de dólares. Sin embargo, el artículo explica que si su valuación se calculara a partir de los múltiplos a los que cotizan empresas como **Uber** o **Airbnb**, su verdadero valor [debiera ser más bien de unos](https://www.economist.com/business/2025/06/24/how-onlyfans-transformed-porn) **[$28,000 millones](https://www.economist.com/business/2025/06/24/how-onlyfans-transformed-porn)**.*
+
+---
+
+#### Spotlight en: Tracy Anderson
+
+[![](https://substackcdn.com/image/fetch/$s_!LEFO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201a331f-1588-468b-b131-e1371cd094e6_1406x1200.jpeg)](https://substackcdn.com/image/fetch/$s_!LEFO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201a331f-1588-468b-b131-e1371cd094e6_1406x1200.jpeg)
+
+La carrera de **Tracy Anderson** despegó cuando se convirtió en entrenadora de celebridades como **Madonna** y **Gwyneth Paltrow**. Paltrow terminó invirtiendo en su negocio y lanzaron un programa en DVD llamado *Tracy Anderson Method: Mat Workout*.
+
+El **“Tracy Anderson Method”** combina movimientos y coreografías que ella considera únicos, al grado de reclamarlos como [propiedad intelectual](https://www.theatlantic.com/magazine/archive/2025/07/luxury-fitness-tracy-anderson-exercise-empire/682905/). Además de sus programas en línea —que inician en $90 dólares mensuales—, Anderson opera hoy nueve estudios en **Nueva York**, **Los Ángeles**, los **Hamptons**, **Londres, Madrid** y **Montana**, y próximamente abrirá uno en **Miami**. Los precios de las membresías a cada uno de estos estudios arrancan en $10,000 dólares anuales.
+
+Anderson y su esposo recompraron todas las acciones del negocio y hoy la marca se ha expandido también a ropa deportiva, contenido de estilo de vida, revistas y equipo de ejercicio. Su *[net worth](https://www.thetimes.com/life-style/health-fitness/article/fitness-guru-tracy-anderson-interview-health-wellness-8nt99nn85)* se estima en $110 millones de dólares (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+#### Muchos negocios crecen, pero su forma de cobrar se queda atrás.
+
+Sistemas dispersos, procesos manuales, conciliaciones que no cuadran… y una visibilidad limitada sobre lo más importante: **los ingresos**.
+
+Por eso Toku creó el PRM: *Payment Relationship Management.*
+
+Una infraestructura que automatiza y centraliza toda la relación financiera con tus clientes. Desde que registran su método de pago, hasta el último intento de cobro. Todo en un solo lugar: recordatorios, conciliaciones y reportes.
+
+Más control. Menos fricción.
+
+Las empresas líderes ya están cobrando mejor con **Toku.**
+
+[Descubre el poder de PRM](https://trytoku.info/4lhHbpb)

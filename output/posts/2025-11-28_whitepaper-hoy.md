@@ -1,0 +1,151 @@
+# Whitepaper, Hoy
+
+> GNP y el impacto del IVA; Optimus en México; Tongling Automotive; Cetesdirecto; ventas de Nissan; Cerralvo Capital; la evolución de Inditex; Gen X; Co-heads de Goldman; visitando ruinas y museos
+
+**Fecha:** 2025-11-28  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-116  
+**Word count:** 1511
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!8uiz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28d4f77c-5638-4ba9-9788-6e5975e9507b_1456x579.webp)](https://a1.adform.net/C/?bn=85992361;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_50%7D)
+
+---
+
+#### Aseguradoras
+
+**GNP Seguros** advirtió que estima un **impacto no recurrente** en sus utilidades netas de unos **$5,500 millones de pesos**, derivado de lo dispuesto en la **Ley de Ingresos 2026** (y que contempla que el IVA de proveedores de siniestros no sería acreditable).
+
+En todo caso, la aseguradora reiteró que tiene suficiente capacidad para absorber este impacto, gracias a “sólida posición de capital y sus índices de solvencia ampliamente superiores a los requerimientos regulatorios” y aseguró que mantiene su capacidad de respuesta ante sus asegurados y su estrategia de crecimiento a largo plazo ([BMV](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1512648_1.zip#/visorXbrl)).
+
+> ***Comentario Whitepaper**: en [2024](https://www.gnp.com.mx/content/dam/pp/mx/es/footer/blue-navigation/conocenos/informacion-financiera/2024/GNP-2024-A2-Notas-a-los-EEFF-Consolidados-emision.pdf) registraron una utilidad de $3,500 millones de pesos (y un año antes, de $4,000 millones). Interesante que en el [comunicado](https://www.bmv.com.mx/docs-pub/visor/visorXbrl.html?docins=../eventemi/eventemi_1512648_1.zip#/visorXbrl) destacan que **La Nacional**, una aseguradora que hoy es parte del grupo, habría cumplido con sus obligaciones incluso durante los años de la **Revolución Mexicana**.*
+
+---
+
+#### Los famosos robots
+
+**Tesla México** mostró por primera vez en el país los prototipos de **Optimus**, su robot humanoide, durante una activación simultánea en agencias Tesla de Ciudad de México, Monterrey y Guadalajara. Los modelos presentados forman parte de la fase previa a su lanzamiento comercial, previsto para agosto de 2026, y para cuando sus directivos aseguran que ya podrían operar en entornos reales (con un precio estimado de $20,000 dólares).
+
+Optimus está **diseñado para realizar tareas peligrosas, repetitivas o de bajo valor agregado**, en industrias como manufactura, logística y construcción. Con esta llegada anticipada de prototipos, Tesla busca **que México sea uno de los primeros mercados** en adoptar robots humanoides a escala (***Redacción Whitepaper***).
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-116?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4MDEyODk3MiwiaWF0IjoxNzc5MjE1ODAwLCJleHAiOjE3ODE4MDc4MDAsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Q5DuFzH2eoN9oloDq_-lQLXmtuX4mGgPUPGJilSpz80)
+
+---
+
+#### Interiores para autos
+
+**Tongling Automotive**, una empresa de China [especializada](https://clusterindustrial.com.mx/tongling-inicia-construccion-de-su-planta-en-irapuato-con-una-inversion-superior-a-91-mdd/) en interiores automotrices para marcas como Volkswagen y General Motors, invertirá $91 millones de dólares en una planta en **Guanajuato**, que empezaría a operar en 2027 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: otras inversiones recientes en ese estado incluyen la de la alemana **[Mubea](https://www.whitepaper.mx/p/whitepaper-hoy-6a2?utm_source=post-email-title&publication_id=57583&post_id=173105267&utm_campaign=email-post-title&isFreemail=false&r=1gedfp&triedRedirect=true)**, por $60 millones de dólares; la de **[SHPAC](https://www.whitepaper.mx/i/178518685/inversiones)**, de Corea, por $40 millones; la de **[Markdom](https://www.whitepaper.mx/i/178518685/inversiones)**, de Canadá, por $25 millones; y la de **[Hella](https://www.whitepaper.mx/p/whitepaper-hoy-6a2?utm_source=publication-search)**, también alemana, por poco más de $15 millones.*
+
+---
+
+#### Cetes
+
+Tras 15 años operando, **Cetesdirecto** [acumula](https://www.elnorte.com/cumple-cetesdirecto-15-anos-y-2-7-millones-de-inversionistas/ar3113566) supera los 2.7 millones de contratos individuales. Más de 315,000 habrían iniciado este año. Como referencia: [hace 10 años](https://www.cetesdirecto.com/sites/portal/historia.cetesdirecto) tenían apenas 80,000 contratos, y su mejor año fue 2023, cuando sumaron más de 830,000 nuevos usuarios (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!CiNl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc072f1c5-9274-49f5-a400-6fce4089cd18_1456x1095.png)](https://substackcdn.com/image/fetch/$s_!CiNl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc072f1c5-9274-49f5-a400-6fce4089cd18_1456x1095.png)
+
+---
+
+#### Creciendo en México (y en Canadá)
+
+Del total de autos que **Nissan** vendió a nivel global entre [enero y octubre](https://global.nissannews.com/en/releases/nissan-production-sales-exports-oct-2025?origin=channel-ee2d001866d2b4a381924af5af2f5fed), México representó poco más de 8%, con 220,000 unidades. Es uno de los pocos mercados —junto con Canadá— en los que **aumentaron las ventas** respecto al mismo periodo del año anterior. En Europa cayeron 5%, en China 6% y a nivel global disminuyeron 4% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Nissan pasa por un momento muy complejo, y aunque sigue creciendo en nuestro país, es de suponer que aquí el **ingreso promedio por unidad** debe ser relativamente bajo, en comparación con lo que logran en otros países. **Barbara Anderson** [escribió para Whitepaper un perfil de](https://www.whitepaper.mx/p/perfiles-mayra-gonzalez?r=1tqhmx&utm_campaign=post&utm_medium=web&triedRedirect=true) **[Mayra González](https://www.whitepaper.mx/p/perfiles-mayra-gonzalez?r=1tqhmx&utm_campaign=post&utm_medium=web&triedRedirect=true)**, vicepresidente de marketing y ventas para Europa de Nissan Motor Corporation, donde destacó la importancia que tiene México para la marca.*
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!u1-f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a26fec8-cc80-43a6-9ba4-83400452d212_1987x1002.jpeg)](https://substackcdn.com/image/fetch/$s_!u1-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a26fec8-cc80-43a6-9ba4-83400452d212_1987x1002.jpeg)
+
+---
+
+#### Search funds
+
+Hace cinco años, un **search fund** creado por un emprendedor de EUA compró en ese país a ECP, una empresa de **software as a service** especializada en soluciones para **casas de retiro**. Desde México, uno de los inversionistas detrás de aquella transacción fue **Cerralvo Capital**. La empresa adquirida multiplicó sus ingresos cuatro veces, y ahora está siendo adquirida por una firma de private equity; la transacción implica un **MOIC de 15.2x** y un **net IRR de 72%** para los inversionistas (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **Cerralvo** es una de las dos firmas de inversión en México que se enfocan principalmente en financiar search funds (la otra es **Alza Capital**). En [este artículo](https://www.whitepaper.mx/p/search-funds-una-actualizacion?utm_source=publication-search) explicamos esta figura, que se ha vuelto **especialmente popular** entre un determinado perfil de emprendedores (e inversionistas) en este país.*
+
+---
+
+#### Se va
+
+El mexicano **David Martínez** presentó su renuncia como consejero de **Sabadell**, tras frustrarse la venta a **BBVA**. Estuvo 12 años en el Consejo y su participación accionaria en el banco español estaría valuada en €616 millones ([Expansion.es](https://www.expansion.com/empresas/banca/2025/11/27/692881f8e5fdea52208b4582.html)).
+
+[![](https://substackcdn.com/image/fetch/$s_!gk-o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cac4959-3ea7-4f8c-8d6b-595d7607e509_1281x155.webp)](https://d5xhn304.na1.hs-sales-engage.com/Ctc/RN+23284/d5Xhn304/JkM2-6qcW6N1vHY6lZ3ppW2gPpvN26mqJ8W88dz1c2K1TTSW1DGGr71S9y9yW1Ky9gz9c_dzmW3YqLBl2bH04wW7F_yRQ7MHcRYW8n8Ybb69qpT_W33L8B917kdpWW6yCC2M7-RfnyW8N-XFW4FSfwPW8SLgxD8CzD69W82LHMr3qtxvdV64pcQ889nb6W56Kxq53mvlM2W561Dxk54KHX1W2wJvTg7Vg9ztW8Ctlyt633X6GW4mTYbm3wGmKBW4SnJXJ6t1bwmW4R1v-x5L7x1yW45JZVL5f-9HqVlfFLR7kZdMnf5mvXhY04)
+
+**Margin** es una publicación semanal que proporciona información *data-driven* sobre lo que está sucediendo en el panorama económico y financiero en México.
+
+Todos los lunes recibirás un correo con los principales movimientos macro y financieros, resumido con gráficas e *insights* visuales de lo que está pasando en México. Además, 2 veces al mes, recibirás *deep dives* en alguna industria, sector o tendencia relacionada con el sector financiero.
+
+[Pruébalo gratis durante 14 días](https://d5xhn304.na1.hs-sales-engage.com/Ctc/RN+23284/d5Xhn304/JkM2-6qcW6N1vHY6lZ3ppW2gPpvN26mqJ8W88dz1c2K1TTSW1DGGr71S9y9yW1Ky9gz9c_dzmW3YqLBl2bH04wW7F_yRQ7MHcRYW8n8Ybb69qpT_W33L8B917kdpWW6yCC2M7-RfnyW8N-XFW4FSfwPW8SLgxD8CzD69W82LHMr3qtxvdV64pcQ889nb6W56Kxq53mvlM2W561Dxk54KHX1W2wJvTg7Vg9ztW8Ctlyt633X6GW4mTYbm3wGmKBW4SnJXJ6t1bwmW4R1v-x5L7x1yW45JZVL5f-9HqVlfFLR7kZdMnf5mvXhY04) y explora nuestro reporte de [los números de la banca al cierre del 3Q25](https://www.margin.mx/p/los-numeros-de-la-banca-e52).
+
+[![](https://substackcdn.com/image/fetch/$s_!1kM5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!1kM5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa207d1d7-0593-45c9-bd53-e15282c749a4_1281x104.webp)
+
+#### Evolucionando el *fast fashion*
+
+“*Faced with a new market dynamic, the group is striving to strike **the right balance** between a **finely tuned fast-fashion model** that served it well for nearly five decades and Ortega’s vision of **elevating the brand***”.
+
+**Zara** ha venido lanzando más y más **ediciones limitadas** y con ello, el **precio promedio** de sus productos en mercados como el de EUA **aumentó 70%** a lo largo de los últimos cinco años. Inicialmente esto se reflejó en un fuerte crecimiento de los ingresos, el valor de las acciones se duplicó, y las utilidades llegaron a niveles récord (por encima de lo que ganan H&M, Shein y Uniqlo, **juntas**). Sin embargo, 2025 resultó ser un año más complejo, con una importante desaceleración en su ritmo de crecimiento ([Bloomberg](https://www.bloomberg.com/news/features/2025-11-27/zara-head-marta-ortega-aims-to-shed-fast-fashion-label?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: Marta Ortega, de 41 años, es **chairwoman de Inditex** y quien ha estado encabezando esta evolución hacia productos más caros en tiendas más premium.*
+
+---
+
+#### Ignorados
+
+Un análisis las llamadas con analistas en lo que va de 2025, en EUA, encontró que mientras que en 290 de éstas los ejecutivos hablaron de ***Gen Z***, apenas en 41 se mencionó a los integrantes de la **generación X**.
+
+“*This **oversight** is especially strange because more members of Gen X, who are ages 45 to 60, expect to overspend this holiday season (72 percent) than do millennials and Gen Z-ers, according to a TD Bank report (…) Yet **retailers appear more focused on younger shoppers** because of their influence and bigger demographic*” ([NY Times](https://www.nytimes.com/2025/11/27/business/gen-x-holiday-spending.html)).
+
+---
+
+#### MexMoves: Banco Azteca Opens Up; Treviño on Mexico’s Leadership Gaps & more…
+
+Una conversación a fondo con **Alejandro Valenzuela**, presidente de **Banco Azteca**, sobre cómo gana dinero realmente el banco, por qué el efectivo sigue tan vigente, y por qué el modelo *“phygital”* podría ser el futuro de la banca en México. Además **Javier Treviño** comparte aprendizajes de liderazgo a partir de su nuevo libro *Silos.* Eduardo y Damián analizan los bloqueos carreteros de agricultores y transportistas, entre otros temas.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/banco-azteca-opens-up-treviño-on-mexicos-leadership/id1792066671?i=1000738726546), [Spotify](https://open.spotify.com/episode/3n6W8TW7dxwzldOrCCuUWd?si=90SQv1mfQi2EdwS52Ca61A) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+---
+
+#### Los hermanos
+
+Los hermanos **Osmin** y **Fernando Rivera** crecieron en Honduras y se mudaron a EUA para ir a la universidad. Hoy ambos comparten el mismo título: son ***Co-heads*** de investment banking para Latinoamérica de **Goldman Sachs**.
+
+“*Goldman is making a big push in Latin America to become the go-to financier for countries and companies across the continent. **Few people make partner at Goldman**. Two brothers doing it within two years of each other is even more **unusual***” ([WSJ](https://www.wsj.com/finance/banking/goldman-sachs-latin-america-latam-rivera-9c599ddf?mod=hp_lead_pos9)).
+
+> ***Comentario Whitepaper:** LATAM es muy relevante para **Goldman** y en un hecho sin precedentes, la responsabilidad de la región recae en dos hermanos. Está muy interesante el artículo —destaca cómo sus familias **viven en el mismo edificio en NY**, en donde viven también sus papás (y otro de sus hermanos), y a la vez de los deals que ha venido haciendo Goldman en la región.*
+
+---
+
+#### Turismo
+
+De [enero a septiembre](https://www.gob.mx/sectur/articulos/sectur-15-9-millones-de-visitantes-recorrieron-museos-y-zonas-arqueologicas-durante-los-primeros-nueve-meses-del-ano?idiom=es), las zonas arqueológicas en México recibieron 7.4 millones de visitantes, y los museos, 8.5 millones. El **crecimiento fue de 17%** frente al mismo periodo del año pasado y de 2.6% respecto a 2019.
+
+Entre las ruinas, destacaron **Chichén Itzá** con 1.7 millones, **Teotihuacán** con 1.2 millones y **Tulum** con 809,000 visitantes. En museos, el más visitado fue el **Museo Nacional de Antropología**, con 43% del total; le siguieron el **Museo Nacional de Historia** con 24% y el **Museo del Templo Mayor** con 4% (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!AKU3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14cb7057-4fc7-4cc0-b835-1d2850daa6d6_1500x600.png)](https://a1.adform.net/C/?bn=85992361;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_50%7D)
+
+El Cessna® Citation Latitude® es el jet ejecutivo *midsize* más vendido del mundo. Con 2,700 millas náuticas de autonomía, conecta destinos estratégicos sin escalas, como Ciudad de México–Lima o Monterrey–Nueva York.
+
+Su aviónica Garmin® G5000® garantiza eficiencia y productividad. Ideal para negocios o placer, el Citation Latitude® ofrece bajos costos operativos, amplia cabina, compartimento de equipaje líder en su clase y baja altitud de cabina para mayor confort.
+
+Con servicio, repuestos y soporte excepcionales, los jets Citation® están respaldados por la red de servicio OEM de aviación general más grande del mundo.
+
+Para más información, [contáctanos Textron Aviation](https://a1.adform.net/C/?bn=85992362;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_50%7D)
+
+[Textron Aviation](https://a1.adform.net/C/?bn=85992361;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50})

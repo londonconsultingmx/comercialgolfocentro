@@ -1,0 +1,126 @@
+# Whitepaper, Hoy
+
+> Amazon y Quality Post; Yokohama en Aguascalientes; Maison Kayser; acciones de Orbia; híbridos y eléctricos; Norte19; hispanos y la TV; Ross Dress for Less; Anthropic; Nestlé; ¿la fintech de Mr Beast?
+
+**Fecha:** 2025-10-16  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-01d  
+**Word count:** 1231
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!1e9-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F001a4315-522c-453f-9e3c-37a09fcd0bf1_2250x425.jpeg)](https://www.gentera.com.mx/aniversario-35/)
+
+---
+
+#### Con un nuevo socio
+
+**Amazon** y **Quality Post** estarían haciendo un acuerdo por medio del cual la primera está comprometiéndose a contratarle a la regia **$100 millones de dólares** de servicios logísticos, y a cambio recibe ***warrants*** que le darían derecho a quedarse con cerca de una quinta parte de esa empresa (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a **Amazon** siempre le ha gustado negociar **deals de este tipo** con sus **proveedores**, y en donde la lógica es algo así como que ‘te voy a contratar mucho y por lo tanto, te va a ir muy bien, y entonces quiero quedarme con una participación de tu negocio’. Según el [WSJ](https://www.wsj.com/business/retail/amazon-demands-one-more-thing-from-some-vendors-a-piece-of-their-company-11624968099), hasta 2021 Amazon tenía al menos **75 acuerdos de este tipo**; justo hace algunas semanas vimos que hicieron algo similar **con Rappi**.*
+>
+> ***Quality Post**, de **Mauricio Arcq**, nació en Monterrey en 1993 para dar servicios de correo y ha venido creciendo hasta convertirse en una de las principales empresas de paquetería y mensajería en el país.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-01d?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3NjA2Nzc3MCwiaWF0IjoxNzc5MjE1ODQ1LCJleHAiOjE3ODE4MDc4NDUsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.rwrFrTTU5PAWF16SSwN5ZoTFppJMTbYtiuN4b3MudXU)
+
+---
+
+#### Llantas
+
+La japonesa **Yokohama** [invertirá](https://mexicoindustry.com/noticia/yokohama-amplia-su-planta-en-aguascalientes-con-inversion-de-464-mdp) $464 millones de pesos para ampliar la planta que tienen en **Aguascalientes**: construirán un nuevo almacén y añadirán líneas de producción. Esta fue su primera planta de producción en México, inaugurada hace 10 años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** el año pasado comenzaron a construir una nueva planta en Saltillo, con capacidad para producir 5 millones de llantas al año. La inversión fue de $380 millones de dólares.*
+
+---
+
+#### Eléctricos
+
+Según **EMA**, en el [tercer trimestre](https://emasociacion.org/wp-content/uploads/2025/10/Barometro-3T-2025-1.pdf) se vendieron 24,498 autos eléctricos y *plug-in hybrids* en México —casi 50% más que hace un año— y sumando así 68,321 unidades en lo que va de 2025. De ese total, 55% corresponde a híbridos enchufables y 45% a eléctricos (***Redacción Whitepaper***).
+
+---
+
+#### Pan
+
+**Maison Kayser**, que aterrizó aquí hace 11 años, llegó a 60 sucursales y con ello México se convierte en su segundo mercado más grande después de Francia (su país de origen).
+
+Una buena parte del crecimiento ha venido por sus tiendas **en aeropuertos** —solo en el de CDMX tienen cinco—, además de ubicaciones en Monterrey, Cancún, Mérida y Querétaro. También están en corporativos y dentro de **Hospitales Ángeles**, en donde operan más de 10 sucursales (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a [inicios de año](https://www.whitepaper.mx/i/159782990/panaderias) proyectaban ventas anuales de $1,600 millones de pesos. La empresa la dirige **[Germán F. González](https://www.linkedin.com/in/german-f-gonzalez-bernal-44363436/?originalSubdomain=mx)**, quien también opera unidades en España.*
+
+---
+
+#### En Israel
+
+El precio de la acción de **Orbia** se disparó ayer **más de 20%**, luego de que un [medio israelí](https://www.calcalistech.com/ctechnews/article/rkntoanplg) reportó que estarían en proceso de vender **Netafim**, su subsidiaria de sistemas **riego**, por un monto de entre $1,300 y $1,500 millones de dólares.
+
+**Netafim** [entró](https://www.orbia.com/4a427c/siteassets/5.-investor-relations/annual-general-meetings/2017/aug/brochure-eng.pdf) al portafolio de **Orbia** en 2017, cuando aún operaban como **Mexichem**; pagaron $1,895 millones de dólares por 80% de la empresa (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: al respecto, Orbia [publicó](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1498988_1.pdf) un comunicado en la **BMV** donde afirmó que “no comentan sobre rumores ni especulaciones del mercado.”*
+
+---
+
+#### Hoteles
+
+**[Luis Barrios Sánchez](https://www.linkedin.com/in/luis-barrios-19686b40/?originalSubdomain=mx)** [presentó](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1498949_1.pdf) su renuncia como consejero de **Norte 19**. En [mayo](https://www.whitepaper.mx/i/162908590/reconfigurandose) ya había sido reemplazado como presidente del consejo, y en septiembre del año pasado dejó de ser CEO de la empresa (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **Luis Barrios** fundó **City Express** hace más de 20 años. Antes había sido CEO de **Grupo Posadas**, pero se independizó para lanzar su propia cadena. [Hicimos un artículo](https://www.whitepaper.mx/p/de-city-express-a-norte-19) donde explicamos cómo City Express vendió sus marcas a **Marriott** en una transacción de $100 millones de dólares, dando origen a **Norte 19**.*
+
+[![](https://substackcdn.com/image/fetch/$s_!3bL6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc53d960-e5fd-4d73-b702-c0a46c16860d_1281x202.webp)](https://punk.solutions/)
+
+Llevamos la Inteligencia Artificial del plan a la realidad en tu empresa. Con **Punk**, obtienes: 1) Una estrategia clara que identifica dónde la IA genera más valor. 2) Capacitación para alinear y preparar a tu equipo. 3) El desarrollo de Asistentes con IA que optimizan tu operación y mejoran tu servicio.
+
+Construye tu futuro con IA: agenda una sesión informativa con un consultor [aquí.](https://calendar.app.google/nGeRtU6CPqudhViV8) O conoce más en [punk.solutions](http://punk.solutions)
+
+[![](https://substackcdn.com/image/fetch/$s_!1Std!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F733e465d-fdc1-40d0-abcb-025c8efce95c_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!1Std!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F733e465d-fdc1-40d0-abcb-025c8efce95c_1281x104.webp)
+
+#### Viendo la tele
+
+“*Hispanic TV audiences overall, and especially Spanish-language dominant audiences, have a **strong connection** still to broadcast television, and yet, at the same time, a really strong connection to streaming content overall*”.
+
+En EUA, la población de **habla hispana** está convirtiéndose en uno de los segmentos **más valiosos** para las empresas de medios y los **anunciantes** —serían quienes pasan más tiempo en YouTube, Disney y Netflix. Esto también se ve reflejado en los resultados de **Univisión**, que tan solo en el tercer trimestre registró un aumento de más 10% en el número de impresiones de anuncios ([CNBC](https://www.cnbc.com/2025/10/15/spanish-language-hispanic-tv-advertisers.html)).
+
+---
+
+#### *Breves*
+
+* En los últimos dos meses, **Ross** inauguró **40 tiendas nuevas**; entre sus dos marcas (Ross Dress for Less y DD’s Discounts) tienen ya un *footprint* de casi **2,300 puntos de venta**, que en el último trimestre generó $5,500 millones de dólares de ingresos ([Retail Dive](https://www.retaildive.com/news/ross-store-opening-plans/802816/)).
+* **Anthropic**, que recientemente alcanzó una valuación de $170,000 millones de dólares, quiere salir de compras. Estarían [buscando deals ‘pequeños’](https://www.theinformation.com/articles/anthropic-gets-ready-go-startup-shopping?rc=xfuqjy), de unos **$500 millones de dólares**. Por lo pronto [proyectan cerrar 2025](https://www.reuters.com/business/retail-consumer/anthropic-aims-nearly-triple-annualized-revenue-2026-sources-say-2025-10-15/?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=b9de551c4cf819e82d395a4835214b962905a2e2) con un **ARR** de $9,000 millones de dólares (***Redacción Whitepaper***).
+* **Honeywell**, una de las principales proveedoras de componentes para la industria aeroespacial, pronosticó que en los siguientes 10 años se venderán alrededor de **8,500 jets privados** —una cifra récord ([Reuters](https://www.reuters.com/business/aerospace-defense/honeywell-expects-record-business-jet-deliveries-over-next-decade-2025-10-14/)).
+* Con la llegada de su nuevo CEO, **Nestlé** recortará unos **16,000 puestos de trabajo** —principalmente en funciones corporativas y administrativas. “*Navratil faces the task of arresting a yearslong slide in the company’s shares and restoring calm after a series of scandals, snafus and executive departures*” ([WSJ](https://www.wsj.com/business/retail/nestle-plans-to-cut-workforce-by-16-000-in-cost-savings-push-369e6a91?mod=lead_feature_below_a_pos1)).
+
+---
+
+#### Whitepaper 10: Pictoline, Delta, Salesforce, Eden, Bitso, Ferrari, buy now pay later
+
+Esta semana hablamos de **Pictoline** en Japón, de las ventas de **Delta**, de la inversión de **Salesforce** en México, de la ronda de inversión de **Eden**, de los nuevos servicios de **Bitso**, de **Ferrari**, y del modelo de negocio *buy-now, pay-later*.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/104-whitepaper-10-pictoline-delta-salesforce-eden-bitso/id1584711514?i=1000732060590), [Spotify](https://open.spotify.com/episode/5S095SiDr8HyNVle7bUWod?si=0QTMcSPvQZCv2tpExYMOxA), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Mr Beast, ¿banquero?
+
+El famoso **Mr Beast**, quien tiene **445 millones de suscriptores** en su canal de YouTube, estaría buscando incursionar en el segmento de servicios financieros, posiblemente con **crédito para estudiantes**, **seguros** y también un *exchange* de **criptomonedas**. Una posibilidad sería aliarse con alguna fintech, para poder así aprovechar su infraestructura y experiencia en temas regulatorios.
+
+“*Donaldson has made a series of big bets outside YouTube in the last few years, including launching a chocolate brand, **Feastables**, and a lunch food brand dubbed **Lunchly**. He also hinted in investor materials about plans to build a creator platform and mobile phone service in the vein of Ryan Reynolds’ Mint Mobile*” ([Business Insider](https://www.businessinsider.com/youtube-star-mrbeast-taking-steps-to-launch-financial-services-2025-10?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=c163333a4c77f1f7ea24edb04c8050920a693857)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!nuEh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e82c6b6-a0fd-4e0a-a9a8-e9829353b392_2250x425.jpeg)](https://www.gentera.com.mx/aniversario-35/)
+
+Gentera es un grupo de empresas con presencia en México y Perú que, desde hace 35 años, impulsa los sueños de las personas a través de servicios financieros con sentido humano. Nació con una profunda vocación social y el compromiso de promover la inclusión e igualdad de las personas y comunidades de segmentos populares.
+
+A lo largo de su historia, ha incorporado a más de 17 millones de personas al sistema financiero formal, ofreciendo un ecosistema de servicios que incluyen crédito, ahorro, seguros y canales de transacción.
+
+Hoy Gentera está conformado por Compartamos Banco en México y Perú, ConCrédito, Yastás, Aterna y Fundación Compartamos.
+
+[Gentera](https://www.gentera.com.mx/aniversario-35/)

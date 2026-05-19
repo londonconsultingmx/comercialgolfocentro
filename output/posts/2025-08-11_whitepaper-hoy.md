@@ -1,0 +1,130 @@
+# Whitepaper, Hoy
+
+> KOF en Brasil; 100,000 empleados; Acciona Energía; J. García López; conoce a Cintya Martínez; Trínitas; Nvidia; legacy en Stanford; carritos de golf; goldendoodles y labradoodles
+
+**Fecha:** 2025-08-11  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-e2f  
+**Word count:** 1304
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!_hAE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbe05875-c541-45e3-b1f9-7c579436f664_1712x263.jpeg)](https://avocadoblock.com/landing)
+
+---
+
+#### En Brasil
+
+**Coca-Cola Femsa** invertirá $110 millones de dólares para crecer su planta en Mogi das Cruzes, en São Paulo, Brasil. La ampliación entraría en operación en enero de 2026 ([Axis Negocios](https://www.axisnegocios.com/breves.phtml?id=141067)).
+
+> ***Comentario Whitepaper**: en el [segundo trimestre](https://investors.coca-colafemsa.com/) vendieron $18,359 millones de pesos en Brasil, un crecimiento de 12% frente al mismo periodo del año anterior.*
+
+---
+
+#### Muchas personas en el equipo
+
+Entre las empresas mexicanas con más de 100,000 empleados destaca el caso de **Coppel**: opera prácticamente nada más en México, mientras que las otras tienen gran parte de su negocio fuera del país. Algunas que se quedan cerca son **Soriana**, que finalizó el [año pasado](https://www.organizacionsoriana.com/pdf/reportes/2024/Reporte%20Anual%202024%20BMV.PDF) con 90,800 colaboradores y **Grupo Carso,** [con](https://www.carso.com.mx/wp-content/uploads/2025/06/1.-GC_InformeAnual_2024_ESP_250529-FINAL-2.pdf) 90,533 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**:otra empresa que podría entrar en esta lista, es **Grupo Salinas** —aunque no todas las empresas del grupo reportan cuantos empleados tienen, tan solo **Grupo Elektra** cerró [2024](https://www.grupoelektra.com.mx/Documents/Es/Downloads/Informe-de-Sustentabilidad-Grupo-2025.pdf) con cerca de 70,000.*
+
+[![](https://substackcdn.com/image/fetch/$s_!QyBp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb536c2e-d0df-482f-a31b-117c1124bf34_1456x1161.webp)](https://substackcdn.com/image/fetch/$s_!QyBp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb536c2e-d0df-482f-a31b-117c1124bf34_1456x1161.webp)
+
+---
+
+#### ¿Otra desinversión?
+
+La española **Acciona Energía** estaría analizando la posibilidad de **vender** las operaciones que tienen **en México**. Tienen aquí principalmente instalaciones eólicas, incluyendo **tres parques eólicos** que generan 306 MW en el **Istmo de Tehuantepec** (una de las mayores instalaciones de este tipo en Latinoamérica). Son negocios que en el primer semestre contribuyeron con €117 millones de euros de ingresos ([Expansión](https://www.expansion.com/empresas/energia/2025/08/04/688fcf70468aebf24c8b456d.html)).
+
+> ***Comentario Whitepaper**: coincide con **salida de México** de **Iberdrola**, que se habría concretado hace apenas unos días.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-e2f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MDQ1ODc4OSwiaWF0IjoxNzc5MjE1OTE3LCJleHAiOjE3ODE4MDc5MTcsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.drMZRcZSWseoh8ApcTZNOiwMPqzUpqKptY3Q1Sz1foo)
+
+---
+
+#### Funerarias
+
+**J. García López** es una empresa de servicios funerarios fundada a principios de los 80s. Hoy opera 19 sucursales bajo tres marcas: **J. García López**, **Santa Gloria Velatorios** y **Bye Bye Friends**, esta última para mascotas. Esperan cerrar el próximo año con entre 25 y 30 unidades. Atienden a más de 26 millones de personas protegidas a través de planes, empresas o aseguradoras.
+
+Su CEO, **Oscar Padilla**, contó a **Whitepaper** que su familia originalmente se dedicaba a la hotelería —fueron de los primeros en abrir hoteles en Cancún—, pero ante la llegada de inversión extranjera, pivotearon hacia otros segmentos. *“Se parece mucho a la hotelería”*, explicó, señalando que en un servicio funerario la hospitalidad, los *amenities* y la limpieza son clave.
+
+Recientemente lanzaron **SOFI**, una app en la que invirtieron $15 millones de pesos y que les tomó dos años desarrollar. Desde ahí es posible acceder a contratos, contratar servicios, dar seguimiento en tiempo real al traslado de la carroza, consultar obituarios o comprar y enviar flores directamente a un velorio (***Redacción Whitepaper***).
+
+---
+
+#### Conoce a: Cintya Martínez
+
+[Country manager, IATA Mexico](https://www.linkedin.com/in/cintya-martinez-0671156a/?ref=whitepaper.com.mx)
+
+[![](https://substackcdn.com/image/fetch/$s_!k7bb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01e1a752-27a1-413f-8fb3-96c55dcb5db7_1184x974.jpeg)](https://substackcdn.com/image/fetch/$s_!k7bb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01e1a752-27a1-413f-8fb3-96c55dcb5db7_1184x974.jpeg)
+
+**Cintya** inició su carrera como abogada en **Goodrich, Riquelme y Asociados**. Después pasó a **Telefónica**, primero como abogada corporativa y más tarde como gerente de Relaciones Corporativas. Estuvo en **Hewlett Packard** y **American Express** en roles de asuntos gubernamentales, hasta que en 2023 se convirtió en country manager de la **Asociación de Transporte Aéreo Internacional** (**IATA**).
+
+Es licenciada en Derecho por la **Ibero** y cuenta con dos posgrados por la **Universidad Panamericana** (***Redacción Whitepaper***).
+
+---
+
+#### Más problemas en SOFOMEs
+
+**Trínitas**, una SOFOM de **Monterrey**, estaría enfrentando una serie de demandas: alrededor de **350 inversionistas** reclaman la devolución de unos **$2,500 millones de pesos** que habrían tenido invertidos en esta organización. Creada en 2010, Trínitas se especializa en crédito para PyMEs ([El Norte](https://www.elnorte.com/acusan-megafraude-por-2-500-mdp/ar3053605)).
+
+[![](https://substackcdn.com/image/fetch/$s_!p4Co!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8de98ba8-ab94-4761-a6c2-21669bf34885_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!p4Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8de98ba8-ab94-4761-a6c2-21669bf34885_1281x136.webp)
+
+**Eight Sleep** acaba de lanzar el **Pod 5**, una vez más redefiniendo el descanso al mejorar tu sueño de forma dinámica.
+
+El nuevo Pod 5 es el primer sistema que ajusta automáticamente la temperatura, la inclinación y el sonido para una mejor calidad de sueño, analizando y mejorando tu recuperación noche tras noche.
+
+Si quieres llevar tu descanso al siguiente nivel, visita [eightsleep.com/whitepaper](https://eightsleep.com/whitepaper) para obtener hasta $7,000 pesos de descuento.
+
+[![](https://substackcdn.com/image/fetch/$s_!7-zJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1423f4a-c90b-45bc-8ce0-283833e1ecf0_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!7-zJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1423f4a-c90b-45bc-8ce0-283833e1ecf0_1281x104.webp)
+
+#### Sus descendientes
+
+“***Corporate dynasties** have long existed in more traditional industries, like media and finance. But since many of the largest businesses in Silicon Valley have scarcely existed for more than a couple decades, few have been around long enough to see a founder or CEO groom their children as possible successors*”.
+
+Entre las principales empresas que surgieron de Silicon Valley, **no se acostumbra** que los hijos de los fundadores trabajen en dichas organizaciones: ni los hijos de **Bill Gates** ni los de **Steve Jobs**, por ejemplo, han estado involucrados en Microsoft o en Apple. En **Nvidia** esto no es así: los dos hijos de **Jensen Huang** son ejecutivos en su empresa ([The Information](https://www.theinformation.com/articles/nvidias-quiet-rising-stars-son-daughter-billionaire-founder-jensen-huang?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: **Madison**, su hija, tiene 34 años y hoy es ya parte del selecto grupo de directores que acompañan al CEO a todos lados. El año pasado, su compensación [superó $1 millón de dólares](https://www.theinformation.com/articles/nvidias-quiet-rising-stars-son-daughter-billionaire-founder-jensen-huang?rc=xfuqjy) (doble que la de su hermano).*
+
+---
+
+#### *Legacy status*
+
+Una nueva legislación en **California** prohibirá a las universidades que reciben apoyo del estado darle **preferencia a los hijos de sus ex alumnos** o de sus donadores. En respuesta, **Stanford** tomó la decisión de dejar de recibir financiamiento gubernamental con tal de **poder mantener vigente** su política de preferencias ***legacy*** ([TechCrunch](https://techcrunch.com/2025/08/10/stanford-sticks-with-legacy-admissions/)).
+
+> ***Comentario Whitepaper**: al parecer, hicieron **proyecciones** y vieron que pueden **sustituir** esos ingresos de subsidios oficiales, con sus propios recursos —o sea, lo que generan de las familias de sus estudiantes.*
+
+---
+
+#### *Breves*
+
+* “*Golf carts are becoming **street legal** in one community after another as families ditch their minivans and SUVs when they want to run a quick errand or ramble around town*” —la venta de **carritos de golf** adaptados para ser usados en las calles están creciendo **exponencialmente**: según algunas estimaciones, en EUA este mercado creció de $1,000 millones de dólares antes de la pandemia, a más de $5,000 millones ([WSJ](https://www.wsj.com/lifestyle/golf-carts-have-taken-over-suburbia-cue-the-resistance-abaef307?mod=hp_featst_pos5)).
+* **Paramount** estaría pagando $7,700 millones de dólares para quedarse con los **derechos de transmisión de la UFC** a lo largo de los siguientes siete años ([CNBC](https://www.cnbc.com/2025/08/11/paramount-buys-ufc-rights-skydance-merger.html)).
+* **Alta concentración**: en lo que va del año, del total de recursos invertidos por fondos de **venture capital** en el ecosistema emprendedor, **más de 40% lo acapararon 10 startups**. Sería, por mucho, el mayor nivel de concentración en los últimos 10 años ([PitchBook](https://pitchbook.com/news/articles/41-of-all-vc-dollars-deployed-this-year-have-gone-to-just-10-startups?utm_medium=newsletter&utm_source=daily_pitch&sourceType=NEWSLETTER)).
+* Las empresas grandes de EUA están comprando **sus propias acciones** en niveles **récord** ([Seeking Alpha](https://seekingalpha.com/news/4482996-us-companies-stock-buybacks)).
+
+---
+
+#### *Goldendoodles* y *labradoodles*
+
+En EUA, las variedades de perros derivadas de los **poodles** están rápidamente convirtiéndose **entre las más populares**. Hay goldendoodles (*golden retriever + poodle*), labradoodles (*labrador retriever + poodle*) y también versiones creadas a partir de french bulldogs, pastor australiano e incluso de **chihuahueños** (entre muchas otras).
+
+Es un mercado cuyo valor se estima en al menos $1,000 millones de dólares al año —el precio de los **cachorros** va de $2,000 a más de $15,000 dólares y el número de pólizas de seguro para este tipo de perros creció más de 160% entre 2013 y 2021 ([Bloomberg](https://www.bloomberg.com/features/2025-doodle-dogs-billion-dollar-business/?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: en **México** también están volviéndose **cada vez más populares** (algunas familias van a comprarlos en EUA). El artículo de **Bloomberg** explica que el **American Kennel Club,** que es la organización que se encarga de certificar la pureza de las razas de perros, **se niega a reconocer** todas estas variedades.*
+
+---
+
+##### Presentado por:
+
+¿Cansado de invertir mucho en ads sin ver un crecimiento orgánico real y sostenible? **Persea Social** es la solución que tu marca necesita. Nuestra herramienta pionera combina el poder de **Web3, Inteligencia Artificial y gamificación** para convertir a tus fans más apasionados en verdaderos nano-influencers y embajadores genuinos. Motiva y activa a tu comunidad con **tokens digitales Web3, recompensas y experiencias físicas**. Además, podrás medir el impacto de cada campaña y ajustar tu estrategia en tiempo real, gracias a la IA. ¡Es hora de dejar atrás los métodos tradicionales y construir un *engagement* auténtico que escala con resultados tangibles!
+
+[Agenda una llamada](https://avocadoblock.com/landing) con nosotros o conoce más en [avocadoblock.com](https://avocadoblock.com/landing)
+
+[Avocado Block](https://avocadoblock.com/landing)

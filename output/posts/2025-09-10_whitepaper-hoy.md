@@ -1,0 +1,137 @@
+# Whitepaper, Hoy
+
+> Hoteles voco; Helados Alpura; Liverpool y Fabletics; impuestos; Juguetrón; Mastercraft en México; Osigu; Sequoia y Klarna; Five Guys; Oracle; spotlight en Ironman
+
+**Fecha:** 2025-09-10  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-f5b  
+**Word count:** 1473
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!Wbjc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6151523a-a388-4d12-8121-6fc522c16dcc_7439x2427.png)](https://www.mercedes-benz.com.mx/es/passengercars/buy/new-car/product.html/W214_0573719246_MX_2205809)
+
+---
+
+#### Más y más hoteles
+
+**IHG Hotels & Resorts** [abrirá](https://www.ihgplc.com/en/news-and-media/news-releases/2025/ihg-hotels-and-resorts-accelerates-growth-in-mexico-with-6-signed-voco-hotels) seis hoteles con su marca **voco,** que estarán ubicados en Cancún, Guadalajara, Ciudad Juárez, San Luis Potosí, Torreón y Nuevo Laredo. Planeadas para 2027, estas aperturas contemplan cerca de 850 cuartos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: los primeros hoteles **voco** en México se [inauguraron](https://www.whitepaper.mx/p/whitepaper-hoy-9a7) en 2022; [actualmente](https://www.ihg.com/voco/content/us/es/support/hotels) hay cinco en operación. Es un concepto **premium**, que la empresa dice que combina “**individual charm**”, con el respaldo de una cadena grande.*
+
+---
+
+#### Leche y helados
+
+**Alpura** está [lanzando](https://www.eleconomista.com.mx/empresas/alpura-incursiona-negocio-helados-20250905-775886.html) **Helados Alpura**, una nueva línea de productos con la que intentarán competirle a marcas como **Helados Holanda**, **Nestlé** y **Santa Clara** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la iniciativa de los helados estaría incluida en la inversión de $10,000 millones de pesos hacia 2029, que [anunciaron en julio](https://www.whitepaper.mx/p/whitepaper-hoy-5a7). **Alpura** habría incrementado sus ingresos más de 10% en 2024 (venden alrededor de $32,000 millones de pesos). [Operan](https://alpura.com/wp-content/uploads/2025/06/alpura-informe-sostenibilidad-2024.pdf) más de 100 ranchos en México, así como 26 Cedis y tres plantas de producción (San Luis Potosí, Chihuahua y Estado de México). Cuentan también con una Unión de Crédito, autónoma, para atender a sus socios comerciales (finalizó 2024 con una cartera integral de más de $5,000 millones). Desde el año pasado **[Tanya Avellan](https://www.linkedin.com/in/tanyaavellan/overlay/about-this-profile/)** es la CEO de la empresa.*
+
+---
+
+#### *Activewear*
+
+**Liverpool** está inaugurando una segunda boutique en México de **Fabletics**, la marca de ***athleisure*** que tiene a **Kate Hudson** como una de sus principales accionistas. El director comercial y de operaciones softline y boutiques de Liverpool, [Jorge Sota](https://www.linkedin.com/in/jorge-sota-figueroa-921338141/?originalSubdomain=mx), dijo que planean sumar otras **15 tiendas** en los próximos cinco años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: Liverpool es el primer socio internacional de la marca fuera de EUA y además de las tiendas, tendrán un e-commerce propio en nuestro país y ‘**corners**’ dentro de sus tiendas departamentales. La traen como **una alternativa más accesible** a marcas como **Lululemon** y **Alo Yoga**. Por cierto, Liverpool cuenta con más de 150 boutiques de diferentes marcas, que representan cerca de 10% de las ventas totales del portafolio.*
+
+---
+
+#### Impuestos
+
+Durante [2026](https://www.finanzaspublicas.hacienda.gob.mx/work/models/Finanzas_Publicas/docs/paquete_economico/cgpe/cgpe_2026.pdf), México prevé recaudar $5,839 mil millones de pesos por ingresos tributarios —casi **6% más que en 2025** y lo equivalente a 15.1% del PIB. Cerca de 53% vendrían del ISR, 27% del IVA, 13% del IEPS, 4.4% de importaciones y el resto de autos nuevos, hidrocarburos y otros. Como contexto, en 2014 los ingresos tributarios representaban 10% del PIB; en 2018, 12.7%; y en 2022, 12.9% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en dólares serían poco más de $313,000 millones. En 2024, **[Apple](https://s2.q4cdn.com/470004039/files/doc_earnings/2024/q4/filing/10-Q4-2024-As-Filed.pdf)** registró ingresos totales de $391,035 millones de dólares, **[Google](https://abc.xyz/assets/77/51/9841ad5c4fbe85b4440c47a4df8d/goog-10-k-2024.pdf)** $350,018 millones y **[Toyota](https://global.toyota/pages/global_toyota/ir/financial-results/2024_4q_presentation_2_en.pdf)**, poco más de $305,000 millones.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-f5b?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3MzEwNTE5OCwiaWF0IjoxNzc5MjE1ODgzLCJleHAiOjE3ODE4MDc4ODMsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.OVRE630alLvzdzxKV_-GzezLEMu0UMVPuLe9TNqDFm8)
+
+---
+
+#### Juguetes
+
+**Juguetrón** nació en 1969 como una fábrica llamada *Plásticos Impala*. En 1989 incursionó en el retail con sus primeras cinco tiendas en Ciudad de México. Hoy opera más de 125 puntos de venta, bajo las marcas Juguetrón y LEGO Stores (32 tiendas). Desde 2018 es el operador exclusivo de LEGO Stores en México.
+
+Aunque 80% de sus productos se maquilan en China, eldirector de Desarrollo de Negocio, **[Alfredo Siman](https://www.linkedin.com/in/alfredo-siman-30a77659/?originalSubdomain=mx)**, dice que volver a producir en México es una conversación que tienen todos los años.
+
+Actualmente cuentan con siete marcas propias y un catálogo que incluye más de 400 marcas diversas. En cada tienda hay entre 5,000 y 10,000 productos. En una industria altamente competida —donde incluso librerías y supermercados venden juguetes— fueron una de las primeras marcas no alimenticias en integrarse a Uber Eats, Rappi y Cornershop. Hoy operan bajo un modelo omnicanal con inventarios integrados, *pick-up* en tienda y *ship from store*.
+
+En 2024, **Juguetrón** atendió a más de **2.9 millones de clientes**, lo que representó un crecimiento de **11.5%** frente al año anterior. En los últimos cuatro años, su crecimiento compuesto ha sido de **11% anual** (***Redacción Whitepaper***).
+
+---
+
+#### Barcos
+
+**Mastercraft**, con sede en Tennessee, diseña y fabrica barcos deportivos y *ski boats*. El [año pasado](https://investors.mastercraft.com/static-files/da4e724b-7081-48b2-b360-c1215dfffeef) vendieron poco más de 3,100 unidades, generando ingresos por $367 millones de dólares.
+
+Como parte de su [expansión internacional](https://investors.mastercraft.com/news-releases/news-release-details/mastercraft-boat-company-expands-international-dealer-network), están abriendo tres *dealerships* en Alemania y dos más en México: uno en Valle de Bravo y otro en CDMX (***Redacción Whitepaper***).
+
+---
+
+#### Healthtech
+
+**Osigu**, una plataforma que digitaliza y automatiza pagos entre aseguradoras y hospitales, [obtuvo](https://refreshmiami.com/news/osigu-secures-10m-from-eos-ventures-to-reshape-healthcare-payments-in-latin-america/?utm_source=chatgpt.com) $10 millones de dólares en una ronda liderada por **Eos Ventures** —su primera inversión en América Latina. En el cap table también están **IDC Ventures** y **Visa** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: México [sería](https://mexicobusiness.news/health/news/osigu-secures-us10-million-modernize-health-payments) uno de sus principales mercados. Tienen como country manager en el país a **[Gianfranco Bassi](https://www.linkedin.com/in/gianfranco-bassi-878022121/)**; el [año pasado](https://forbes.co/2024/10/25/emprendedores/esta-healthtech-obtuvo-us25-millones-en-ronda-serie-b-con-respaldo-de-visa) obtuvieron una inversión de $25 millones de dólares.*
+
+[![](https://substackcdn.com/image/fetch/$s_!5BFy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc518df61-0600-4dca-b587-cedabc4083ce_1281x179.jpeg)](https://www.avocadoblockchainservices.com/)
+
+Imagina hacer crecer tu comunidad orgánicamente, reduciendo tu inversión en ads. **Persea Social** lo hace posible combinando Web3, gamificación e IA, para transformar a tus fans en embajadores genuinos.
+
+Lanza campañas con nano-influencers, recompénsalos con coleccionables digitales Web3, recompensas y experiencias físicas, mide y ajusta los resultados en tiempo real.
+
+¡Escala tu marca con engagement auténtico! Conoce más en [avocadoblockchainservices.com](https://www.avocadoblockchainservices.com/) o [agenda una llamada](https://www.avocadoblockchainservices.com/contact-us) con nosotros.
+
+[![](https://substackcdn.com/image/fetch/$s_!rlrP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2106cf13-8a94-4e4b-b154-076664510136_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!rlrP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2106cf13-8a94-4e4b-b154-076664510136_1281x104.webp)
+
+#### *Breves*
+
+* Las acciones de **Klarna** debutarán hoy en el mercado, y uno de los grandes ganadores será **Sequoia**: la firma de VC habrá invertido cerca de $500 millones de dólares a través de varias rondas, comenzando en 2010, y actualmente controla más de 20% de las acciones con voto. Considerando el precio del IPO, implicaría que esa participación **tiene un valor de $3,500 millones de dólares** ([The Information](https://www.theinformation.com/articles/sequoia-poised-nearly-3-billion-gain-klarna-ipo?rc=xfuqjy)).
+* Aún y cuando **Microsoft** ha sido hasta ahora quien más ha invertido en **OpenAI**, la empresa está ahora haciendo un deal con **Anthropic** para usar su tecnología dentro de ***Office*** ([TechCrunch](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/)).
+* **Five Guys** cerró 2024 con **1,558 restaurantes** e ingresos totales de poco más de $1,000 millones de dólares. Fuera de EUA y Canadá, tienen además 256 sucursales en Francia, Alemania, España y UK ([QSR](https://www.qsrmagazine.com/story/heres-how-many-restaurants-five-guys-opened-in-2024/)).
+
+---
+
+#### En las nubes
+
+El precio de las acciones de **Oracle** se disparó ayer **27%**, después de que la empresa reportó un aumento extraordinario en sus pedidos para los siguientes años.
+
+*“The software-and-cloud firm is enjoying what you might call **its Nvidia moment** (…) Oracle reported that a spate of new contracts lifted the backlog of its business—the work it has contracted to handle but hasn’t yet recognized in revenue—**by 359%** (…) The backlog underpinned Oracle’s projections that revenue from its **cloud server rental business** will soar to $144 billion by fiscal 2030 from $10 billion in fiscal 2025*” ([The Information](https://www.theinformation.com/articles/oracles-blockbuster-projections-apples-new-iphones?rc=xfuqjy)).
+
+> ***Comentario Whitepaper**: es una empresa que está a punto de cumplir **50 años** y que su market cap está ya muy cerca de $700,000 millones de dólares (en 2022 valía $177,000 millones). Con esto, [Larry Ellison está alcanzando a Elon Musk](https://www.bloomberg.com/news/articles/2025-09-10/oracle-co-founder-larry-ellison-closes-in-on-elon-musk-as-world-s-richest-man) —ayer, el fundador de Oracle vio su fortuna personal crecer **$70,000 millones de dólares en un solo día** y está “a solo” $20,000 millones de superar a Musk para convertirse en el hombre más rico del planeta.*
+
+---
+
+#### Spotlight en: Ironman
+
+[![](https://substackcdn.com/image/fetch/$s_!H9la!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb20c3710-1101-41c9-818f-a0369c82bd97_1952x1269.jpeg)](https://substackcdn.com/image/fetch/$s_!H9la!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb20c3710-1101-41c9-818f-a0369c82bd97_1952x1269.jpeg)
+
+**Ironman Group**, la empresa detrás de las carreras **Ironman** —3.86 km de nado, 180 km en bicicleta y 42.2 km corriendo, en menos de 17 horas— nació en 1978 con apenas 15 participantes en Hawaii. Ha pasado por varios dueños hasta que en 2020 **Advance Publications**, dueña de **Condé Nast**, la compró a **Wanda Sports Group** en una transacción de $730 millones de dólares. En ese momento, reportaba ingresos por poco más de [$90 millones de dólares](https://www.triathlete.com/culture/news/what-the-initial-ironman-ipo-filing-tells-us/).
+
+Uno de los principales objetivos de la empresa es convertirse en algo más que un organizador de carreras. *“You may only race with us once or twice a year, but you’re probably training year-round,”* dijo su CEO a [Bloomberg](https://www.bloomberg.com/news/features/2025-09-05/ironman-ceo-plans-business-beyond-triathlons) en una entrevista reciente. Para lograrlo, Ironman ha estado desarrollando colaboraciones con marcas como **Hoka**, **Athletic Brewing** y **Breitling**, además de contar ya con una colección amplia de ropa disponible en su sitio web.
+
+Hoy organiza más de 220 eventos al año en 55 países, y espera alcanzar 1 millón de participantes en 2025 (***Redacción Whitepaper**)*.
+
+---
+
+##### Presentado por:
+
+#### **EVOLVE WITH CLASS**
+
+**E 350 e with EQ Hybrid Technolog**y combina lo mejor de dos mundos: un motor eléctrico y uno de combustión. Silencio cuando lo necesitas, potencia cuando lo deseas.
+
+**Exterior sofisticado**Un frontal exclusivo junto a las luces traseras tridimensionales inspiradas en la estrella de Mercedes-Benz, expresan un diseño que honra la herencia de la marca.
+
+**Interior inmersivo**Con un estilo deportivo, de alta calidad y digital, conducirlo es una experiencia especialmente impresionante e inmersiva: sistema multimedia MBUX Superscreen para conductor y acompañante, cámara de selfies y videos y sistema de sonido surround Burmester® 4D con Dolby Atmos®.
+
+**Tu movilidad, tu ritmo**Recarga fácil con Mercedes-Benz Wallbox y disfruta de eficiencia, versatilidad y confort. Cargador incluido.
+
+[![](https://substackcdn.com/image/fetch/$s_!ZSHG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7cdeaa-1ffe-4c11-896c-d80a0f1fba0b_1456x784.webp)](https://www.mercedes-benz.com.mx/es/passengercars/buy/new-car/product.html/W214_0573719246_MX_2205809)
+
+[Conoce más](https://www.mercedes-benz.com.mx/es/passengercars/buy/new-car/product.html/W214_0573719246_MX_2205809)

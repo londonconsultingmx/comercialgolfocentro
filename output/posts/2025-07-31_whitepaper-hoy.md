@@ -1,0 +1,119 @@
+# Whitepaper, Hoy
+
+> Tiendas en aeropuertos; resultados de BBVA; comercio exterior; Arkpack; sobre la compra de Nordstrom; paletas heladas; Shein; Ferrari y los híbridos; el deal entre el NY Times y Amazon
+
+**Fecha:** 2025-07-31  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-e3f  
+**Word count:** 1081
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!w4zc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b61f215-f9e7-46b4-8d53-92d76959da22_3635x377.png)](https://www.margin.mx/subscribe?coupon=66434119)
+
+---
+
+#### Tiendas en aeropuertos
+
+**Asur** [adquirió](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1483263_1.pdf) por $295 millones de dólares las concesiones comerciales en aeropuertos de la empresa **Unibail-Rodamco-Westfield**. Con esto, tendrán ahora **tiendas en los aeropuertos JFK** de Nueva York, **LAX** de Los Ángeles y **ORD** de Chicago (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: el [año pasado](https://www.asur.com.mx/media/Informes%20Financieros/2024/ASUR-Aeropuerto-Cancun-Mexico-reporte-anual-BMV-IA-2024.pdf), los servicios no aeronáuticos comerciales —tiendas duty free, alimentos y bebidas, estacionamientos, publicidad, entre otros— fueron un negocio de $9,143 millones de pesos para **Asur** (cerca de 30% de sus ingresos totales).*
+
+---
+
+#### Muchos dividendos
+
+**BBVA** está [reportando](https://www.bmv.com.mx/docs-pub/8kmateri/8kmateri_1483362_1.pdf) que sus **operaciones en México** contribuyeron con el equivalente de **€2,578 millones de euros de utilidades** en los primeros seis meses del año; nuestro país representó 44% de los beneficios totales del banco español, y estarían [revisando](https://www.marketscreener.com/news/transcript-banco-bilbao-vizcaya-argentaria-s-a-q2-2025-earnings-call-jul-31-2025-ce7c5fddda89f522) **[al alza](https://www.marketscreener.com/news/transcript-banco-bilbao-vizcaya-argentaria-s-a-q2-2025-earnings-call-jul-31-2025-ce7c5fddda89f522)** las proyecciones para el resto de 2025 (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: BBVA dijo además que tiene cerca de €13,000 millones de euros disponibles para distribuirle a sus accionistas en el corto plazo, y que para el período 2025-2028, buscará repartir dividendos de unos €36,000 millones.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-e3f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2OTQ4MTQ0NiwiaWF0IjoxNzc5MjE1OTI4LCJleHAiOjE3ODE4MDc5MjgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.p74U_9n3bUU1Tu4pzShRqwO2bdE4nmFOPHiZqRolpk8)
+
+---
+
+#### Todo va a EUA
+
+Según datos del [Banco de México](https://www.banxico.org.mx/CuboComercioExterior/ValorDolares/participacion), en mayo México exportó bienes a EUA por $46,308 millones de dólares e importó desde ese país $20,569 millones de bienes. En total, las exportaciones del mes sumaron $55,477 millones y las importaciones, $54,245 millones (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!DtsQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a8b574-0e33-4db4-853d-0ba7d77aa1c1_1303x2531.jpeg)](https://substackcdn.com/image/fetch/$s_!DtsQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a8b574-0e33-4db4-853d-0ba7d77aa1c1_1303x2531.jpeg)
+
+---
+
+#### Empaques
+
+**Arkpack** es una empresa de empaque y embalaje industrial originaria de Tijuana. Tiene plantas en Tijuana, Chihuahua y una más en Monterrey, que estaría [vendiendo](https://www.prnewswire.com/news-releases/specialized-packaging-group-expands-into-monterrey-mexico-with-acquisition-of-arkpack-de-mexicos-monterrey-assets-302515291.html) a una empresa de EUA, **Specialized Packaging Group**, por un monto no revelado. (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: la empresa de EUA tiene además [presencia](https://spgpackaging.com/locations/) en otras seis ciudades en México. Detrás de ellos está **[Altamont Capital Partners](https://altamontcapital.com/portfolio/all/)**, que los adquirió en 2020.*
+
+---
+
+#### Sobre la compra de Nordstrom
+
+En la llamada trimestral —y después de que un analista lo preguntara— **Liverpool** finalmente [compartió](https://www.marketscreener.com/news/transcript-el-puerto-de-liverpool-s-a-b-de-c-v-q2-2025-earnings-call-jul-30-2025-ce7c5fdcd888f225) un poco más de detalles de **por qué** decidieron invertir junto con la familia **Nordstrom** para comprar esa cadena de departamentales.
+
+**[Gonzalo Gallegos](https://www.linkedin.com/in/gonzalo-gallegos-b57267/?originalSubdomain=mx)**, CFO de Liverpool, dijo que la razón principal es **el potencial de la inversión como tal:** esperan que esto termine siendo un proyecto **muy rentable** (y recibir sus buenos dividendos). Por otro lado, añadió que quieren beneficiarse de la experiencia que tiene Nordstrom en **e-commerce**, en el tema de **marcas propias** y en lo que se refiere a su **programa de lealtad**, y también buscarían tener acceso a marcas que están en Nordstrom pero todavía no en Liverpool.
+
+Lo que sí aclaró es que, al menos por ahora, **no hay planes** ni para traer a México a Nordstrom, ni de llevar a EUA a Liverpool (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en [este artículo](https://www.whitepaper.mx/p/el-metodo-socratico-donde-se-compra?utm_source=publication-search), el **abogado** de **Micifustófeles** analiza exhaustivamente el deal entre Liverpool y Nordstrom.*
+
+---
+
+[![](https://substackcdn.com/image/fetch/$s_!z5lA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf57aa07-b0f4-4922-a2d5-7e5e6aa43a35_2037x1050.jpeg)](https://substackcdn.com/image/fetch/$s_!z5lA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf57aa07-b0f4-4922-a2d5-7e5e6aa43a35_2037x1050.jpeg)
+
+**Buena Banda** y **Whitepaper** unen fuerzas y traen a Monterrey un evento, este **5 de septiembre**, para conocer cómo están transformándose algunas de las empresas más grandes en este país, para hablar de emprendimiento y para discutir sobre estrategias de internacionalización —y todo, contado por las protagonistas detrás de estas historias. Conoce a las speakers en la nueva temporada del podcast de Buena Banda.
+
+[Escucha el podcast](https://open.spotify.com/episode/5j22rEk0K3KFDgzZ6Jwe1T?si=49a8f892864b4ef2)
+
+---
+
+#### Paletas heladas
+
+**Kekala** es una empresa que vende paletas congeladas personalizadas, con relleno, cobertura y *toppings*. A nivel global operan más de 200 puntos de venta, principalmente en Brasil, aunque también están en Colombia, Ecuador, Paraguay, Argentina y Venezuela. Venden unas 850,000 paletas al mes.
+
+Este año llegarán a México de la mano de **[Gabriel Gerala](https://www.linkedin.com/in/gabogerala98/?originalSubdomain=mx)**, quien adquirió la *master franchise* para el país. Iniciarán con 40 kioskos —de apenas 7 m², ubicados sobre todo en centros comerciales— y esperan cerrar 2026 con entre 80 y 100.
+
+Para esto, abrieron una fábrica con capacidad para abastecer hasta 250 sucursales, en la que invirtieron $5 millones de dólares (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: las paletas están diseñadas para ser virales en **Instagram** o **Tiktok**. Su cuenta oficial de Instagram (la de Brasil) tiene 375,000 seguidores; menos que **Xile Chile** (417,000), pero más que la de **Tim Hortons** en México (92,000) o la de **Dairy Queen**, también en el país (173,000).*
+
+---
+
+#### Resultados
+
+* Las ventas de **Shein** en el primer trimestre del año habrían aumentado a unos **$10,000 millones de dólares**, con una utilidad cercana a $400 millones. Sin embargo, no hay información acerca de cómo le habrá ido a la empresa en el segundo trimestre, después de que el gobierno de EUA eliminara *de minimis* ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-31/shein-revenue-neared-10-billion-in-first-quarter-before-tariffs)).
+* En lo que va del año, **Ferrari** ha vendido apenas 1% más unidades que en 2024 (poco más de 7,000 vehículos). Sin embargo, **sus ingresos mejoraron 9%**, a casi €3,600 millones de euros, y el EBITDA 10%, a €1,400 millones. El 45% de los autos que vendieron fueron **híbridos** ([MarketScreener](https://www.marketscreener.com/news/ferrari-n-first-half-2025-press-release-ce7c5fddd88bff24)).
+* El market cap de **Microsoft** se espera que hoy **supere $4 trillones de dólares**; sería la segunda empresa, después de **Nvidia**, en llegar a una cifra de ese tamaño. La empresa presentó ayer resultados trimestrales por encima de lo esperado por los analistas ([Reuters](https://www.reuters.com/business/retail-consumer/microsoft-poised-4-trillion-valuation-after-solid-results-2025-07-31/)).
+
+---
+
+#### Contenido valioso
+
+**Amazon** habría acordado pagarle al **NY Times** entre **$20 y $25 millones de dólares anuales**, a cambio de tener acceso a contenido elaborado por el diario. Esto le permitirá a Amazon utilizar el contenido tanto para mostrarle resúmenes a sus propios clientes, así como para **entrenar a sus modelos de AI**. “*The Amazon deal is consistent with our long-held principle that high-quality journalism is worth paying for*”, habría comentado su CEO ([WSJ](https://www.wsj.com/business/media/amazon-to-pay-new-york-times-at-least-20-million-a-year-in-ai-deal-66db8503?mod=hp_lista_pos3)).
+
+---
+
+#### Whitepaper 10: Foreign Corrupt Practices Act
+
+Esta semana hablamos de los resultados de **FEMSA**, **Soriana** y **Liverpool**, del cierre de **HolaCasa**, de centros comerciales en EUA y de Open Banking. En el deep dive, analizamos la **Foreign Corrupt Practices Act** y lo que implica para las empresas en México el hecho de que Trump haya suspendido su aplicación.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/88-foreign-corrupt-practices-act/id1584711514?i=1000719866950), [Spotify](https://open.spotify.com/episode/0LGT8lGoewvkvpXub63ert?si=fDXBG7nqTwyqC90E27m8_w), [Youtube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+##### Presentado por:
+
+**Margin** es una publicación semanal que proporciona información *data-driven* sobre lo que está sucediendo en el panorama económico y financiero en México. Creemos que los empresarios, inversionistas y ejecutivos con exposición **al sector financiero** en nuestro país necesitan un producto de *research* accesible, enfocado en ofrecer *insights* puntuales y fáciles de digerir sobre lo que está sucediendo en el ecosistema financiero de nuestro país.
+
+[Pruébalo gratis durante 14 días.](https://www.margin.mx/66434119)
+
+[![](https://substackcdn.com/image/fetch/$s_!WTsq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0416c080-8b51-4e5c-968f-a434c31d4577_1080x1080.png)](https://www.margin.mx/subscribe?coupon=66434119)
+
+[Prueba aquí](https://www.margin.mx/subscribe?coupon=66434119)

@@ -1,0 +1,135 @@
+# Whitepaper, Hoy
+
+> Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas
+
+**Fecha:** 2025-06-12  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-135  
+**Word count:** 1150
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!bAYl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10f5c9f-ac24-407a-b378-7d151d15e48b_600x154.jpeg)](https://eaglepropertycapital.com/)
+
+---
+
+#### Llegando a Latinoamérica
+
+Una empresa de China, **Hengli,** invirtió $200 millones de dólares para desarrollar en **Nuevo León** su primera planta en el continente. Producirán cilindros hidráulicos para grúas y equipos industriales. Además, anunciaron **$125 millones adicionales** para un **centro de R&D** y para una nueva división especializada en electrónica (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** fundada en 1990, [Hengli](https://www.henglihydraulics.com/en/col749/) tiene presencia en más de 20 países y opera 11 plantas a nivel global.*
+
+---
+
+#### Mucha cerveza
+
+Apenas estrenándose como CEO de **Heineken México**, **[Oriol Bonaclocha](https://www.linkedin.com/in/oriol-bonaclocha-3a17441/?originalSubdomain=mx)** anunció en la mañanera que invertirán [$2,750 millones de dólares](https://www.marketscreener.com/quote/stock/HEINEKEN-N-V-6283/news/Heineken-to-invest-over-2-7-billion-in-Mexico-through-2028-50215553/) hacia 2028; una buena parte de esto va para el desarrollo de una nueva planta en **Yucatán** (***Redacción Whitepaper)***.
+
+> ***Comentario Whitepaper:** en el portafolio de **Heineken** hay 21 marcas, emplean a 18,000 personas, tienen 179 centros de distribución y alrededor de 17,000 tiendas **Six**.*
+
+---
+
+#### Otra que se va
+
+**Grupo México Transportes** propondrá a sus accionistas **deslistar** sus acciones de la **BMV**. La empresa hizo su IPO en 2017, cuando obtuvo cerca de $1,000 millones de dólares, una de las colocaciones más relevantes en México en los últimos años (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:** otras empresas mexicanas que se han deslistado (o están en proceso) son **Lala**, **Monex**, **Aeroméxico**, **Bio Pappel**, **Bachoco**, **Interceramic**, **Javer** y **Urbi**.*
+
+---
+
+#### Donas y café
+
+**Dunkin**, que ya opera en CDMX, Mérida, Cancún, Nogales y Tijuana, este año abrirá entre 10 y 12 tiendas en Nuevo León, en alianza con **Grupo Galería**. La marca es parte de **Inspire Brands**, el conglomerado dueño también de **Arby’s**, **Buffalo Wild Wings** y **Sonic** ([El Financiero](https://www.elfinanciero.com.mx/monterrey/2025/06/11/llega-dunkin-a-monterrey-anuncia-plan-de-expansion-en-norte-de-mexico/)).
+
+> ***Comentario Whitepaper:** **Grupo Galería**, liderado por **Antonio Barceló**, reporta tener 68 sucursales de **Carl’s Jr**, 15 de **Buffalo Wild Wings** y 4 de **IHOP**.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-135?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2NTM2NDA4NSwiaWF0IjoxNzc5MjE1OTgxLCJleHAiOjE3ODE4MDc5ODEsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.3VtIlAjx0l4-qEm33t-sWipFo1F7CbQ_W0Rso40qHCo)
+
+---
+
+#### Turismo
+
+**Cofece** habría [autorizado](https://www.reforma.com/cofece-autorizo-la-inversion-de-royal-caribbean/ar3020466) a **Royal Caribbean** la compra del puerto de Mahahual, en Quintana Roo, por $220 millones de dólares. Además, la empresa invertirá $600 millones para desarrollar “Perfect Day México”, un [parque](https://www.royalcaribbeanpresscenter.com/video/1396/introducing-perfect-day-mexico-the-game-changing-destination-for-thrill-and-chill-in-fall-2027//) turístico que esperan tener operando en 2027 (***Redacción Whitepaper***).
+
+---
+
+#### Energías renovables
+
+**Bimbo** aseguró que **97% de la energía** que consume a nivel global viene de **fuentes renovables** (en 28 de los 35 países en los que opera, esta cifra asciende a 100%) y que 94% de sus empaques son **reciclables**. Además, presume contar con **4,200 vehículos eléctricos** —la flota más grande de este tipo en LATAM ([MarketScreener](https://www.marketscreener.com/quote/stock/GRUPO-BIMBO-S-A-B-DE-C-V-6491954/news/Grupo-Bimbo-Announces-That-97-of-the-Electricity-it-Uses-Globally-Comes-From-Renewable-Sources-50216017/)).
+
+---
+
+#### Empresarios que tiene su propio programa
+
+En México a los líderes empresariales les cuesta mucho hablar en público sobre sus empresas (la famosa excusa del “**bajo perfil**”). Esto contrasta con lo que estamos viendo en otros mercados: **empresarios y ejecutivos que lanzan sus propios programas**, por lo general en formato de **podcast**, para hablar de temas de negocio. **Nikolai Tangen**, por ejemplo, encabeza el fondo soberano de **Noruega** (o sea, nadie le puede negar una invitación a su programa). Aquí hay algunos otros ejemplos (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!pIVl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722bd48e-b4c0-4b75-9e3b-f1d536640971_2250x5400.jpeg)](https://substackcdn.com/image/fetch/$s_!pIVl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722bd48e-b4c0-4b75-9e3b-f1d536640971_2250x5400.jpeg)
+
+> ***Comentario Whitepaper:** ¿A **qué empresario mexicano** te gustaría ver conduciendo su propio programa y haciendo entrevistas?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-135/comments)
+
+---
+
+#### Hispanos
+
+“*Fear and uncertainty are **driving changes in shopping behavior**. The Trump administration’s sweeping deportations of immigrants living in the country illegally have made many Latinos—including those with legal status—fearful of being stopped by immigration officers. Many consumers say **they are retreating from public life**, forgoing their regular shopping trips and restaurant meals. Beyond deportation fears, job losses in industries like construction have left Hispanics with **less money to spend***”.
+
+Coca-Cola, Colgate-Palmolive, Constellation Brands, Walgreens, Home Depot, Dollar General —cada vez más empresas en EUA están **reportando verse afectadas** porque la comunidad hispana r**edujo las visitas a sus tiendas** o disminuyó las compras de sus productos ([WSJ](https://www.wsj.com/business/retail/latino-shoppers-retail-sales-coke-7005b8ac?mod=hp_lead_pos7)).
+
+> ***Comentario Whitepaper**: …mientras tanto, en el **surrealista** mundo de la política el presidente **Trump** asistió ayer al estreno de **Los Miserables** en el Kennedy Center —una de sus obras favoritas. Esto, justo un par de días después de haber **enviado a Fuerzas Armadas a Los Ángeles** para controlar las manifestaciones en contra de sus políticas.*
+
+---
+
+#### Whitepaper 10: Nearshoring
+
+Esta semana platicamos sobre **Arca Continental** y sus **maquinitas**, de la obsesión por los **viajes de lujo**, de la caída en el precio de las acciones de marcas que le interesan a esta audiencia y también de las juntas *one on one*. En el **deep dive**, una actualización al **nearshoring**.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/82-whitepaper-10-nearshoring/id1584711514?i=1000712508731), [Spotify](https://open.spotify.com/episode/7thuIXvGClnYV4Ui0wsdiJ?si=6EDzRZ2ITVqj8-be2cYbvQ) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Golf
+
+Una empresa llamada **Arcis**, de Dallas, está haciendo un ***roll-up*** de campos de golf: tienen ya **70 clubes**, incluyendo **18 que adquirieron en los últimos 3 años**. Su estrategia es comprar clubes rentables, invertir millones en su infraestructura y sus amenidades, y promoverlos para mejorar sus resultados. La valuación de la empresa se estima en $2,000 millones de dólares ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-11/arcis-golf-reaches-2-billion-valuation-buys-three-atlanta-courses?srnd=homepage-americas)).
+
+> ***Comentario Whitepaper**: el mes pasado [compraron](https://finance.yahoo.com/news/arcis-golf-acquires-woodlands-country-233700504.html) **The Woodlands Country Club**, que cuenta con 5 campos y 99 hoyos, además de gimnasios, canchas de tennis, salones para eventos, etc. Planean invertirle $30 millones de dólares para mejorar sus instalaciones.*
+
+---
+
+#### Todos quieren pollo
+
+El año pasado, las ventas de las cadenas de restaurantes en EUA aumentaron 3%. Y mientras que la categoría de hamburguesas avanzó apenas 1%, la de **pollo** creció **9%**. Cadenas como **Raising Cane’s** y **Wingstop** registraron aumentos de hasta **24%** en sus ventas año con año.
+
+Este crecimiento está detonando una ola de fusiones y adquisiciones: **Dave’s Hot Chicken** se vendió a **Roark Capital** por cerca de $1,000 millones de dólares, y ahora **Bojangles** está explorando una posible venta, con una valuación superior a $1,500 millones ([WSJ](https://www.wsj.com/business/deals/bojangles-is-exploring-a-sale-while-the-fried-chicken-market-is-hot-5cc6fb9e?mod=business_lead_pos2)).
+
+---
+
+#### Fumando
+
+“*She’s just a smoker. And she’s wildly on trend. That’s because, at least in the world of entertainment, **cigarettes are once again cool** (…) And these smokers are largely celebrated. The overwhelming sentiment is: Sure, cigarettes are bad for you, but **they make you look good***”.
+
+En películas, series, reality shows y hasta conciertos, **los cigarros están de vuelta** y aumentando en popularidad ([NY Times](https://www.nytimes.com/2025/06/11/movies/smoking-materialists-the-bear-lorde-charli-xcx.html)).
+
+---
+
+##### Presentado por:
+
+#### El momento de invertir en dólares es ahora.
+
+**Eagle Property Capital** es una administradora de fondos de inversión especializada en *Multifamily* (vivienda en renta) en EE.UU. Desde su fundación en 2011, ha adquirido y reposicionado más de **10,400 departamentos**, actualmente administra más de **$1,330 MM USD** en activos.
+
+Los retornos objetivo de los fondos son de **12.0% a 15.0%** **anual en dólares** y un múltiplo de capital de 1.7x a 2.0x.
+
+Dentro de las ventajas de invertir en *Multifamily están* las distribuciones trimestrales, inversión en dólares, apreciación de las propiedades y cobertura contra inflación, en una de las clases de activos más resilientes.
+
+Contacta a **Marcelo Margáin Zambrano** por teléfono o *WhatsApp* **[+52](http://wa.me/528180201416)****[81 8020 1416](http://wa.me/528180201416)**, o por mail [marcelo.margain@epcinvest.com](mailto:marcelo.margain@epcinvest.com) para conocer más sobre **Eagle Property Capital** y su nuevo **Fondo VI**.
+
+[Eagle Property Capital](https://eaglepropertycapital.com/)

@@ -1,0 +1,163 @@
+# Whitepaper, Hoy
+
+> Yazaki y SKF en NL; Bafar y Ciemsa Foodservice; Telefónica; La entrevista al CFO -Ana Yañez, de Actinver; Avocados from Mexico; Las Vegas; Satellites on Fire; Levi's; US Navy; spotlight en Bloom
+
+**Fecha:** 2026-04-08  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-05f  
+**Word count:** 1893
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!7Weu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bf7712e-e124-42f3-b3c2-51ae7e0af02c_1080x195.png)](https://londoncg.mx/growth-stories)
+
+---
+
+#### Se expande…
+
+**Yazaki**, de Japón, [invertirá](https://mexicoindustry.com/noticia/yazaki-anuncia-inversion-de-66-millones-de-dolares-en-santa-catarina-nuevo-leon) $66 millones de dólares para ampliar la operación que tienen en Nuevo León; en los últimos tres años ha [invertido](https://www.nl.gob.mx/es/boletines/promueve-samuel-nl-como-destino-estrategico-para-inversion-japonesa) $36 millones de dólares en ese estado. Se especializa en el desarrollo de sistemas eléctricos para la industria automotriz (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a nivel global, es una empresa con más de 200,000 empleados y presencia en 46 países. En 2024 tuvo [ingresos](https://www.yazaki-group.com/en/company/) por unos $17,000 millones de dólares, de los cuales 34% provinieron de América.*
+
+---
+
+#### … y otra se contrae
+
+*“The Monterrey factory was originally established as a shared factory for both Industrial and Automotive, and to support a forecasted increase in demand for electric vehicles (EV) in the Americas. Following the decision to separate the businesses, combined with the lower than anticipated EV growth, the Monterrey facility exceeds the operational requirements of each individual business.”*
+
+La sueca **SKF** cerrará su planta en Monterrey y [consolidará](https://www.skf.com/group/news-and-events/news/2026/2026-Apr-07-skf-consolidates-its-manufacturing-footprint-in-americas-to-strengthen-operations) su producción en otras instalaciones que opera en Nuevo León y Puebla. La decisión forma parte del proceso de separación de su negocio automotriz del industrial, además de una menor demanda de lo esperado en vehículos eléctricos (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: a inicios de 2023 [invirtieron](https://www.whitepaper.mx/i/99292325/nearshoring) cerca de $70 millones de dólares para desarrollar esta planta. Ese mismo año, [cerraron](https://www.whitepaper.mx/i/139062954/breves) una planta en Busan, Corea, para trasladar su producción a Puebla.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-05f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MzM3NjQxNCwiaWF0IjoxNzc5MjE0OTQyLCJleHAiOjE3ODE4MDY5NDIsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.BLC3DtmOfnD_hD0isQdnZWX7z8cNOt8zxmaqPMzy8hQ)
+
+---
+
+#### Foodservice
+
+**Grupo Bafar** está adquiriendo a **Ciemsa Foodservice**, una proveedora para hoteles y restaurantes que tiene Cedis en lugares como Cancún, Los Cabos y CDMX (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: es una transacción importante para Bafar porque además de extender su cobertura, les permitirá incursionar en un segmento de clientes más bien “de alta gama”.*
+>
+> *Coincide además que la empresa de Chihuahua ha tenido semanas con mucha actividad: inauguraron sus **nuevos edificios corporativos** y sumaron un nuevo centro de distribución en **La Piedad**, y otro en **El Paso** (este último, una inversión de más de $40 millones de dólares).*
+
+---
+
+#### Telefonía
+
+En un deal de $450 millones de dólares, **Telefónica** acordó vender 100% de su operación en México a **Melisa Acquisition**, un grupo encabezado por **OXIO** y el fondo Newfoundland Capital Management, de Brasil (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: **OXIO**, con sede en NY y una oficina en México, es una empresa fundada en 2018 que compra capacidad de red a operadores —como AT&T, Telcel o Altán Redes— y permite que otras compañías ofrezcan su propio servicio de telefonía sin necesidad de infraestructura física (entre sus [clientes](https://oxio.com/company/press-room/telecom-as-a-service/) están Bimbo, Coppel y Rappi).*
+>
+> *En todo caso, es una transacción **importante**. OXIO hasta ahora ha venido atendiendo a clientes mayoristas, pero con esto está entrando al mercado minorista (con millones de clientes). Lo que le compran a Telefónica es precisamente una cartera de clientes y el contrato de acceso a una red. Es un modelo de negocio muy **apretado en márgenes**, pero con escala muy significativa.*
+
+---
+
+#### La entrevista al CFO: Ana Yañez, Actinver
+
+[![](https://substackcdn.com/image/fetch/$s_!e2e7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff784b909-c496-48cb-8d52-a9ef8b7cea6d_1107x973.jpeg)](https://substackcdn.com/image/fetch/$s_!e2e7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff784b909-c496-48cb-8d52-a9ef8b7cea6d_1107x973.jpeg)
+
+Antes de convertirse en CFO de Actinver, Ana Yáñez pasó más de una década en banca de inversión —y justo en el momento que ella misma describe como la “época dorada” del mercado bursátil en México. Durante más de una década participó en IPOs, follow-ons y transacciones de M&A, analizando empresas de todos los sectores. Fueron años con un mercado dinámico, con colocaciones prácticamente mensuales y una mayor apertura para empresas de distintos tamaños.
+
+“Un día piensas como retailer, al siguiente como aerolínea, luego como cablera”. Esas funciones -entender modelos de negocio, valuarlos y proyectarlos— se convertiría en la base de su formación financiera para la economista del ITAM.
+
+#### *Continúa leyendo al final del correo*
+
+---
+
+#### Aguacates
+
+Desde 2023, **Avocados from Mexico** patrocina los playoffs colegiales, buscando impulsar el volumen de consumo, como lo hizo antes con el Super Bowl. El resultado es que el futbol americano colegial, junto con el constante aumento en la popularidad del *Cinco de Mayo*, están convirtiéndose en dos de los principales ***drivers*** del consumo de aguacate en EUA. Proyectan una cifra récord en las importaciones de aguacate para la temporada 2025-2026 ([Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/college-football-cinco-de-mayo-drive-record-us-avocado-imports)).
+
+> ***Comentario Whitepaper**: en [este artículo](https://www.whitepaper.mx/p/posicionando-aguacates) contamos la historia de **Avocados from Mexico** y cómo ayudó a popularizar el aguacate en EUA.*
+
+[![](https://substackcdn.com/image/fetch/$s_!KZuR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b26b823-b377-46bd-b2c3-a6cc8ff39fcd_1281x160.webp)](https://monthly.la/)
+
+**¿Conoces cuánto vale tu empresa? Valora te lo dice — hoy, y en el futuro.**
+
+La mayoría de los dueños de empresa descubren el valor de su empresa cuando ya es tarde: en una negociación, ante un inversionista, o al vender. **Valora by Monthly** te da esa claridad antes de que la necesites — con la valuación de hoy y su proyección para los próximos años.
+
+Mira un ejemplo de **[reporte](http://linke.to/valora-reporte)**.
+
+Valora es un producto de **[Monthly](https://monthly.la/)**, el CFO Digital en donde más de 100 empresas tienen sus finanzas como en la bolsa de valores.
+
+Suscriptores de Whitepaper tienen **10% de descuento** y 30 días gratis de acceso a su plataforma de finanzas corporativas. Agenda una llamada **[aquí](https://linke.to/monthly-call)** o escríbele a su CEO por **[WhatsApp](https://linke.to/monthly-WA)**.
+
+[![](https://substackcdn.com/image/fetch/$s_!2zhj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bce74ca-cbde-4352-ae9e-0e756cbfe0f2_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!2zhj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bce74ca-cbde-4352-ae9e-0e756cbfe0f2_1281x104.webp)
+
+#### Lo que pasa en Las Vegas…
+
+El número de personas que visitaron Las Vegas el año pasado **disminuyó**; ese destino simplemente **no ha logrado** regresar a las cifras que tenía antes de la pandemia.
+
+Sin embargo, detrás de este dato del total de visitantes se ‘esconden’ dos tendencias importantes: una es que los hoteles tipo el **Wynn** o el **Venetian** siguen con una **enorme demanda** (los que están sufriendo la caída en visitas son hoteles más baratos, como Excalibur o Luxor). Por otro lado, la ciudad está **transformándose** en un **hub deportivo**, con equipos de NFL, NHL, MLB (y próximamente NBA, al parecer), además de la **Fórmula Uno** ([The Economist](https://www.economist.com/united-states/2026/04/06/as-more-states-legalise-gambling-what-next-for-las-vegas)).
+
+---
+
+#### *Breves*
+
+* **Dalus** está liderando una ronda de inversión de $2.7 millones de dólares en ***Satellites on Fire***, una startup de **Argentina** que desarrolló una plataforma de AI para **detectar incendios forestales desde el espacio**; apuntan al mercado de EUA ([Forbes](https://www.forbesuruguay.com/innovacion/a-16-anos-crearon-una-empresa-combatir-incendios-satelites-ahora-levantaron-us-27-millones-capital-buscan-radicarse-uruguay-n88763)).
+* **Levi Strauss** [reportó](https://investors.levistrauss.com/news/financial-news/news-details/2026/Levi-Strauss--Co--Reports-First-Quarter-Results/default.aspx) un aumento de 14% en sus ingresos en los primeros tres meses del año y presumió que esto habría sido gracias a su estrategia de *direct to consumer*. Las utilidades mejoraron 26%, a $177 millones de dólares. Destacaron un crecimiento de doble dígito [en México](https://www.marketscreener.com/news/transcript-levi-strauss-co-q1-2026-earnings-call-apr-07-2026-ce7e50dad88cf12d) (***Redacción Whitepaper***).
+* “*Some of the stores are so large, they offer everything from Tempur-Pedic mattresses and dishwashers to Estee Lauder fragrances and buzzy razor brands*”— la **US Navy** opera una **cadena de tiendas propias** alrededor del mundo (cerca de sus bases) que en 2024 registró ingresos totales de **$2,300 millones de dólares**. Algunas de las sucursales son tipo tiendas departamentales y otras tipo tiendas de conveniencia ([CNBC](https://www.cnbc.com/2026/04/08/navy-exchange-stores-compete-walmart-amazon-to-fund-future.html)).
+
+---
+
+#### Spotlight en: Bloom Nutrition
+
+[![](https://substackcdn.com/image/fetch/$s_!QfAM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7da1e8d7-f225-4f7e-b990-3afc03c121e5_1535x925.jpeg)](https://substackcdn.com/image/fetch/$s_!QfAM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7da1e8d7-f225-4f7e-b990-3afc03c121e5_1535x925.jpeg)
+
+Aprovechando que había crecido a más de 600,000 seguidores en social media, en 2019 Mari Llewellyn lanzó Bloom, su propia marca de suplementos. La influencer de fitness arrancó ofreciéndole a su audiencia un solo SKU, pero eso no impidió que en menos de un año vendiera cerca de $1 millón de dólares de suplementos. Cinco años más tarde, es una marca que genera alrededor de $300 millones de dólares de ingresos al año.
+
+Bloom hoy cubre casi todas las categorías de wellness: proteína, energy drinks, bebidas prebióticas, gomitas y colágeno (entre otras). Su energy drink, lanzado en 2024, [generó](https://www.inc.com/ali-donaldson/want-to-score-more-than-2-million-in-sales-in-two-weeks-make-these-hires/91227046) $8 millones en sus primeros seis meses y Bloom Pop, su bebida prebiótica lanzada en 2025, $2.7 millones en sus primeras semanas. Sus productos están ahora disponibles también en unas 50,000 tiendas, incluyendo sucursales de Target, Walmart, y Costco.
+
+En 2024, [Nutrabolt](https://nutrabolt.com/) —una empresa de wellness valuada en casi $3,000 millones de dólares— [adquirió](https://www.fooddive.com/news/nutrabolt-bloom-nutrition-investment/759735/) 20% de Bloom por $50 millones. En septiembre de 2025, invirtió $160 millones más y se convirtió en accionista mayoritario (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!ujx6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb50da5b7-0748-433e-bd90-436a18a6bf93_1080x195.png)](https://londoncg.mx/growth-stories)
+
+**London Consulting Group** es una empresa de consultoría enfocada en incrementar la rentabilidad de sus clientes.
+
+Con sólida presencia en México y presencia global en 26 países, se dedican a elevar la productividad y eficiencia operativa de organizaciones en diferentes giros.
+
+Su metodología se enfoca en la optimización de procesos y estrategias, con un alto enfoque en la gestión del cambio. Su implementación activa y efectiva de soluciones genera, en promedio, un retorno de inversión de 5 a 1.
+
+Visita su página web [www.londoncg.com](https://londoncg.mx/growth-stories) o contacta a Luis Ortiz -*CEO & Founder Mexico*- al [luis.ortiz@londoncg.mx](mailto:luis.ortiz@londoncg.mx) y comienza la transformación de tu empresa.
+
+[London Consulting Group](https://londoncg.mx/growth-stories)
+
+---
+
+#### *…continúa: La entrevista al CFO: Ana Yañez, Actinver*
+
+Su llegada a Actinver fue, hasta cierto punto, circunstancial. Desde banca de inversión participó en la adquisición de la banca privada de Credit Suisse en México, un proceso que la llevó a trabajar de cerca con el entonces CFO —hoy CEO— del grupo. Ese proyecto marcó el punto de inflexión. Tras la integración, tomó la relación con inversionistas, luego la planeación financiera y, más adelante, la estrategia. Cuando finalmente asumió el rol de CFO, llevaba años preparándose para ello.
+
+Hoy, desde esa posición, está convencida de que Actinver está entrando en una etapa en la que la prioridad debe ser el enfoque, incluso por encima de las oportunidades de expansión.
+
+El grupo financiero lleva tres años mejorando de forma considerable sus utilidades: de haber ganado $954 millones de pesos en 2022, para 2025 esa cifra aumentó a más de $1,700 millones.
+
+El motor principal en este crecimiento pareciera ser el negocio de administración de fondos. Al cierre de 2022, los activos en fondos de inversión estaban en $183,000 millones, representando 6.4% del mercado. Tres años después, alcanzaron $330,000 millones —casi duplicaron los activos bajo gestión— y con ello, las comisiones que esto les genera se dispararon de unos $3,300 millones en 2022, a $5,400 millones el año pasado.
+
+Ana explica que Actinver está desacelerando el crecimiento en número de clientes para enfocarse en segmentos más rentables dentro de la banca privada y patrimonial. Lo mismo ocurre en crédito: menor crecimiento, pero con mayor disciplina en originación.
+
+En paralelo, la firma está ejecutando un plan de transformación tecnológica. El cambio del core bancario —una operación que la CFO compara con “cirugía a corazón abierto”— implica años de implementación, duplicidad de sistemas y una presión significativa en costos. A esto se suma la digitalización completa de productos y la expansión de capacidades tecnológicas.
+
+“Hoy estamos invirtiendo de forma consciente. Las eficiencias vendrán después”, señala.
+
+Esa visión de largo plazo podría implica menor crecimiento en los próximos dos años, seguido de una aceleración hacia finales de la década.
+
+Más allá de los proyectos específicos, para Yáñez a función central del CFO es la asignación de capital: decidir dónde invertir, dónde no y cómo medir el retorno de cada decisión.
+
+Ese enfoque implica renunciar a oportunidades. Parte del trabajo —quizá menos visible— es decidir qué proyectos no seguir, en qué áreas no priorizar y cómo mantener el foco estratégico. “No se trata solo de crecer, sino de crecer de forma rentable y en los segmentos correctos”.
+
+Hacia adelante, el reto es doble. Tienen que navegar un entorno de tasas a la baja y mayor competencia digital, y a la vez entender a un cliente que cambia constantemente.
+
+Para ella, la clave está en anticiparse. “No es solo quién es tu cliente hoy, sino quién va a ser en tres años” (***Redacción Whitepaper***).

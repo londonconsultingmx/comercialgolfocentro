@@ -1,0 +1,149 @@
+# Whitepaper, Hoy
+
+> Grupo Posadas; resultados de Nazca; uniones de crédito; SuKarne; intercambio comercial; taquerías de EUA; Trump Card; el Ferrari eléctrico; streaming vs cable
+
+**Fecha:** 2025-06-17  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-d2f  
+**Word count:** 1173
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!W5q1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef48802-762b-4468-9f26-6a7dce019dde_1080x195.png)](https://news.londoncg.com/es/growth-stories-temporada-1)
+
+---
+
+#### Hoteles
+
+Entre 2025 y 2027 **Grupo Posadas** planea sumar 32 nuevos hoteles —más de 5,000 cuartos adicionales— y para ello proyectan destinar cerca de $900 millones de dólares. Actualmente tienen 197 hoteles, alrededor de 30,000 cuartos, y [ventas trimestrales](https://cms.posadas.com/documents/3110971/16954923/1T25%20BMV.pdf?_gl=1*1apue56*_gcl_au*ODUwODY5OTgxLjE3NTAwOTQ3NzI) de casi $3,000 millones de pesos. A la cabeza está **[José Carlos Azcárraga](https://www.linkedin.com/in/jose-carlos-azcarraga-543b933/?originalSubdomain=mx)** **(*****Redacción Whitepaper*****).**
+
+> ***Comentario Whitepaper**: más de 60% de sus cuartos **están en playas**. Este mes [inauguraron](https://www.hotelmanagement.net/development/posadas-accelerates-all-inclusive-growth-mexico-carribean) un Fiesta Americana en Nuevo Vallarta.*
+
+---
+
+#### VCs de México
+
+**Nazca** está presumiendo el cierre de su primer fondo: de acuerdo con la firma mexicana de venture capital, **distribuyeron $110 millones de dólares a sus inversionistas** —más del **triple** del capital invertido originalmente en 2015.
+
+Con ese fondo, en su momento **Nazca** invirtió en startups como OPI, Urbvan, Creze y TrueHome; las estrellas en el portafolio habrían sido **Kavak** y **Zebrands**. Reportan haber realizado en total **12 eventos de liquidez**, entre 9 startups, y con ello alcanzar una TIR de 28.8% (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: aquí se ve el efecto positivo de las **ventas secundarias** —en el caso de **Kavak**, por ejemplo, Nazca fue uno de los primeros inversionistas, y luego pudo vender acciones en rondas subsecuentes, cuando su valuación se había ya multiplicado varias veces (y también ganó cuando el mismo Kavak compró a OPI, donde también estaban invertidos). En el caso de **Zebrands**, pudieron salir en [la reciente transacción](https://www.whitepaper.mx/p/whitepaper-hoy-9d7?utm_source=publication-search); en este caso debe haber sido un retorno **de más de 20x**.*
+>
+> *Por lo pronto, **Nazca**, que [se fusionó](https://www.whitepaper.mx/p/whitepaper-hoy-f18?utm_source=publication-search) con **Bridge Partners** en marzo, está justo en proceso de lanzar un nuevo fondo.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-d2f?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE2NjExMjM1MiwiaWF0IjoxNzc5MjE1OTc2LCJleHAiOjE3ODE4MDc5NzYsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.2zknlO_G-_xyzMvOO1nKAOF_4-73D2yTdRlQ_whPiJU)
+
+---
+
+#### Uniones de crédito
+
+Según datos de la CNBV, actualmente hay 62 uniones de crédito operando en México. En conjunto, estas instituciones reportaron una cartera de crédito superior a $49,000 millones de pesos al cierre de marzo —5% más que el año pasado.
+
+Del total, 11 manejan portafolios mayores a $1,000 millones de pesos, 16 tienen entre $250 y $1,000 millones, y otras 18 superan $100 millones de pesos (***Redacción Whitepaper, vía [Tukán](https://tukanmx.com/)***).
+
+> ***Comentario Whitepaper:** como contexto, las uniones de crédito únicamente realizan préstamos y operaciones financieras con sus socios y son diseñadas para ofrecer condiciones más favorables de crédito e inversión. Por ejemplo, entre las uniones más grandes está una asociación de [distribuidores de vehículos Chrysler](https://www.ucda.com.mx/), o [una de los proveedores y ganaderos de Alpura](https://udcalpura.com/).*
+
+[![](https://substackcdn.com/image/fetch/$s_!5Jw7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab1a714a-c2fb-44f1-b37f-d3d0c7b3bba8_1098x1600.jpeg)](https://substackcdn.com/image/fetch/$s_!5Jw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab1a714a-c2fb-44f1-b37f-d3d0c7b3bba8_1098x1600.jpeg)
+
+---
+
+#### Carne
+
+El año pasado **SuKarne** vendió $72,000 millones de pesos; más de 30% provino de exportaciones a EUA, Japón y Centroamérica. Opera 25 plantas y controla 465,000 cabezas de ganado ([Mexico Industry](https://mexicoindustry.com/noticia/sukarne-fortalece-su-modelo-de-negocio-en-norteamerica-con-un-enfoque-integral)).
+
+> ***Comentario Whitepaper**: la empresa, con sede en Culiacán, es más grande por ingresos que **Volaris**, **Tiendas 3B** o **Palacio de Hierro**. En 2021 [hicimos una radiografía](https://www.whitepaper.mx/p/lengua-para-japon-labio-para-monterrey) de la empresa.*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿Algún otro uso?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-d2f/comments)
+
+---
+
+#### Intercambio comercial
+
+Durante abril, el comercio entre México y EUA sumó $69,700 millones de dólares, 4% menos que hace un año. Fue el mes 16 consecutivo en que México se mantuvo como el principal socio comercial de EUA. Le siguieron Canadá con $56,600 millones, China con $33,600 millones y Alemania con $20,500 millones ([Freightwaves](https://www.freightwaves.com/news/borderlands-mexico-us-trade-with-mexico-over-69-billion-in-april)).
+
+[![](https://substackcdn.com/image/fetch/$s_!qYxQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2253197-029a-45a4-a246-daadb89bc9f4_1281x136.webp)](https://substackcdn.com/image/fetch/$s_!qYxQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2253197-029a-45a4-a246-daadb89bc9f4_1281x136.webp)
+
+Cada vez más empresas mexicanas automatizan su cobranza con inteligencia artificial.
+
+[Quentli](https://quent.li/UeOfd2S) es una plataforma que ahorra cientos de horas en la cobranza a través de un agente de WhatsApp con IA y cargos automáticos –también conocidos como domiciliaciones–. Su solución integra pagos en línea, facturación y conciliación bancaria con mínima intervención humana.
+
+[Agenda un demo](https://quent.li/1gitQiS) para conocer más o escríbele a Fer (co-fundador) en [fernando@quentli.com](mailto:fernando@quentli.com).
+
+[![](https://substackcdn.com/image/fetch/$s_!8Iva!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80a1ce75-b892-4e97-9ed8-1abc349e9981_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!8Iva!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80a1ce75-b892-4e97-9ed8-1abc349e9981_1281x104.webp)
+
+#### Tacos…en EUA
+
+En EUA, una nueva generación de cadenas tipo ***fast casual*** que se especializan en **tacos y burritos** está creciendo muy rápidamente. **Torchy’s Taco** y **Fuzzy’s Taco**, por ejemplo, tienen ya 130 y 120 sucursales, respectivamente, mientras que **Rusty Taco** cuenta con 36 unidades ([QSR](https://www.qsrmagazine.com/story/fast-casual-taco-chains-push-culinary-boundaries-to-win-guests/)).
+
+> ***Comentario Whitepaper**: parte de la fórmula es comenzar con ingredientes y sabores mexicanos, pero luego mezclarlos con los de otras regiones (**Rusty Taco** vende ‘**chicken truffle tacos’**, por ejemplo).*
+>
+> *…y hablando de sabores mexicanos, **Wendy’s** está [anunciando](https://www.marketscreener.com/quote/stock/THE-WENDY-S-COMPANY-9691436/news/Wendy-s-and-Takis-Turn-Up-the-Heat-with-a-Flavor-Packed-Collaboration-50262092/) una nueva **colaboración** con Takis para ofrecer un “**Takis Fuego chicken sandwich & fries**”.*
+
+---
+
+#### $5 millones de dólares
+
+**Trump** [presumió en Truth Social](https://truthsocial.com/@realDonaldTrump/posts/114671658277148795) que apenas unos días después de haber lanzado una página de pre registro, **más de 15,000 personas** están en ya en la lista de espera buscando obtener una “***Trump Card***”, su programa para **literalmente adquirir** la **residencia** en EUA a un precio de **$5 millones de dólares**.
+
+“*That's $75 Billion Dollars to help balance our Budget, and strengthen America (…) This is a once in a lifetime opportunity. THE WAITING LIST IS NOW OPEN*”, insiste el presidente (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!QKFF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb2ee9c1-5b35-4757-8100-fb9cc6a5b5ae_1081x1003.heic)](https://substackcdn.com/image/fetch/$s_!QKFF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb2ee9c1-5b35-4757-8100-fb9cc6a5b5ae_1081x1003.heic)
+
+> ***Comentario Whitepaper**: llama la atención que en el formato de registro, además de opciones para individuos y familias, incluyen también una **alternativa para empresas** interesadas en adquirir “paquetes” para varias personas.*
+
+---
+
+#### Eléctricos
+
+**Ferrari** está ‘**pateando**’ el lanzamiento de un segundo modelo eléctrico al menos **hasta 2028** (el primero, en cuyo diseño estuvo involucrado **Jony Ive**, está previsto para octubre de este año). Alegan que prácticamente no existe demanda de vehículos deportivos completamente eléctricos ([Reuters](https://www.reuters.com/business/autos-transportation/ferrari-delays-second-ev-model-least-2028-because-weak-demand-sources-say-2025-06-17/)).
+
+---
+
+#### Cemex: Orígenes y consolidación de la industria cementera en México
+
+En esta nueva temporada de **Arquitectura de los Negocios**, Susana Sáenz recorre la historia de **Cemex**: desde sus orígenes en México con Cementos Hidalgo y Cementos Monterrey, pasando por los desafíos de la Revolución y la Gran Depresión, hasta la fusión que dio pie a la creación de Cemex.
+
+En el primer episodio destacan figuras fundadoras, como **Brittingham** y **Zambrano**, así como la transformación de la planta Hidalgo en cooperativa gracias al apoyo de **Lázaro Cárdenas**. Finalmente, analizamos cómo **Lorenzo H. Zambrano Treviño** impulsó la modernización tecnológica y la expansión global de la empresa.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/cemex-orígenes-y-consolidación-de-la-industria/id1584711514?i=1000713162981), [Spotify](https://open.spotify.com/episode/1mtAwsnBA48wKJcsQg3ReR?si=wAFtOgcaSUCv6qoWzBvnaw) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### En lugar de ver el cable
+
+Desde 2023, el segmento de **personas de más de 65 años** **aumentó 106%** su consumo de videos de **YouTube**: es el grupo que más rápidamente está creciendo. Según Nielsen, mayo fue el primer mes completo en la historia en el que los hogares de EUA vieron más contenido en plataformas de streaming, que por medio de canales en el cable ([NY Times](https://www.nytimes.com/2025/06/17/business/media/streaming-beats-cable-broadcast.html)).
+
+---
+
+##### Presentado por:
+
+**London Consulting Group** presenta **Growth Stories**, una serie creada para compartir casos reales de transformación.
+
+London Consulting Group acompaña a líderes de negocio a lograr resultados concretos mediante proyectos enfocados en eficiencia, rentabilidad y ejecución estratégica.
+
+**Growth Stories** muestra, en voz de sus clientes, cómo enfrentaron sus mayores retos, qué decisiones marcaron la diferencia y qué resultados obtuvieron tras implementar soluciones de alto impacto.
+
+Descubre las historias en menos de 2 minutos y conecta con nuevas perspectivas para tu propia transformación.
+
+**Descubre las historias**
+
+¿Quieres saber cómo podemos ayudar a tu empresa a lograrlo? **Escríbenos** a [luis.ortiz@londoncg.com](mailto:luis.ortiz@londoncg.com)
+
+Lanzamiento oficial: lunes 23 de junio
+
+[Growth Stories](https://news.londoncg.com/es/growth-stories-temporada-1)

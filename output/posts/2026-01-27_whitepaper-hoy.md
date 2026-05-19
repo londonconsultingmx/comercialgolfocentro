@@ -1,0 +1,139 @@
+# Whitepaper, Hoy
+
+> Nestlé en Silao; menos shopping en Texas; Tuhabi y Pulppo; paletas de Kekala; J. García López; Pinterest en México; Delvy y Legal Mind; Alfred; Anta Sports y Puma; Zoom y Anthropic; Ryanair
+
+**Fecha:** 2026-01-27  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-c46  
+**Word count:** 1461
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!haDQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44f7edd9-34e6-4391-a473-e38587a5f765_1650x493.webp)](https://a1.adform.net/C/?bn=86993527;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_50%7D)
+
+---
+
+#### Mascotas
+
+**Nestlé** [invertirá](https://boletines.guanajuato.gob.mx/2026/01/26/crece-inversion-de-nestle-purina-en-guanajuato/) $100 millones de dólares en su planta de producción de alimentos para la marca **Purina** en Silao. Con esto, la inversión acumulada en esa planta alcanzará los $700 millones de dólares (desde 2015). México representa 45% de las ventas de **Purina** en América Latina **(*****Redacción Whitepaper*****)**.
+
+---
+
+#### Sacándole la vuelta a la fila
+
+“*Part of the **stagnation in U.S. sales to Mexican shoppers** is attributed to **longer wait times and security checks at U.S. ports of entry deterring would-be shoppers**. The opening of American-based big-box stores south of the border also has decreased the need for Mexicans to cross the border in order to shop*”.
+
+Para ciudades como **Laredo**, los consumidores mexicanos en el pasado llegaron a representar **hasta 45% del retail**. Sin embargo esa cifra **ha venido retrocediendo** a lo largo de las últimas dos décadas como consecuencia del crecimiento de los negocios del lado mexicano, así como por **mayores dificultades para cruzar la frontera**. Ahora ronda más bien cerca de 13%, mientras que en **Brownsville** retrocedió de casi 26%, a 3.3% ([San Antonio Business Journal](https://www.bizjournals.com/sanantonio/news/2026/01/26/mexican-crossing-retail.html)).
+
+> ***Comentario Whitepaper**: esta información viene de [un estudio bastante interesante](https://www.dallasfed.org/research/swe/2026/swe2602#:~:text=Fewer%20visits%2C%20better%20Mexican%20options,Downloadable%20chart) que hizo la sucursal de Dallas de **la Fed**. Encontraron, por ejemplo, que a diferencia de lo que sucedía antes, ahora a los consumidores mexicanos que viven en la frontera les importa más **el tiempo estimado que les tomará cruzar el puente**, que las **variaciones en el tipo de cambio.***
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-c46?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE4NTg2NjcyMSwiaWF0IjoxNzc5MjE1NzQ4LCJleHAiOjE3ODE4MDc3NDgsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ao-8zDmzkdRADlD96uryb_hJbnq5yPCcE4I-Tpgx_f0)
+
+---
+
+#### Proptech
+
+**Tuhabi** adquirió a **Pulppo**, una startup mexicana que desarrolló una plataforma para agencias inmobiliarias que sirve para gestionar y administrar la operación de sus equipos. No se reveló el monto de la transacción.
+
+Aseguran que **Pulppo** habría crecido 3.5 veces en los últimos dos años y que en 2025 habría sido utilizada para vender el equivalente de $215 millones de dólares en propiedades. La empresa mantendrá su marca y su equipo; sus fundadores son **[Agustín Iglesias](https://www.linkedin.com/in/agustiniglesias/?originalSubdomain=mx)** y **[Matías Gath](https://www.linkedin.com/in/matias-gath/?originalSubdomain=mx)**.
+
+Para **Tuhabi**, aunque es originaria de Colombia, México es ya su principal mercado y [el año pasado](https://www.whitepaper.mx/i/143316012/enfoque-en-mexico) representaba 60% de su negocio **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: en [2022](https://www.bloomberglinea.com/2022/02/01/pulppo-a-mexican-pro-tech-raises-a-17m-pre-seed-round/) **Pulppo** obtuvo $1.7 millones de dólares en una ronda liderada por **Latitud**, con participación de **Newtopia**. Un [año después](https://proptechconnect.com/mexican-proptech-pulppo-raises-5m-in-seed-funding-the-round-was-led-by-saudi-arabias-vc-daal-ventures/) recibieron $5 millones adicionales de parte de **DAAL**, un fondo de Arabia Saudita, y de **Y Combinator**.*
+
+---
+
+#### Paletas
+
+[![](https://substackcdn.com/image/fetch/$s_!bkCy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9af185f2-c718-42ae-9c79-4bf075fadd75_960x294.jpeg)](https://substackcdn.com/image/fetch/$s_!bkCy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9af185f2-c718-42ae-9c79-4bf075fadd75_960x294.jpeg)
+
+**Kekala** es una marca brasileña de paletas congeladas que se pueden personalizar (con opciones de toppings o relleno). Aterrizará en **México** en febrero: el *master franchise* lo tiene **Grupo Lagred**, fundado por **[Gabriel Gerala](https://www.linkedin.com/in/gabogerala98?originalSubdomain=mx)**, quien la semana pasada **inauguró su planta de producción**. Inicialmente contará con una línea capaz de abastecer hasta 80 sucursales, con posibilidad de escalar a 250. También invirtieron en una flotilla de 10 camiones refrigerados.
+
+Por lo pronto, en otros países hay **más de 200 puntos de venta** con esta marca —principalmente kioscos en centros comerciales— y venden en promedio 6,000 paletas al mes por sucursal **(*****Redacción Whitepaper*****)**.
+
+> ***Comentario Whitepaper**: el plan es abrir al menos 74 sucursales este año (con 12 franquiciatarios). Como contexto, **Moyo** [tiene](https://www.gruponutrisa.mx/inversionistas) más de 90 sucursales, **Nutrisa** cerca de 400 y **Santa Clara** [supera](https://www.coca-cola.com/mx/es/brands/santa-clara/encuentralas) 420 puntos de venta.*
+
+---
+
+#### Encuesta
+
+Loading...
+
+> *¿En dónde?*
+>
+> [Leave a comment](https://www.whitepaper.mx/p/whitepaper-hoy-c46/comments)
+
+---
+
+#### Funerarias
+
+El grupo funerario **J. García López** invertirá $225 millones de pesos este año para ampliar y abrir nuevas sucursales. La empresa opera bajo las marcas **J. García López**, **Santa Gloria Velatorios** y ***Bye Bye Friends***, esta última enfocada en mascotas ([Axis](https://www.axisnegocios.com/breves.phtml?id=145459)).
+
+> ***Comentario Whitepaper**: el año pasado [entrevistamos](https://www.whitepaper.mx/i/170458789/funerarias) a su CEO, **Oscar Padilla**. Nos dijo que proyectaban cerrar 2026 con entre 25 y 30 unidades (hoy tienen 19), y que atienden a más de 26 millones de personas a través de planes, empresas o aseguradoras. La empresa fue fundada a principios de los 80, por una familia que originalmente se dedicaba a la hotelería.*
+
+---
+
+#### Pinterest en México
+
+**México** es el quinto mercado más grande para **Pinterest** y a diferencia de muchas empresas *tech*, en las oficinas que tienen en nuestro país no hay solamente representantes de ventas: más de 80% de los 181 empleados de la empresa en México son ingenieros.
+
+En octubre de 2025, un [reportaje](https://www.nytimes.com/2025/10/26/business/pinterest-social-media-bill-ready.html?unlocked_article_code=1.F1A.rMvm.qs8X_WgHOGeA&smid=url-share) de The New York Times destacaba que Pinterest había registrado un crecimiento reciente de doble dígito tanto en ventas como en usuarios. Además, el artículo mencionaba que más de la mitad de quienes usan la plataforma actualmente son Gen Z, algo raro para una compañía muy *millennial* que existe desde 2009.
+
+“Esto te habla de un fenómeno muy importante: la gente está buscando un espacio más positivo para pasar su tiempo,” **[Efraín Mendicuti](https://www.linkedin.com/in/efrainmendicuti/?originalSubdomain=mx)**, Business Director para México y países de habla hispana en Pinterest, contó a **Whitepaper**. “Hoy somos ese rincón positivo del internet.”
+
+[Leer el artículo completo](https://open.substack.com/pub/whitepaper/p/pinterest-en-mexico?r=1tqhmx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+---
+
+#### Abogados
+
+**Delvy** es un despacho jurídico con sede en **Barcelona**, especializado en servicios legales para startups. En 2020 [abrieron](https://www.expansion.com/juridico/actualidad-tendencias/2020/09/22/5f68e5a0468aebf80c8b4595.html) en CDMX la que sería su primera oficina fuera de España, y ahora se estarían integrando con **Legal Mind**, un despacho mexicano fundado hace 10 años por **[Bernardo Tamez Alarcón](https://www.linkedin.com/in/bernardo-tamez-alarcon-33829a53/?originalSubdomain=mx)** ([Expansión.es](https://www.expansion.com/juridico/actualidad-tendencias/2026/01/26/6971fba2e5fdea864b8b4579.html)).
+
+> ***Comentario Whitepaper**: en su [sitio web](https://legalmind.mx/), **Legal Mind** presume como clientes a Kushki, FairPlay y Angel Ventures.*
+
+---
+
+#### *Stablecoins*
+
+**Alfred** [obtuvo](https://www.prnewswire.com/mx/comunicados-de-prensa/alfred-cierra-una-serie-a-por-15-mdd-para-fortalecer-su-infraestructura-de-pagos-transfronterizos-en-america-latina-302670011.html) $15 millones de dólares de los fondos F-Prime, Brevan Howard Digital y White Star Capital. La startup, fundada por **[Diego Yanez](https://www.linkedin.com/in/diegoyanez1/)** y **[Matías Plano](https://www.linkedin.com/in/matias-plano-79a475b/)**, desarrolló una plataforma que conecta *stablecoins* con sistemas bancarios locales en América Latina para facilitar pagos internacionales. Operan en seis países, [tienen](https://alfredpay.io/about) un equipo de más de 50 personas y han procesado más de 5 millones de transacciones **(*****Redacción Whitepaper*****)**.
+
+---
+
+#### *Breves*
+
+* **Anta Sports**, de China, será ahora **el accionista más grande** de **Puma**: están comprándole a la familia **Pinault** el 29% de la marca alemana en una transacción de $1,800 millones de dólares ([Reuters](https://www.reuters.com/business/retail-consumer/chinas-anta-sports-buys-29-puma-stake-18-billion-rules-out-full-takeover-2026-01-27/)). ***Comentario Whitepaper**: Anta controla marcas como **Fila** y **Descente**, e indirectamente a Amer Sports, que tiene en su portafolio a **Arc’teryx** y **Salomon**.*
+* En mayo de 2023, el brazo de ventures de **Zoom** destinó la mayor parte de su presupuesto para **invertir en Anthropic**. Con el aumento en la valuación de la startup de AI, estiman que el valor de esa inversión debe haberse **multiplicado 78 veces** y que podría valer hasta $4,000 millones de dólares ([CNBC](https://www.cnbc.com/2026/01/26/zoom-anthropic-investment.html?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=286996334dc754cf84141ec326b7ef2cd7474ad1)).
+* **Nubank** destinará **$474 millones de dólares** en un proyecto de **expansión de sus oficinas**. El plan incluye al menos dos nuevos edificios en Sao Paulo y contempla también crecer las oficinas que tienen **en CDMX** [MarketScreener](https://www.marketscreener.com/news/brazil-s-nubank-to-invest-474-million-to-expand-offices-under-hybrid-plan-ce7e5bdbdc89fe27)).
+* Lo más nuevo en **edificios ‘*****brandeados*****’**: en Miami están desarrollando un edificio de 244 apartamentos con **la marca Frida Kahlo** —*“The Frida Kahlo Corporation will oversee the curated art collection, food and beverage component and curated pool deck experience*” ([Mansion Global](https://www.mansionglobal.com/articles/a-frida-kahlo-branded-condo-tower-including-a-giant-mural-of-the-artist-to-rise-in-miami-a4aaa478?mod=hp_minor_pos28)).
+* **FAT Brands**, la empresa detrás de cadenas como **Fatburger**, **Johnny Rockets** y **Twin Peaks,** comenzó el proceso de ***Chapter 11***. Como le ha sucedido a organizaciones similares, no puede hacer frente al **nivel de deuda** en el que incurrieron como resultado de una serie de **adquisiciones** que hicieron en los últimos años ([Bloomberg](https://www.bloomberg.com/news/articles/2026-01-27/fatburger-owner-files-bankruptcy-overwhelmed-by-debt)).
+
+---
+
+#### ¿La más exitosa?
+
+Con 640 aviones, **Ryanair** tiene la flota **más grande en Europa** (equivalente a 20% de todos los aviones que tienen las aerolíneas en ese continente). En su más reciente año fiscal habrán transportado **208 millones de pasajeros** —dos o tres veces más que sus principales competidores— y con márgenes cercanos a 15%, están muy por encima del 4% que promedia a nivel global la industria de la aviación comercial.
+
+“***It sells one product: a seat on a plane**. Although it now serves parts of the Middle East and North Africa, **half its seats still depart from three countries**—Britain, Italy and Spain. Passengers not only do not get Wi-Fi, but must also do without phone charging or seats that recline. And yet **it also remains nimble**, despite its size. Planes are **swiftly re-allocated to routes** where returns are highest, **fostering competition among the airports it serves or that wish to attract it***” ([The Economist](https://www.economist.com/business/2026/01/26/ryanair-might-be-the-worlds-most-successful-airline)).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!tGvv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6996c5-8e34-445b-8296-cb003a3e35bf_1500x600.jpeg)](https://a1.adform.net/C/?bn=86993527;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50})
+
+El futuro de los negocios ya aterrizó. Conoce el jet Citation Ascend™ y eleva el nivel de tu empresa. Más que un avión, es la herramienta ideal para quienes buscan máxima rentabilidad con estilo impecable.
+
+¿Por qué es el nuevo favorito?
+
+* Ahorro inteligente: intervalos de mantenimiento extendidos reducen costos y tiempo fuera de operación.
+* Más carga útil y alcance: carga útil optimizada para llegar más lejos con todo lo que necesitas.
+* Confort nivel VIP: tecnología avanzada, cabina con piso plano y ambiente silencioso para trabajar o relajarte sin interrupciones.
+
+[Descubre más](https://a1.adform.net/C/?bn=86993527;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50})

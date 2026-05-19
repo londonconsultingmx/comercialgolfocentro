@@ -1,0 +1,133 @@
+# Whitepaper, Hoy
+
+> Walmart Connect; Caliente; la compra #24 de Aguafría; del FC Barcelona al América; Entre negocios y deportes -estudios de fitness; Helvex; BackChannel; bodegas refrigeradas; fast food vs conveniencia
+
+**Fecha:** 2026-03-26  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-579  
+**Word count:** 1454
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!UT7L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e175f9-0723-4308-8da3-14fecd28d792_1702x234.jpeg)](https://learning.whitepaper.mx/consejos/)
+
+---
+
+#### Un *negociote* de publicidad
+
+**Walmart Connect**, la plataforma de publicidad de **Walmex**, es un negocio que generó [ingresos](https://mirandam5.sg-host.com/pdf/Esp_Walmart_IA25.pdf) de **$4,950 millones** de pesos el año pasado (creció 17%). Dentro de Walmex es poco —menos de 0.5% de las ventas totales— pero como contexto, los ingresos totales de **TV Azteca** en 2022 (el último año en el que publicó resultados) habrían sido de poco más de $5,000 millones (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper:*** *este año Walmex [invertirá](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1543943_1.pdf) $43,000 millones de pesos en CAPEX. Cerca de 70% se destinará a tiendas existentes y nuevas, principalmente de **Bodega Aurrerá** (esperan abrir más de 1,500 entre 2025 y 2029). Para la cadena de suministro asignarán casi 25%; en 2027 planean **abrir dos CEDIS**. El resto irá a proyectos estratégicos de **tecnología** y manejo de datos.*
+>
+> *Walmex está invirtiendo **más agresivamente que su propia matriz** como porcentaje de ventas (~4.3-4.5% vs 3.5% de Walmart USA). Esto tiene sentido: México tiene **más oportunidad de crecimiento de piso de venta nuevo** (más Bodegas Aurrerá), mientras que en EUA Walmart ya está más saturado. **Target** es el comparable más cercano a Walmex en intensidad de CAPEX —ambas están en ciclo de remodelación fuerte (~4.5%)— mientras que **Costco** es el caso opuesto (con su modelo de membresía y warehouses enormes, necesita menos CAPEX relativo). En el otro extremo está **Amazon**, que destina alrededor de 13% de sus ingresos, aunque en realidad no es comparable porque en este caso la mayor parte de su CAPEX es para infraestructura de nube/AI.*
+
+---
+
+#### Casinos
+
+El año pasado **Caliente** contribuyó con €55 millones de euros al EBITDA de **Playtech**, la empresa de UK que tiene el **31% de las acciones** de la operadora mexicana de casinos. Les repartieron **€45 millones en dividendos** ([MarketScreener](https://www.marketscreener.com/news/transcript-playtech-plc-2025-earnings-call-mar-26-2026-ce7e51dada8cff25)).
+
+> ***Comentario Whitepaper**: Playtech es la empresa que provee la plataforma digital para Caliente (y otros casinos). Sus directivos pronostican que el mercado de apuestas en México debiera **duplicar** su tamaño en los próximos cinco años, en parte porque la métrica de ‘**gross gaming revenue**’, de $35 dólares por adulto, es muy baja en comparación con la de otros países (en Brasil es de $64 dólares, por ejemplo).*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-579?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MjExNDE2MiwiaWF0IjoxNzc5MjE0OTUyLCJleHAiOjE3ODE4MDY5NTIsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.XTV3lonKI9s6QAFIGnq1e51C_9eZOFR4WO6v-Pymvds)
+
+---
+
+#### *Roll up*
+
+**Aguafría** estaría adquiriendo a **Klyr**, una empresa de hielo de **Guadalajara** que fue fundada hace casi 100 años(la venden los descendientes de **Abelardo García Arce**). Es un negocio que cuenta con dos plantas y que se especializa principalmente en **hielo tipo gourmet** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: es **la compra #24 de Aguafría**, la empresa que nació [a partir de un search fund](https://www.whitepaper.mx/p/el-intento-por-construir-al-gigante?utm_source=publication-search) hace unos ocho años. Con esta transacción Aguafría tendría ya más de 1,000 personas en el equipo y capacidad de producir, almacenar y transportar **más de 4,000 toneladas de hielo al día**.*
+
+---
+
+#### Entre negocios y deportes: Estudios de Fitness
+
+[![](https://substackcdn.com/image/fetch/$s_!ikLc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F082bc387-7ea2-44dd-941d-048bcc0d66f7_1302x789.jpeg)](https://substackcdn.com/image/fetch/$s_!ikLc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F082bc387-7ea2-44dd-941d-048bcc0d66f7_1302x789.jpeg)
+
+**Smart Fit** en México tiene 465 sucursales y más de 1 millón de miembros. **Planet Fitness**, que en 2021 tenía cinco gimnasios, tiene ya cerca de 50 sucursales en el país. Está también **Anytime Fitness**, que llegó a Guadalajara en 2010 y actualmente tiene más de 110 unidades en el país, con el [objetivo](https://emprendedor.com/expansion-anytime-fitness-mexico-david-rascon-200-gimnasios/) de llegar a las 200 en tres años.
+
+**Sports World**, [tiene](https://sportsworld.com.mx/uploads/en/documents/reports_quarterly/gsw_reporte_4T25.pdf) 49 clubes con más de 100,000 usuarios en total. Suelen ser espacios deportivos más completos, con mayor inversión que un gimnasio. cotizan en la BMV desde 2010 y en 2025 reportaron [ingresos](https://sportsworld.com.mx/uploads/es/documents/reports_quarterly/gsw_reporte_4T25.pdf#:~:text=En%202025%2C%20los%20Ingresos%20Totales%20alcanzaron%20$2%2C185.1,de%20los%20planes%20de%20salud%20corporativos%20y) de $2,185 millones de pesos.
+
+A la par, una nueva generación de estudios-boutique están compitiendo con los gimnasios tradicionales en categorías específicas –por ejemplo cycling, yoga, pilates, hit y derivados–, y con experiencias más bien personalizadas.
+
+En este segmento compite por ejemplo **Riser Fitness**, una empresa de EUA que opera la marca **Club Pilates** y que recientemente [recibió](https://riserfitness.com/riser-fitness-secures-72-million-growth-capital-commitment-from-fortress-investment-group/) $72 millones de dólares en *growth capital*. En 2025 abrieron su primera sucursal en México y su [meta](https://riserfitness.com/club-pilates-expands-to-mexico/) en el país es llegar a 65 estudios en la próxima década.
+
+**Siclo** por su lado, se especializa en el indoor cycling y tiene ya 19 [sucursales](https://www.siclo.com/studios?srsltid=AfmBOooRaZzttCsdKqUs9uNvFBTbd5ZW30w10RouJ2ZOqa8fH-f-twR-) en México y presencia en Colombia, Ecuador, España y Perú. Fue fundada en 2016 por **Alejandro Ramos** y **Pedro De Garay**.
+
+**Commando Studio** es otro ejemplo. Recibieron $32 millones de dólares de **Acon Investments**, y tienen más de 60 estudios en México, además de presencia en España. Reciben más de 100,000 clientes mensuales con unas 5,800 clases impartidas. Estimamos que habrían generado ingresos por unos $620 millones de pesos el año pasado. Recientemente se dio a conocer que están [adquiriendo](https://www.whitepaper.mx/i/192039212/fitnessen-espana) **Lapso Studios**, una empresa similar, en Barcelona ***([El Míster](https://elmister.substack.com/),** para **Whitepaper).***
+
+> ***Comentario Whitepaper**: de acuerdo con México Pilates & Yoga Studios Market 2025-2033, montar un estudio de yoga, pilates o cycling puede requerir una inversión promedio de entre $17 y $57 millones de pesos. De acuerdo con la consultora española 2Playbook, cada sucursal de **Siclo** requiere entre $25 y $35 millones de pesos de inversión.*
+
+---
+
+#### Águilas
+
+[Ferran Reverter](https://www.linkedin.com/in/ferran-reverter-6a2b4a122/) es el nuevo director general de **Controladora Deportiva Águilas** ([BMV](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1544196_1.pdf)).
+
+> ***Comentario Whitepaper**: Reverter fue antes director general del **FC Barcelona**.*
+
+---
+
+#### Su nueva fábrica
+
+**Helvex** [inauguró](https://boletines.guanajuato.gob.mx/2026/03/25/apuesta-helvex-por-guanajuato-con-inversion-y-tecnologia-de-clase-mundial/) una nueva planta en **Guanajuato**. La inversión habría sido de $20 millones de dólares.
+
+Fundada en 1950, **[Helvex](https://www.whitepaper.mx/p/la-llave-maestra-de-helvex?utm_source=publication-search)** tiene presencia en 22 países y fabrica en México más de 95% de sus productos y componentes. Comercializa grifería y productos para baño (***Redacción Whitepaper***).
+
+[![](https://substackcdn.com/image/fetch/$s_!d1-Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70488ed6-3136-4700-b1c6-9cf904f86328_1281x160.webp)](https://lapieza.io/)
+
+Cientos de candidatos, decenas de entrevistas y la posición sigue abierta.
+
+[LaPieza](https://lapieza.io/) resuelve eso: *headhunting* especializado en talento *tech* y digital para roles que no puedes equivocarte en cubrir.
+
+Encuentran el perfil correcto, en el menor tiempo posible, con pago al éxito. L’Oréal, Coca-Cola FEMSA y Unilever trabajan con ellos. **¿Y tú?** [Escríbele](https://api.whatsapp.com/send?phone=+522208733282&text=%C2%A1Hola%20Sharon!%20Le%C3%AD%20sobre%20LaPieza%20en%20Whitepaper.%20%C2%BFMe%20podr%C3%ADas%20contar%20sobre%20el%20servicio%20de%20Headhunting) al equipo para más información.
+
+[![](https://substackcdn.com/image/fetch/$s_!zIZU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F868cef98-89e8-4171-aad1-a0f121294ab4_1281x104.webp)](https://substackcdn.com/image/fetch/$s_!zIZU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F868cef98-89e8-4171-aad1-a0f121294ab4_1281x104.webp)
+
+#### *Marketplaces*
+
+**IGNIA** y **Cathay Latam** son dos de los fondos que están participando en una ronda de inversión de $4.8 millones de dólares para **BackChannel**, una startup **brasileña** que opera como marketplace B2B para mover exceso de inventario entre marcas y distribuidores ([LatamList](https://latamlist.com/backchannel-raises-4-8m-seed-round-led-by-sunna-ventures/)).
+
+> ***Comentario Whitepaper**: el año pasado, **IGNIA** participó en las rondas de las mexicanas **Crabi** ($13.6 millones de dólares) y **Digitt** ($10 millones).*
+
+---
+
+#### *Breves*
+
+* En EUA, la tasa de **desocupación** en las **bodegas refrigeradas** llegó a 6.9% en el cuarto trimestre de 2025 —la cifra más alta en 20 años (y el doble de lo que estaba desocupado hace cinco años). Hay un ***mismatch*** entre la oferta y la demanda, después de la fiebre por construir este tipo de espacios en los años post pandemia ([WSJ](https://www.wsj.com/logistics-report/cold-storage-vacancies-hit-20-year-high-24a8b1b2)).
+* En el mundo de las **marcas de lujo**, Medio Oriente —gracias sobre todo a **Dubai**— fue la región que más creció en 2025. Ahora, debido a la **guerra**, el precio de las acciones de empresas como **LVMH, Hermès** y **Ferrari** reflejan retrocesos de 15%, 18% y 15%, respectivamente ([CNBC](https://link.cnbc.com/public/44901354)).
+* Los **bonos** que se pagaron en **Wall Street** a banqueros y ejecutivos aumentaron 9% el año pasado. El bono promedio habría sido de **$246,900 dólares** ([Reuters](https://www.reuters.com/sustainability/sustainable-finance-reporting/wall-street-bonuses-surge-9-record-492-billion-2025-ny-comptroller-says-2026-03-26/)).
+
+---
+
+#### Robándoles clientes
+
+Un nuevo estudio encontró que en el tercer trimestre del año pasado, 39% de las personas que fueron a comprar comida preparada en una tienda de conveniencia en EUA consideraron también ir a un *fast food* —o sea, **tenían la opción de ir a comer a un** ***fast food*** y **prefirieron ir a una tienda**.
+
+“*Unsurprisingly, the chain that lost the most business to convenience stores was **McDonald’s**, where 38% of c-store customers who said they’d considered a fast-food restaurant would have gone. But Burger King, Taco Bell, Wendy’s, Chick-fil-A and Subway were all mentioned*” ([Restaurant Business Online](https://www.restaurantbusinessonline.com/financing/krispy-kreme-sells-most-its-stake-us-joint-venture-90m)).
+
+> ***Comentario Whitepaper**: esto es una tendencia muy marcada en países como Japón. En México, **Oxxo** le está [apostando muy fuerte](https://www.whitepaper.mx/i/154416844/tacos-gorditas-y-ahora-pretzels) a crecer su participación en este tipo de ocasiones.*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!1gJh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e86b6ee-1d5e-4ac6-a5cc-ac34d3d5e638_2382x1058.jpeg)](https://learning.whitepaper.mx/consejos/)
+
+#### Tener un Consejo no es lo mismo que tener un buen Consejo.
+
+En muchas empresas existe, pero no incide en las decisiones clave ni genera verdadero valor estratégico.
+
+Por eso, en Whitepaper Learning organizamos el curso **Cómo construir un Consejo que funcione**, en formato **digital**, este **lunes 20 y miércoles 22 de abril**. Liderado por **Alfonso González Migoya**, y acompañado por invitados como **León Kraig** y **Karla Berman**, el curso aterriza de forma práctica qué distingue a un Consejo que sí aporta valor y cómo convertirlo en un verdadero motor de la organización.
+
+Está diseñado para **dueños** que buscan crear o revitalizar su Consejo como un espacio de discusión estratégica que impulse su negocio, así como para **consejeros** (o quienes aspiran a serlo) que quieren fortalecer su capacidad de retar, acompañar y aportar valor en la toma de decisiones.
+
+[Regístrate](https://learning.whitepaper.mx/consejos/)

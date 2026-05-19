@@ -1,0 +1,127 @@
+# Whitepaper, Hoy
+
+> Aeropuerto de Saltillo; rentabilidad de Nu; EZCORP y Autozone; la SCJN y Grupo Salinas; vehículos pesados; ciberseguridad; mega valuaciones; juguetes en 'blind box'; Miss Universo
+
+**Fecha:** 2025-11-14  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-355  
+**Word count:** 1347
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!LvCV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7120339-9a71-46fc-b5fd-0212fe8d995d_1456x467.webp)](https://acortar.link/79IezT)
+
+---
+
+#### Reviviéndolo
+
+**AME**, la empresa operadora de los aeropuertos de Tepic y de Puerto Escondido, está asumiendo el control y se encargará de las operaciones del **Aeropuerto de Saltillo** (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: AME es parte del portafolio de la gigantesca **Mota-Engil**, que para el proyecto de Saltillo está **aliándose** con **Altea**, la desarrolladora de los **González Albuerne** (Milenio, Firmas Globales, Tim Hortons, etc.) que ha venido acelerando en proyectos comerciales, industriales y de vivienda en diferentes lugares de México.*
+>
+> *Los socios ven una enorme oportunidad de detonar el **potencial** de esta infraestructura a partir del desarrollo que ha tenido **toda la región** —más allá de Saltillo y Ramos Arizpe, es un aeropuerto que puede ser alternativa para municipios como García y Santa Catarina (e incluso a la zona de **Valle Poniente**). Vienen en camino inversiones de unos $800 millones de pesos para seguir remodelándolo y convertirlo en una opción más atractiva para aerolíneas y sus pasajeros.*
+
+---
+
+#### Rentabilidad
+
+*“If we wanted to be profitable in Mexico, **we would be profitable already**. It is a decision. We literally touch a button, make a decision, and we are profitable immediately. We have already the scale to generate that profitability. **That would actually be a really bad decision**. It would be sacrificing the future for a short-term decision. We have always told our investors we are **optimizing for the long run**” —*así respondió **[David Vélez](https://www.linkedin.com/in/david-v%C3%A9lez-1004875?originalSubdomain=br)** en la llamada trimestral, cuando el analista de Bradesco [preguntó sobre la rentabilidad](https://www.marketscreener.com/news/transcript-nu-holdings-ltd-q3-2025-earnings-call-nov-13-2025-ce7d5fdddd88ff26) de **Nu en México**.
+
+Por lo pronto, el neobanco de Brasil [reportó](https://api.mziq.com/mzfilemanager/v2/d/59a081d2-0d63-4bb5-b786-4c07ae26bc74/1abd4540-a745-66b4-64f1-d5b817df6a38?origin=1) una utilidad neta total de **$783 millones de dólares** en el trimestre, **39% más** que hace un año —y prácticamente **10X** la utilidad que logró el [tercer trimestre de 2022](https://api.mziq.com/mzfilemanager/v2/d/59a081d2-0d63-4bb5-b786-4c07ae26bc74/69e3034d-7f4c-473c-8e29-0aaa6064918d?origin=1) (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: en la entrevista que le hicimos a **Vélez**, hace ya dos años, explicó [con más detalle esta lógica de crecimiento](https://www.whitepaper.mx/p/nu-lo-que-hay-detras-del-neobanco?utm_source=publication-search) aún y cuando implica sacrificar rentabilidad durante varios años.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-355?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE3ODUxODQ0OSwiaWF0IjoxNzc5MjE1ODEzLCJleHAiOjE3ODE4MDc4MTMsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n319uEETaYalOr-LCopgVhe_v-VFD2kb_hj9FGFAtR8)
+
+---
+
+#### Las gringas
+
+* **AutoZone** [cerró](https://www.marketscreener.com/news/autozone-2025-annual-report-and-proxy-statement-ce7d5fdadc89f021) su año fiscal con 883 tiendas en México —**abrieron 89 durante el año**— lo que representa 85% de sus sucursales fuera de EUA. Entre sus directivos tienen a [Domingo Hurtado](https://www.linkedin.com/in/domingo-hurtado-3aa6507/), SVP Internacional, quien antes fue presidente de AutoZone México y director general de **Radio Shack** en el país. También participa en el consejo [Constantino Spas Montesinos](https://www.linkedin.com/in/constantino-spas-47b2a0/?originalSubdomain=mx)(***Redacción Whitepaper***).
+* **EZCORP**, de Austin, [expandió](https://www.ezcorp.com/static-files/fbd44d34-1ab6-41e8-9bec-1c1e3bc9acb1) su presencia en México a **622 tiendas** y sus ingresos en nuestro país ascendieron a $267 millones de dólares en los últimos 12 meses (como contexto, en septiembre de [2024](https://www.ezcorp.com/static-files/12784b27-61dc-47f2-aed3-39d6237bc51d) tenían aquí 565 sucursales; operan su red de casas de empeño con marcas como Empeño Fácil y Cash Apoyo Efectivo). Hablaron además de una [adquisición de 14 tiendas en México](https://www.ezcorp.com/static-files/d07fc52b-2017-41cb-b72f-fd182946eb51) y 3 en Texas, sin dar más detalles sobre la operación (***Redacción Whitepaper***).
+
+---
+
+#### Condenada
+
+La **Suprema Corte** decidió de forma unánime **en contra** de **Grupo Salinas** y por lo tanto, consideraron que **adeuda** al menos $1,800 millones de dólares de **impuestos** (una cifra que pudiera aumentar por multas y actualizaciones).
+
+“*The conglomerate said it **would continue to fight** in local and international courts to pay a ‘fair and correct’ amount (…)* ‘*Today is a dark day for justice and the rule of law in Mexico’, Grupo Salinas, the billionaire’s conglomerate, wrote in a [post on X](https://x.com/gruposalinas/status/1989047836994916511?s=46) after the rulings. ‘This precedent is serious and has implications far beyond our cases: the Court has ceased to defend citizens and businesses*’ ([Bloomberg](https://www.bloomberg.com/search?query=Mexico&sort=time%3Adesc)).
+
+---
+
+#### Camiones
+
+La [producción](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/rm_raiavp/rm_riavp2025_11.pdf) de **vehículos pesados** en México **cayó casi 60% durante octubre**. En el acumulado de enero a octubre, el retroceso fue de más de 35%. **International**, que en octubre de 2024 había producido más de 5,400 unidades, este año reportó menos de 1,500, mientras que **Freightliner** pasó de unas 9,200, a 4,017 (***Redacción Whitepaper***).
+
+---
+
+#### Ciberseguridad
+
+De acuerdo con un reporte elaborado por **Microsoft** y **Edelman**, en México solamente 67% de las empresas grandes cuentan con una estrategia formal de ciberseguridad y mientras que la inversión se concentra en tecnología, la **capacitación** del personal queda **rezagada**: apenas 31% la considera una prioridad, a pesar de que amenazas como el *malware* (52%) y el *phishing* (32%) son las que más preocupan a los expertos.
+
+“Medir el impacto de las herramientas digitales es mucho más fácil que medir el impacto de la capacitación de las personas”, explicó a **Whitepaper** [Marcelo Felman](https://www.linkedin.com/in/mfelman/), director de Ciberseguridad en **Microsoft Latam**. “Son inversiones más difíciles de justificar. Pero no podemos soltar ese tema: nuestros colaboradores son la primera línea de defensa” (***Redacción Whitepaper***).
+
+---
+
+#### Resultados de la encuesta
+
+[![](https://substackcdn.com/image/fetch/$s_!AdPf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eec4480-9e78-41a2-9c0c-afba56b64104_2759x696.jpeg)](https://substackcdn.com/image/fetch/$s_!AdPf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eec4480-9e78-41a2-9c0c-afba56b64104_2759x696.jpeg)
+
+[![](https://substackcdn.com/image/fetch/$s_!0sj1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa767edbf-775f-41bc-a5bb-ec49dc287b7c_1934x1491.jpeg)](https://substackcdn.com/image/fetch/$s_!0sj1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa767edbf-775f-41bc-a5bb-ec49dc287b7c_1934x1491.jpeg)
+
+---
+
+#### MexMoves: Plata’s CEO on 2M+ users and a $3B valuation; CDMX and U.S. sports teams; Esentia’s gas-pipeline IPO & more…
+
+Hablamos con **Neri Tollardo**, cofundador y CEO de **Plata**, para entender cómo la fintech pasó de cero a más de dos millones de usuarios y una valuación de $3,000 millones de dólares en poco más de dos años. También exploramos los pros y contras de la Ciudad de México como posible sede para equipos deportivos de EUA, lo que está en juego con la planeada IPO del gasoducto de **Esentia**, entre otros temas.
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/44-platas-ceo-on-2m-users-and-a-%243b-valuation-cdmx-and/id1792066671?i=1000736667289), [Spotify](https://open.spotify.com/episode/1Rcokh8YCtXV6wLpeA70Iw?si=izuwo0XjTQ-b0gqJRRyK7g) y [Youtube](https://www.youtube.com/@mexmoves2025).*
+
+---
+
+#### *Breves*
+
+* Continúan las **mega valuaciones** en AI: la startup fundada por **Mira Murati**, que hace cinco meses alcanzó una valuación de $10,000 millones de dólares, estaría buscando cerrar una nueva ronda de inversión con una [valuación de $50,000 millones](https://www.theinformation.com/briefings/muratis-thinking-machines-lab-talks-raise-money-50-billion-valuation?rc=xfuqjy). Por su parte, **Cursor** presumió haber obtenido $2,300 millones de dólares en su más reciente ronda, logrando con ello [crecer su valuación a $29,300 millones](https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html?utm_source=newsletter.strictlyvc.com&utm_medium=newsletter&utm_campaign=svc-beehiiv&_bhlid=9b86c507cde87dcb90a59da0da0b0e3af05c6d4e) (***Redacción Whitepaper***).
+* Buscando lograr el éxito que ha tenido **Labubu**, otras empresas de juguetes —como **Hasbro** y **Mattel**— están también lanzando al mercado productos en un formato de “***blind box***”. En este temporada navideña los clientes podrán comprar personajes como **Barbie** o **Furby**, en cajas que no permiten ver qué hay dentro ([Reuters](https://www.reuters.com/business/retail-consumer/toy-makers-rush-into-blind-box-trend-holidays-following-labubu-craze-2025-11-14/)).
+
+---
+
+#### Miss Universo
+
+Más allá del **drama** en redes sociales por la discusión entre **Miss México** y **Nawat Itsaragrisil**, el empresario tailandés que controla la franquicia de Miss Universo en ese país, el conflicto de fondo es entre Nawat y **Roberto Rocha**, un **empresario mexicano** que pagó $16 millones de dólares en 2024 para comprar el control de Miss Universo, y que actualmente **preside** la organización que está detrás del concurso.
+
+“*Nawat wants to transform the competition into **influencer-driven entertainment** that can turn a profit touting products online. **Rocha**, rooted in Latin America where traditional televised pageants still reign, **rejects that approach** and wants Miss Universe to remain an ‘**empowerment platform for women***’” ([Bloomberg](https://www.bloomberg.com/news/features/2025-11-14/miss-universe-meltdown-men-fight-over-beauty-empire-in-tiktok-era)).
+
+> ***Comentario Whitepaper**: el artículo narra la historia de Miss Universo y su evolución a través de los años. Explica que **en Asia**, el concurso funciona muy bien como medio de promoción de **cremas y artículos de belleza**; en esa región, el evento como tal contribuye con menos de 20% de los ingresos (por conceptos de patrocinios, licencias y boletos). En **América Latina** esto es diferente porque Miss Universo sigue funcionando como un programa que atiende a una audiencia muy grande en la **televisión**.*
+
+---
+
+> ***Whitepaper Hoy** estará de vuelta el próximo **martes 18 de noviembre** (nos saltamos la edición del lunes 17 por ser día feriado).*
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!5l8S!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92c0da08-e0f9-4fcd-9944-6cb5c953477b_1456x467.webp)](https://acortar.link/79IezT)
+
+#### Presidente InterContinental Monterrey: el nuevo referente de lujo en San Pedro Garza García
+
+En el corazón de Valle Oriente emerge un ícono de sofisticación: **Presidente InterContinental Monterrey.** Sus **293 habitaciones y suites** combinan diseño contemporáneo, confort absoluto y tecnología intuitiva, redefiniendo la hospitalidad de lujo en el norte de México.
+
+En **Lilōu**, encontrarás cocina de autor con espíritu neoyorquino mientras que en **Chapulín** podrás probar sabores mexicanos y, si quieres mixología de autor, está **Epicentro Bar.**
+
+A minutos de los principales corporativos de San Pedro, **Presidente InterContinental Monterrey** es más que un hotel: una declaración de elegancia, visión y nueva hospitalidad.
+
+Contacto: | Natalia García, Directora de Ventas, [presidenteicmonterrey.com,](https://urldefense.com/v3/__http://presidenteicmonterrey.com/__;!!JwMSVp63wI9Eoh0!YK8Fbsb35EiWaemfQ_KfXGPvRY-W3b3m0quBqpGg7sZKFJG6lEVlgf9ly-eY1p_667KEWBU91nUVvOo9NwJvWDeZbF3bgpE9$) [natalia\_garcia@grupopresidente.com](mailto:natalia_garcia@grupopresidente.com)
+
+[![](https://substackcdn.com/image/fetch/$s_!uXT6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ee20ac-0f34-4b57-bb2e-79852661acf6_1800x1013.jpeg)](https://acortar.link/79IezT)
+
+[Presidente InterContinental Monterrey](https://acortar.link/79IezT)

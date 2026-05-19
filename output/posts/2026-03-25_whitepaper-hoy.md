@@ -1,0 +1,128 @@
+# Whitepaper, Hoy
+
+> Inversiones de Arca Continental; Commando en España; Dollarcity; Codere; Minera Autlán; stock options en Meta; acción de Pop Mart; Home Depot y HVAC; ON; Spotlight en Koenigsegg
+
+**Fecha:** 2026-03-25  
+**URL:** https://www.whitepaper.mx/p/whitepaper-hoy-6ad  
+**Word count:** 1318
+
+---
+
+> ***Cinco minutos bien invertidos***
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!djSo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf8c233-62e8-48fb-8255-5184073320df_2250x425.jpeg)](https://www.localiza.com/mexico/es-mx?codigo=WHITEPAPER)
+
+---
+
+#### *Vending*
+
+**Arca Continental** es ya la empresa líder en el negocio de *vending* en México (y en Perú), y busca también crecer este negocio en EUA. En total cuenta con **más de 72,000 puntos de venta**, incluyendo *vending machines* y **micromercados**, 38,000 de los cuales están en EUA (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: planean [invertir](https://www.bmv.com.mx/docs-pub/eventemi/eventemi_1543657_1.pdf) este año **$18,500 millones de pesos**, una cifra récord y que es equivalente a más de 7.5% de sus ventas. El director de Finanzas y Relación con Inversionistas, [Ulises Fernández De Lara](https://www.linkedin.com/in/ulises-fernandez-de-lara-307390/), explicó a **Whitepaper** que más de la mitad de este recurso está etiquetado para México, e incluye inversiones para aumentar sus capacidades de producción (como líneas adicionales en sus plantas), mejoras a su red logística (vehículos, refrigeradores) y también el desarrollo de herramientas digitales.*
+>
+> *Entre otros proyectos, están invirtiendo en pozos de extracción de **mayor profundidad** para acceder al agua de manantial necesaria para **Topo Chico**; Fernández de Lara estimó que esto debiera resolver hacia verano el [problema de escasez](https://www.whitepaper.mx/i/188914971/sin-agua-mineral) que se ha presentado en EUA.*
+>
+> *Arca Continental, que en 2026 **cumple 100 años**, alcanzó ingresos de $247,926 millones de pesos el año pasado y superó por primera vez $50,000 millones en EBITDA.*
+
+---
+
+[Share](https://www.whitepaper.mx/p/whitepaper-hoy-6ad?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjo1MTE0MzI1MjIsInBvc3RfaWQiOjE5MjAzOTIxMiwiaWF0IjoxNzc5MjE0OTU0LCJleHAiOjE3ODE4MDY5NTQsImlzcyI6InB1Yi01NzU4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.3ThIc2d9NXd8x5_y9cT6Sd0_2mkco2shArDOvW7q4V4)
+
+---
+
+#### Fitness…en España
+
+Lapsos Studios, de **Barcelona**, está [siendo adquirida por](https://www.infobae.com/america/agencias/2026/03/24/la-empresa-mexicana-de-fitness-commando-studios-comprara-la-catalana-lapso-studios/) **[Commando](https://www.infobae.com/america/agencias/2026/03/24/la-empresa-mexicana-de-fitness-commando-studios-comprara-la-catalana-lapso-studios/)**, la marca **mexicana** que se especializa en clases de intervalos de alta intensidad y “entrenamiento funcional”. Lapsos tiene tres estudios y en 2025 [duplicó](https://www.expansion.com/catalunya/2026/03/24/69c1a22de5fdea1a308b4571.html) su facturación a poco más de €2 millones de euros (***Redacción Whitepaper***).
+
+> ***Comentario Whitepaper**: dirigida por [Joaquín Hirschfeld](https://www.linkedin.com/in/joaquin-hirschfeld-97590319/) (CEO), Commando cerró una ronda de inversión por parte de **ACON Investments** en 2024 y aceleró —en los últimos tres años pasó **de unos 10 estudios a 66** (incluyendo al menos dos en Madrid).*
+
+---
+
+#### De dólar
+
+“*While it is still early days, we continue to be pleased with the team’s execution and initial customer reception (…) Mexico, while we’re, you know, very happy with the progress, is still **in** **ramp-up mode***”.
+
+**Dollarcity** aterrizó en México el año pasado con un inversión de $36 millones de dólares y sus primeras 11 tiendas. Éstas le generaron una pérdida de $11.7 millones de dólares, y la empresa contempla que este año **continuarán en números rojos** (la perdida estimada es de más de $10 millones). En todo caso, planean invertir este año **otros $38 millones de dólares** para seguir extendiendo su cadena en México ([Investing](https://www.investing.com/news/transcripts/earnings-call-transcript-dollarama-q4-2026-sees-earnings-beat-but-stock-falls-93CH-4578049)).
+
+> ***Comentario Whitepaper**: la canadiense **Dollarama** tiene participación mayoritaria en **Dollarcity** desde 2019. En [promedio](https://www.dollarama.com/en-CA/corp/wp-content/uploads/2025/04/2025-Annual-Information-Form-EN.pdf), las tiendas de **Dollarcity** superan los 700 metros cuadrados y requieren una inversión de $500,000 dólares cada una. En total tienen cerca de 700 tiendas en Colombia, Guatemala, Perú y El Salvador.*
+
+---
+
+#### ¿En venta?
+
+Los dueños de **Codere** estarían **buscándole un comprador** a la empresa española de **casinos** y **apuestas**; estiman que la organización debiera valer cerca de €2,000 millones de euros (un múltiplo de 10x EBITDA). Además de España, tienen operaciones en países como Italia, Argentina y Panama. **México** es su **segundo mercado más grande**; contribuye con 17% de los ingresos ([Expansión.es](https://www.expansion.com/empresas/2026/03/25/69c2ef4ee5fdea1a308b45b2.html)).
+
+> ***Comentario Whitepaper**: de acuerdo con el [artículo](https://www.expansion.com/empresas/2026/03/25/69c2ef4ee5fdea1a308b45b2.html), **Codere Online** —que cotiza en Nasdaq después de haberse [fusionado con una SPAC](https://www.whitepaper.mx/p/de-spacs-y-apuestas-online?utm_source=publication-search)— también estaría siendo contemplada “en el perímetro” de la transacción.*
+
+---
+
+#### Minería
+
+Los [ingresos](https://www.autlan.com.mx/wp-content/uploads/2026/03/Informe_Anual_2025-ESPANOL.pdf) de **Autlán** en 2025 fueron de $323 millones de dólares, un incremento de 3% frente al año anterior. El EBITDA disminuyó 13%, a $31.5 millones de dólares —la empresa lo atribuye a la política de aranceles en EUA y a la presión por la competencia desleal de importaciones de ferroaleaciones de **manganeso** provenientes de países asiáticos (***Redacción Whitepaper***).
+
+---
+
+#### *Breves*
+
+* El nuevo plan de ***stock options*** para los principales ejecutivos en **Meta**, que les permitiría ganar “cientos de millones de dólares”, implica que la valuación de la empresa **se multiplique por seis** hacia 2031 —o sea, que llegue a valer **$9** ***trillones*** **de dólares** ([The Information](https://www.theinformation.com/briefings/meta-approves-new-executive-stock-plan-tied-aggressive-stock-goals?rc=xfuqjy)).
+* Aún y cuando reportaron un aumento de 185% en los ingresos de 2025, el precio de la acción de **Pop Mart** amanece hoy con una caída cercana al 20%: los inversionistas están cada vez más nerviosos por la dependencia que tienen la empresa en los **Labubu**, cuyos precios en el mercado secundario muestran una **tendencia a la baja** ([Financial Times](https://www.ft.com/content/7a1656da-0da9-469a-9a29-9b797cb26d8e?syn-25a6b1a6=1)).
+* **Home Depot** adquirió en EUA una empresa especializada en **distribución de aires acondicionados** y equipos de **calefacción** ([MarketScreener](https://www.marketscreener.com/news/the-home-depot-subsidiary-srs-distribution-enters-into-agreement-to-acquire-wholesale-hvac-distribut-ce7e5eddd180fe21)).
+* Dos de los cofundadores de **On Running** se convertirán en **Co-CEOs** de su empresa, reemplazando al CEO externo que integraron a la empresa hace cinco años. Aunque las ventas han estado por encima de las expectativas, el precio de la acción **acumula una diminución de 15%** en lo que va del año ([Bloomberg](https://www.bloomberg.com/news/articles/2026-03-25/federer-backed-on-to-be-led-by-founders-as-ceo-steps-down?srnd=phx-latinamerica)).
+
+---
+
+#### Los muy ricos
+
+En EUA hay cerca de **430,000 familias** con un patrimonio por encima de **$30 millones de dólares** y de éstas, alrededor de **74,000 valen más de $100 millones**. El crecimiento en estos segmentos es mucho más rápido que el crecimiento de la población en general ([WSJ](https://www.wsj.com/economy/wealthy-americans-us-economy-dba0d26a?mod=hp_lead_pos9)).
+
+> ***Comentario Whitepaper**: el artículo analiza **cómo está diversificado** el patrimonio de estas familias y el impacto que todo esto tiene en las preferencias y hábitos de consumo en ese país. De acuerdo con sus cálculos, para estar en el famoso **“top 0.1%”** se necesitan **$43 millones de dólares**.*
+
+---
+
+#### Arquitectura de los negocios: Nubank, Ep. 3
+
+En este episodio, Susana Sáenz explica a fondo cómo **Nubank** gana dinero. El capítulo desglosa las tres grandes fuentes de ingresos —intereses, comisiones y el *float* de depósitos—, así como su ventaja estructural basada en tecnología, costos bajos y modelos avanzados de riesgo crediticio, una parte explicada por **David Vélez**, cofundador de la compañía.
+
+El **episodio 2** de esta serie, lo puedes encontrar en [Whitepaper Access](https://open.spotify.com/show/4qKxxpFAkdANlcRFl8xhez?si=d0a05d35834641e3)
+
+> *Disponible en [Apple Podcasts](https://podcasts.apple.com/us/podcast/episodio-3-cómo-gana-dinero-nubank/id1584711514?i=1000757147441), [Spotify](https://open.spotify.com/episode/2X7V7VzpZRoNHvWuKQM6PN?si=QO4o7aVpTB6YlSYqyA9eRQ), [YouTube](https://www.youtube.com/@whitepapermx/videos) y [Trebel](https://substack.com/redirect/69f00e5a-1056-416f-82bc-0e91264ae977?j=eyJ1IjoiMzMzejNzIn0.AN3Iyi9lq3-uBRKaGXIO8VRf4S19kJ2tWUp_2NZauGI)*
+
+---
+
+#### Spotlight en: Koenigsegg
+
+[![](https://substackcdn.com/image/fetch/$s_!B5Ch!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586c5888-d59a-4aeb-affa-bfdab42a5b03_1280x664.jpeg)](https://substackcdn.com/image/fetch/$s_!B5Ch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586c5888-d59a-4aeb-affa-bfdab42a5b03_1280x664.jpeg)
+
+*“By any conventional business logic, Koenigsegg Automotive AB shouldn’t exist”*, señaló [un artículo](https://www.bloomberg.com/news/articles/2026-03-09/koenigsegg-makes-4-million-cars-and-is-weighing-an-ipo) de Bloomberg hace algunas semanas. La marca de *hypercars* de Suecia ha producido menos de **300 vehículos** a lo largo de tres décadas. En la actualidad, los precios de sus modelos suelen estar por encima de $3 millones de dólares
+
+Christian von Koenigsegg fundó la empresa en 1994, cuando él tenía 22 años y sin experiencia previa en la industria automotriz. Tardó unos cinco años en lanzar un primer modelo y poco a poco fue desarrollando mayores capacidades de diseño y también de producción.
+
+El año clave habría sido 2024: Koenigsegg pasó de generar en 2023 €55 millones de ingresos y con ello, perder €28 millones de euros, a vender más de €124 millones y terminar con una ganancia de poco más de €1.2 millones. Ese año entregaron 56 autos a sus clientes; cerraron además una ronda de inversión en la que la valuación se habría fijado en unos €1,000 millones de euros. Ahora están creciendo su capacidad de producción para poder fabricar más de 150 unidades al año y se preparan para un próximo IPO.
+
+**Gran Chelem** distribuye esta marca en nuestro país; curiosamente hay [varias notas](https://mexiconewsdaily.com/news/30-million-peso-luxury-car-destroyed/) de hace algunos años que muestran vehículos Koenigsegg [accidentados en México](https://www.motortrend.com/news/koenigsegg-ccx-totaled-high-speed-crash-mexico) (***Redacción Whitepaper***).
+
+---
+
+##### Presentado por:
+
+[![](https://substackcdn.com/image/fetch/$s_!CIID!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda94f45c-c5f6-4bb0-b1dc-ed3959ca1d73_1800x800.jpeg)](https://www.localiza.com/mexico/es-mx?codigo=WHITEPAPER)
+
+En agendas dinámicas, la flexibilidad es clave.
+
+Ya sea para viajes de negocio, proyectos temporales o necesidades personales, contar con un vehículo disponible en el momento adecuado hace la diferencia.
+
+En Localiza ofrecemos renta de autos por día o por periodos más largos, adaptándonos a la duración de cada necesidad.
+
+Además, entre más días rentes, mejores condiciones obtienes, con tarifas transparentes, sin cargos ocultos y con la flota más nueva y confiable.
+
+**Beneficio exclusivo para lectores de Whitepaper:**
+
+Obtén **20% de descuento** en rentas de 5 días o más usando el código **[WHITEPAPER](https://www.localiza.com/mexico/es-mx?codigo=WHITEPAPER)**.
+
+Una forma más flexible y eficiente de moverte.
+
+[Reserva en localiza.com](https://www.localiza.com/mexico/es-mx?codigo=WHITEPAPER)
