@@ -14,10 +14,8 @@ a { color: var(--lcg-dark); }
 header.chrome { position: sticky; top: 0; z-index: 50; display: flex; align-items: center; justify-content: space-between;
                 padding: 16px 48px; background: var(--lcg-cream); border-bottom: 1px solid var(--lcg-line); }
 .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; color: var(--lcg-dark); }
-.brand .mark { width: 32px; height: 32px; }
-.brand-text { display: flex; flex-direction: column; line-height: 1; }
-.brand-name { font-family: 'Manrope', sans-serif; font-weight: 700; font-size: 16px; letter-spacing: 0.18em; color: var(--lcg-green); }
-.brand-tag { font-family: 'Manrope', sans-serif; font-size: 9px; font-weight: 600; letter-spacing: 0.22em; color: var(--lcg-dark); margin-top: 2px; }
+.brand .wordmark { height: 28px; width: auto; display: block; }
+.brand-tag { font-family: 'Manrope', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; color: var(--lcg-dark); padding-left: 12px; border-left: 1px solid var(--lcg-line); }
 
 .nav { display: flex; gap: 6px; }
 .nav a { padding: 8px 16px; font-size: 12px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: var(--lcg-ink-60); text-decoration: none; border-radius: 999px; }

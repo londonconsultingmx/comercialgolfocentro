@@ -1,19 +1,31 @@
-<svg viewBox="0 0 880 160" xmlns="http://www.w3.org/2000/svg" aria-label="LONDON Consulting Group" role="img">
-    <!-- Approximación geométrica del wordmark LONDON. Reemplazar por el archivo oficial si está disponible. -->
+<svg viewBox="0 0 1620 320" xmlns="http://www.w3.org/2000/svg" aria-label="LONDON Consulting Group" role="img">
+    <!-- Reconstrucción geométrica del wordmark LONDON de LCG (aprox).
+         Si tienes el SVG/PNG oficial, sobrescribe este archivo. -->
     <g fill="#03B585">
-        <!-- L: triángulo grande -->
-        <path d="M 0 0 L 130 0 L 0 160 Z"/>
-        <!-- O: dos semicírculos forman un círculo, con pequeño hueco -->
-        <circle cx="220" cy="80" r="80"/>
-        <!-- N: triángulo izquierdo + triángulo derecho (forma de "N" estilizada) -->
-        <path d="M 320 0 L 460 0 L 460 80 Z"/>
-        <path d="M 320 80 L 320 160 L 460 160 Z"/>
-        <!-- D: medio círculo + rectángulo pequeño -->
-        <path d="M 480 0 L 540 0 A 80 80 0 0 1 540 160 L 480 160 Z"/>
-        <!-- O: círculo -->
-        <circle cx="680" cy="80" r="80"/>
-        <!-- N: igual al primero -->
-        <path d="M 780 0 L 880 0 L 880 80 Z"/>
-        <path d="M 780 80 L 780 160 L 880 160 Z"/>
+        <!-- L: triángulo inferior-izquierdo -->
+        <polygon points="0,0 0,280 240,280"/>
+
+        <!-- O (1): dos semicírculos con gap delgado al centro -->
+        <path d="M 393,10 A 130 130 0 0 0 393 270 Z"/>
+        <path d="M 407,10 A 130 130 0 0 1 407 270 Z"/>
+
+        <!-- N (1): triángulo superior-derecha + triángulo inferior-izquierda, gap horizontal al centro -->
+        <polygon points="560,0 800,0 800,128"/>
+        <polygon points="560,152 560,280 800,280"/>
+
+        <!-- D: barra vertical + semicírculo derecho -->
+        <rect x="830" y="0" width="30" height="280"/>
+        <path d="M 870,0 A 140 140 0 0 1 870 280 Z"/>
+
+        <!-- O (2) -->
+        <path d="M 1153,10 A 130 130 0 0 0 1153 270 Z"/>
+        <path d="M 1167,10 A 130 130 0 0 1 1167 270 Z"/>
+
+        <!-- N (2) -->
+        <polygon points="1320,0 1560,0 1560,128"/>
+        <polygon points="1320,152 1320,280 1560,280"/>
     </g>
+
+    <!-- ® registered mark (pequeño, esquina superior derecha del N final) -->
+    <text x="1575" y="48" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="36" fill="#03B585" font-weight="700">®</text>
 </svg>
