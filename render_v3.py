@@ -106,6 +106,118 @@ EXTRA_CSS = r"""
 
 
 # ========================================================================
+# DICCIONARIO DE SIGLAS — expansión en primera aparición por página
+# ========================================================================
+ACRONYMS = {
+    # Finanzas / M&A
+    "M&A": "fusiones y adquisiciones",
+    "EBITDA": "utilidad operativa antes de intereses, impuestos, depreciación y amortización",
+    "IPO": "oferta pública inicial",
+    "MDD": "millones de dólares",
+    "MDP": "millones de pesos",
+    "USD": "dólares estadounidenses",
+    "MXN": "pesos mexicanos",
+    "TIR": "tasa interna de retorno",
+    "ROI": "retorno sobre la inversión",
+
+    # Automotriz / Industria
+    "EV": "vehículos eléctricos",
+    "OEM": "fabricante de equipo original",
+    "SUV": "vehículo utilitario deportivo",
+    "GNL": "gas natural licuado",
+    "LNG": "gas natural licuado",
+
+    # Real estate
+    "FIBRA": "Fideicomiso de Infraestructura y Bienes Raíces",
+
+    # Regulatorio MX
+    "CNBV": "Comisión Nacional Bancaria y de Valores",
+    "COFECE": "Comisión Federal de Competencia Económica",
+    "BMV": "Bolsa Mexicana de Valores",
+    "BIVA": "Bolsa Institucional de Valores",
+    "SAT": "Servicio de Administración Tributaria",
+    "SHCP": "Secretaría de Hacienda y Crédito Público",
+    "CFE": "Comisión Federal de Electricidad",
+    "CRE": "Comisión Reguladora de Energía",
+    "CNH": "Comisión Nacional de Hidrocarburos",
+    "IFT": "Instituto Federal de Telecomunicaciones",
+    "PROFECO": "Procuraduría Federal del Consumidor",
+    "CONDUSEF": "Comisión Nacional para la Defensa de Usuarios de Servicios Financieros",
+    "SEMARNAT": "Secretaría de Medio Ambiente y Recursos Naturales",
+    "CONAGUA": "Comisión Nacional del Agua",
+    "Banxico": "Banco de México",
+    "SADER": "Secretaría de Agricultura y Desarrollo Rural",
+    "SAGARPA": "Secretaría de Agricultura — ahora SADER",
+    "FIRA": "Fideicomisos Instituidos en Relación con la Agricultura",
+
+    # Comercio internacional
+    "IMMEX": "Industria Manufacturera, Maquiladora y de Servicios de Exportación",
+    "T-MEC": "Tratado entre México, Estados Unidos y Canadá",
+    "USMCA": "Acuerdo Estados Unidos-México-Canadá, también T-MEC",
+    "AAANL": "Asociación de Agentes Aduanales de Nuevo Laredo",
+
+    # Roles corporativos
+    "CEO": "director general",
+    "CFO": "director financiero",
+    "COO": "director de operaciones",
+    "CTO": "director de tecnología",
+    "CMO": "director de marketing",
+    "CIO": "director de información",
+
+    # Empresas universalmente reconocidas por su sigla
+    "KOF": "Coca-Cola FEMSA",
+
+    # Tech / modelos de negocio
+    "D2C": "venta directa al consumidor",
+    "SaaS": "software como servicio",
+    "B2B": "negocio a negocio",
+    "B2C": "negocio a consumidor",
+    "KPI": "indicador clave de desempeño",
+
+    # Geografía
+    "CDMX": "Ciudad de México",
+    "EUA": "Estados Unidos de América",
+    "EEUU": "Estados Unidos",
+
+    # Educación / redes
+    "ITESM": "Tecnológico de Monterrey",
+    "ITAM": "Instituto Tecnológico Autónomo de México",
+    "UNAM": "Universidad Nacional Autónoma de México",
+    "IPN": "Instituto Politécnico Nacional",
+    "UDLAP": "Universidad de las Américas Puebla",
+    "UVM": "Universidad del Valle de México",
+    "UNITEC": "Universidad Tecnológica de México",
+    "UAT": "Universidad Autónoma de Tamaulipas",
+    "UNACH": "Universidad Autónoma de Chiapas",
+    "YPO": "Young Presidents' Organization — red global de directores generales",
+
+    # Cámaras / asociaciones
+    "CCE": "Consejo Coordinador Empresarial",
+    "CANIRAC": "Cámara Nacional de la Industria Restaurantera y Alimentos Condimentados",
+    "COPARMEX": "Confederación Patronal de la República Mexicana",
+    "CANACINTRA": "Cámara Nacional de la Industria de Transformación",
+    "AMIA": "Asociación Mexicana de la Industria Automotriz",
+    "ANTAD": "Asociación Nacional de Tiendas de Autoservicio y Departamentales",
+    "AHTQR": "Asociación de Hoteles de la Riviera Maya",
+}
+
+
+def expand_acronyms_in_html(html_str: str) -> str:
+    """Expande la primera aparición de cada sigla con su definición entre paréntesis.
+    Trabaja sobre HTML ya escapado, por eso uso html.escape sobre la sigla
+    (ej. 'M&A' -> 'M&amp;A')."""
+    for acronym, definition in ACRONYMS.items():
+        h_acronym = html.escape(acronym)
+        h_def = html.escape(definition)
+        # \b en regex: requiere word-boundary. Caracteres como '&' (en HTML
+        # entity '&amp;') ya son no-word, así que el límite funciona.
+        # Negative lookahead: no expandir si ya viene con paréntesis después.
+        pattern = r'(?<![\w-])' + re.escape(h_acronym) + r'(?![\w-])(?!\s*\()'
+        html_str = re.sub(pattern, f'{h_acronym} ({h_def})', html_str, count=1)
+    return html_str
+
+
+# ========================================================================
 # RENDER
 # ========================================================================
 
@@ -238,7 +350,7 @@ def render_state_page(state: str, data: dict, analysis: dict) -> str:
     slug = slugify(state)
     crm = data.get("crm_context", CRM_DATA.get(state, {}))
 
-    return f"""<!DOCTYPE html>
+    page = f"""<!DOCTYPE html>
 <html lang="es-MX"><head><meta charset="UTF-8">
 <title>{html.escape(state)} · Inteligencia Comercial · LCG</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -299,6 +411,7 @@ def render_state_page(state: str, data: dict, analysis: dict) -> str:
 </main>
 {chrome_footer()}
 </body></html>"""
+    return expand_acronyms_in_html(page)
 
 
 def render_zona_overview(state_intels: list[dict]) -> str:
