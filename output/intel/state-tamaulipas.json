@@ -1,0 +1,545 @@
+{
+  "state": "Tamaulipas",
+  "crm_context": {
+    "aaa_aa": 41,
+    "dm": 96,
+    "industries": "Frontera Nuevo Laredo · puerto Altamira · maquila · agroindustria"
+  },
+  "ppt_families_full_list": [
+    {
+      "label": "Grossman (Arca Continental · USD 2.2B Forbes)",
+      "aliases": [
+        "Grossman",
+        "Arca Continental"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 15,
+      "mention_dates": [
+        "2026-04-24",
+        "2026-04-23",
+        "2026-04-14",
+        "2026-03-25",
+        "2026-03-04",
+        "2026-02-13",
+        "2026-02-04",
+        "2025-11-27",
+        "2025-10-24",
+        "2025-10-17",
+        "2025-08-27",
+        "2025-07-16",
+        "2025-07-08",
+        "2025-06-12",
+        "2025-06-09"
+      ]
+    },
+    {
+      "label": "González Díaz Lombardo (Tequila Chinaco · DO Tamaulipas)",
+      "aliases": [
+        "González Díaz Lombardo",
+        "Tequila Chinaco"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Fleishman (Grupo Tampico · post-fusión KOF 2011)",
+      "aliases": [
+        "Fleishman",
+        "Grupo Tampico"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Familia Osuna (Ciudad Victoria · Transpaís + Inbox + Car One)",
+      "aliases": [
+        "Osuna",
+        "Transpaís",
+        "Car One"
+      ],
+      "mentioned_in_whitepaper": true,
+      "mention_count": 1,
+      "mention_dates": [
+        "2026-03-11"
+      ]
+    },
+    {
+      "label": "Cluster aduanal Nuevo Laredo (Pumarejo / Maron)",
+      "aliases": [
+        "Pumarejo",
+        "Maron",
+        "Garza Quintero",
+        "Lopezadri"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Familia Vela (raíz Tampico · opera Quintana Roo)",
+      "aliases": [
+        "familia Vela",
+        "Vela Tampico"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    },
+    {
+      "label": "Estrada Ávalos",
+      "aliases": [
+        "Estrada Ávalos"
+      ],
+      "mentioned_in_whitepaper": false,
+      "mention_count": 0,
+      "mention_dates": []
+    }
+  ],
+  "stats": {
+    "total_excerpts": 45,
+    "ppt_families_hit": 2,
+    "ppt_families_total": 7,
+    "top_sectors": [
+      [
+        "Alimentos y Bebidas",
+        8
+      ],
+      [
+        "Real Estate / Construcción",
+        6
+      ],
+      [
+        "Manufactura / Nearshoring",
+        4
+      ],
+      [
+        "Retail / Comercio",
+        3
+      ],
+      [
+        "Banca / Finanzas",
+        3
+      ],
+      [
+        "Automotriz",
+        3
+      ],
+      [
+        "Energía / Petroquímica",
+        2
+      ],
+      [
+        "Logística / Transporte",
+        2
+      ]
+    ],
+    "top_events": [
+      [
+        "Inversión / Capex",
+        21
+      ],
+      [
+        "Resultados",
+        8
+      ],
+      [
+        "Expansión / Apertura",
+        5
+      ],
+      [
+        "M&A",
+        1
+      ],
+      [
+        "Movimientos directivos",
+        1
+      ],
+      [
+        "IPO / Bursátil",
+        1
+      ]
+    ],
+    "new_entities_detected": [
+      [
+        "Redacción Whitepaper",
+        22
+      ],
+      [
+        "América Móvil",
+        2
+      ],
+      [
+        "The Home Depot",
+        2
+      ],
+      [
+        "Cola México",
+        2
+      ]
+    ]
+  },
+  "excerpts": [
+    {
+      "date": "2026-05-12",
+      "post_date": "2026-05-12T12:18:20.509Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-581",
+      "subtitle": "Lo que ha invertido Netflix; las marcas de Sigma; Monster Energy; entrevista a Fabián Morales, CFO de Miniso; Mondelēz en México; Alkemio; 'battery swap'; Amazon Now; crece Mixue",
+      "text": "* Neither credible nor attractive —así calificó el consejo de administración de eBay la propuesta de GameStop para comprar la totalidad de sus acciones en una transacción que valúa a la empresa de e-commerce en $56,000 millones de dólares (MarketWatch). * Liberty Bay, de EUA, está evaluando la posibilidad de invertir $1,000 millones de dólares para desarrollar una terminal de gas natural licuado en la zona de Altamira. La decisión final no está tomada; la empresa está considerando también una ubicación en Argentina (MarketScreener). * Amazon Now, un servicio de entrega a domicilio en menos de 30 minutos, está ya disponible en ciudades como Atlanta, Dallas, Austin, Denver y Houston (entre otras). Los clientes de Amazon pueden ordenar en esta modalidad desde productos de supermercado, hasta dispositivos tipo AirPods (TechCrunch).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-30",
+      "post_date": "2026-04-30T12:20:25.135Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a8b",
+      "subtitle": "Bimbo y GBM, presumiendo récords; la nueva SPAC; cambio en Softtek; VCs en LATAM; H-E-B; TelevisaUnivision; oficinas en NYC; prediction markets; Target en Houston; GLP-1 vs AI; TikTok Shops",
+      "text": "Comentario Whitepaper: en esta iniciativa están también como miembros del consejo Alberto Fasja (Axo, Filip), Jean-Michel Enríquez (Creel García-Cuéllar, Aiza y Enríquez) y Héctor Madero (Actinver).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-24",
+      "post_date": "2026-04-24T12:18:03.192Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-d80",
+      "subtitle": "Las regias y sus 'récords'; Hortifrut; conoce a Samantha Guzmán; Pinfra, Kimberly Clark; excluyendo las consecuencias de AI; Meta, Nike, Microsoft, EY y KPMG; Sphere; L Catterton; podcasts",
+      "text": "Ayer hablamos del reporte de Cemex, en donde la cementera regia presumió un EBITDA récord para el primer trimestre. Ahora vienen Arca Continental y Sigma Foods, y ambas hablan también de resultados sobresalientes.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-04-23",
+      "post_date": "2026-04-23T12:23:39.380Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fdf",
+      "subtitle": "Cemex; nuevo CEO de Banamex; Aeroméxico; Bimbo en Dallas; derechos de transmisión de la Selección Mexicana; Siemens, ZF Group y Hansa Flex; Kuo; América Móvil; MBaer Merchant Bank; Walmart",
+      "text": "Comentario Whitepaper: no será la única empresa mexicana de alimentos con sede en Dallas. Ahí están también Lala y Coca-Cola Southwest (subsidiaria de Arca Continental). Además, empresas como Gruma y La Moderna tienen plantas en esa ciudad, y Sigma cuenta con un centro de distribución.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-04-21",
+      "post_date": "2026-04-21T12:21:50.238Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fcc",
+      "subtitle": "Avances de GAP; exportaciones; lenguas de gato; Grupo Posadas; el pivot de Kredi; Grupo Acerero; mezcal; el relevo en Apple; psicodélicos; estimaciones de utilidades; fuentes de información",
+      "text": "En Tijuana y Reynosa: +17,000 secciones de racks selectivos, montacargas eléctricos, plataformas de elevación, patines, escáneres y equipo de cómputo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-04-14",
+      "post_date": "2026-04-14T12:27:22.633Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-faa",
+      "subtitle": "Vidanta en el Mediterráneo; Herdez y sus helados; Nifco en NL; té Izlah; tarjetas con límite de más de $60,000; el plan de Nissan; Amazon vs Starlink; catálogos; la casa del CEO de TelevisaUnivision",
+      "text": "Comentario Whitepaper: Fuera de Izlah —que nació tras el cierre de Teavana, una compañía que terminó en manos de Starbucks antes de desaparecer—, los gustos del consumidor mexicano en el mercado del té se están inclinando cada vez más hacia el té helado, una categoría que ha venido ganando terreno. El año pasado reportamos cómo esta fue una de las categorías de mayor crecimiento para Arca Continental, incrementando 18.3% en volumen durante el cuarto trimestre de 2025. Ese mismo año, la categoría de bebidas no carbonatadas —donde se incluyen los tés— fue la única que creció año contra año.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-25",
+      "post_date": "2026-03-25T12:21:47.918Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6ad",
+      "subtitle": "Inversiones de Arca Continental; Commando en España; Dollarcity; Codere; Minera Autlán; stock options en Meta; acción de Pop Mart; Home Depot y HVAC; ON; Spotlight en Koenigsegg",
+      "text": "Arca Continental es ya la empresa líder en el negocio de vending en México (y en Perú), y busca también crecer este negocio en EUA. En total cuenta con más de 72,000 puntos de venta, incluyendo vending machines y micromercados, 38,000 de los cuales están en EUA (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-25",
+      "post_date": "2026-03-25T12:21:47.918Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-6ad",
+      "subtitle": "Inversiones de Arca Continental; Commando en España; Dollarcity; Codere; Minera Autlán; stock options en Meta; acción de Pop Mart; Home Depot y HVAC; ON; Spotlight en Koenigsegg",
+      "text": "Comentario Whitepaper: planean invertir este año $18,500 millones de pesos, una cifra récord y que es equivalente a más de 7.5% de sus ventas. El director de Finanzas y Relación con Inversionistas, Ulises Fernández De Lara, explicó a Whitepaper que más de la mitad de este recurso está etiquetado para México, e incluye inversiones para aumentar sus capacidades de producción (como líneas adicionales en sus plantas), mejoras a su red logística (vehículos, refrigeradores) y también el desarrollo de herramientas digitales. Entre otros proyectos, están invirtiendo en pozos de extracción de mayor profundidad para acceder al agua de manantial necesaria para Topo Chico; Fernández de Lara estimó que esto debiera resolver hacia verano el problema de escasez que se ha presentado en EUA. Arca Continental, que en 2026 cumple 100 años, alcanzó ingresos de $247,926 millones de pesos el año pasado y superó por primera vez $50,000 millones en EBITDA.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-11",
+      "post_date": "2026-03-11T12:24:35.057Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-c49",
+      "subtitle": "Resultados IUSA; la ronda de Handle; BBVA y los neobancos; Leggett & Platt; VW y los aranceles; World's Billionaires List; bodegas en EUA; ingresos de YouTube; 'trophy wives'; spotlight en Florsheim",
+      "text": "De acuerdo con BBVA, aún y cuando algunos de sus clientes obtienen tarjetas de crédito emitidas por neobancos, no dejan de utilizar la tarjeta que tenían con el banco español: durante la presentación de sus planes para México, Eduardo Osuna aseguró que 12 meses después de haber recibido la tarjeta del neobanco, 99% de los pagos los siguen haciendo con la tarjeta de BBVA (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-04",
+      "post_date": "2026-03-04T12:24:06.498Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b57",
+      "subtitle": "Fresnillo; dividendos; Eight Sleep; Alpek; Flex en Aguascalientes; VEMO en Monterrey; Eddie Bauer; Vail Resorts; Meta y el WSJ; los resultados de Ross; contrataciones en Whoop; spotlight en ICONIQ",
+      "text": "Comentario Whitepaper: seis empresas —FEMSA, Grupo México, América Móvil, Walmex, ASUR y Arca Continental— le repartieron a su accionistas más de $1,000 millones de dólares cada una (y Fresnillo se quedó muy cerca).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-03-03",
+      "post_date": "2026-03-03T12:22:33.756Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e50",
+      "subtitle": "Las de $35,000 millones; el Buró; pronóstico de BBVA; entrevista al CFO de Fibra Shop; Carter’s en México; Circle K; Samtech; plant-based meat; Life360; deuda y tech; tráfico en tiendas",
+      "text": "Fibra Shop cuenta actualmente con más de 20 propiedades en operación, incluyendo nombres reconocidos como La Perla, que representa 21% de sus ingresos, seguido de Cibeles (11%), y La Victoria (11.4%). Tienen alrededor de 2,000 contratos y una ocupación promedio superior al 95%, presencia en 11 estados, y más de 800,000 m² de área rentable. Viene en camino un nuevo proyecto en Nuevo Laredo.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-13",
+      "post_date": "2026-02-13T12:17:18.798Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-738",
+      "subtitle": "Coca-Cola Zero; gasto en publicidad; crece Tim Hortons; Conoce a Paulina Campos; inversiones automotrices; Ab InBev y Corona Cero; Erewhon; camiones autónomos; family offices muy activas",
+      "text": "Dentro del portafolio de Arca Continental, Coca-Cola Zero en México registra un crecimiento anual compuesto de 15.8% en los últimos cinco años, impulsado por un aumento de más de 18% en el último trimestre del año pasado. En EUA, en ese mismo periodo, creció cerca de 11% (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-02-10",
+      "post_date": "2026-02-10T12:24:13.986Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3b4",
+      "subtitle": "Cemex Ventures; Vitro en EUA; Netafim; Gas Natural; Sabadell; movimientos clave; Uber y Getir; OpenAI para empresas; Hermès en Rodeo Drive; DeBeers; HBR y el impacto de AI en el trabajo",
+      "text": "Comentario Whitepaper: más allá de Saguaro, México tiene actualmente nueve proyectos de GNL en distintas etapas de desarrollo. Sin embargo, solo uno se encuentra en operación: Altamira I, en Tamaulipas, con una capacidad de 1.4 MTPA y una inversión aproximada de $1,000 millones de dólares. El siguiente en entrar en operación sería Energía Costa Azul, de Sempra Infrastructure (en Ensenada) que prevé iniciar operaciones en la primavera de este año con una inversión de $3,000 millones de dólares y una capacidad inicial de 3.25 MTPA.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-02-04",
+      "post_date": "2026-02-04T12:23:36.314Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-0b3",
+      "subtitle": "IPC; inversiones de GAP; la ronda de Tapi; dmX; K&S en Aguascalientes; cambios en Hérdez; Swatch; mexicanos en Canadian Premier League; botas con casquillo; Disney; Walmart; spotlight en Vivobarefoot",
+      "text": "El IPC tuvo ayer un día extraordinario, con una subida de 3.19%. Destacan avances de más de 4% en emisoras como América Móvil, Banorte, Arca Continental, Sigma Foods y Becle (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2026-01-23",
+      "post_date": "2026-01-23T12:17:13.194Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-362",
+      "subtitle": "Essity y Kimberly Clark; conoce a Estefanía Lotfe; McCormick; Polaris; licencias bancarias para Ford y GM; cerveza stout; TikTok USA; Waymo en Miami; la venta de Brex",
+      "text": "Comentario Whitepaper: vendieron más de $1,352 millones de dólares en México en 2024 (vs $727 millones es 2021). Nuestro país representa casi 9% de sus ingresos globales, cuando tres años antes era 5.5%. Tienen plantas en Nuevo León, Tamaulipas, Hidalgo, Michoacán y Estado de México.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2026-01-05",
+      "post_date": "2026-01-05T12:24:05.999Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-667",
+      "subtitle": "Bepensa en EUA; las ventajas de México; el pedido de Alstom; recortes en las grandes; Azcárraga en Ollamani; conoce a Valentina Ibarra; todas quieren licencia; pizzerías; crece Aritzia; la apuesta",
+      "text": "Alstom, una empresa francesa especializada en trenes, firmó un contrato con el gobierno mexicano por $20,200 millones de pesos para proveer 47 unidades que serán utilizadas en los corredores México–Querétaro–Irapuato y Saltillo–Monterrey–Nuevo Laredo. El contrato incluye también mantenimiento por cinco años.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-22",
+      "post_date": "2025-12-22T12:20:31.896Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-be8",
+      "subtitle": "Maersk en Manzanillo; Worthington Steel y Serviacero; el adeudo fiscal de Elektra; conoce a Carmen Gutiérrez; Residencias “de marca”; FAO Schwarz; Foxtail Coffee; de cacería; relojes suizos",
+      "text": "Grupo Suprajit, empresa de India que se especializa en cables para uso automotriz, invertirá cerca de $50 millones de pesos para expandir la fábrica que tienen en Matamoros. Tienen además otra planta en Juárez (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-15",
+      "post_date": "2025-12-15T12:18:59.280Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-640",
+      "subtitle": "MIP y Acciona Energía; carga especializada; KPIs de la banca; WD-40; conoce a Rita Chertorivski; PAS Appliance Systems; PPG Comex; McKinsey; Oracle; LinkedIn; consejo de Tesla; surrogacy",
+      "text": "En una transacción de $1,000 millones de dólares, Mexico Infrastructure Partners está comprándole a la española Acciona Energía dos parques eólicos que tienen en Reynosa, junto con una participación de 49% en su cartera fotovoltaica de 1,300 megavatios en EUA (Reuters).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-12-05",
+      "post_date": "2025-12-05T12:25:31.500Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-cf1",
+      "subtitle": "Dollar General; On en México; Casa Ley; The Home Depot; Debt to equity; Minsa; Grupo Posadas; Warner Bros. Discovery; BRP; Aperol Spritz; Apple; Meta; Cristiano y Perplexity; leaf blowers",
+      "text": "* ON Running abrió su primera tienda oficial en la CDMX; tendría únicamente alrededor de 50 tiendas propias en el mundo. Tienen además unos 10,500 puntos de venta incluyendo distribuidores (Redacción Whitepaper). * Casa Ley invirtió $200 millones de pesos en la cuarta sucursal de su formato “Fresh Market”, enfocado en un segmento premium. En total, la empresa de Sinaloa opera más de 300 sucursales, principalmente en el oeste y noroeste del país (Redacción Whitepaper). * La nueva tienda de The Home Depot, en Querétaro, tuvo una inversión de más de $400 millones de pesos. Hace unas semanas inauguraron dos tiendas más —una en Nayarit y otra en Tamaulipas— con una inversión conjunta superior a los $850 millones de pesos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-27",
+      "post_date": "2025-11-27T12:22:05.281Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e76",
+      "subtitle": "PetStar; crédito para españolas; exportaciones de autopartes; Volex; Fortaleza; el regreso de Motorola; tendencias distintas en AI; P.F. Chang's; 'generational wealth'; casas en Breckenridge",
+      "text": "PetStar tiene como accionistas a Arca Continental, Coca-Cola México y otras embotelladoras. Sus ingresos pasaron de $1,400 millones de pesos en 2019 a $3,166 millones en 2024; su CEO es Jaime Cámara (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-11-27",
+      "post_date": "2025-11-27T12:22:05.281Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-e76",
+      "subtitle": "PetStar; crédito para españolas; exportaciones de autopartes; Volex; Fortaleza; el regreso de Motorola; tendencias distintas en AI; P.F. Chang's; 'generational wealth'; casas en Breckenridge",
+      "text": "Comentario Whitepaper: en uno de los primeros artículos de Whitepaper, hace cinco años, hablamos sobre la historia de PetStar (que tenía ya la planta de reciclaje de PET más grande del mundo). Nació como subsidiaria de Pasa, pero en 2011 entró Arca Continental como accionista, invitando también a Coca-Cola México y a embotelladoras como Bepensa, Corporación del Fuerte, Grupo Rica, Embotelladora de Colima y Grupo Embotellador Nayar.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-11-18",
+      "post_date": "2025-11-18T12:20:58.812Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fa8",
+      "subtitle": "Tiendas Home Depot; empresas públicas; Boom AI; Logistic Properties of the Americas; Patagon AI; Shacman; SHPAC; Quince; la casa de Mark Wahlberg; inmigrando a España; revocaciones de Global Entry",
+      "text": "The Home Depot invirtió más de $850 millones de pesos en la apertura de dos nuevas tiendas: una en Tamaulipas (la sexta en ese estado) y otra en Nayarit. Ambas forman parte del plan de inversión de $1,300 millones de dólares que anunciaron en febrero, y con el que buscan llegar a 165 sucursales en México para 2030. Con estas aperturas, suman ya 142 tiendas (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-11-03",
+      "post_date": "2025-11-03T12:23:20.449Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-eb5",
+      "subtitle": "Bodega Aurrerá Express; crédito automotriz; Platzi; Canva; Colgate-Palmolive; conoce a Dora Giraldo; TGI Fridays en México; la caja de Berkshire Hathaway; BYD; Grupo Prisa; expats en CDMX",
+      "text": "TGI Fridays firmó un acuerdo para abrir 50 sucursales en México. El master franchise agreement es con Mid-City Operadora, dirigida por Álvaro Traconis. Actualmente tienen unidades en Cancún, Mérida, Tampico y Tijuana (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-27",
+      "post_date": "2025-10-27T12:23:28.780Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-0d3",
+      "subtitle": "TelevisaUnivision; marcas globales de Heineken; market cap de mexicanas; Fibra MTY, Actinver, GNP y Megacable; conoce a Liliana Hernández; caviar de China; Pinterest; 'tech bros' y la cirugía plástica",
+      "text": "* El COO de Fibra MTY explicó que el tercer trimestre fue uno de contrastes: mientras que mercados como Monterrey, Guadalajara, Saltillo y Querétaro mostraron resultados sobresalientes, los mercados de Tijuana, Reynosa y Juárez se quedaron por debajo de lo esperado. Los ingresos totales aumentaron 17.2%, a poco más de $45 millones de dólares; cerraron el trimestre con 119 propiedades, incluyendo 96 propiedades industriales (Redacción Whitepaper). * En los primeros nueve meses del año, las primas emitidas por GNP ascienden a más de $95,000 millones de pesos, lo que implica un crecimiento de 12%. Sobresale el avance de más de 19% en en gastos médicos colectivos; Vida crece 10% y Automóviles 11% (BMV). * Las utilidades de Actinver en el tercer trimestre crecieron 53%, para superar $500 millones de pesos. Con ello, el ROE de los últimos 12 meses mejora a 19.1% (vs 13.3%). Su director general destacó una mayor transaccionalidad en el negocio de mercados y tesorería, así como la participación que tuvieron en el IPO de Fibra NEXT (Redacción Whitepaper). * Megacable aumentó 9.4% su número de suscriptores, alcanzando más de 5.8 millones en total. Facturaron $8,921 millones de pesos y reportaron una utilidad neta de $627 millones de pesos.Durante el trimestre invirtieron el equivalente a 26.6% de sus ingresos en CAPEX (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-10-24",
+      "post_date": "2025-10-24T12:22:17.162Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-312",
+      "subtitle": "Resultados a la baja; Arca Continental; Becle en México; Bombardier en Querétaro; la planta armadora en Aguascalientes; Coppel; pickups de Ford; \"CEO y Chairperson\"; YouTube Music",
+      "text": "Un ejemplo de lo anterior es el caso de Arca Continental, que reportó una disminución de 2.9% en volumen (“…largely reflecting the impact of heavy rains and below-average temperatures across much of our territory”, explicó su CEO). Sin embargo, a la regia le ayudó su estrategia de precios: en lo que va del año, las ventas acumuladas ascienden a $183,400 millones de pesos (+6.6%) y en el tercer trimestre el margen EBITDA superó 20% (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-10-17",
+      "post_date": "2025-10-17T12:21:51.060Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-357",
+      "subtitle": "La ronda de Plata; Gayosso; Grupo AXO; Norcast; Aircom Group; industria mexicana de Coca-Cola; resultados GIS; ANA Global LLC; BBVA y Sabadell; endowments en universidades de EUA",
+      "text": "Comentario Whitepaper: el precio de las acciones de Coca-Cola FEMSA reaccionó ayer con una subida de casi 5%, mientras que las de Arca Continental mejoraron 2.13%.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-09-30",
+      "post_date": "2025-09-30T12:26:24.328Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9c0",
+      "subtitle": "Tasa de natalidad; crece Ellaz; Arena Guadalajara; Crédito PyMe; nuevos hoteles; resultados de OpenAI y de Vail Resorts; casas de $1 millón; Universidad de Phoenix; turistas en Chongqing",
+      "text": "En Tamaulipas, Grupo Industrial Águila invertirá $6.5 millones de dólares en una planta para transformar residuos plásticos en combustible. La empresa, de origen mexicano y operando desde hace más de 30 años, es una holding con negocios en construcción industrial, renta de maquinaria y fabricación de estructuras metálicas (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-18",
+      "post_date": "2025-09-18T12:24:58.531Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-434",
+      "subtitle": "Sucesión en Femsa; la sueca Essity; Nutrisa sale a bolsa; corredores inmobiliarios; GE Aerospace; Bimbo en Brasil; Brunswick; Las Muertas; Nvidia e Intel; universidades para emprendedores; Arc'teryx",
+      "text": "Comentario Whitepaper: tienen plantas en Nuevo León, Tamaulipas, Hidalgo, Michoacán y el Edomex.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-18",
+      "post_date": "2025-09-18T12:24:58.531Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-434",
+      "subtitle": "Sucesión en Femsa; la sueca Essity; Nutrisa sale a bolsa; corredores inmobiliarios; GE Aerospace; Bimbo en Brasil; Brunswick; Las Muertas; Nvidia e Intel; universidades para emprendedores; Arc'teryx",
+      "text": "Brunswick, que se dedica a fabricar barcos deportivos, cerrará la planta que tiene en Reynosa, donde producen embarcaciones de fibra de vidrio. Es parte de una estrategia de eficiencia: moverán la producción a sus plantas en Tennessee y Florida. En México mantienen otra planta, en Chihuahua (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-09-10",
+      "post_date": "2025-09-10T12:20:41.971Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-f5b",
+      "subtitle": "Hoteles voco; Helados Alpura; Liverpool y Fabletics; impuestos; Juguetrón; Mastercraft en México; Osigu; Sequoia y Klarna; Five Guys; Oracle; spotlight en Ironman",
+      "text": "IHG Hotels & Resorts abrirá seis hoteles con su marca voco, que estarán ubicados en Cancún, Guadalajara, Ciudad Juárez, San Luis Potosí, Torreón y Nuevo Laredo. Planeadas para 2027, estas aperturas contemplan cerca de 850 cuartos (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-28",
+      "post_date": "2025-08-28T12:25:05.074Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-047",
+      "subtitle": "Aranceles a China; Whitepaper Pulse; tractores de India; por dónde entran los visitantes; Dollarcity; seguridad social en apps de delivey/rides; stablecoins; Nvidia; Lululemon; Apple Music vs Spotify",
+      "text": "Comentario Whitepaper: quieren competir con John Deere, que tiene plantas en Monterrey, Ramos Arizpe, Saltillo y Torreón, y con Caterpillar, que fabrica en Torreón, Acuña, Monterrey, Reynosa, San Luis Potosí y Tijuana.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-27",
+      "post_date": "2025-08-27T12:22:25.062Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-5e8",
+      "subtitle": "Foxconn en México; en memoria de Ricardo Guajardo; aeropuerto de Cd Juárez; el consejo de Arca; M&A; choferes de camiones; resultados de Lego; Chipotle vía drones; Canada Goose; spotlight en Vox Media",
+      "text": "Arca Continental pasó de vender $155,653 millones de pesos en 2018, a más de $237,000 millones en 2024. Al cierre del año pasado, operaba en cinco países —México, EUA, Perú, Ecuador y Argentina— con más de 70,000 empleados y una utilidad cercana a los $20,000 millones de pesos (Redacción Whitepaper).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-08-19",
+      "post_date": "2025-08-19T12:23:32.735Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-18b",
+      "subtitle": "Boing en Tamaulipas; Vesta; marketplace de transportistas; Frubana; robots (y quienes los manejan); BlackRock y secundarias; Best Buy; Chamath y sus SPACs; Eight Sleep; cadenas de fast food",
+      "text": "Con una inversión de más de $600 millones de pesos, Cooperativa Pascual —la organización que está detrás de Boing— comenzó a construir una nueva planta en Tamaulipas. Sería la tercera de la empresa, con una ubicación estratégicamente cercana a EUA (Milenio).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-18",
+      "post_date": "2025-08-18T12:18:51.678Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-b2a",
+      "subtitle": "Comprando casas en EUA; quemacocos; Globant; exportaciones; Churrería El Moro; conoce a Vanessa Rivas; en Aguascalientes; Six Flags; Soho House; biografías por encargo; la subasta",
+      "text": "Comentario Whitepaper: la empresa tiene además presencia en Puebla, Tamaulipas, Querétaro y CDMX. Entre sus clientes estarían Nissan, Ford, GM, CAT, John Deere y Toyota.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-06",
+      "post_date": "2025-08-06T12:23:58.092Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9ac",
+      "subtitle": "Peñoles; depósitos en CI Banco e Intercam; Cabot Corporation; aeropuerto de Morelia; Steelcase; Qdoba; AI en firmas de M&A; resultados de Uber; ESPN; lo que ganan los abogados; spotlight en Quince",
+      "text": "Comentario Whitepaper: Mexico Carbon Manufacturing opera en México desde 2005, en Tamaulipas, y tiene 110 empleados.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-08-06",
+      "post_date": "2025-08-06T12:23:58.092Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-9ac",
+      "subtitle": "Peñoles; depósitos en CI Banco e Intercam; Cabot Corporation; aeropuerto de Morelia; Steelcase; Qdoba; AI en firmas de M&A; resultados de Uber; ESPN; lo que ganan los abogados; spotlight en Quince",
+      "text": "Comentario Whitepaper: Steelcase está en México desde 1990. Tienen dos plantas de manufactura —en Reynosa y Tijuana— así como oficinas en Monterrey y CDMX. Su CEO en el país es Arturo Castro.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-22",
+      "post_date": "2025-07-22T12:24:21.087Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-fb4",
+      "subtitle": "OCN; Walmart en Tabasco; compras en el extranjero; Vilore Foods y Tía Lupita; motos de India; Marea Group; Fagor Ederlan; entregas por robots, aranceles, proteína",
+      "text": "Comentario Whitepaper: tras anunciar hace unos meses los $6,000 millones de dólares que invertirán en México en 2025, ahora Walmart ha venido anunciando inversiones por estado; en mayo fue Yucatán con $1,900 millones de pesos y en marzo Tamaulipas con $2,500 millones de pesos.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-21",
+      "post_date": "2025-07-21T12:24:02.682Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-8a4",
+      "subtitle": "O’Reilly Autopartes; Sofipos; Amports; fondos de inversión; Conoce a: Miranda Cervantes; Oatey; Aritzia; Mundial 2026; Tote Taxi; outlets",
+      "text": "Comentario Whitepaper: la empresa tiene presencia en los puertos de Altamira y Lázaro Cárdenas, así como una terminal en Querétaro. Están en el país desde 1997.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-16",
+      "post_date": "2025-07-16T12:24:09.684Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-3a6",
+      "subtitle": "Kiosko; inversión de España en México; Kuo; multas a bancos; New Era; Cemex; Joby Aviation; Tetra Pak; Target; Spotlight en: Plunge",
+      "text": "Comentario Whitepaper: la Embotelladora de Colima se fundó en 1955 y es una de las ocho del país —las más grandes son Arca Continental y Coca-Cola Femsa. Las tiendas Kiosko funcionan como un canal para colocar lo que embotellan, similar a cómo empezó Oxxo con las bebidas de Cervecería Cuauhtémoc, o lo que hoy hacen Grupo Modelo y Heineken con Modelorama y Six.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-07-11",
+      "post_date": "2025-07-11T12:24:37.028Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-bb9",
+      "subtitle": "Pinfra; Franke; Vista Energy; AI en Latinoamérica; telepeaje; contenedores de China; fibra óptica; Varda; Converse; subastas; Also Inc.; retailers en EUA",
+      "text": "Pinfra finalizó la venta por $800 millones de dólares de la terminal que operaba en el Puerto de Altamira a TiL Group, una empresa de Luxemburgo. Con esto, estarían saliendo del negocio portuario (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-11",
+      "post_date": "2025-07-11T12:24:37.028Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-bb9",
+      "subtitle": "Pinfra; Franke; Vista Energy; AI en Latinoamérica; telepeaje; contenedores de China; fibra óptica; Varda; Converse; subastas; Also Inc.; retailers en EUA",
+      "text": "Comentario Whitepaper: en 2024, Pinfra vendió $18,603 millones de pesos con un margen neto superior a 55%. Más de $13,500 millones provinieron de autopistas concesionadas, $3,300 millones de su negocio de construcción y $1,500 millones de la terminal en Altamira. Su director general es David Peñalosa.",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-09",
+      "post_date": "2025-07-09T12:17:37.935Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-a29",
+      "subtitle": "Autobuses premium; exportaciones de vehículos; Bridgefy; aranceles a los tomates; parques industriales; productos que van y vienen de Nueva Zelanda; Youth Sports; matcha; spotlight en Figma",
+      "text": "Inteva Products, una empresa de EUA que fabrica sistemas para la industria automotriz, invertirá $150 millones de pesos para expandir su planta en Tamaulipas, donde opera desde hace 17 años. También cuenta con centros técnicos en Querétaro y Juárez, y una planta en Guanajuato en la que invirtieron $38.5 millones de dólares en 2017 (Redacción Whitepaper).",
+      "matched_by": "state"
+    },
+    {
+      "date": "2025-07-08",
+      "post_date": "2025-07-08T12:24:15.973Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-1be",
+      "subtitle": "Aura Minerals en Zacatecas; aranceles y fábricas en MTY; footprint de Femsa; Tulum Energy y Ternium; centros de envío de Amazon; Arca en Chihuahua; Unilever y sus influencers; Macan eléctrica",
+      "text": "Arca Continental invirtió $50 millones de pesos para ampliar su centro de distribución en Chihuahua (El Norte).",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-06-12",
+      "post_date": "2025-06-12T12:21:36.878Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-135",
+      "subtitle": "Inversiones (incluyendo Heineken); Grupo México Transportes; Dunkin en NL; Royal Caribbean; Bimbo; empresarios con podcasts; consumo de hispanos; clubes de golf; pollo; cigarros en series y películas",
+      "text": "Esta semana platicamos sobre Arca Continental y sus maquinitas, de la obsesión por los viajes de lujo, de la caída en el precio de las acciones de marcas que le interesan a esta audiencia y también de las juntas one on one. En el deep dive, una actualización al nearshoring.",
+      "matched_by": "family"
+    },
+    {
+      "date": "2025-06-09",
+      "post_date": "2025-06-09T12:23:06.685Z",
+      "url": "https://www.whitepaper.mx/p/whitepaper-hoy-278",
+      "subtitle": "Arca y sus vending machines; el rediseño de Coppel; Grupo Nós; Monkey Papas; Conoce a Paulina Ponce de León; movimientos clave; luxury travel; UnitedHealth en LATAM; la casa de Mountainhead",
+      "text": "Arca Continental estaría adquiriendo a Imperial, una empresa de vending machines basada en Oklahoma (Redacción Whitepaper).",
+      "matched_by": "family"
+    }
+  ]
+}

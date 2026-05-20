@@ -36,7 +36,7 @@ DOCS = Path("./docs")
 # ========================================================================
 # TAXONOMÍA — Estados zona + ciudades
 # ========================================================================
-ZONA_ESTADOS = ["Puebla", "Quintana Roo", "Veracruz", "Yucatán", "Hidalgo",
+ZONA_ESTADOS = ["Puebla", "Quintana Roo", "Veracruz", "Tamaulipas", "Yucatán", "Hidalgo",
                 "Campeche", "Tabasco", "Guerrero", "Chiapas", "Oaxaca"]
 
 # Patrones por estado: nombre + ciudades clave
@@ -47,6 +47,9 @@ ESTADOS_PATTERNS = {
     "Veracruz":     [r"\bVeracruz\b", r"\bXalapa\b", r"\bCoatzacoalcos\b", r"\bTuxpan\b",
                      r"\bMinatitlán\b", r"\bCórdoba(?!\s+de\s+)\b", r"\bOrizaba\b",
                      r"\bPoza Rica\b", r"\bCoatepec\b", r"\bPapantla\b"],
+    "Tamaulipas":   [r"\bTamaulipas\b", r"\bTampico\b", r"\bReynosa\b", r"\bMatamoros\b",
+                     r"\bNuevo Laredo\b", r"\bAltamira\b", r"\bCiudad Victoria\b",
+                     r"\bCiudad Madero\b", r"\bMadero\b"],
     "Yucatán":      [r"\bYucatán\b", r"\bMérida\b", r"\bValladolid\b", r"\bProgreso\b"],
     "Hidalgo":      [r"\bHidalgo\b", r"\bPachuca\b", r"\bTula\b", r"\bTulancingo\b"],
     "Campeche":     [r"\bCampeche\b", r"\bCalkiní\b", r"\bChampotón\b", r"\bHopelchén\b",
@@ -64,6 +67,7 @@ CRM_DATA = {
     "Puebla":       {"aaa_aa": 69, "dm": 148, "industries": "Automotriz · alimentos · retail"},
     "Quintana Roo": {"aaa_aa": 56, "dm": 124, "industries": "Turismo · hospitalidad"},
     "Veracruz":     {"aaa_aa": 46, "dm": 98,  "industries": "Puerto · petroquímica · agroindustria"},
+    "Tamaulipas":   {"aaa_aa": 41, "dm": 96,  "industries": "Frontera Nuevo Laredo · puerto Altamira · maquila · agroindustria"},
     "Yucatán":      {"aaa_aa": 34, "dm": 89,  "industries": "Bebidas (Bepensa) · retail · turismo"},
     "Hidalgo":      {"aaa_aa": 14, "dm": 34,  "industries": "Calzado · automotriz · retail"},
     "Campeche":     {"aaa_aa": 10, "dm": 19,  "industries": "Apícola · pesquero · alimentos"},
@@ -85,6 +89,15 @@ PPT_FAMILIAS = {
         ("GOMSA",            ["GOMSA", "Gómez Malpica"]),
         ("GRUVER",           ["GRUVER", "Ramón Gomez Gomez"]),
         ("Unión Veracruzana", ["Unión Veracruzana", "Exsome"]),
+    ],
+    "Tamaulipas": [
+        ("Grossman (Arca Continental · USD 2.2B Forbes)", ["Grossman", "Arca Continental"]),
+        ("González Díaz Lombardo (Tequila Chinaco · DO Tamaulipas)", ["González Díaz Lombardo", "Tequila Chinaco"]),
+        ("Fleishman (Grupo Tampico · post-fusión KOF 2011)", ["Fleishman", "Grupo Tampico"]),
+        ("Familia Osuna (Ciudad Victoria · Transpaís + Inbox + Car One)", ["Osuna", "Transpaís", "Car One"]),
+        ("Cluster aduanal Nuevo Laredo (Pumarejo / Maron)", ["Pumarejo", "Maron", "Garza Quintero", "Lopezadri"]),
+        ("Familia Vela (raíz Tampico · opera Quintana Roo)", ["familia Vela", "Vela Tampico"]),
+        ("Estrada Ávalos", ["Estrada Ávalos"]),
     ],
     "Yucatán": [
         ("Bepensa (Ponce Díaz)", ["Bepensa", "Ponce Díaz", "Pepsi Bepensa"]),

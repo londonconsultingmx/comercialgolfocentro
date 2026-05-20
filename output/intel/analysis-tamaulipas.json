@@ -1,0 +1,226 @@
+{
+  "state": "Tamaulipas",
+  "pulso": "Tamaulipas se confirma como el estado mejor cubierto de la zona Sur-Centro-Golfo con 45 extractos. El pulso comercial está claramente bifurcado: por un lado, una corriente potente de inversiones industriales y logísticas en el corredor Altamira-Tampico-Reynosa-Nuevo Laredo (Liberty Bay evaluando USD 1,000M en terminal de GNL en Altamira; Pinfra saliendo del Puerto de Altamira con venta de USD 800M a TiL Group; Cooperativa Pascual con $600M de pesos en nueva planta Boing; MIP comprando parques eolicos de Acciona en Reynosa por USD 1,000M; Walmart con $2,500M de pesos comprometidos para el estado; Inteva, Suprajit, Grupo Industrial Aguila y Mexico Carbon Manufacturing ampliando huella industrial). Por otro lado, banderas amarillas en la franja fronteriza maquiladora: Brunswick cierra Reynosa y Fibra MTY reporta que Reynosa quedo por debajo del trimestre, lo que confirma que el ciclo nearshoring se esta racionalizando hacia plantas mas eficientes y mas al sur.",
+  "themes": [
+    {
+      "titulo": "Altamira como hub petroquímico-energético en consolidación",
+      "explicacion": "Altamira concentra capital de gran escala: Liberty Bay (EUA) evalua invertir USD 1,000M en una terminal de GNL (compitiendo contra una alternativa en Argentina); Pinfra vendió la terminal portuaria a TiL Group por USD 800M saliendo del negocio portuario; Altamira I sigue siendo el unico proyecto GNL en operacion en Mexico (1.4 MTPA, USD 1,000M). El puerto se esta repartiendo entre operadores globales y la inversion fija crece, lo que detona cadena de proveedores petroquimicos, logisticos y de mantenimiento industrial.",
+      "sectores": ["Energía / Petroquímica", "Logística / Transporte", "Manufactura / Nearshoring"],
+      "evidence_dates": ["2026-05-12", "2026-02-10", "2025-07-11"],
+      "implicacion_lcg": "Oportunidad de consultoría operacional en cadena de proveeduría petroquímica-logística regional; due diligence operativo y commercial post-venta de terminales; profesionalización de medianas que sirven al complejo Pemex-Indorama-Braskem."
+    },
+    {
+      "titulo": "Maquila fronteriza: racionalización y selectividad, no colapso",
+      "explicacion": "Senales mixtas en Reynosa-Matamoros: Brunswick cierra su planta de barcos en Reynosa y mueve produccion a Tennessee/Florida; Fibra MTY confirma que Reynosa, Tijuana y Juarez quedaron por debajo del trimestre. Pero al mismo tiempo siguen llegando capitales: Inteva invierte $150M de pesos para ampliar planta (17 anos de operacion), Suprajit (India) invierte $50M de pesos en Matamoros, Steelcase mantiene Reynosa, y se siguen reforzando centros logisticos (+17,000 secciones de racks en Reynosa). El mensaje: las maquilas tradicionales de menor valor agregado se contraen, pero las que tienen relacion cliente-OEM consolidada se expanden.",
+      "sectores": ["Manufactura / Nearshoring", "Automotriz", "Real Estate / Construcción"],
+      "evidence_dates": ["2025-09-18", "2025-10-27", "2025-07-09", "2025-12-22", "2026-04-21"],
+      "implicacion_lcg": "Ventana para acompañar a maquilas medianas que necesitan eficiencia operativa, mejora de margen, integración vertical o búsqueda de comprador estratégico (M&A advisory). Cuidado con presencialidad en Reynosa-Matamoros (red flag de seguridad)."
+    },
+    {
+      "titulo": "Arca Continental en modo récord — capex masivo y vending como apuesta",
+      "explicacion": "Arca cumple 100 anos en 2026 y reporta numeros estelares: ingresos $247,926M de pesos en 2025, EBITDA por arriba de $50,000M (primera vez), capex 2026 de $18,500M de pesos (record, 7.5% de ventas), mas de la mitad para Mexico. Estrategia: pozos profundos para Topo Chico, expansion vending (38,000 de 72,000 puntos en EUA, adquisicion de Imperial en Oklahoma, lider en Mexico y Peru), centro de distribucion en Chihuahua. Coca-Cola Zero crece CAGR 15.8% en Mexico. Es accionista clave de PetStar. La sede de operacion principal sigue siendo Monterrey y Coca-Cola Southwest opera desde Dallas.",
+      "sectores": ["Alimentos y Bebidas", "Retail / Comercio", "Logística / Transporte"],
+      "evidence_dates": ["2026-04-24", "2026-04-23", "2026-03-25", "2026-02-13", "2025-10-24", "2025-08-27", "2025-07-08", "2025-06-09"],
+      "implicacion_lcg": "Cliente AAA inalcanzable por operación corporativa (estructura ya profesional con CFO Ulises Fernandez de Lara). Ruta correcta: capa familiar/patrimonial vía Cynthia Grossman (consejera desde 2011) y Bruce Grossman. Proyecto patrimonial/filantrópico/gobierno familiar > consultoría operacional."
+    },
+    {
+      "titulo": "Retail y consumo escalando en el estado",
+      "explicacion": "Walmart compromete $2,500M de pesos para Tamaulipas en 2025 (anunciado en marzo, parte de los USD 6,000M nacional). The Home Depot abre dos tiendas mas en el estado (suman 6 en Tamaulipas) con $850M de pesos invertidos, rumbo a 165 tiendas en Mexico para 2030. Fibra Shop trae nuevo proyecto en Nuevo Laredo. IHG anuncia hotel voco en Nuevo Laredo para 2027. TGI Fridays mantiene presencia en Tampico via Mid-City Operadora. La densidad de inversion retail confirma que las plazas urbanas (Tampico, Victoria, Nuevo Laredo, Reynosa Norte) tienen demanda solvente.",
+      "sectores": ["Retail / Comercio", "Real Estate / Construcción"],
+      "evidence_dates": ["2025-07-22", "2025-11-18", "2025-12-05", "2026-03-03", "2025-11-03", "2025-09-10"],
+      "implicacion_lcg": "Oportunidad para acompañar a operadores de plazas comerciales, desarrolladores regionales y franquiciatarios premium en su expansión y profesionalización."
+    },
+    {
+      "titulo": "Agroindustria-bebidas con vocacion exportadora",
+      "explicacion": "Cooperativa Pascual (Boing) invierte $600M de pesos en su tercera planta (en Tamaulipas) con ubicacion estrategica cerca de EUA. Esencia, Sigma Foods y otras alimenticias de bandera mexicana se siguen perfilando. Tamaulipas mantiene su DO de tequila via Chinaco (Gonzalez Diaz Lombardo) — unica en el estado. La combinacion frontera + agroindustria + sector alimentos = uno de los pocos cluster con barrera a la entrada que sigue creciendo.",
+      "sectores": ["Alimentos y Bebidas", "Agroindustria"],
+      "evidence_dates": ["2025-08-19", "2026-04-24", "2025-09-30"],
+      "implicacion_lcg": "Vector ideal para entrar al estado vía agroindustriales medianos (no Arca): operación, exportación, certificaciones, sucesión. Chinaco/Aloe Jaumave requieren intermediario."
+    }
+  ],
+  "actores_clave": [
+    {
+      "nombre": "Arca Continental (Familia Grossman)",
+      "en_crm": true,
+      "movimiento": "Capex récord de $18,500M de pesos en 2026, EBITDA superó $50,000M por primera vez, adquisición de Imperial (vending Oklahoma), 100 años en 2026.",
+      "que_revela": "Empresa en su mejor momento financiero y operativo; estructura corporativa hiperprofesional liderada por CFO Ulises Fernández de Lara. El gap de LCG no está en operación sino en capa familiar-patrimonial.",
+      "approach_sugerido": "Acceso DIRECTO a Cynthia Grossman (consejera desde 2011) y Bruce Grossman vía CCM Monterrey y red regiomontana. Pretexto del centenario: proyecto patrimonial, gobierno familiar de tercera generación, vehículo filantrópico o family office. NO ofrecer consultoría operativa a Arca."
+    },
+    {
+      "nombre": "Familia Osuna — Grupo Transpaís / Inbox / Car One / Petrosu",
+      "en_crm": true,
+      "movimiento": "Cita reciente ya realizada con Abelardo Osuna Morales (3a gen). Mencion del apellido Osuna en extractos (aunque la del 11-mar es a Eduardo Osuna de BBVA, no de esta familia).",
+      "que_revela": "Conglomerado familiar diversificado en Ciudad Victoria con divisiones de transporte (Transpaís), logística última milla (Inbox UPS), automotriz (Car One privada), energía (Petrosu). Modelo clásico para profesionalización inter-divisional.",
+      "approach_sugerido": "Seguimiento inmediato post-cita: profundizar en divisiones no-públicas. Pretexto: benchmark de holding familiar diversificado, integración financiera entre divisiones, plan de sucesión 3a-4a generación. Reunión presencial en Tampico o Victoria (NO Reynosa)."
+    },
+    {
+      "nombre": "Cooperativa Pascual (Boing)",
+      "en_crm": false,
+      "movimiento": "Inversión de $600M de pesos en nueva planta en Tamaulipas (la 3a de la cooperativa), ubicación estratégica cerca de EUA.",
+      "que_revela": "Cooperativa con apetito exportador y necesidad de eficiencia operacional para competir contra refresqueras tradicionales. Estructura cooperativa es operativamente compleja.",
+      "approach_sugerido": "Acercamiento vía gremio CANACINTRA/COPARMEX Tampico. Pretexto: ramp-up de planta nueva — eficiencia operativa, planeación de producción, integración cadena de suministro con corredor de exportación a EUA."
+    },
+    {
+      "nombre": "Grupo Industrial Águila",
+      "en_crm": false,
+      "movimiento": "Inversión de USD 6.5M en planta para transformar residuos plásticos en combustible. Holding mexicana de 30+ años con construcción industrial, renta de maquinaria y fabricación de estructuras metálicas.",
+      "que_revela": "Empresa familiar mexicana con diversificación clásica de holding industrial y entrando a economía circular. Perfil ideal de target LCG (mediana-grande, multi-división, mexicana, en transición).",
+      "approach_sugerido": "Búsqueda directa a fundadores/dueños. Pretexto: due diligence operativo del nuevo proyecto de combustible, profesionalización de holding, gobierno corporativo entre divisiones."
+    },
+    {
+      "nombre": "Liberty Bay (terminal GNL Altamira)",
+      "en_crm": false,
+      "movimiento": "Evaluando inversión de USD 1,000M para terminal de gas natural licuado en zona Altamira (decisión pendiente; alternativa: Argentina).",
+      "que_revela": "Decisión activa de localización USD 1B; aún no se compromete. Si elige Tamaulipas, detona ola de proveeduría petroquímica-logística regional.",
+      "approach_sugerido": "Monitorear decisión. Si aterriza Altamira: posicionar a LCG con proveedores locales y operadores del puerto vía Pumarejo/Maron o gremio Tampico."
+    },
+    {
+      "nombre": "Pinfra (post-venta Altamira)",
+      "en_crm": false,
+      "movimiento": "Vendió terminal Altamira a TiL Group por USD 800M; sale del negocio portuario. Margen neto Pinfra 2024 fue 55%+; ventas $18,603M de pesos. CEO: David Peñalosa.",
+      "que_revela": "Reorganización post-desinversión y entrada de operador luxemburgués (TiL Group) al puerto. Tanto Pinfra (recolocación de capital) como TiL Group (entrada a México) son momentos de cambio.",
+      "approach_sugerido": "Vía red regiomontana o asesoría M&A. Pretexto para Pinfra: estrategia post-desinversión, reinversión de capital. Para TiL Group: setup operativo en México, profesionalización local."
+    },
+    {
+      "nombre": "Inteva Products",
+      "en_crm": false,
+      "movimiento": "Inversión de $150M de pesos para expandir planta en Tamaulipas (17 años de operación); centros técnicos en Querétaro y Juárez, planta en Guanajuato.",
+      "que_revela": "Auto-partista de EUA con presencia consolidada y ampliación activa. Cliente de OEMs grandes (típico Tier 1-2).",
+      "approach_sugerido": "Approach formal vía Whitepaper-mention. Pretexto: optimización operativa multi-planta México, integración con headquarters EUA, eficiencia de capex."
+    },
+    {
+      "nombre": "Grupo Suprajit (India)",
+      "en_crm": false,
+      "movimiento": "Inversión de $50M de pesos para expandir fábrica en Matamoros (cables automotrices); también planta en Juárez.",
+      "que_revela": "Multinacional india con foothold en frontera y apetito de expansión. Estructura matriz-subsidiaria india puede necesitar puente cultural-operativo en México.",
+      "approach_sugerido": "Approach remoto (NO presencial Matamoros). Pretexto: profesionalización de subsidiaria mexicana, gobierno operativo con India, gestión de talento local."
+    },
+    {
+      "nombre": "Familia Fleishman (Grupo Tampico, post-fusión KOF 2011)",
+      "en_crm": true,
+      "movimiento": "Sin mención directa en extractos del periodo, pero referencias indirectas a Coca-Cola FEMSA (KOF) frecuentes.",
+      "que_revela": "Herman y Robert Fleishman siguen como consejeros KOF post-fusión. Las 6 divisiones operativas no-KOF del Grupo Tampico siguen siendo familiares.",
+      "approach_sugerido": "Vía CANACINTRA-COPARMEX Tampico, alumni ITESM Tampico-Monterrey. Pretexto: profesionalización de divisiones operativas post-fusión KOF, gobierno familiar 3a-4a gen."
+    },
+    {
+      "nombre": "Cooperativa Embotelladora de Colima (referencia al ecosistema)",
+      "en_crm": false,
+      "movimiento": "Mencionada en extracto como una de las 8 embotelladoras del país (junto a Arca y KOF). Opera Kiosko.",
+      "que_revela": "El ecosistema embotellador mexicano sigue siendo familiar y consolidable. Si LCG quiere entrar a la cadena Arca, hay laterales por embotelladoras medianas."
+    },
+    {
+      "nombre": "Mid-City Operadora (TGI Fridays)",
+      "en_crm": false,
+      "movimiento": "Master franchise agreement para 50 sucursales TGI Fridays en México; ya operan en Cancún, Mérida, Tampico y Tijuana. Director: Álvaro Traconis.",
+      "que_revela": "Operador de franquicias con presencia en Tampico y plan de expansion agresivo a 50 unidades. Requiere capacidad operativa y financiera escalable.",
+      "approach_sugerido": "Pretexto: ramp-up de 50 unidades en 5+ años — modelo financiero, supply chain F&B, gobierno operativo multi-ciudad."
+    },
+    {
+      "nombre": "David Peñalosa (Pinfra)",
+      "en_crm": false,
+      "movimiento": "Director general de Pinfra tras la venta de Altamira por USD 800M.",
+      "que_revela": "Decisor estratégico de reinversión de USD 800M y dirección post-venta.",
+      "approach_sugerido": "Acceso vía red regiomontana o boutique M&A. No prospect directo del estado de Tamaulipas, pero relevante para movimiento de capital regional."
+    }
+  ],
+  "oportunidades_lcg": [
+    {
+      "titulo": "Familia Grossman — proyecto patrimonial centenario Arca",
+      "tipo": "Sucesión / Gobierno familiar / Family office",
+      "que_dice_el_extracto": "Arca cumple 100 años en 2026, supera $50,000M en EBITDA por primera vez, capex récord de $18,500M de pesos; el cluster Whitepaper menciona a Arca 15 veces. Cynthia Grossman es consejera desde 2011; Bruce Grossman activo en consejo.",
+      "como_acercarse": "CCM Monterrey directo + red regiomontana (sede Arca). Mensaje: 100 años merece un proyecto familiar — vehículo patrimonial, gobierno de 3a-4a gen, filantropía estructurada. NO operación Arca.",
+      "pretexto": "Aniversario 100 de Arca Continental 2026 como pretexto único e irrepetible para conversación patrimonial.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Familia Osuna — seguimiento post-cita y profundización en divisiones",
+      "tipo": "Profesionalización / Gobierno corporativo holding",
+      "que_dice_el_extracto": "Mención en extracto 2026-03-11 (aunque referencia indirecta). La cita reciente con Abelardo Osuna Morales (3a gen) ya esta hecha. Conglomerado con Transpaís, Inbox UPS, Car One privada, Petrosu Energy.",
+      "como_acercarse": "Seguimiento directo Abelardo Osuna. Reunion presencial en Tampico o Ciudad Victoria. Pretexto: benchmark holdings familiares mexicanos diversificados, integración financiera-operativa entre divisiones.",
+      "pretexto": "Continuidad de la cita previa + entrega de benchmark de holdings familiares diversificados Mex.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Cooperativa Pascual (Boing) — ramp-up planta Tamaulipas",
+      "tipo": "Consultoría operacional / Supply chain",
+      "que_dice_el_extracto": "Cooperativa Pascual invierte $600M de pesos en su 3a planta en Tamaulipas, ubicación estratégica cercana a EUA (2025-08-19).",
+      "como_acercarse": "Vía CANACINTRA/COPARMEX Tampico y gremio empresarial. La estructura cooperativa demanda eficiencia operativa especial.",
+      "pretexto": "Inversión de $600M en planta nueva → diseño operativo y supply chain óptimo desde día 1.",
+      "urgencia": "alta"
+    },
+    {
+      "titulo": "Cluster post-Pinfra Altamira / TiL Group entrada México",
+      "tipo": "M&A advisory / Setup operativo",
+      "que_dice_el_extracto": "Pinfra vendió terminal Altamira a TiL Group por USD 800M (2025-07-11). TiL Group es de Luxemburgo y entra a operar el puerto.",
+      "como_acercarse": "Para TiL: acceso vía boutique M&A o despacho legal Mex que asesoró transacción. Para Pinfra: red regiomontana, vía David Peñalosa o consejo.",
+      "pretexto": "Setup operativo TiL México post-cierre o reinversión Pinfra post-venta.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Grupo Industrial Águila — profesionalización holding mexicano",
+      "tipo": "Profesionalización / Gobierno corporativo / Estrategia",
+      "que_dice_el_extracto": "Holding mexicana 30+ años con construcción industrial, renta maquinaria, estructuras metálicas; ahora invierte USD 6.5M en proyecto residuos plásticos a combustible (2025-09-30).",
+      "como_acercarse": "Identificar familia dueña vía CANACINTRA. Approach inicial sobre nuevo proyecto de economía circular.",
+      "pretexto": "Diversificación a economía circular como momento de revisión del gobierno corporativo del holding.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Familia Fleishman — 6 divisiones no-KOF del Grupo Tampico",
+      "tipo": "Profesionalización / Sucesión",
+      "que_dice_el_extracto": "No hay mención directa en extractos pero la familia es PPT (Herman y Robert Fleishman consejeros KOF post-fusión 2011). Hay 6 divisiones operativas no-KOF.",
+      "como_acercarse": "Gremio Tampico (CANACINTRA, COPARMEX), alumni ITESM Tampico-Monterrey.",
+      "pretexto": "15 años post-fusión KOF como hito para revisar las divisiones operativas no-KOF y plan de sucesión familiar.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Maquila auto-partista mediana — Inteva, Suprajit y similares",
+      "tipo": "Consultoría operacional / Eficiencia / Integración matriz-subsidiaria",
+      "que_dice_el_extracto": "Inteva $150M de pesos amplía planta Tamaulipas; Suprajit $50M en Matamoros; Steelcase opera Reynosa+Tijuana con Arturo Castro como CEO Mex.",
+      "como_acercarse": "Approach remoto (no presencial Reynosa-Matamoros). Carta-pretexto sobre extracto Whitepaper.",
+      "pretexto": "Ampliación de planta como momento natural para revisar eficiencia operativa multi-planta y gobierno matriz-subsidiaria.",
+      "urgencia": "media"
+    },
+    {
+      "titulo": "Exclientes activables — ARTELI-Chedraui (Elizondo) y Sumimsa (Tamayo)",
+      "tipo": "Re-engagement excliente",
+      "que_dice_el_extracto": "No hay mención directa en extractos del periodo, pero el PPT los marca como activables.",
+      "como_acercarse": "Re-engagement directo a Arturo Elizondo (ARTELI-Chedraui) y Gerardo Tamayo (Sumimsa) con avance del mercado Tamaulipas en mano.",
+      "pretexto": "Briefing-cortesia con findings del estado y re-conexión personal.",
+      "urgencia": "alta"
+    }
+  ],
+  "alertas": [
+    {
+      "titulo": "EXCLUIDA: Familia Canturosas (Nuevo Laredo)",
+      "descripcion": "Carmen Lilia Canturosas (alcaldesa) y Óscar Mario Hinojosa Ramírez (ex-Policía Ministerial Yarrington, investigaciones Cártel del Golfo). NO prospectar bajo ninguna circunstancia. Riesgo reputacional y legal para LCG."
+    },
+    {
+      "titulo": "EXCLUIDA: Grupo Sáenz Garza (azucarero)",
+      "descripcion": "Debacle 2020 con deuda de $1,600M de pesos a productores. NO prospectar."
+    },
+    {
+      "titulo": "Seguridad Reynosa-Matamoros — sin presencialidad",
+      "descripcion": "Cualquier interacción con maquiladoras y empresas en Reynosa o Matamoros (Suprajit, Brunswick, Steelcase Reynosa, Inteva si planta es fronteriza) DEBE ser videoconferencia o reunión en Monterrey/Tampico. Sin viajes presenciales a ciudades fronterizas."
+    },
+    {
+      "titulo": "Cluster aduanal Nuevo Laredo — cerrado sin intermediario",
+      "descripcion": "Las 80-120 patentes (Garza Quintero/ALFA, Lopezadri) son un círculo extremadamente cerrado. NUNCA acercarse directo; vía única es intermediario Pumarejo o Maron, o AAANL (Asociación Agentes Aduanales Nuevo Laredo). Riesgo de quemar la plaza por approach prematuro."
+    },
+    {
+      "titulo": "Confusión Osuna — diferenciar familias",
+      "descripcion": "La mención de 2026-03-11 a 'Eduardo Osuna' es del director de BBVA México (NO familia Osuna de Ciudad Victoria/Transpaís). Cuidado en internal briefings para no confundir las dos referencias y crear falso match en CRM."
+    }
+  ],
+  "gaps": [
+    "Cero menciones directas de Tequila Chinaco / González Díaz Lombardo en los 45 extractos — pese a ser la única DO Tamaulipas. Falta inteligencia sobre estado de la familia y empresa; requiere intermediario o intel de campo.",
+    "Cero menciones de cluster aduanal Nuevo Laredo (Garza Quintero, Lopezadri, ALFA, Pumarejo, Maron) — confirma que es prensa-opaco; depender de Pumarejo/Maron como intermediario humano.",
+    "Cero menciones directas de Familia Vela (raíz Tampico, opera QRoo) — confirmar inter-doc con QRoo qué se sabe en aquel ámbito.",
+    "Cero menciones directas de Familia Fleishman / Grupo Tampico operacional fuera del paraguas KOF — gap importante; las 6 divisiones operativas son opacas en prensa.",
+    "Sin información reciente sobre Aloe Jaumave y otros agroindustriales premium del estado más allá de la mención general de DO Chinaco.",
+    "Sin menciones de movimientos de M&A interno tamaulipeco — la única M&A registrada es Imperial (Oklahoma) por Arca, no transacción intra-estado."
+  ],
+  "calidad_intel": {
+    "n_excerpts": 45,
+    "evaluacion": "rica — mejor cobertura de la zona Sur-Centro-Golfo. Sobre-representación clara del cluster Arca (15 menciones de 45, 33%) y de inversiones de capex industrial. Lagunas críticas en tequila/agroindustria premium, cluster aduanal y divisiones operacionales no-KOF de Fleishman."
+  }
+}
