@@ -41,12 +41,9 @@ EXTRA_CSS = r"""
 .pulso p { font-family: 'Fraunces', serif; font-weight: 300; font-style: italic; font-size: 22px; line-height: 1.5; color: var(--lcg-ink); margin: 0 0 18px 0; }
 .pulso p:last-child { margin-bottom: 0; }
 
-/* ====== Quality banner ====== */
-.qbanner { padding: 16px 24px; margin: 24px 0; border-radius: 2px; font-size: 13px; line-height: 1.5; }
-.qbanner.rica { background: rgba(3,181,133,0.08); border: 1px solid var(--lcg-green); color: var(--lcg-dark); }
-.qbanner.media { background: rgba(8,94,84,0.06); border: 1px solid var(--lcg-line); color: var(--lcg-ink); }
-.qbanner.limitada { background: rgba(255,200,0,0.08); border: 1px solid #C9A800; color: #6B5C00; }
-.qbanner strong { font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 11px; }
+/* ====== Lectura comercial / exec banner ====== */
+.qbanner { padding: 24px 32px; margin: 24px 0 32px 0; border-radius: 2px; font-size: 16px; line-height: 1.65; color: var(--lcg-ink); background: rgba(3,181,133,0.06); border: 1px solid var(--lcg-green); }
+.qbanner strong { display: block; font-family: 'Manrope', sans-serif; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; font-size: 11px; color: var(--lcg-green); margin-bottom: 12px; }
 
 /* ====== Theme cards ====== */
 .themes { display: grid; grid-template-columns: 1fr; gap: 0; margin: 24px 0 48px 0; }
@@ -120,11 +117,16 @@ def render_pulso(pulso_text: str) -> str:
     return f'<div class="pulso">{pp}</div>'
 
 
-def render_quality_banner(q: dict) -> str:
-    eval_text = q.get("evaluacion", "media")
-    klass = "rica" if eval_text.lower().startswith("ric") else ("limitada" if eval_text.lower().startswith("lim") else "media")
-    n = q.get("n_excerpts", 0)
-    return f'<div class="qbanner {klass}"><strong>Calidad del intel:</strong> {html.escape(eval_text)} · basado en {n} extractos.</div>'
+def render_exec_banner(slug: str) -> str:
+    """Lee el resumen ejecutivo de oportunidades comerciales (lenguaje de negocio,
+    generado por agente leyendo el análisis profundo) y lo renderiza como banner verde."""
+    exec_path = INTEL_DIR / f"exec-{slug}.txt"
+    if not exec_path.exists():
+        return ""
+    text = exec_path.read_text(encoding="utf-8").strip()
+    if not text:
+        return ""
+    return f'<div class="qbanner rica"><strong>Lectura comercial</strong>{html.escape(text)}</div>'
 
 
 def render_themes(themes: list[dict]) -> str:
@@ -248,7 +250,7 @@ def render_state_page(state: str, data: dict, analysis: dict) -> str:
     <h1 class="hero">{html.escape(state)}.</h1>
     <p class="meta">{html.escape(crm.get("industries", ""))}</p>
 
-    {render_quality_banner(analysis.get("calidad_intel", {}))}
+    {render_exec_banner(slug)}
 
     <div class="state-toc">
         <a href="#pulso">Pulso</a>

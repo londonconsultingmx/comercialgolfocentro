@@ -114,12 +114,9 @@ em { font-style: italic; color: var(--lcg-green); }
 .pulso p { font-family: 'Fraunces', serif; font-weight: 300; font-style: italic; font-size: 22px; line-height: 1.5; color: var(--lcg-ink); margin: 0 0 18px 0; }
 .pulso p:last-child { margin-bottom: 0; }
 
-/* ====== Quality banner ====== */
-.qbanner { padding: 16px 24px; margin: 24px 0; border-radius: 2px; font-size: 13px; line-height: 1.5; }
-.qbanner.rica { background: rgba(3,181,133,0.08); border: 1px solid var(--lcg-green); color: var(--lcg-dark); }
-.qbanner.media { background: rgba(8,94,84,0.06); border: 1px solid var(--lcg-line); color: var(--lcg-ink); }
-.qbanner.limitada { background: rgba(255,200,0,0.08); border: 1px solid #C9A800; color: #6B5C00; }
-.qbanner strong { font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 11px; }
+/* ====== Lectura comercial / exec banner ====== */
+.qbanner { padding: 24px 32px; margin: 24px 0 32px 0; border-radius: 2px; font-size: 16px; line-height: 1.65; color: var(--lcg-ink); background: rgba(3,181,133,0.06); border: 1px solid var(--lcg-green); }
+.qbanner strong { display: block; font-family: 'Manrope', sans-serif; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; font-size: 11px; color: var(--lcg-green); margin-bottom: 12px; }
 
 /* ====== Theme cards ====== */
 .themes { display: grid; grid-template-columns: 1fr; gap: 0; margin: 24px 0 48px 0; }
