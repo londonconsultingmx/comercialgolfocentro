@@ -498,10 +498,7 @@ def chrome_header(active: str = "") -> str:
     return f"""<header class="chrome">
     <a href="index.html" class="brand">
         <img src="assets/lcg-mark.svg" alt="LCG" class="mark">
-        <div class="brand-text">
-            <span class="brand-name">LCG</span>
-            <span class="brand-tag">CONSULTING GROUP</span>
-        </div>
+        <span class="brand-name">LCG</span>
     </a>
     <nav class="nav">{nav_html}</nav>
 </header>"""
